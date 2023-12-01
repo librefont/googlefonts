@@ -35,6 +35,12 @@ importers:
         specifier: 1.3.3
         version: 1.3.3
 
+  playground:
+    dependencies:
+      "@librefont/googlefonts":
+        specifier: workspace:*
+        version: link:../packages/googlefonts
+
 packages:
   /@ampproject/remapping@2.2.1:
     resolution:

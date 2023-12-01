@@ -21,7 +21,9 @@ for (const sort of sorts) {
     });
 
     writeFileSync(
-      `./sort_${sort || "default"}_capability_${capability || "default"}.json`,
+      `./webfontList/sort_${sort || "default"}_capability_${
+        capability || "default"
+      }.json`,
       JSON.stringify(webfontList, null, 2),
     );
   }
