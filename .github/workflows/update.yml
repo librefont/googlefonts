@@ -5,6 +5,9 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -28,6 +31,8 @@ jobs:
           GOOGLE_FONTS_KEY: ${{ secrets.GOOGLE_FONTS_KEY }}
         run: |
           node playground/update.mjs
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add .
-          git commit -m "Update webfontList"
+          git commit -m "chore: update webfontList"
           git push
