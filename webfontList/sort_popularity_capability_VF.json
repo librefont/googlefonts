@@ -26427,26 +26427,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtnR1yW.ttf"
   },
   {
-    "family": "Noto Sans Syriac",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "syriac"],
-    "version": "v16",
-    "lastModified": "2023-04-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanssyriac/v16/Ktk2AKuMeZjqPnXgyqribqzQqgW0N4O3WYZB_sU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanssyriac/v16/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5M.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
     "family": "Noto Sans Lisu",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "lisu"],
@@ -26463,6 +26443,26 @@
         "tag": "wght",
         "start": 400,
         "end": 700
+      }
+    ]
+  },
+  {
+    "family": "Noto Sans Syriac",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "syriac"],
+    "version": "v16",
+    "lastModified": "2023-04-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanssyriac/v16/Ktk2AKuMeZjqPnXgyqribqzQqgW0N4O3WYZB_sU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanssyriac/v16/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5M.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
       }
     ]
   },
