@@ -1,0 +1,39 @@
+{
+  "name": "@librefont/googlefonts",
+  "version": "0.0.0",
+  "description": "Library for Google Web Fonts Developer API, powered by librefont.",
+  "private": true,
+  "scripts": {
+    "build": "pnpm -r prepack",
+    "check": "biome check . --apply-unsafe && biome format . --write",
+    "format": "prettier --write --list-different . --ignore-path .gitignore",
+    "postinstall": "githooks install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/librefont/googlefonts.git"
+  },
+  "keywords": [
+    "googleapis",
+    "webfonts"
+  ],
+  "author": {
+    "name": "Libre Font",
+    "email": "official@librefont.com",
+    "url": "https://www.librefont.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/librefont/googlefonts/issues"
+  },
+  "homepage": "https://github.com/librefont/googlefonts#readme",
+  "devDependencies": {
+    "@biomejs/biome": "1.0.0",
+    "@funish/githooks": "edge",
+    "@funish/githooks-config": "edge",
+    "@funish/lint": "edge",
+    "@types/node": "20.6.0",
+    "prettier": "3.0.3",
+    "unbuild": "2.0.0"
+  }
+}

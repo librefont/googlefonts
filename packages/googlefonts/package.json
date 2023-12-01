@@ -1,0 +1,40 @@
+{
+  "name": "@librefont/googlefonts",
+  "version": "0.0.0",
+  "description": "Library for Google Web Fonts Developer API, powered by librefont.",
+  "main": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "scripts": {
+    "prepack": "unbuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/librefont/googlefonts.git"
+  },
+  "keywords": [
+    "googleapis",
+    "webfonts"
+  ],
+  "author": {
+    "name": "Libre Font",
+    "email": "official@librefont.com",
+    "url": "https://www.librefont.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/librefont/googlefonts/issues"
+  },
+  "homepage": "https://github.com/librefont/googlefonts#readme",
+  "dependencies": {
+    "ofetch": "1.3.3"
+  }
+}
