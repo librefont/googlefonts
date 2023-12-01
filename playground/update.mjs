@@ -24,7 +24,7 @@ for (const sort of sorts) {
       `./webfontList/sort_${sort || "default"}_capability_${
         capability || "default"
       }.json`,
-      JSON.stringify(webfontList, null, 2),
+      JSON.stringify(webfontList.items, null, 2),
     );
   }
 }
