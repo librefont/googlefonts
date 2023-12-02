@@ -21021,19 +21021,6 @@
     "menu": "http://fonts.gstatic.com/s/almendrasc/v29/Iure6Yx284eebowr7hbyTaZIrLE.ttf"
   },
   {
-    "family": "Smythe",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v23",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/smythe/v23/MwQ3bhT01--coT1BOLh_uGInjA.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/smythe/v23/MwQ3bhT01--coT1xObJ7.ttf"
-  },
-  {
     "family": "Yaldevi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "sinhala"],
@@ -21052,6 +21039,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Smythe",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v23",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/smythe/v23/MwQ3bhT01--coT1BOLh_uGInjA.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/smythe/v23/MwQ3bhT01--coT1xObJ7.ttf"
   },
   {
     "family": "Gentium Plus",
