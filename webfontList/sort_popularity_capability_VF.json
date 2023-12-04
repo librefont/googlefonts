@@ -17481,15 +17481,15 @@
   {
     "family": "Playpen Sans",
     "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
-    "version": "v3",
-    "lastModified": "2023-10-19",
+    "subsets": ["emoji", "latin", "latin-ext", "math", "vietnamese"],
+    "version": "v6",
+    "lastModified": "2023-12-04",
     "files": {
-      "regular": "http://fonts.gstatic.com/s/playpensans/v3/dg4i_pj1p6gXP0gzAZgm4c8NSygiiyyhRw.ttf"
+      "regular": "http://fonts.gstatic.com/s/playpensans/v6/dg4i_pj1p6gXP0gzAZgm4c8NSygiiyyhRw.ttf"
     },
     "category": "handwriting",
     "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/playpensans/v3/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IvRhinU3EQ.ttf",
+    "menu": "http://fonts.gstatic.com/s/playpensans/v6/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IvRhinU3EQ.ttf",
     "axes": [
       {
         "tag": "wght",
@@ -19814,6 +19814,19 @@
     "menu": "http://fonts.gstatic.com/s/joan/v9/ZXupe1oZsqWRXRZN9Q.ttf"
   },
   {
+    "family": "Waterfall",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v6",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/waterfall/v6/MCoRzAfo293fACdFKcwY2rH8D_EZwA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/waterfall/v6/MCoRzAfo293fACdFKcwo27v4.ttf"
+  },
+  {
     "family": "Birthstone Bounce",
     "variants": ["regular", "500"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -19826,19 +19839,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/birthstonebounce/v11/ga6XaxZF43lIvTWrktHOTBJZGH7dEdVIEoc.ttf"
-  },
-  {
-    "family": "Waterfall",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v6",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/waterfall/v6/MCoRzAfo293fACdFKcwY2rH8D_EZwA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/waterfall/v6/MCoRzAfo293fACdFKcwo27v4.ttf"
   },
   {
     "family": "Comforter",
