@@ -28,3 +28,37 @@ for (const sort of sorts) {
     );
   }
 }
+
+const data = (await googlefonts.getWebfonts()).items;
+
+let variantsList = [];
+
+let subsetsList = [];
+
+let categorysList = [];
+
+for (let i = 0; i < data.length; i++) {
+  const { variants, subsets, category } = data[i];
+
+  for (let j = 0; j < variants.length; j++) {
+    if (!variantsList.includes(variants[j])) {
+      variantsList.push(variants[j]);
+    }
+  }
+
+  for (let j = 0; j < subsets.length; j++) {
+    if (!subsetsList.includes(subsets[j])) {
+      subsetsList.push(subsets[j]);
+    }
+  }
+
+  if (!categorysList.includes(category)) {
+    categorysList.push(category);
+  }
+}
+
+writeFileSync("./webfontList/variants.json", JSON.stringify(variantsList));
+
+writeFileSync("./webfontList/subsets.json", JSON.stringify(subsetsList));
+
+writeFileSync("./webfontList/categorys.json", JSON.stringify(categorysList));
