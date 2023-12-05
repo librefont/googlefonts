@@ -35,7 +35,7 @@ let variantsList = [];
 
 let subsetsList = [];
 
-let categorysList = [];
+let categoriesList = [];
 
 for (let i = 0; i < data.length; i++) {
   const { variants, subsets, category } = data[i];
@@ -52,8 +52,8 @@ for (let i = 0; i < data.length; i++) {
     }
   }
 
-  if (!categorysList.includes(category)) {
-    categorysList.push(category);
+  if (!categoriesList.includes(category)) {
+    categoriesList.push(category);
   }
 }
 
@@ -61,4 +61,4 @@ writeFileSync("./webfontList/variants.json", JSON.stringify(variantsList));
 
 writeFileSync("./webfontList/subsets.json", JSON.stringify(subsetsList));
 
-writeFileSync("./webfontList/categorys.json", JSON.stringify(categorysList));
+writeFileSync("./webfontList/categories.json", JSON.stringify(categoriesList));
