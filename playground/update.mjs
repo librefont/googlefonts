@@ -31,11 +31,11 @@ for (const sort of sorts) {
 
 const data = (await googlefonts.getWebfonts()).items;
 
-let variantsList = [];
+const variantsList = [];
 
-let subsetsList = [];
+const subsetsList = [];
 
-let categoriesList = [];
+const categoriesList = [];
 
 for (let i = 0; i < data.length; i++) {
   const { variants, subsets, category } = data[i];
@@ -57,8 +57,14 @@ for (let i = 0; i < data.length; i++) {
   }
 }
 
-writeFileSync("./webfontList/variants.json", JSON.stringify(variantsList));
+writeFileSync(
+  "./webfontList/variants.json",
+  JSON.stringify(variantsList.sort()),
+);
 
-writeFileSync("./webfontList/subsets.json", JSON.stringify(subsetsList));
+writeFileSync("./webfontList/subsets.json", JSON.stringify(subsetsList.sort()));
 
-writeFileSync("./webfontList/categories.json", JSON.stringify(categoriesList));
+writeFileSync(
+  "./webfontList/categories.json",
+  JSON.stringify(categoriesList.sort()),
+);
