@@ -27668,22 +27668,6 @@
     "menu": "http://fonts.gstatic.com/s/notoserifahom/v20/FeVIS0hfp6cprmEUffAW_fUL_ANOw-wq.woff2"
   },
   {
-    "family": "Noto Serif Khojki",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["khojki", "latin", "latin-ext"],
-    "version": "v10",
-    "lastModified": "2023-09-13",
-    "files": {
-      "500": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY4AhvzJ0Qtc5HAQ.woff2",
-      "600": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYDA9vzJ0Qtc5HAQ.woff2",
-      "700": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYNQ9vzJ0Qtc5HAQ.woff2",
-      "regular": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghvzJ0Qtc5HAQ.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghfyJcR.woff2"
-  },
-  {
     "family": "Noto Sans Cherokee",
     "variants": [
       "100",
@@ -27713,6 +27697,22 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanscherokee/v20/KFOPCm6Yu8uF-29fiz9vQF9YWK6Z8O10cHNA0cSkZCHYWi5PPkizrQ.woff2"
+  },
+  {
+    "family": "Noto Serif Khojki",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["khojki", "latin", "latin-ext"],
+    "version": "v10",
+    "lastModified": "2023-09-13",
+    "files": {
+      "500": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY4AhvzJ0Qtc5HAQ.woff2",
+      "600": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYDA9vzJ0Qtc5HAQ.woff2",
+      "700": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYNQ9vzJ0Qtc5HAQ.woff2",
+      "regular": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghvzJ0Qtc5HAQ.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghfyJcR.woff2"
   },
   {
     "family": "Noto Sans Duployan",
@@ -28014,19 +28014,6 @@
     "menu": "http://fonts.gstatic.com/s/narnoor/v7/cIf9MaFWuVo-UTyP9CihYQ.woff2"
   },
   {
-    "family": "Noto Sans Nandinagari",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nandinagari"],
-    "version": "v4",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jVbpRXzC1KOw.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jlap5W.woff2"
-  },
-  {
     "family": "Rubik Maze",
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
@@ -28038,6 +28025,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/rubikmaze/v2/xMQRuF9ZVa2ftiJEavXSMX_onA.woff2"
+  },
+  {
+    "family": "Noto Sans Nandinagari",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nandinagari"],
+    "version": "v4",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jVbpRXzC1KOw.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jlap5W.woff2"
   },
   {
     "family": "Noto Sans Kayah Li",
@@ -29090,19 +29090,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NG8.woff2"
   },
   {
-    "family": "Noto Sans Shavian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "shavian"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4EFVSplv2Cwg.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4HFRQJg.woff2"
-  },
-  {
     "family": "Noto Sans Ugaritic",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "ugaritic"],
@@ -29114,6 +29101,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAJ.woff2"
+  },
+  {
+    "family": "Noto Sans Shavian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "shavian"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4EFVSplv2Cwg.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4HFRQJg.woff2"
   },
   {
     "family": "Noto Sans Phoenician",

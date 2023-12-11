@@ -24232,19 +24232,6 @@
     "menu": "http://fonts.gstatic.com/s/lavishlyyours/v5/jizDREVIvGwH5OjiZmX9r5z_WyUZ2zI.ttf"
   },
   {
-    "family": "Borel",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
-    "version": "v3",
-    "lastModified": "2023-11-09",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisgshYyMnOjwE.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisjsgaSc.ttf"
-  },
-  {
     "family": "Rubik Wet Paint",
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
@@ -24256,6 +24243,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/rubikwetpaint/v2/HTx0L20uMDGHgdULcpTF3Oe4d_-1-jbz.ttf"
+  },
+  {
+    "family": "Borel",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
+    "version": "v3",
+    "lastModified": "2023-11-09",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisgshYyMnOjwE.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisjsgaSc.ttf"
   },
   {
     "family": "Bigelow Rules",
@@ -27668,6 +27668,22 @@
     "menu": "http://fonts.gstatic.com/s/notoserifahom/v20/FeVIS0hfp6cprmEUffAW_fUL_ANOw-wv.ttf"
   },
   {
+    "family": "Noto Serif Khojki",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["khojki", "latin", "latin-ext"],
+    "version": "v10",
+    "lastModified": "2023-09-13",
+    "files": {
+      "500": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY4AhvyZ0Qtc5HAQ.ttf",
+      "600": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYDA9vyZ0Qtc5HAQ.ttf",
+      "700": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYNQ9vyZ0Qtc5HAQ.ttf",
+      "regular": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghvyZ0Qtc5HAQ.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghfyJcU.ttf"
+  },
+  {
     "family": "Noto Sans Cherokee",
     "variants": [
       "100",
@@ -27697,22 +27713,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanscherokee/v20/KFOPCm6Yu8uF-29fiz9vQF9YWK6Z8O10cHNA0cSkZCHYWi5PPkizqA.ttf"
-  },
-  {
-    "family": "Noto Serif Khojki",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["khojki", "latin", "latin-ext"],
-    "version": "v10",
-    "lastModified": "2023-09-13",
-    "files": {
-      "500": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY4AhvyZ0Qtc5HAQ.ttf",
-      "600": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYDA9vyZ0Qtc5HAQ.ttf",
-      "700": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYNQ9vyZ0Qtc5HAQ.ttf",
-      "regular": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghvyZ0Qtc5HAQ.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notoserifkhojki/v10/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghfyJcU.ttf"
   },
   {
     "family": "Noto Sans Duployan",
