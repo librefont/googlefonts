@@ -18965,19 +18965,6 @@
     "menu": "http://fonts.gstatic.com/s/buda/v29/GFDqWAN8mnyIJSSrK7QLqw.ttf"
   },
   {
-    "family": "Monofett",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/monofett/v23/mFTyWbofw6zc9NtnW43SuRwr0VJ7.ttf"
-    },
-    "category": "monospace",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/monofett/v23/mFTyWbofw6zc9NtnW73Tsxg.ttf"
-  },
-  {
     "family": "Fascinate Inline",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -18989,6 +18976,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/fascinateinline/v22/jVyR7mzzB3zc-jp6QCAu60poNqIy5gzIeQ.ttf"
+  },
+  {
+    "family": "Monofett",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/monofett/v23/mFTyWbofw6zc9NtnW43SuRwr0VJ7.ttf"
+    },
+    "category": "monospace",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/monofett/v23/mFTyWbofw6zc9NtnW73Tsxg.ttf"
   },
   {
     "family": "Angkor",
@@ -25070,19 +25070,6 @@
     "menu": "http://fonts.gstatic.com/s/moolahlah/v6/dg4h_p_opKZOA0w1AYcm56wsawI.ttf"
   },
   {
-    "family": "Noto Sans Imperial Aramaic",
-    "variants": ["regular"],
-    "subsets": ["imperial-aramaic", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-08-08",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansimperialaramaic/v16/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrtdml3YfPNno.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansimperialaramaic/v16/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXI.ttf"
-  },
-  {
     "family": "M PLUS Code Latin",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -25106,6 +25093,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Sans Imperial Aramaic",
+    "variants": ["regular"],
+    "subsets": ["imperial-aramaic", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-08-08",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansimperialaramaic/v16/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrtdml3YfPNno.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansimperialaramaic/v16/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXI.ttf"
   },
   {
     "family": "Noto Sans Marchen",
