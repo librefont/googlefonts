@@ -21559,19 +21559,6 @@
     "menu": "http://fonts.gstatic.com/s/solitreo/v2/r05YGLlS5a9KYsyNO_uowjI.ttf"
   },
   {
-    "family": "Diplomata",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v31",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/diplomata/v31/Cn-0JtiMXwhNwp-wKxyfYGxYrdM9Sg.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/diplomata/v31/Cn-0JtiMXwhNwp-wKxyvYWZc.ttf"
-  },
-  {
     "family": "Finlandica",
     "variants": ["regular", "italic"],
     "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext"],
@@ -21591,6 +21578,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Diplomata",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v31",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/diplomata/v31/Cn-0JtiMXwhNwp-wKxyfYGxYrdM9Sg.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/diplomata/v31/Cn-0JtiMXwhNwp-wKxyvYWZc.ttf"
   },
   {
     "family": "IM Fell French Canon SC",
@@ -25809,19 +25809,6 @@
     "menu": "http://fonts.gstatic.com/s/rubikmaze/v2/xMQRuF9ZVa2ftiJEavXSMX_omQ.ttf"
   },
   {
-    "family": "Rock 3D",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin"],
-    "version": "v10",
-    "lastModified": "2023-05-31",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/rock3d/v10/yYLp0hrL0PCo651513SnwRnQyNI.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/rock3d/v10/yYLp0hrL0PCo651553WtxQ.ttf"
-  },
-  {
     "family": "Noto Sans Grantha",
     "variants": ["regular"],
     "subsets": ["grantha", "latin", "latin-ext"],
@@ -25833,6 +25820,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansgrantha/v17/3y976akwcCjmsU8NDyrKo3IQfQ4o-o8dH-8.ttf"
+  },
+  {
+    "family": "Rock 3D",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin"],
+    "version": "v10",
+    "lastModified": "2023-05-31",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/rock3d/v10/yYLp0hrL0PCo651513SnwRnQyNI.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/rock3d/v10/yYLp0hrL0PCo651553WtxQ.ttf"
   },
   {
     "family": "Wavefont",
@@ -26468,19 +26468,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3gA.ttf"
   },
   {
-    "family": "Noto Sans Indic Siyaq Numbers",
-    "variants": ["regular"],
-    "subsets": ["indic-siyaq-numbers", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-08-17",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKx2WPOpVd5Iu.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKy2XNu4.ttf"
-  },
-  {
     "family": "Noto Sans Zanabazar Square",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "zanabazar-square"],
@@ -26492,6 +26479,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf"
+  },
+  {
+    "family": "Noto Sans Indic Siyaq Numbers",
+    "variants": ["regular"],
+    "subsets": ["indic-siyaq-numbers", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-08-17",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKx2WPOpVd5Iu.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKy2XNu4.ttf"
   },
   {
     "family": "Noto Sans Old South Arabian",
@@ -26808,19 +26808,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuA.ttf"
   },
   {
-    "family": "Noto Sans Manichaean",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "manichaean"],
-    "version": "v18",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfekqCNTtFCtdX.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPz8.ttf"
-  },
-  {
     "family": "Noto Sans SignWriting",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "signwriting"],
@@ -26832,6 +26819,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqE.ttf"
+  },
+  {
+    "family": "Noto Sans Manichaean",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "manichaean"],
+    "version": "v18",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfekqCNTtFCtdX.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPz8.ttf"
   },
   {
     "family": "Noto Sans Nushu",
