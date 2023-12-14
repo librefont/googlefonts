@@ -28212,19 +28212,6 @@
     "menu": "http://fonts.gstatic.com/s/rubikmaze/v2/xMQRuF9ZVa2ftiJEavXSMX_omQ.ttf"
   },
   {
-    "family": "Rock 3D",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin"],
-    "version": "v10",
-    "lastModified": "2023-05-31",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/rock3d/v10/yYLp0hrL0PCo651513SnwRnQyNI.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/rock3d/v10/yYLp0hrL0PCo651553WtxQ.ttf"
-  },
-  {
     "family": "Noto Sans Grantha",
     "variants": ["regular"],
     "subsets": ["grantha", "latin", "latin-ext"],
@@ -28236,6 +28223,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansgrantha/v17/3y976akwcCjmsU8NDyrKo3IQfQ4o-o8dH-8.ttf"
+  },
+  {
+    "family": "Rock 3D",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin"],
+    "version": "v10",
+    "lastModified": "2023-05-31",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/rock3d/v10/yYLp0hrL0PCo651513SnwRnQyNI.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/rock3d/v10/yYLp0hrL0PCo651553WtxQ.ttf"
   },
   {
     "family": "Wavefont",
@@ -28855,19 +28855,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3gA.ttf"
   },
   {
-    "family": "Noto Sans Indic Siyaq Numbers",
-    "variants": ["regular"],
-    "subsets": ["indic-siyaq-numbers", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-08-17",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKx2WPOpVd5Iu.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKy2XNu4.ttf"
-  },
-  {
     "family": "Noto Sans Zanabazar Square",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "zanabazar-square"],
@@ -28879,6 +28866,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf"
+  },
+  {
+    "family": "Noto Sans Indic Siyaq Numbers",
+    "variants": ["regular"],
+    "subsets": ["indic-siyaq-numbers", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-08-17",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKx2WPOpVd5Iu.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKy2XNu4.ttf"
   },
   {
     "family": "Noto Sans Old South Arabian",

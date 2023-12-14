@@ -27316,6 +27316,19 @@
     "menu": "http://fonts.gstatic.com/s/slacksideone/v10/EJRQQgMrXdcGsiBuvnRxodTwZy_foA.woff2"
   },
   {
+    "family": "Diphylleia",
+    "variants": ["regular"],
+    "subsets": ["korean", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2023-06-07",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/diphylleia/v1/DtVmJxCtRKMixK4_HXsIulkm6gDXvwE.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/diphylleia/v1/DtVmJxCtRKMixK4_HXsIil0s6w.woff2"
+  },
+  {
     "family": "Noto Serif Ethiopic",
     "variants": [
       "100",
@@ -27345,19 +27358,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notoserifethiopic/v30/V8mjoR7-XjwJ8_Au3Ti5tXj5Rd83frpWLK4d-taxqWw2HMWjDxBAg5S_0QsrggxCzSUTkKm8.woff2"
-  },
-  {
-    "family": "Diphylleia",
-    "variants": ["regular"],
-    "subsets": ["korean", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2023-06-07",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/diphylleia/v1/DtVmJxCtRKMixK4_HXsIulkm6gDXvwE.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/diphylleia/v1/DtVmJxCtRKMixK4_HXsIil0s6w.woff2"
   },
   {
     "family": "Noto Sans Tifinagh",
@@ -28212,19 +28212,6 @@
     "menu": "http://fonts.gstatic.com/s/rubikmaze/v2/xMQRuF9ZVa2ftiJEavXSMX_onA.woff2"
   },
   {
-    "family": "Noto Sans Grantha",
-    "variants": ["regular"],
-    "subsets": ["grantha", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2022-09-28",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansgrantha/v17/3y976akwcCjmsU8NDyrKo3IQfQ4o-r8ZFeulHc6N.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansgrantha/v17/3y976akwcCjmsU8NDyrKo3IQfQ4o-o8dH-o.woff2"
-  },
-  {
     "family": "Rock 3D",
     "variants": ["regular"],
     "subsets": ["japanese", "latin"],
@@ -28236,6 +28223,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/rock3d/v10/yYLp0hrL0PCo651553WtwA.woff2"
+  },
+  {
+    "family": "Noto Sans Grantha",
+    "variants": ["regular"],
+    "subsets": ["grantha", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2022-09-28",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansgrantha/v17/3y976akwcCjmsU8NDyrKo3IQfQ4o-r8ZFeulHc6N.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansgrantha/v17/3y976akwcCjmsU8NDyrKo3IQfQ4o-o8dH-o.woff2"
   },
   {
     "family": "Wavefont",
@@ -28855,19 +28855,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3hQ.woff2"
   },
   {
-    "family": "Noto Sans Zanabazar Square",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "zanabazar-square"],
-    "version": "v19",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQtJ0OCEgN0Gc.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiA.woff2"
-  },
-  {
     "family": "Noto Sans Indic Siyaq Numbers",
     "variants": ["regular"],
     "subsets": ["indic-siyaq-numbers", "latin", "latin-ext"],
@@ -28879,6 +28866,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKy2XNus.woff2"
+  },
+  {
+    "family": "Noto Sans Zanabazar Square",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "zanabazar-square"],
+    "version": "v19",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQtJ0OCEgN0Gc.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiA.woff2"
   },
   {
     "family": "Noto Sans Old South Arabian",

@@ -21559,6 +21559,19 @@
     "menu": "http://fonts.gstatic.com/s/solitreo/v2/r05YGLlS5a9KYsyNO_uowjI.ttf"
   },
   {
+    "family": "Diplomata",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v31",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/diplomata/v31/Cn-0JtiMXwhNwp-wKxyfYGxYrdM9Sg.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/diplomata/v31/Cn-0JtiMXwhNwp-wKxyvYWZc.ttf"
+  },
+  {
     "family": "Finlandica",
     "variants": ["regular", "italic"],
     "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext"],
@@ -21578,19 +21591,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Diplomata",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v31",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/diplomata/v31/Cn-0JtiMXwhNwp-wKxyfYGxYrdM9Sg.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/diplomata/v31/Cn-0JtiMXwhNwp-wKxyvYWZc.ttf"
   },
   {
     "family": "IM Fell French Canon SC",
@@ -24932,19 +24932,6 @@
     "menu": "http://fonts.gstatic.com/s/slacksideone/v10/EJRQQgMrXdcGsiBuvnRxodTwZy_fpQ.ttf"
   },
   {
-    "family": "Diphylleia",
-    "variants": ["regular"],
-    "subsets": ["korean", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2023-06-07",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/diphylleia/v1/DtVmJxCtRKMixK4_HXsIulwm6gDXvwE.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/diphylleia/v1/DtVmJxCtRKMixK4_HXsIil0s7g.ttf"
-  },
-  {
     "family": "Noto Serif Ethiopic",
     "variants": ["regular"],
     "subsets": ["ethiopic", "latin", "latin-ext"],
@@ -24968,6 +24955,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Diphylleia",
+    "variants": ["regular"],
+    "subsets": ["korean", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2023-06-07",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/diphylleia/v1/DtVmJxCtRKMixK4_HXsIulwm6gDXvwE.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/diphylleia/v1/DtVmJxCtRKMixK4_HXsIil0s7g.ttf"
   },
   {
     "family": "Noto Sans Tifinagh",
@@ -26808,19 +26808,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuA.ttf"
   },
   {
-    "family": "Noto Sans SignWriting",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "signwriting"],
-    "version": "v4",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUEVCARYQemg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqE.ttf"
-  },
-  {
     "family": "Noto Sans Manichaean",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "manichaean"],
@@ -26832,6 +26819,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPz8.ttf"
+  },
+  {
+    "family": "Noto Sans SignWriting",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "signwriting"],
+    "version": "v4",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUEVCARYQemg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqE.ttf"
   },
   {
     "family": "Noto Sans Nushu",
