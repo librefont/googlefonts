@@ -23647,19 +23647,6 @@
     "menu": "http://fonts.gstatic.com/s/notoseriftelugu/v26/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TCAuIeb.ttf"
   },
   {
-    "family": "Mr Bedfort",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v22",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/mrbedfort/v22/MQpR-WCtNZSWAdTMwBicliq0XZe_Iy8.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/mrbedfort/v22/MQpR-WCtNZSWAdTMwBicpiu-WQ.ttf"
-  },
-  {
     "family": "Almendra Display",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -23671,6 +23658,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/almendradisplay/v31/0FlPVOGWl1Sb4O3tETtADHRRlZhzbS7USw.ttf"
+  },
+  {
+    "family": "Mr Bedfort",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v22",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/mrbedfort/v22/MQpR-WCtNZSWAdTMwBicliq0XZe_Iy8.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/mrbedfort/v22/MQpR-WCtNZSWAdTMwBicpiu-WQ.ttf"
   },
   {
     "family": "Gentium Book Plus",
@@ -25595,6 +25595,19 @@
     "menu": "http://fonts.gstatic.com/s/twinklestar/v6/pe0pMI6IL4dPoFl9LGEmY6WqAv5q.ttf"
   },
   {
+    "family": "Reem Kufi Ink",
+    "variants": ["regular"],
+    "subsets": ["arabic", "latin", "latin-ext", "vietnamese"],
+    "version": "v9",
+    "lastModified": "2023-05-31",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/reemkufiink/v9/oPWJ_kJmmu8hCvB9iFumxZSnRj5dQnSX1ko.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/reemkufiink/v9/oPWJ_kJmmu8hCvB9iFumxZSndj9XRg.ttf"
+  },
+  {
     "family": "Sometype Mono",
     "variants": [
       "regular",
@@ -25622,19 +25635,6 @@
     "category": "monospace",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/sometypemono/v1/70lGu745KGk_R3uxyq0WrROhAJiJsJ_eTWllpTAMGH9biwQ.ttf"
-  },
-  {
-    "family": "Reem Kufi Ink",
-    "variants": ["regular"],
-    "subsets": ["arabic", "latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2023-05-31",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/reemkufiink/v9/oPWJ_kJmmu8hCvB9iFumxZSnRj5dQnSX1ko.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/reemkufiink/v9/oPWJ_kJmmu8hCvB9iFumxZSndj9XRg.ttf"
   },
   {
     "family": "Fleur De Leah",
