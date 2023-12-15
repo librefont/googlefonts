@@ -21479,19 +21479,6 @@
     ]
   },
   {
-    "family": "Almendra Display",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v31",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/almendradisplay/v31/0FlPVOGWl1Sb4O3tETtADHRRlZhzXS_eTyer338.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/almendradisplay/v31/0FlPVOGWl1Sb4O3tETtADHRRlZhzbS7USw.ttf"
-  },
-  {
     "family": "Mr Bedfort",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -21503,6 +21490,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/mrbedfort/v22/MQpR-WCtNZSWAdTMwBicpiu-WQ.ttf"
+  },
+  {
+    "family": "Almendra Display",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v31",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/almendradisplay/v31/0FlPVOGWl1Sb4O3tETtADHRRlZhzXS_eTyer338.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/almendradisplay/v31/0FlPVOGWl1Sb4O3tETtADHRRlZhzbS7USw.ttf"
   },
   {
     "family": "Gentium Book Plus",
@@ -23286,6 +23286,19 @@
     "menu": "http://fonts.gstatic.com/s/twinklestar/v6/pe0pMI6IL4dPoFl9LGEmY6WqAv5q.ttf"
   },
   {
+    "family": "Reem Kufi Ink",
+    "variants": ["regular"],
+    "subsets": ["arabic", "latin", "latin-ext", "vietnamese"],
+    "version": "v9",
+    "lastModified": "2023-05-31",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/reemkufiink/v9/oPWJ_kJmmu8hCvB9iFumxZSnRj5dQnSX1ko.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/reemkufiink/v9/oPWJ_kJmmu8hCvB9iFumxZSndj9XRg.ttf"
+  },
+  {
     "family": "Sometype Mono",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -23305,19 +23318,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Reem Kufi Ink",
-    "variants": ["regular"],
-    "subsets": ["arabic", "latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2023-05-31",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/reemkufiink/v9/oPWJ_kJmmu8hCvB9iFumxZSnRj5dQnSX1ko.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/reemkufiink/v9/oPWJ_kJmmu8hCvB9iFumxZSndj9XRg.ttf"
   },
   {
     "family": "Fleur De Leah",
