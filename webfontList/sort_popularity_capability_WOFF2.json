@@ -24878,6 +24878,20 @@
     "menu": "http://fonts.gstatic.com/s/sendflowers/v5/If2PXTjtZS-0Xqy13uCQSULfxgLi.woff2"
   },
   {
+    "family": "Tiro Telugu",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext", "telugu"],
+    "version": "v7",
+    "lastModified": "2023-02-02",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/tirotelugu/v7/aFTQ7PxlZWk2EPiSymjXdKSIQqn0X0BO.woff2",
+      "italic": "http://fonts.gstatic.com/s/tirotelugu/v7/aFTS7PxlZWk2EPiSymjXdJSPSKjWWlBOoas.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/tirotelugu/v7/aFTQ7PxlZWk2EPiSymjXdJSMSKg.woff2"
+  },
+  {
     "family": "Noto Rashi Hebrew",
     "variants": [
       "100",
@@ -24907,20 +24921,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notorashihebrew/v25/EJR_Qh82XsIK-QFmqXk4zvLwFVya0vFL-HlKM5e6C6HZB-HURiC7.woff2"
-  },
-  {
-    "family": "Tiro Telugu",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext", "telugu"],
-    "version": "v7",
-    "lastModified": "2023-02-02",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/tirotelugu/v7/aFTQ7PxlZWk2EPiSymjXdKSIQqn0X0BO.woff2",
-      "italic": "http://fonts.gstatic.com/s/tirotelugu/v7/aFTS7PxlZWk2EPiSymjXdJSPSKjWWlBOoas.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/tirotelugu/v7/aFTQ7PxlZWk2EPiSymjXdJSMSKg.woff2"
   },
   {
     "family": "Chenla",
@@ -27125,6 +27125,19 @@
     "menu": "http://fonts.gstatic.com/s/notoseriflao/v24/3y9C6bYwcCjmsU8JEzCMxEwQfEBLk3f0rlSqCdaM_LlSNZ59oNw0BWH8VeMKnvKplw.woff2"
   },
   {
+    "family": "Rubik 80s Fade",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUhH1kbL8IHcK.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUiHxm7M.woff2"
+  },
+  {
     "family": "Tsukimi Rounded",
     "variants": ["300", "regular", "500", "600", "700"],
     "subsets": ["japanese", "latin", "latin-ext"],
@@ -27140,19 +27153,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/tsukimirounded/v10/sJoc3LJNksWZO0LvnZwkF3HtoB7dPHkP.woff2"
-  },
-  {
-    "family": "Rubik 80s Fade",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUhH1kbL8IHcK.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUiHxm7M.woff2"
   },
   {
     "family": "Noto Sans Adlam Unjoined",
@@ -28678,19 +28678,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrUdMXmDQ.woff2"
   },
   {
-    "family": "Noto Sans Old Turkic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-turkic"],
-    "version": "v17",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsE2UjEw-Vyws.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsH2Qhk0.woff2"
-  },
-  {
     "family": "Noto Sans Wancho",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "wancho"],
@@ -28702,6 +28689,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALipw.woff2"
+  },
+  {
+    "family": "Noto Sans Old Turkic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-turkic"],
+    "version": "v17",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsE2UjEw-Vyws.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsH2Qhk0.woff2"
   },
   {
     "family": "Noto Serif Gurmukhi",
