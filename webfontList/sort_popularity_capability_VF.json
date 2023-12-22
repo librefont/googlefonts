@@ -24089,19 +24089,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansglagolitic/v17/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRL6g0.ttf"
   },
   {
-    "family": "Bacasime Antique",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZOwStSUrV_BE.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZCwWnTQ.ttf"
-  },
-  {
     "family": "Are You Serious",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -24113,6 +24100,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/areyouserious/v12/ll8kK2GVSSr-PtjQ5nONVcNn430KhDVj.ttf"
+  },
+  {
+    "family": "Bacasime Antique",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZOwStSUrV_BE.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZCwWnTQ.ttf"
   },
   {
     "family": "Zen Loop",
@@ -26701,19 +26701,6 @@
     ]
   },
   {
-    "family": "Noto Sans Tai Le",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tai-le"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR58tK1W77HtMo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Xw.ttf"
-  },
-  {
     "family": "Noto Sans Caucasian Albanian",
     "variants": ["regular"],
     "subsets": ["caucasian-albanian", "latin", "latin-ext"],
@@ -26725,6 +26712,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHspQ.ttf"
+  },
+  {
+    "family": "Noto Sans Tai Le",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tai-le"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR58tK1W77HtMo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Xw.ttf"
   },
   {
     "family": "Noto Sans Hanifi Rohingya",
