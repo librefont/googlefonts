@@ -26451,19 +26451,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansglagolitic/v17/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRL6gg.woff2"
   },
   {
-    "family": "Are You Serious",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v12",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/areyouserious/v12/ll8kK2GVSSr-PtjQ5nONVcNn4306gD9nCGRayg.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/areyouserious/v12/ll8kK2GVSSr-PtjQ5nONVcNn430KhDVm.woff2"
-  },
-  {
     "family": "Bacasime Antique",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -26475,6 +26462,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZCwWnSA.woff2"
+  },
+  {
+    "family": "Are You Serious",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v12",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/areyouserious/v12/ll8kK2GVSSr-PtjQ5nONVcNn4306gD9nCGRayg.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/areyouserious/v12/ll8kK2GVSSr-PtjQ5nONVcNn430KhDVm.woff2"
   },
   {
     "family": "Zen Loop",
@@ -27618,19 +27618,6 @@
     "menu": "http://fonts.gstatic.com/s/moolahlah/v6/dg4h_p_opKZOA0w1AYcm56wsawc.woff2"
   },
   {
-    "family": "Noto Sans Old Italic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-italic"],
-    "version": "v16",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansolditalic/v16/TuGOUUFzXI5FBtUq5a8bh68BJxxEVam7tWlUdRhtCC4d.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansolditalic/v16/TuGOUUFzXI5FBtUq5a8bh68BJxxEVam7tVlQfxk.woff2"
-  },
-  {
     "family": "Noto Sans Lepcha",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "lepcha"],
@@ -27642,6 +27629,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS36ANmtw.woff2"
+  },
+  {
+    "family": "Noto Sans Old Italic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-italic"],
+    "version": "v16",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansolditalic/v16/TuGOUUFzXI5FBtUq5a8bh68BJxxEVam7tWlUdRhtCC4d.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansolditalic/v16/TuGOUUFzXI5FBtUq5a8bh68BJxxEVam7tVlQfxk.woff2"
   },
   {
     "family": "Blaka Ink",
@@ -28470,19 +28470,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov7fdtE9fdg.woff2"
   },
   {
-    "family": "Mingzat",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "lepcha"],
-    "version": "v8",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/mingzat/v8/0QIgMX5C-o-oWWyvBt5km_mv670.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/mingzat/v8/0QIgMX5C-o-oWWyvNtpumg.woff2"
-  },
-  {
     "family": "Noto Sans Lydian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "lydian"],
@@ -28494,6 +28481,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanslydian/v18/c4m71mVzGN7s8FmIukZJ1v4ZlcPRSULdMw.woff2"
+  },
+  {
+    "family": "Mingzat",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "lepcha"],
+    "version": "v8",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/mingzat/v8/0QIgMX5C-o-oWWyvBt5km_mv670.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/mingzat/v8/0QIgMX5C-o-oWWyvNtpumg.woff2"
   },
   {
     "family": "Noto Sans Linear B",
