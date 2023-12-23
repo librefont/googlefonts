@@ -15336,6 +15336,19 @@
     "menu": "http://fonts.gstatic.com/s/shojumaru/v15/rax_HiWfutkLLnaKCtl8BRha.ttf"
   },
   {
+    "family": "Shalimar",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v7",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/shalimar/v7/uU9MCBoE6I6iNWFUvTPx8PCOg0uX.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/shalimar/v7/uU9MCBoE6I6iNWFUvQPw-vQ.ttf"
+  },
+  {
     "family": "Chau Philomene One",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -15348,19 +15361,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/chauphilomeneone/v15/55xxezRsPtfie1vPY49qzdgSlJiHRQFcnYZ_.ttf"
-  },
-  {
-    "family": "Shalimar",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v7",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/shalimar/v7/uU9MCBoE6I6iNWFUvTPx8PCOg0uX.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/shalimar/v7/uU9MCBoE6I6iNWFUvQPw-vQ.ttf"
   },
   {
     "family": "McLaren",
@@ -25911,19 +25911,6 @@
     "menu": "http://fonts.gstatic.com/s/rock3d/v10/yYLp0hrL0PCo651553WtxQ.ttf"
   },
   {
-    "family": "Noto Sans Multani",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "multani"],
-    "version": "v20",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO1A0pfCs5Kos.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_Q.ttf"
-  },
-  {
     "family": "Noto Sans Syriac Eastern",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "syriac"],
@@ -25942,6 +25929,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Noto Sans Multani",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "multani"],
+    "version": "v20",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO1A0pfCs5Kos.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_Q.ttf"
   },
   {
     "family": "Noto Sans Duployan",
