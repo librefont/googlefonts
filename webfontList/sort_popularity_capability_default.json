@@ -20418,19 +20418,6 @@
     "menu": "http://fonts.gstatic.com/s/paprika/v21/8QIJdijZitv49rDfiIkErw.ttf"
   },
   {
-    "family": "Trade Winds",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v17",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/tradewinds/v17/AYCPpXPpYNIIT7h8-QenM3Jq7PKP5Z_G.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/tradewinds/v17/AYCPpXPpYNIIT7h8-QenM0Jr5vY.ttf"
-  },
-  {
     "family": "Tilt Prism",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -20442,6 +20429,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/tiltprism/v11/5h11iZgyPHoZ3YikNzWGfWey2dCAZXT-bH9V4VGn-FJ7tLI25oc_rIbAoD6v.ttf"
+  },
+  {
+    "family": "Trade Winds",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v17",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/tradewinds/v17/AYCPpXPpYNIIT7h8-QenM3Jq7PKP5Z_G.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/tradewinds/v17/AYCPpXPpYNIIT7h8-QenM0Jr5vY.ttf"
   },
   {
     "family": "Vampiro One",
@@ -23756,6 +23756,19 @@
     "menu": "http://fonts.gstatic.com/s/sunshiney/v24/LDIwapGTLBwsS-wT4vcQEsOs.ttf"
   },
   {
+    "family": "Caramel",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v7",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/caramel/v7/P5sCzZKBbMTf_ShyxCRuiZ-uydg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/caramel/v7/P5sCzZKBbMTf_Shy9CVkjQ.ttf"
+  },
+  {
     "family": "Big Shoulders Stencil Text",
     "variants": [
       "100",
@@ -23785,19 +23798,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/bigshouldersstenciltext/v26/5aUV9-i2oxDMNwY3dHfW7UAt3Q453SM15wNj53bCcab2SJYLLUtk1OGR04T4GCXL.ttf"
-  },
-  {
-    "family": "Caramel",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v7",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/caramel/v7/P5sCzZKBbMTf_ShyxCRuiZ-uydg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/caramel/v7/P5sCzZKBbMTf_Shy9CVkjQ.ttf"
   },
   {
     "family": "Bonheur Royale",
@@ -27486,19 +27486,6 @@
     "menu": "http://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaotL8RWE.ttf"
   },
   {
-    "family": "Rubik Marker Hatch",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHQDL4iw0H6zw.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHgDbQm.ttf"
-  },
-  {
     "family": "Rubik Puddles",
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
@@ -27510,6 +27497,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcFfG-xQ.ttf"
+  },
+  {
+    "family": "Rubik Marker Hatch",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHQDL4iw0H6zw.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHgDbQm.ttf"
   },
   {
     "family": "Rubik Microbe",
@@ -28466,6 +28466,19 @@
     "menu": "http://fonts.gstatic.com/s/yujihentaiganaakebono/v12/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wTy8PqE.ttf"
   },
   {
+    "family": "Noto Sans Kaithi",
+    "variants": ["regular"],
+    "subsets": ["kaithi", "latin", "latin-ext"],
+    "version": "v20",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanskaithi/v20/buEtppS9f8_vkXadMBJJu0tWjLwjQi0KdoZIKlo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanskaithi/v20/buEtppS9f8_vkXadMBJJu0tWjLwjciwAcg.ttf"
+  },
+  {
     "family": "Noto Sans Medefaidrin",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "medefaidrin"],
@@ -28480,19 +28493,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmedefaidrin/v23/WwkzxOq6Dk-wranENynkfeVsNbRZtbOIdLb1exeM4ZeuabBfmErWpTz_9Q.ttf"
-  },
-  {
-    "family": "Noto Sans Kaithi",
-    "variants": ["regular"],
-    "subsets": ["kaithi", "latin", "latin-ext"],
-    "version": "v20",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanskaithi/v20/buEtppS9f8_vkXadMBJJu0tWjLwjQi0KdoZIKlo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanskaithi/v20/buEtppS9f8_vkXadMBJJu0tWjLwjciwAcg.ttf"
   },
   {
     "family": "Noto Sans Old North Arabian",

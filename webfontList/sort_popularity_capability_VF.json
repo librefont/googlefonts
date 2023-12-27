@@ -21609,19 +21609,6 @@
     "menu": "http://fonts.gstatic.com/s/sunshiney/v24/LDIwapGTLBwsS-wT4vcQEsOs.ttf"
   },
   {
-    "family": "Caramel",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v7",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/caramel/v7/P5sCzZKBbMTf_ShyxCRuiZ-uydg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/caramel/v7/P5sCzZKBbMTf_Shy9CVkjQ.ttf"
-  },
-  {
     "family": "Big Shoulders Stencil Text",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -21640,6 +21627,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Caramel",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v7",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/caramel/v7/P5sCzZKBbMTf_ShyxCRuiZ-uydg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/caramel/v7/P5sCzZKBbMTf_Shy9CVkjQ.ttf"
   },
   {
     "family": "Bonheur Royale",
@@ -26361,19 +26361,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf"
   },
   {
-    "family": "Noto Sans Chakma",
-    "variants": ["regular"],
-    "subsets": ["chakma", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi4JjTQhYBeYo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
-  },
-  {
     "family": "Noto Sans Tirhuta",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tirhuta"],
@@ -26385,6 +26372,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanstirhuta/v16/t5t6IQYRNJ6TWjahPR6X-M-apUyby4uHWh8.ttf"
+  },
+  {
+    "family": "Noto Sans Chakma",
+    "variants": ["regular"],
+    "subsets": ["chakma", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi4JjTQhYBeYo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
   },
   {
     "family": "Noto Sans Osage",
