@@ -18426,6 +18426,19 @@
     "menu": "http://fonts.gstatic.com/s/paprika/v21/8QIJdijZitv49rDfiIkErw.ttf"
   },
   {
+    "family": "Trade Winds",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v17",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/tradewinds/v17/AYCPpXPpYNIIT7h8-QenM3Jq7PKP5Z_G.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/tradewinds/v17/AYCPpXPpYNIIT7h8-QenM0Jr5vY.ttf"
+  },
+  {
     "family": "Tilt Prism",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -18449,19 +18462,6 @@
         "end": 45
       }
     ]
-  },
-  {
-    "family": "Trade Winds",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v17",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/tradewinds/v17/AYCPpXPpYNIIT7h8-QenM3Jq7PKP5Z_G.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/tradewinds/v17/AYCPpXPpYNIIT7h8-QenM0Jr5vY.ttf"
   },
   {
     "family": "Vampiro One",
@@ -25090,19 +25090,6 @@
     "menu": "http://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaotL8RWE.ttf"
   },
   {
-    "family": "Rubik Marker Hatch",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHQDL4iw0H6zw.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHgDbQm.ttf"
-  },
-  {
     "family": "Rubik Puddles",
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
@@ -25114,6 +25101,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcFfG-xQ.ttf"
+  },
+  {
+    "family": "Rubik Marker Hatch",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHQDL4iw0H6zw.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHgDbQm.ttf"
   },
   {
     "family": "Rubik Microbe",
@@ -26361,19 +26361,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf"
   },
   {
-    "family": "Noto Sans Tirhuta",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tirhuta"],
-    "version": "v16",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanstirhuta/v16/t5t6IQYRNJ6TWjahPR6X-M-apUyby7uGUBsTrn5P.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanstirhuta/v16/t5t6IQYRNJ6TWjahPR6X-M-apUyby4uHWh8.ttf"
-  },
-  {
     "family": "Noto Sans Chakma",
     "variants": ["regular"],
     "subsets": ["chakma", "latin", "latin-ext"],
@@ -26385,6 +26372,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
+  },
+  {
+    "family": "Noto Sans Tirhuta",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tirhuta"],
+    "version": "v16",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanstirhuta/v16/t5t6IQYRNJ6TWjahPR6X-M-apUyby7uGUBsTrn5P.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanstirhuta/v16/t5t6IQYRNJ6TWjahPR6X-M-apUyby4uHWh8.ttf"
   },
   {
     "family": "Noto Sans Osage",
