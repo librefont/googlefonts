@@ -20418,19 +20418,6 @@
     "menu": "http://fonts.gstatic.com/s/paprika/v21/8QIJdijZitv49rDfiIkEqg.woff2"
   },
   {
-    "family": "Trade Winds",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v17",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/tradewinds/v17/AYCPpXPpYNIIT7h8-QenM3Jv7PKP5Z_G.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/tradewinds/v17/AYCPpXPpYNIIT7h8-QenM0Jr5vM.woff2"
-  },
-  {
     "family": "Tilt Prism",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -20442,6 +20429,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/tiltprism/v11/5h11iZgyPHoZ3YikNzWGfWey2dCAZXT-bH9V4VGn-FJ7tLI25oc_rIbAoD6q.woff2"
+  },
+  {
+    "family": "Trade Winds",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v17",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/tradewinds/v17/AYCPpXPpYNIIT7h8-QenM3Jv7PKP5Z_G.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/tradewinds/v17/AYCPpXPpYNIIT7h8-QenM0Jr5vM.woff2"
   },
   {
     "family": "Vampiro One",
@@ -28466,6 +28466,19 @@
     "menu": "http://fonts.gstatic.com/s/yujihentaiganaakebono/v12/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wTy8PqQ.woff2"
   },
   {
+    "family": "Noto Sans Kaithi",
+    "variants": ["regular"],
+    "subsets": ["kaithi", "latin", "latin-ext"],
+    "version": "v20",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanskaithi/v20/buEtppS9f8_vkXadMBJJu0tWjLwjQigKdoZIKlo.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanskaithi/v20/buEtppS9f8_vkXadMBJJu0tWjLwjciwAdw.woff2"
+  },
+  {
     "family": "Noto Sans Medefaidrin",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "medefaidrin"],
@@ -28480,19 +28493,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmedefaidrin/v23/WwkzxOq6Dk-wranENynkfeVsNbRZtbOIdLb1exeM4ZeuabBfmErWpTz_8A.woff2"
-  },
-  {
-    "family": "Noto Sans Kaithi",
-    "variants": ["regular"],
-    "subsets": ["kaithi", "latin", "latin-ext"],
-    "version": "v20",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanskaithi/v20/buEtppS9f8_vkXadMBJJu0tWjLwjQigKdoZIKlo.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanskaithi/v20/buEtppS9f8_vkXadMBJJu0tWjLwjciwAdw.woff2"
   },
   {
     "family": "Noto Sans Old North Arabian",
@@ -28756,19 +28756,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiA.woff2"
   },
   {
-    "family": "Noto Sans Chakma",
-    "variants": ["regular"],
-    "subsets": ["chakma", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi4J3TQhYBeYo.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZQw.woff2"
-  },
-  {
     "family": "Noto Sans Tirhuta",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tirhuta"],
@@ -28780,6 +28767,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanstirhuta/v16/t5t6IQYRNJ6TWjahPR6X-M-apUyby4uHWho.woff2"
+  },
+  {
+    "family": "Noto Sans Chakma",
+    "variants": ["regular"],
+    "subsets": ["chakma", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi4J3TQhYBeYo.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZQw.woff2"
   },
   {
     "family": "Noto Sans Osage",
