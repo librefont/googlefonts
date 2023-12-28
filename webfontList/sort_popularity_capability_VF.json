@@ -23354,19 +23354,6 @@
     "menu": "http://fonts.gstatic.com/s/tirodevanagarimarathi/v5/fC1xPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkouDqBpI.ttf"
   },
   {
-    "family": "Uchen",
-    "variants": ["regular"],
-    "subsets": ["latin", "tibetan"],
-    "version": "v9",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/uchen/v9/nKKZ-GokGZ1baIaSEQGodLxA.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/uchen/v9/nKKZ-GokGZ1baLaTGwU.ttf"
-  },
-  {
     "family": "Tourney",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -23391,6 +23378,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Uchen",
+    "variants": ["regular"],
+    "subsets": ["latin", "tibetan"],
+    "version": "v9",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/uchen/v9/nKKZ-GokGZ1baIaSEQGodLxA.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/uchen/v9/nKKZ-GokGZ1baLaTGwU.ttf"
   },
   {
     "family": "Victor Mono",
@@ -26975,6 +26975,19 @@
     "menu": "http://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAM.ttf"
   },
   {
+    "family": "Noto Sans Old Sogdian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-sogdian"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansoldsogdian/v16/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURt7neIqM-9uyg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansoldsogdian/v16/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgu.ttf"
+  },
+  {
     "family": "Noto Sans Meroitic",
     "variants": ["regular"],
     "subsets": [
@@ -26992,19 +27005,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzgTJX.ttf"
-  },
-  {
-    "family": "Noto Sans Old Sogdian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-sogdian"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansoldsogdian/v16/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURt7neIqM-9uyg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansoldsogdian/v16/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgu.ttf"
   },
   {
     "family": "Noto Sans Soyombo",
