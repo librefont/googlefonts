@@ -26201,19 +26201,6 @@
     "menu": "http://fonts.gstatic.com/s/yujihentaiganaakebono/v12/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wTy8PqE.ttf"
   },
   {
-    "family": "Noto Sans Indic Siyaq Numbers",
-    "variants": ["regular"],
-    "subsets": ["indic-siyaq-numbers", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-08-17",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKx2WPOpVd5Iu.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKy2XNu4.ttf"
-  },
-  {
     "family": "Wavefont",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -26242,6 +26229,19 @@
         "end": 1000
       }
     ]
+  },
+  {
+    "family": "Noto Sans Indic Siyaq Numbers",
+    "variants": ["regular"],
+    "subsets": ["indic-siyaq-numbers", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-08-17",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKx2WPOpVd5Iu.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKy2XNu4.ttf"
   },
   {
     "family": "Noto Sans Wancho",
