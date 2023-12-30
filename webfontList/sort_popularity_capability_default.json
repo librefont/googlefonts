@@ -29309,19 +29309,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqE.ttf"
   },
   {
-    "family": "Noto Sans Elymaic",
-    "variants": ["regular"],
-    "subsets": ["elymaic", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD4AjWOT0zi2V.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuA.ttf"
-  },
-  {
     "family": "Noto Sans Elbasan",
     "variants": ["regular"],
     "subsets": ["elbasan", "latin", "latin-ext"],
@@ -29333,6 +29320,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvEdkp-o.ttf"
+  },
+  {
+    "family": "Noto Sans Elymaic",
+    "variants": ["regular"],
+    "subsets": ["elymaic", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD4AjWOT0zi2V.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuA.ttf"
   },
   {
     "family": "Noto Sans Ugaritic",
