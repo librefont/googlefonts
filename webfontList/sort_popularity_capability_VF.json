@@ -21660,19 +21660,6 @@
     "menu": "http://fonts.gstatic.com/s/solitreo/v2/r05YGLlS5a9KYsyNO_uowjI.ttf"
   },
   {
-    "family": "Festive",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/festive/v9/cY9Ffj6KX1xcoDWhFtfgy9HTkak.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/festive/v9/cY9Ffj6KX1xcoDWhJtbqzw.ttf"
-  },
-  {
     "family": "Bungee Outline",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -21684,6 +21671,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/bungeeoutline/v20/_6_mEDvmVP24UvU2MyiGDslL3Tg2aBY.ttf"
+  },
+  {
+    "family": "Festive",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v9",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/festive/v9/cY9Ffj6KX1xcoDWhFtfgy9HTkak.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/festive/v9/cY9Ffj6KX1xcoDWhJtbqzw.ttf"
   },
   {
     "family": "Noto Sans Buhid",
@@ -26923,19 +26923,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-u.ttf"
   },
   {
-    "family": "Noto Sans SignWriting",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "signwriting"],
-    "version": "v4",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUEVCARYQemg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqE.ttf"
-  },
-  {
     "family": "Noto Sans Ogham",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "ogham"],
@@ -26947,6 +26934,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf"
+  },
+  {
+    "family": "Noto Sans SignWriting",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "signwriting"],
+    "version": "v4",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUEVCARYQemg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqE.ttf"
   },
   {
     "family": "Noto Sans Khojki",
