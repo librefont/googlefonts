@@ -20022,19 +20022,6 @@
     "menu": "http://fonts.gstatic.com/s/montecarlo/v11/buEzpo6-f9X01GadLA0G4Csf_Q.woff2"
   },
   {
-    "family": "Beth Ellen",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v17",
-    "lastModified": "2022-04-20",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/bethellen/v17/WwkbxPW2BE-3rb_JNT-qEIUiVNo5xNY.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/bethellen/v17/WwkbxPW2BE-3rb_JNT-qIIEoVQ.woff2"
-  },
-  {
     "family": "Carrois Gothic SC",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -20046,6 +20033,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/carroisgothicsc/v15/ZgNJjOVHM6jfUZCmyUqT2A2HVKjc-18mPnc.woff2"
+  },
+  {
+    "family": "Beth Ellen",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v17",
+    "lastModified": "2022-04-20",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/bethellen/v17/WwkbxPW2BE-3rb_JNT-qEIUiVNo5xNY.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/bethellen/v17/WwkbxPW2BE-3rb_JNT-qIIEoVQ.woff2"
   },
   {
     "family": "Train One",
@@ -29257,19 +29257,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanskhojki/v18/-nFnOHM29Oofr2wohFbTuPPKVWpmG_Zx0g.woff2"
   },
   {
-    "family": "Noto Sans SignWriting",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "signwriting"],
-    "version": "v4",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUFFCARYQemg.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqB.woff2"
-  },
-  {
     "family": "Noto Sans Nushu",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "nushu"],
@@ -29281,6 +29268,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYa1WVoN.woff2"
+  },
+  {
+    "family": "Noto Sans SignWriting",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "signwriting"],
+    "version": "v4",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUFFCARYQemg.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqB.woff2"
   },
   {
     "family": "Noto Sans Kharoshthi",
