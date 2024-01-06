@@ -24822,19 +24822,6 @@
     "menu": "http://fonts.gstatic.com/s/fruktur/v27/SZc53FHsOru5QYsMTzzMlQ.ttf"
   },
   {
-    "family": "Climate Crisis",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v7",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/climatecrisis/v7/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFp6jaUrGb7PsQ.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/climatecrisis/v7/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFpKjK8v.ttf"
-  },
-  {
     "family": "Butcherman",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -24846,6 +24833,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/butcherman/v24/2EbiL-thF0loflXUBOdb5zS5rw.ttf"
+  },
+  {
+    "family": "Climate Crisis",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v7",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/climatecrisis/v7/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFp6jaUrGb7PsQ.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/climatecrisis/v7/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFpKjK8v.ttf"
   },
   {
     "family": "Noto Sans Meetei Mayek",
@@ -25306,37 +25306,6 @@
     "menu": "http://fonts.gstatic.com/s/yujiboku/v5/P5sAzZybeNzXsA9xj1FUjLev.ttf"
   },
   {
-    "family": "Truculenta",
-    "variants": [
-      "100",
-      "200",
-      "300",
-      "regular",
-      "500",
-      "600",
-      "700",
-      "800",
-      "900"
-    ],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v22",
-    "lastModified": "2023-05-02",
-    "files": {
-      "100": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMlAjswcFHnJMMhg.ttf",
-      "200": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMtAiswcFHnJMMhg.ttf",
-      "300": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMg4iswcFHnJMMhg.ttf",
-      "500": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMmIiswcFHnJMMhg.ttf",
-      "600": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMo4lswcFHnJMMhg.ttf",
-      "700": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMrclswcFHnJMMhg.ttf",
-      "800": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMtAlswcFHnJMMhg.ttf",
-      "900": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMvklswcFHnJMMhg.ttf",
-      "regular": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMlAiswcFHnJMMhg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMlAigwYPGg.ttf"
-  },
-  {
     "family": "Noto Serif Gujarati",
     "variants": [
       "100",
@@ -25366,6 +25335,37 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notoserifgujarati/v27/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycLzvOVY.ttf"
+  },
+  {
+    "family": "Truculenta",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v22",
+    "lastModified": "2023-05-02",
+    "files": {
+      "100": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMlAjswcFHnJMMhg.ttf",
+      "200": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMtAiswcFHnJMMhg.ttf",
+      "300": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMg4iswcFHnJMMhg.ttf",
+      "500": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMmIiswcFHnJMMhg.ttf",
+      "600": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMo4lswcFHnJMMhg.ttf",
+      "700": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMrclswcFHnJMMhg.ttf",
+      "800": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMtAlswcFHnJMMhg.ttf",
+      "900": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMvklswcFHnJMMhg.ttf",
+      "regular": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMlAiswcFHnJMMhg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMlAigwYPGg.ttf"
   },
   {
     "family": "Bacasime Antique",

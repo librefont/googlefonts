@@ -23031,6 +23031,26 @@
     "menu": "http://fonts.gstatic.com/s/yujiboku/v5/P5sAzZybeNzXsA9xj1FUjLev.ttf"
   },
   {
+    "family": "Noto Serif Gujarati",
+    "variants": ["regular"],
+    "subsets": ["gujarati", "latin", "latin-ext", "math", "symbols"],
+    "version": "v27",
+    "lastModified": "2023-11-28",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notoserifgujarati/v27/hESt6WBlOixO-3OJ1FTmTsmqlBRUJBVkaAhpVQOwBDU.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notoserifgujarati/v27/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycLzvOVY.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ]
+  },
+  {
     "family": "Truculenta",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -23053,26 +23073,6 @@
         "start": 75,
         "end": 125
       },
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
-    "family": "Noto Serif Gujarati",
-    "variants": ["regular"],
-    "subsets": ["gujarati", "latin", "latin-ext", "math", "symbols"],
-    "version": "v27",
-    "lastModified": "2023-11-28",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notoserifgujarati/v27/hESt6WBlOixO-3OJ1FTmTsmqlBRUJBVkaAhpVQOwBDU.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notoserifgujarati/v27/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycLzvOVY.ttf",
-    "axes": [
       {
         "tag": "wght",
         "start": 100,
@@ -26381,19 +26381,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf"
   },
   {
-    "family": "Noto Sans Psalter Pahlavi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "psalter-pahlavi"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanspsalterpahlavi/v16/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w1G3KsUQBct4.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanspsalterpahlavi/v16/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w5GzAtQ.ttf"
-  },
-  {
     "family": "Noto Sans Vai",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vai"],
@@ -26405,6 +26392,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrUdMXmCA.ttf"
+  },
+  {
+    "family": "Noto Sans Psalter Pahlavi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "psalter-pahlavi"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanspsalterpahlavi/v16/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w1G3KsUQBct4.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanspsalterpahlavi/v16/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w5GzAtQ.ttf"
   },
   {
     "family": "Noto Sans Inscriptional Parthian",
