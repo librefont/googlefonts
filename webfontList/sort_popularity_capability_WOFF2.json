@@ -20924,19 +20924,6 @@
     "menu": "http://fonts.gstatic.com/s/cagliostro/v21/ZgNWjP5HM73BV5amnX-TvGTOMg.woff2"
   },
   {
-    "family": "Train One",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
-    "version": "v13",
-    "lastModified": "2022-09-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/trainone/v13/gyB-hwkiNtc6KnxUVjWHP6bZRY7JVQ.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/trainone/v13/gyB-hwkiNtc6KnxUVjW3O6zY.woff2"
-  },
-  {
     "family": "Moon Dance",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -20948,6 +20935,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/moondance/v6/WBLgrEbUbFlYW9ekmGawS2ToKQ.woff2"
+  },
+  {
+    "family": "Train One",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
+    "version": "v13",
+    "lastModified": "2022-09-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/trainone/v13/gyB-hwkiNtc6KnxUVjWHP6bZRY7JVQ.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/trainone/v13/gyB-hwkiNtc6KnxUVjW3O6zY.woff2"
   },
   {
     "family": "Comforter",
@@ -27922,19 +27922,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansduployan/v17/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gm.woff2"
   },
   {
-    "family": "Noto Serif Khitan Small Script",
-    "variants": ["regular"],
-    "subsets": ["khitan-small-script", "latin", "latin-ext"],
-    "version": "v4",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notoserifkhitansmallscript/v4/jizzRFVKsm4Bt9PrbSzC4KLlQUF5lRJg5j-l5PvyhfTdd4TsYslb39iddA.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notoserifkhitansmallscript/v4/jizzRFVKsm4Bt9PrbSzC4KLlQUF5lRJg5j-l5PvyhfTdd4TcZsNa.woff2"
-  },
-  {
     "family": "Noto Sans Egyptian Hieroglyphs",
     "variants": ["regular"],
     "subsets": ["egyptian-hieroglyphs", "latin", "latin-ext"],
@@ -27946,6 +27933,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v28/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYintSFi9.woff2"
+  },
+  {
+    "family": "Noto Serif Khitan Small Script",
+    "variants": ["regular"],
+    "subsets": ["khitan-small-script", "latin", "latin-ext"],
+    "version": "v4",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notoserifkhitansmallscript/v4/jizzRFVKsm4Bt9PrbSzC4KLlQUF5lRJg5j-l5PvyhfTdd4TsYslb39iddA.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notoserifkhitansmallscript/v4/jizzRFVKsm4Bt9PrbSzC4KLlQUF5lRJg5j-l5PvyhfTdd4TcZsNa.woff2"
   },
   {
     "family": "Noto Sans Limbu",
