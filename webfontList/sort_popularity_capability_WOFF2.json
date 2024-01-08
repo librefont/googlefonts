@@ -24429,19 +24429,6 @@
     "menu": "http://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_O0j_KXbm.woff2"
   },
   {
-    "family": "Bokor",
-    "variants": ["regular"],
-    "subsets": ["khmer", "latin"],
-    "version": "v30",
-    "lastModified": "2022-04-21",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/bokor/v30/m8JcjfpeeaqTiR2TdInbcaxE.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/bokor/v30/m8JcjfpeeaqTiS2Xfog.woff2"
-  },
-  {
     "family": "Yuji Mai",
     "variants": ["regular"],
     "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
@@ -24453,6 +24440,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/yujimai/v5/ZgNQjPxdJ7DEHrS0gB39jGA.woff2"
+  },
+  {
+    "family": "Bokor",
+    "variants": ["regular"],
+    "subsets": ["khmer", "latin"],
+    "version": "v30",
+    "lastModified": "2022-04-21",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/bokor/v30/m8JcjfpeeaqTiR2TdInbcaxE.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/bokor/v30/m8JcjfpeeaqTiS2Xfog.woff2"
   },
   {
     "family": "Jim Nightshade",
@@ -28525,19 +28525,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansyi/v19/sJoD3LFXjsSdcnzn071rO3aZxFrI.woff2"
   },
   {
-    "family": "Noto Sans Tifinagh",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tifinagh"],
-    "version": "v20",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbn77nEcXfs4Q.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PF.woff2"
-  },
-  {
     "family": "Yuji Hentaigana Akebono",
     "variants": ["regular"],
     "subsets": ["japanese", "latin", "latin-ext"],
@@ -28549,6 +28536,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/yujihentaiganaakebono/v12/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wTy8PqQ.woff2"
+  },
+  {
+    "family": "Noto Sans Tifinagh",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tifinagh"],
+    "version": "v20",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbn77nEcXfs4Q.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PF.woff2"
   },
   {
     "family": "Noto Sans Ol Chiki",
