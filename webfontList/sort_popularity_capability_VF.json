@@ -23111,20 +23111,6 @@
     ]
   },
   {
-    "family": "Zen Loop",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v9",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEK9zqwzX5vOG.ttf",
-      "italic": "http://fonts.gstatic.com/s/zenloop/v9/h0GtssK16UsnJwHsEJ9xoQj14-OGJ0w.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEJ9yoQg.ttf"
-  },
-  {
     "family": "Inclusive Sans",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -23137,6 +23123,20 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/inclusivesans/v1/0nkxC9biPuwflXcJ46P4PGWE0-70qQI.ttf"
+  },
+  {
+    "family": "Zen Loop",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v9",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEK9zqwzX5vOG.ttf",
+      "italic": "http://fonts.gstatic.com/s/zenloop/v9/h0GtssK16UsnJwHsEJ9xoQj14-OGJ0w.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEJ9yoQg.ttf"
   },
   {
     "family": "Tiro Devanagari Marathi",
@@ -26410,19 +26410,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jlap5T.ttf"
   },
   {
-    "family": "Noto Sans Mro",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mro"],
-    "version": "v18",
-    "lastModified": "2022-12-08",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39WDzRtjkho4M.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3bsg.ttf"
-  },
-  {
     "family": "Noto Sans Masaram Gondi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "masaram-gondi"],
@@ -26434,6 +26421,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf"
+  },
+  {
+    "family": "Noto Sans Mro",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mro"],
+    "version": "v18",
+    "lastModified": "2022-12-08",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39WDzRtjkho4M.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3bsg.ttf"
   },
   {
     "family": "Wavefont",
@@ -26668,19 +26668,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3gA.ttf"
   },
   {
-    "family": "Noto Sans Old South Arabian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-south-arabian"],
-    "version": "v16",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansoldsoutharabian/v16/3qT5oiOhnSyU8TNFIdhZTice3hB_HWKsEnF--0XCHiKx1OtDT9HwTA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansoldsoutharabian/v16/3qT5oiOhnSyU8TNFIdhZTice3hB_HWKsEnF--0XCHiKB1eFH.ttf"
-  },
-  {
     "family": "Noto Sans Mandaic",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mandaic"],
@@ -26692,6 +26679,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmandaic/v16/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
+  },
+  {
+    "family": "Noto Sans Old South Arabian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-south-arabian"],
+    "version": "v16",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansoldsoutharabian/v16/3qT5oiOhnSyU8TNFIdhZTice3hB_HWKsEnF--0XCHiKx1OtDT9HwTA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansoldsoutharabian/v16/3qT5oiOhnSyU8TNFIdhZTice3hB_HWKsEnF--0XCHiKB1eFH.ttf"
   },
   {
     "family": "Noto Sans Hanifi Rohingya",
