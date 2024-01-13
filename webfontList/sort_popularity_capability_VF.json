@@ -24627,6 +24627,26 @@
     "menu": "http://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PA.ttf"
   },
   {
+    "family": "Kablammo",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+    "version": "v1",
+    "lastModified": "2023-06-08",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/kablammo/v1/bWt77fHPcgrhC-J3ld_qU8Z0WH5p.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/kablammo/v1/bWtm7fHPcgrhC-J3lcXhcQTY5Ixs6Au9YgCTjhcV.ttf",
+    "axes": [
+      {
+        "tag": "MORF",
+        "start": 0,
+        "end": 60
+      }
+    ]
+  },
+  {
     "family": "Noto Serif Ethiopic",
     "variants": ["regular"],
     "subsets": ["ethiopic", "latin", "latin-ext"],
@@ -24648,26 +24668,6 @@
         "tag": "wght",
         "start": 100,
         "end": 900
-      }
-    ]
-  },
-  {
-    "family": "Kablammo",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
-    "version": "v1",
-    "lastModified": "2023-06-08",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/kablammo/v1/bWt77fHPcgrhC-J3ld_qU8Z0WH5p.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/kablammo/v1/bWtm7fHPcgrhC-J3lcXhcQTY5Ixs6Au9YgCTjhcV.ttf",
-    "axes": [
-      {
-        "tag": "MORF",
-        "start": 0,
-        "end": 60
       }
     ]
   },
