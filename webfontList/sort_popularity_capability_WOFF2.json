@@ -25311,6 +25311,19 @@
     "menu": "http://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEJ9yoQ0.woff2"
   },
   {
+    "family": "Ballet",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v27",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/ballet/v27/QGYyz_MYZA-HM4NjuGOVnUEXme1I4Xi3C4S-EiAou6Y.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/ballet/v27/QGYyz_MYZA-HM4NjuGOVnUEXme1I4Xi3O4C0Ew.woff2"
+  },
+  {
     "family": "Truculenta",
     "variants": [
       "100",
@@ -25340,19 +25353,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMlAigwYPHw.woff2"
-  },
-  {
-    "family": "Ballet",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v27",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/ballet/v27/QGYyz_MYZA-HM4NjuGOVnUEXme1I4Xi3C4S-EiAou6Y.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/ballet/v27/QGYyz_MYZA-HM4NjuGOVnUEXme1I4Xi3O4C0Ew.woff2"
   },
   {
     "family": "Tai Heritage Pro",
@@ -28569,19 +28569,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanslisu/v25/uk-3EGO3o6EruUbnwovcYhz6kh57_nqbcTdjJnHP2Vwd2tgk.woff2"
   },
   {
-    "family": "Noto Sans Chorasmian",
-    "variants": ["regular"],
-    "subsets": ["chorasmian", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanschorasmian/v1/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S5v3oH7w4g9b.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanschorasmian/v1/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S6vzqn8.woff2"
-  },
-  {
     "family": "Noto Sans Tagbanwa",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tagbanwa"],
@@ -28593,6 +28580,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanstagbanwa/v18/Y4GWYbB8VTEp4t3MKJSMmQdIKjRtt_npRz4F.woff2"
+  },
+  {
+    "family": "Noto Sans Chorasmian",
+    "variants": ["regular"],
+    "subsets": ["chorasmian", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanschorasmian/v1/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S5v3oH7w4g9b.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanschorasmian/v1/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S6vzqn8.woff2"
   },
   {
     "family": "Rock 3D",
