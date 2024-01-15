@@ -24311,19 +24311,6 @@
     ]
   },
   {
-    "family": "Noto Music",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "music"],
-    "version": "v20",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notomusic/v20/pe0rMIiSN5pO63htf1sxIteQB9Zra1U.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notomusic/v20/pe0rMIiSN5pO63htf1sxEtaaAw.ttf"
-  },
-  {
     "family": "Sigmar",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -24335,6 +24322,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/sigmar/v7/hv-XlzJgIE8a85pkbGwz.ttf"
+  },
+  {
+    "family": "Noto Music",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "music"],
+    "version": "v20",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notomusic/v20/pe0rMIiSN5pO63htf1sxIteQB9Zra1U.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notomusic/v20/pe0rMIiSN5pO63htf1sxEtaaAw.ttf"
   },
   {
     "family": "Noto Serif Tangut",
