@@ -14715,19 +14715,6 @@
     "menu": "http://fonts.gstatic.com/s/elsie/v24/BCanqZABrez54xYv_M0.ttf"
   },
   {
-    "family": "Libre Caslon Display",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/librecaslondisplay/v16/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr2lRdRhtCC4d.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/librecaslondisplay/v16/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lQfxw.ttf"
-  },
-  {
     "family": "Shojumaru",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -14739,6 +14726,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/shojumaru/v15/rax_HiWfutkLLnaKCtl8BRha.ttf"
+  },
+  {
+    "family": "Libre Caslon Display",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/librecaslondisplay/v16/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr2lRdRhtCC4d.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/librecaslondisplay/v16/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lQfxw.ttf"
   },
   {
     "family": "Galada",
@@ -25926,19 +25926,6 @@
     "menu": "http://fonts.gstatic.com/s/notoserifgrantha/v19/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlP.ttf"
   },
   {
-    "family": "Noto Sans Saurashtra",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "saurashtra"],
-    "version": "v23",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9ndjhPTSIx9.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBc.ttf"
-  },
-  {
     "family": "Noto Sans Tamil Supplement",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tamil-supplement"],
@@ -25950,6 +25937,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-c.ttf"
+  },
+  {
+    "family": "Noto Sans Saurashtra",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "saurashtra"],
+    "version": "v23",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9ndjhPTSIx9.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBc.ttf"
   },
   {
     "family": "Noto Sans Mayan Numerals",
