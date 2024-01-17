@@ -25429,6 +25429,19 @@
     "menu": "http://fonts.gstatic.com/s/inclusivesans/v1/0nkxC9biPuwflXcJ46P4PGWE0-70qQI.ttf"
   },
   {
+    "family": "Sofadi One",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v21",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/sofadione/v21/JIA2UVBxdnVBuElZaMFGcDOIETkmYDU.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/sofadione/v21/JIA2UVBxdnVBuElZaMFGQDKCFQ.ttf"
+  },
+  {
     "family": "Noto Sans Gurmukhi",
     "variants": [
       "100",
@@ -25458,19 +25471,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansgurmukhi/v26/w8g9H3EvQP81sInb43inmyN9zZ7hb7ATbSWo4q8dJ74a3cVrYFQ_bogT0-gPeG1Oekbwbf8.ttf"
-  },
-  {
-    "family": "Sofadi One",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v21",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/sofadione/v21/JIA2UVBxdnVBuElZaMFGcDOIETkmYDU.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/sofadione/v21/JIA2UVBxdnVBuElZaMFGQDKCFQ.ttf"
   },
   {
     "family": "IM Fell Double Pica SC",
@@ -27171,19 +27171,6 @@
     "menu": "http://fonts.gstatic.com/s/hanalei/v23/E21n_dD8iufIjBRHbzksUw.ttf"
   },
   {
-    "family": "Noto Sans Glagolitic",
-    "variants": ["regular"],
-    "subsets": ["cyrillic-ext", "glagolitic", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansglagolitic/v17/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4ERK4Amu7nM1.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansglagolitic/v17/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRL6g0.ttf"
-  },
-  {
     "family": "Noto Serif NP Hmong",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "nyiakeng-puachue-hmong"],
@@ -27198,6 +27185,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notoserifnphmong/v1/pONN1gItFMO79E4L1GPUi-2sixKHZyFj9Jy6_KhXPwzdvbjPhGLo1Ok.ttf"
+  },
+  {
+    "family": "Noto Sans Glagolitic",
+    "variants": ["regular"],
+    "subsets": ["cyrillic-ext", "glagolitic", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansglagolitic/v17/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4ERK4Amu7nM1.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansglagolitic/v17/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRL6g0.ttf"
   },
   {
     "family": "Twinkle Star",
