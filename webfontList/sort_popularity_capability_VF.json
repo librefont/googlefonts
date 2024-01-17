@@ -23125,6 +23125,19 @@
     "menu": "http://fonts.gstatic.com/s/inclusivesans/v1/0nkxC9biPuwflXcJ46P4PGWE0-70qQI.ttf"
   },
   {
+    "family": "Sofadi One",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v21",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/sofadione/v21/JIA2UVBxdnVBuElZaMFGcDOIETkmYDU.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/sofadione/v21/JIA2UVBxdnVBuElZaMFGQDKCFQ.ttf"
+  },
+  {
     "family": "Noto Sans Gurmukhi",
     "variants": ["regular"],
     "subsets": ["gurmukhi", "latin", "latin-ext"],
@@ -23148,19 +23161,6 @@
         "end": 900
       }
     ]
-  },
-  {
-    "family": "Sofadi One",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v21",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/sofadione/v21/JIA2UVBxdnVBuElZaMFGcDOIETkmYDU.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/sofadione/v21/JIA2UVBxdnVBuElZaMFGQDKCFQ.ttf"
   },
   {
     "family": "IM Fell Double Pica SC",
@@ -26162,19 +26162,6 @@
     "menu": "http://fonts.gstatic.com/s/mingzat/v8/0QIgMX5C-o-oWWyvNtpunw.ttf"
   },
   {
-    "family": "Noto Sans Bhaiksuki",
-    "variants": ["regular"],
-    "subsets": ["bhaiksuki", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhj8rLUdU4wh9U.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhjwrPecQ.ttf"
-  },
-  {
     "family": "Noto Sans Old Turkic",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "old-turkic"],
@@ -26186,6 +26173,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsH2Qhkg.ttf"
+  },
+  {
+    "family": "Noto Sans Bhaiksuki",
+    "variants": ["regular"],
+    "subsets": ["bhaiksuki", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhj8rLUdU4wh9U.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhjwrPecQ.ttf"
   },
   {
     "family": "Noto Sans Saurashtra",

@@ -27171,6 +27171,19 @@
     "menu": "http://fonts.gstatic.com/s/hanalei/v23/E21n_dD8iufIjBRHbzksUw.ttf"
   },
   {
+    "family": "Noto Sans Glagolitic",
+    "variants": ["regular"],
+    "subsets": ["cyrillic-ext", "glagolitic", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansglagolitic/v17/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4ERK4Amu7nM1.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansglagolitic/v17/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRL6g0.ttf"
+  },
+  {
     "family": "Noto Serif NP Hmong",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "nyiakeng-puachue-hmong"],
@@ -27185,19 +27198,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notoserifnphmong/v1/pONN1gItFMO79E4L1GPUi-2sixKHZyFj9Jy6_KhXPwzdvbjPhGLo1Ok.ttf"
-  },
-  {
-    "family": "Noto Sans Glagolitic",
-    "variants": ["regular"],
-    "subsets": ["cyrillic-ext", "glagolitic", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansglagolitic/v17/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4ERK4Amu7nM1.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansglagolitic/v17/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRL6g0.ttf"
   },
   {
     "family": "Twinkle Star",
@@ -29192,19 +29192,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoV.ttf"
   },
   {
-    "family": "Noto Sans Ogham",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "ogham"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hrt5laQxcoCA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf"
-  },
-  {
     "family": "Noto Sans Khojki",
     "variants": ["regular"],
     "subsets": ["khojki", "latin", "latin-ext"],
@@ -29216,6 +29203,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanskhojki/v18/-nFnOHM29Oofr2wohFbTuPPKVWpmG_Zx1w.ttf"
+  },
+  {
+    "family": "Noto Sans Ogham",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "ogham"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hrt5laQxcoCA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf"
   },
   {
     "family": "Noto Sans Linear B",
