@@ -17065,19 +17065,6 @@
     "menu": "http://fonts.gstatic.com/s/redrose/v20/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yrfszcz6o.ttf"
   },
   {
-    "family": "Ruthie",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v26",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/ruthie/v26/gokvH63sGkdqXuU9lD53Q2u_mQ.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/ruthie/v26/gokvH63sGkdqXuUNlTRz.ttf"
-  },
-  {
     "family": "Encode Sans Expanded",
     "variants": [
       "100",
@@ -17107,6 +17094,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/encodesansexpanded/v11/c4m_1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpojKQM.ttf"
+  },
+  {
+    "family": "Ruthie",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v26",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/ruthie/v26/gokvH63sGkdqXuU9lD53Q2u_mQ.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/ruthie/v26/gokvH63sGkdqXuUNlTRz.ttf"
   },
   {
     "family": "Farro",
@@ -25940,19 +25940,6 @@
     "menu": "http://fonts.gstatic.com/s/langar/v27/kJEyBukW7AIlgjGlrD9d.ttf"
   },
   {
-    "family": "Yuji Mai",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
-    "version": "v5",
-    "lastModified": "2022-09-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/yujimai/v5/ZgNQjPxdJ7DEHrS0gC38hmHmNpCO.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/yujimai/v5/ZgNQjPxdJ7DEHrS0gB39jGU.ttf"
-  },
-  {
     "family": "Bacasime Antique",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -25964,6 +25951,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZCwWnTQ.ttf"
+  },
+  {
+    "family": "Yuji Mai",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
+    "version": "v5",
+    "lastModified": "2022-09-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/yujimai/v5/ZgNQjPxdJ7DEHrS0gC38hmHmNpCO.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/yujimai/v5/ZgNQjPxdJ7DEHrS0gB39jGU.ttf"
   },
   {
     "family": "Snowburst One",
@@ -29108,19 +29108,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanssyriac/v16/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5M.ttf"
   },
   {
-    "family": "Noto Sans Old Permic",
-    "variants": ["regular"],
-    "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
-    "version": "v17",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdXgv_dKYB5.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf"
-  },
-  {
     "family": "Noto Sans Mandaic",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mandaic"],
@@ -29132,6 +29119,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmandaic/v16/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
+  },
+  {
+    "family": "Noto Sans Old Permic",
+    "variants": ["regular"],
+    "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
+    "version": "v17",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdXgv_dKYB5.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf"
   },
   {
     "family": "Noto Sans Caucasian Albanian",

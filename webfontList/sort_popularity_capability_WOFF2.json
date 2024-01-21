@@ -17065,19 +17065,6 @@
     "menu": "http://fonts.gstatic.com/s/redrose/v20/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yrfszcz6t.woff2"
   },
   {
-    "family": "Ruthie",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v26",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/ruthie/v26/gokvH63sGkdqXuU9kT53Q2u_mQ.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/ruthie/v26/gokvH63sGkdqXuUNlTR2.woff2"
-  },
-  {
     "family": "Encode Sans Expanded",
     "variants": [
       "100",
@@ -17107,6 +17094,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/encodesansexpanded/v11/c4m_1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpojKQY.woff2"
+  },
+  {
+    "family": "Ruthie",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v26",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/ruthie/v26/gokvH63sGkdqXuU9kT53Q2u_mQ.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/ruthie/v26/gokvH63sGkdqXuUNlTR2.woff2"
   },
   {
     "family": "Farro",
@@ -28754,19 +28754,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansinscriptionalparthian/v16/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2ykmBI0DI.woff2"
   },
   {
-    "family": "Noto Sans Old Turkic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-turkic"],
-    "version": "v17",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsE2UjEw-Vyws.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsH2Qhk0.woff2"
-  },
-  {
     "family": "Noto Sans Mende Kikakui",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mende-kikakui"],
@@ -28778,6 +28765,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjM.woff2"
+  },
+  {
+    "family": "Noto Sans Old Turkic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-turkic"],
+    "version": "v17",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsE2UjEw-Vyws.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsH2Qhk0.woff2"
   },
   {
     "family": "Noto Sans Newa",
@@ -29108,19 +29108,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanssyriac/v16/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5Y.woff2"
   },
   {
-    "family": "Noto Sans Old Permic",
-    "variants": ["regular"],
-    "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
-    "version": "v17",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdSgv_dKYB5.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiP4.woff2"
-  },
-  {
     "family": "Noto Sans Mandaic",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mandaic"],
@@ -29132,6 +29119,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmandaic/v16/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9AI.woff2"
+  },
+  {
+    "family": "Noto Sans Old Permic",
+    "variants": ["regular"],
+    "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
+    "version": "v17",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdSgv_dKYB5.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiP4.woff2"
   },
   {
     "family": "Noto Sans Caucasian Albanian",
