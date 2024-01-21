@@ -29108,19 +29108,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanssyriac/v16/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5M.ttf"
   },
   {
-    "family": "Noto Sans Mandaic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mandaic"],
-    "version": "v16",
-    "lastModified": "2023-08-08",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansmandaic/v16/cIfnMbdWt1w_HgCcilqhKQBo_OsMI5_A_gMk0izH.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansmandaic/v16/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
-  },
-  {
     "family": "Noto Sans Old Permic",
     "variants": ["regular"],
     "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
@@ -29132,6 +29119,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf"
+  },
+  {
+    "family": "Noto Sans Mandaic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mandaic"],
+    "version": "v16",
+    "lastModified": "2023-08-08",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansmandaic/v16/cIfnMbdWt1w_HgCcilqhKQBo_OsMI5_A_gMk0izH.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansmandaic/v16/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
   },
   {
     "family": "Noto Sans Caucasian Albanian",
