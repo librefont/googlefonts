@@ -15812,6 +15812,19 @@
     "menu": "http://fonts.gstatic.com/s/orienta/v15/PlI9FlK4Jrl5Y9zNSyai8A.ttf"
   },
   {
+    "family": "Patrick Hand SC",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v15",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/patrickhandsc/v15/0nkwC9f7MfsBiWcLtY65AWDK873ViSi6JQc7Vg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/patrickhandsc/v15/0nkwC9f7MfsBiWcLtY65AWDK873liCK-.ttf"
+  },
+  {
     "family": "Corinthia",
     "variants": ["regular", "700"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -15824,19 +15837,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/corinthia/v11/wEO_EBrAnchaJyPMHE01UPoP.ttf"
-  },
-  {
-    "family": "Patrick Hand SC",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v15",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/patrickhandsc/v15/0nkwC9f7MfsBiWcLtY65AWDK873ViSi6JQc7Vg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/patrickhandsc/v15/0nkwC9f7MfsBiWcLtY65AWDK873liCK-.ttf"
   },
   {
     "family": "Almendra",
@@ -19485,19 +19485,6 @@
     "menu": "http://fonts.gstatic.com/s/longcang/v17/LYjAdGP8kkgoTec8zkRQrHov.ttf"
   },
   {
-    "family": "Crushed",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v29",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/crushed/v29/U9Mc6dym6WXImTlFT1kfuIqyLzA.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/crushed/v29/U9Mc6dym6WXImTlFf1gVvA.ttf"
-  },
-  {
     "family": "Noto Sans Oriya",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "oriya"],
@@ -19521,6 +19508,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Crushed",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v29",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/crushed/v29/U9Mc6dym6WXImTlFT1kfuIqyLzA.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/crushed/v29/U9Mc6dym6WXImTlFf1gVvA.ttf"
   },
   {
     "family": "New Tegomin",

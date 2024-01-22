@@ -17723,6 +17723,19 @@
     "menu": "http://fonts.gstatic.com/s/orienta/v15/PlI9FlK4Jrl5Y9zNSyai8A.ttf"
   },
   {
+    "family": "Patrick Hand SC",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v15",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/patrickhandsc/v15/0nkwC9f7MfsBiWcLtY65AWDK873ViSi6JQc7Vg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/patrickhandsc/v15/0nkwC9f7MfsBiWcLtY65AWDK873liCK-.ttf"
+  },
+  {
     "family": "Corinthia",
     "variants": ["regular", "700"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -17735,19 +17748,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/corinthia/v11/wEO_EBrAnchaJyPMHE01UPoP.ttf"
-  },
-  {
-    "family": "Patrick Hand SC",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v15",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/patrickhandsc/v15/0nkwC9f7MfsBiWcLtY65AWDK873ViSi6JQc7Vg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/patrickhandsc/v15/0nkwC9f7MfsBiWcLtY65AWDK873liCK-.ttf"
   },
   {
     "family": "Almendra",
@@ -21586,19 +21586,6 @@
     "menu": "http://fonts.gstatic.com/s/longcang/v17/LYjAdGP8kkgoTec8zkRQrHov.ttf"
   },
   {
-    "family": "Crushed",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v29",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/crushed/v29/U9Mc6dym6WXImTlFT1kfuIqyLzA.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/crushed/v29/U9Mc6dym6WXImTlFf1gVvA.ttf"
-  },
-  {
     "family": "Noto Sans Oriya",
     "variants": [
       "100",
@@ -21628,6 +21615,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansoriya/v27/AYCppXfzfccDCstK_hrjDyADv5e9748vhj3CJBLHIARtgD6TJQS0dJT5Ivj0f5_d4rw.ttf"
+  },
+  {
+    "family": "Crushed",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v29",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/crushed/v29/U9Mc6dym6WXImTlFT1kfuIqyLzA.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/crushed/v29/U9Mc6dym6WXImTlFf1gVvA.ttf"
   },
   {
     "family": "New Tegomin",
@@ -29348,19 +29348,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf"
   },
   {
-    "family": "Noto Sans Kharoshthi",
-    "variants": ["regular"],
-    "subsets": ["kharoshthi", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-04-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE5z4rFyx5mR1.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5plg.ttf"
-  },
-  {
     "family": "Noto Sans Nushu",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "nushu"],
@@ -29372,6 +29359,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYa1WVoI.ttf"
+  },
+  {
+    "family": "Noto Sans Kharoshthi",
+    "variants": ["regular"],
+    "subsets": ["kharoshthi", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-04-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE5z4rFyx5mR1.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5plg.ttf"
   },
   {
     "family": "Noto Sans Old Sogdian",
