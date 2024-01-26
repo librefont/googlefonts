@@ -26527,19 +26527,6 @@
     ]
   },
   {
-    "family": "Noto Sans Inscriptional Parthian",
-    "variants": ["regular"],
-    "subsets": ["inscriptional-parthian", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansinscriptionalparthian/v16/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2yklBJ2jNkLlLr.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansinscriptionalparthian/v16/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2ykmBI0Dc.ttf"
-  },
-  {
     "family": "Noto Sans Gunjala Gondi",
     "variants": ["regular"],
     "subsets": ["gunjala-gondi", "latin", "latin-ext"],
@@ -26558,6 +26545,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Sans Inscriptional Parthian",
+    "variants": ["regular"],
+    "subsets": ["inscriptional-parthian", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansinscriptionalparthian/v16/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2yklBJ2jNkLlLr.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansinscriptionalparthian/v16/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2ykmBI0Dc.ttf"
   },
   {
     "family": "Noto Sans Chakma",
@@ -27073,17 +27073,17 @@
     ]
   },
   {
-    "family": "Workbench",
+    "family": "Sixtyfour",
     "variants": ["regular"],
-    "subsets": ["latin", "math", "symbols"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
     "version": "v1",
     "lastModified": "2024-01-26",
     "files": {
-      "regular": "http://fonts.gstatic.com/s/workbench/v1/FeVSS05Gp6Et7FcfbPFQ3Z5nm29Gww.ttf"
+      "regular": "http://fonts.gstatic.com/s/sixtyfour/v1/OD5BuMCT1numDm3nakX3rEq4DL6w2w.ttf"
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/workbench/v1/FeV8S05Gp6Et7FcfbPFK1rynGd_MxtkvNFmoUDFhgF2VKTGQk6vapeOK2mY.ttf",
+    "menu": "http://fonts.gstatic.com/s/sixtyfour/v1/OD5vuMCT1numDm3nakXtp2h4jg463t9haG_3mBkVsV20uFT3BAE5f43ZlSA.ttf",
     "axes": [
       {
         "tag": "BLED",
@@ -27098,17 +27098,17 @@
     ]
   },
   {
-    "family": "Sixtyfour",
+    "family": "Workbench",
     "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "subsets": ["latin", "math", "symbols"],
     "version": "v1",
     "lastModified": "2024-01-26",
     "files": {
-      "regular": "http://fonts.gstatic.com/s/sixtyfour/v1/OD5BuMCT1numDm3nakX3rEq4DL6w2w.ttf"
+      "regular": "http://fonts.gstatic.com/s/workbench/v1/FeVSS05Gp6Et7FcfbPFQ3Z5nm29Gww.ttf"
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/sixtyfour/v1/OD5vuMCT1numDm3nakXtp2h4jg463t9haG_3mBkVsV20uFT3BAE5f43ZlSA.ttf",
+    "menu": "http://fonts.gstatic.com/s/workbench/v1/FeV8S05Gp6Et7FcfbPFK1rynGd_MxtkvNFmoUDFhgF2VKTGQk6vapeOK2mY.ttf",
     "axes": [
       {
         "tag": "BLED",
