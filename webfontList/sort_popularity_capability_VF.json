@@ -23069,19 +23069,6 @@
     "menu": "http://fonts.gstatic.com/s/trochut/v22/CHyjV-fDDlP9bDIw1nWCeQ.ttf"
   },
   {
-    "family": "Butterfly Kids",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v25",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/butterflykids/v25/ll8lK2CWTjuqAsXDqlnIbMNs5S4arxFrAX1D.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/butterflykids/v25/ll8lK2CWTjuqAsXDqlnIbMNs5R4bpRU.ttf"
-  },
-  {
     "family": "Ysabeau Infant",
     "variants": ["regular", "italic"],
     "subsets": [
@@ -23110,6 +23097,19 @@
         "end": 1000
       }
     ]
+  },
+  {
+    "family": "Butterfly Kids",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v25",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/butterflykids/v25/ll8lK2CWTjuqAsXDqlnIbMNs5S4arxFrAX1D.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/butterflykids/v25/ll8lK2CWTjuqAsXDqlnIbMNs5R4bpRU.ttf"
   },
   {
     "family": "Big Shoulders Inline Text",
@@ -25215,6 +25215,26 @@
     "menu": "http://fonts.gstatic.com/s/notosansolditalic/v16/TuGOUUFzXI5FBtUq5a8bh68BJxxEVam7tVlQfxw.ttf"
   },
   {
+    "family": "Noto Serif Toto",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "toto"],
+    "version": "v4",
+    "lastModified": "2023-03-09",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notoseriftoto/v4/Ktk1ALSMeZjqPnXk1rCkHYHNtwv3F6mZVY9Y5w.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notoseriftoto/v4/Ktk6ALSMeZjqPnXk1rCkHYHNtwvtHItpjRP74dHhCy3Ip-ep4w.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
+      }
+    ]
+  },
+  {
     "family": "M PLUS Code Latin",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -25235,26 +25255,6 @@
       {
         "tag": "wght",
         "start": 100,
-        "end": 700
-      }
-    ]
-  },
-  {
-    "family": "Noto Serif Toto",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "toto"],
-    "version": "v4",
-    "lastModified": "2023-03-09",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notoseriftoto/v4/Ktk1ALSMeZjqPnXk1rCkHYHNtwv3F6mZVY9Y5w.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notoseriftoto/v4/Ktk6ALSMeZjqPnXk1rCkHYHNtwvtHItpjRP74dHhCy3Ip-ep4w.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
         "end": 700
       }
     ]
