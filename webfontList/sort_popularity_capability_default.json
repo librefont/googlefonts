@@ -27800,19 +27800,6 @@
     "menu": "http://fonts.gstatic.com/s/slacksideone/v10/EJRQQgMrXdcGsiBuvnRxodTwZy_fpQ.ttf"
   },
   {
-    "family": "Kings",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v7",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/kings/v7/8AtnGsK4O5CYXU_Iq6GSPaHS.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/kings/v7/8AtnGsK4O5CYXX_JoaU.ttf"
-  },
-  {
     "family": "Noto Sans Linear A",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "linear-a"],
@@ -27824,6 +27811,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanslineara/v18/oPWS_l16kP4jCuhpgEGmwJOiA18FZj2Gz2vU.ttf"
+  },
+  {
+    "family": "Kings",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v7",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/kings/v7/8AtnGsK4O5CYXU_Iq6GSPaHS.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/kings/v7/8AtnGsK4O5CYXX_JoaU.ttf"
   },
   {
     "family": "Noto Sans Cypriot",
@@ -28544,19 +28544,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanssyriaceastern/v1/Noac6Vj_wIWFbTTCrYmvy8AjVU8aslWRHHvRYxS-Ro3yS0FDacnHPi-fgzGB4Q.ttf"
   },
   {
-    "family": "Noto Sans Batak",
-    "variants": ["regular"],
-    "subsets": ["batak", "latin", "latin-ext"],
-    "version": "v19",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansbatak/v19/gok2H6TwAEdtF9N8-mdTCQvT-Zdgo4_PHuk74A.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansbatak/v19/gok2H6TwAEdtF9N8-mdTCQvT-ZdQooXL.ttf"
-  },
-  {
     "family": "Noto Sans Newa",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "newa"],
@@ -28568,6 +28555,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-oto.ttf"
+  },
+  {
+    "family": "Noto Sans Batak",
+    "variants": ["regular"],
+    "subsets": ["batak", "latin", "latin-ext"],
+    "version": "v19",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansbatak/v19/gok2H6TwAEdtF9N8-mdTCQvT-Zdgo4_PHuk74A.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansbatak/v19/gok2H6TwAEdtF9N8-mdTCQvT-ZdQooXL.ttf"
   },
   {
     "family": "Yuji Hentaigana Akebono",
@@ -28925,19 +28925,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf"
   },
   {
-    "family": "Noto Sans Vai",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vai"],
-    "version": "v17",
-    "lastModified": "2022-09-28",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrURMTsDIRSfr0.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrUdMXmCA.ttf"
-  },
-  {
     "family": "Noto Sans Mro",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mro"],
@@ -28949,6 +28936,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3bsg.ttf"
+  },
+  {
+    "family": "Noto Sans Vai",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vai"],
+    "version": "v17",
+    "lastModified": "2022-09-28",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrURMTsDIRSfr0.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrUdMXmCA.ttf"
   },
   {
     "family": "Noto Sans Siddham",
