@@ -17003,19 +17003,6 @@
     "menu": "http://fonts.gstatic.com/s/katibeh/v19/ZGjXol5MQJog4bxDWCxbUA.ttf"
   },
   {
-    "family": "Major Mono Display",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v16",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/majormonodisplay/v16/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRhLCn2QIndPww.ttf"
-    },
-    "category": "monospace",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/majormonodisplay/v16/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7C3eU.ttf"
-  },
-  {
     "family": "Bona Nova",
     "variants": ["regular", "italic", "700"],
     "subsets": [
@@ -17037,6 +17024,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/bonanova/v10/B50NF7ZCpX7fcHfvIUB5iqJu.ttf"
+  },
+  {
+    "family": "Major Mono Display",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v16",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/majormonodisplay/v16/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRhLCn2QIndPww.ttf"
+    },
+    "category": "monospace",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/majormonodisplay/v16/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7C3eU.ttf"
   },
   {
     "family": "Workbench",
@@ -19865,19 +19865,6 @@
     "menu": "http://fonts.gstatic.com/s/bilbo/v20/o-0EIpgpwWwZ220groA.ttf"
   },
   {
-    "family": "Underdog",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/underdog/v23/CHygV-jCElj7diMroVSiU14GN2Il.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/underdog/v23/CHygV-jCElj7diMroWSjWVo.ttf"
-  },
-  {
     "family": "Noto Sans Anatolian Hieroglyphs",
     "variants": ["regular"],
     "subsets": ["anatolian-hieroglyphs", "latin", "latin-ext"],
@@ -19889,6 +19876,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansanatolianhieroglyphs/v16/ijw9s4roRME5LLRxjsRb8A0gKPSWq4BbDmHHu6j2pEtUJzZWbyfCzg.ttf"
+  },
+  {
+    "family": "Underdog",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/underdog/v23/CHygV-jCElj7diMroVSiU14GN2Il.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/underdog/v23/CHygV-jCElj7diMroWSjWVo.ttf"
   },
   {
     "family": "Redacted",
@@ -26235,19 +26235,6 @@
     "menu": "http://fonts.gstatic.com/s/notoserifgrantha/v19/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlP.ttf"
   },
   {
-    "family": "Noto Sans Newa",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "newa"],
-    "version": "v16",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg8n_qN4R5lNU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-oto.ttf"
-  },
-  {
     "family": "Noto Sans Adlam Unjoined",
     "variants": ["regular"],
     "subsets": ["adlam", "latin", "latin-ext"],
@@ -26266,6 +26253,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Sans Newa",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "newa"],
+    "version": "v16",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg8n_qN4R5lNU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-oto.ttf"
   },
   {
     "family": "Rock 3D",
@@ -27173,19 +27173,6 @@
     "menu": "http://fonts.gstatic.com/s/protestriot/v2/d6lPkaOxWMKm7TdezXFmpkr81vhk.ttf"
   },
   {
-    "family": "Protest Strike",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
-    "version": "v2",
-    "lastModified": "2024-02-02",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/proteststrike/v2/0QI5MXdf4Y67Rn6vBog67ZjFlpzW0gZOs7BX.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/proteststrike/v2/0QI5MXdf4Y67Rn6vBog67ZjFlqzX2AI.ttf"
-  },
-  {
     "family": "Protest Guerrilla",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
@@ -27197,6 +27184,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/protestguerrilla/v2/Qw3HZR5PDSL6K3irtrY-VJB2YzARHW0lqps.ttf"
+  },
+  {
+    "family": "Protest Strike",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
+    "version": "v2",
+    "lastModified": "2024-02-02",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/proteststrike/v2/0QI5MXdf4Y67Rn6vBog67ZjFlpzW0gZOs7BX.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/proteststrike/v2/0QI5MXdf4Y67Rn6vBog67ZjFlqzX2AI.ttf"
   },
   {
     "family": "Protest Revolution",
