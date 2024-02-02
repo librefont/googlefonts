@@ -17003,6 +17003,19 @@
     "menu": "http://fonts.gstatic.com/s/katibeh/v19/ZGjXol5MQJog4bxDWCxbUA.ttf"
   },
   {
+    "family": "Major Mono Display",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v16",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/majormonodisplay/v16/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRhLCn2QIndPww.ttf"
+    },
+    "category": "monospace",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/majormonodisplay/v16/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7C3eU.ttf"
+  },
+  {
     "family": "Bona Nova",
     "variants": ["regular", "italic", "700"],
     "subsets": [
@@ -17024,19 +17037,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/bonanova/v10/B50NF7ZCpX7fcHfvIUB5iqJu.ttf"
-  },
-  {
-    "family": "Major Mono Display",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v16",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/majormonodisplay/v16/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRhLCn2QIndPww.ttf"
-    },
-    "category": "monospace",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/majormonodisplay/v16/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7C3eU.ttf"
   },
   {
     "family": "Workbench",
@@ -19865,19 +19865,6 @@
     "menu": "http://fonts.gstatic.com/s/bilbo/v20/o-0EIpgpwWwZ220groA.ttf"
   },
   {
-    "family": "Noto Sans Anatolian Hieroglyphs",
-    "variants": ["regular"],
-    "subsets": ["anatolian-hieroglyphs", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansanatolianhieroglyphs/v16/ijw9s4roRME5LLRxjsRb8A0gKPSWq4BbDmHHu6j2pEtUJzZWXybIymc5QYo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansanatolianhieroglyphs/v16/ijw9s4roRME5LLRxjsRb8A0gKPSWq4BbDmHHu6j2pEtUJzZWbyfCzg.ttf"
-  },
-  {
     "family": "Underdog",
     "variants": ["regular"],
     "subsets": ["cyrillic", "latin", "latin-ext"],
@@ -19889,6 +19876,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/underdog/v23/CHygV-jCElj7diMroWSjWVo.ttf"
+  },
+  {
+    "family": "Noto Sans Anatolian Hieroglyphs",
+    "variants": ["regular"],
+    "subsets": ["anatolian-hieroglyphs", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansanatolianhieroglyphs/v16/ijw9s4roRME5LLRxjsRb8A0gKPSWq4BbDmHHu6j2pEtUJzZWXybIymc5QYo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansanatolianhieroglyphs/v16/ijw9s4roRME5LLRxjsRb8A0gKPSWq4BbDmHHu6j2pEtUJzZWbyfCzg.ttf"
   },
   {
     "family": "Redacted",
@@ -27173,19 +27173,6 @@
     "menu": "http://fonts.gstatic.com/s/protestriot/v2/d6lPkaOxWMKm7TdezXFmpkr81vhk.ttf"
   },
   {
-    "family": "Protest Guerrilla",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
-    "version": "v2",
-    "lastModified": "2024-02-02",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/protestguerrilla/v2/Qw3HZR5PDSL6K3irtrY-VJB2YzARHV0koJ8y_eiS.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/protestguerrilla/v2/Qw3HZR5PDSL6K3irtrY-VJB2YzARHW0lqps.ttf"
-  },
-  {
     "family": "Protest Strike",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
@@ -27197,6 +27184,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/proteststrike/v2/0QI5MXdf4Y67Rn6vBog67ZjFlqzX2AI.ttf"
+  },
+  {
+    "family": "Protest Guerrilla",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
+    "version": "v2",
+    "lastModified": "2024-02-02",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/protestguerrilla/v2/Qw3HZR5PDSL6K3irtrY-VJB2YzARHV0koJ8y_eiS.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/protestguerrilla/v2/Qw3HZR5PDSL6K3irtrY-VJB2YzARHW0lqps.ttf"
   },
   {
     "family": "Protest Revolution",

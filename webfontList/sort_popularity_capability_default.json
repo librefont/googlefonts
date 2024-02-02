@@ -25539,19 +25539,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansgurmukhi/v26/w8g9H3EvQP81sInb43inmyN9zZ7hb7ATbSWo4q8dJ74a3cVrYFQ_bogT0-gPeG1Oekbwbf8.ttf"
   },
   {
-    "family": "Yuji Boku",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
-    "version": "v5",
-    "lastModified": "2022-09-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/yujiboku/v5/P5sAzZybeNzXsA9xj1Fkjb2r2dgvJA.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/yujiboku/v5/P5sAzZybeNzXsA9xj1FUjLev.ttf"
-  },
-  {
     "family": "Noto Sans Tai Le",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tai-le"],
@@ -25563,6 +25550,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Xw.ttf"
+  },
+  {
+    "family": "Yuji Boku",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
+    "version": "v5",
+    "lastModified": "2022-09-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/yujiboku/v5/P5sAzZybeNzXsA9xj1Fkjb2r2dgvJA.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/yujiboku/v5/P5sAzZybeNzXsA9xj1FUjLev.ttf"
   },
   {
     "family": "Flow Block",
