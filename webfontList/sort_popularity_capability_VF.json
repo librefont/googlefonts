@@ -26021,19 +26021,6 @@
     ]
   },
   {
-    "family": "Noto Sans Nushu",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nushu"],
-    "version": "v19",
-    "lastModified": "2023-04-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYaFWFAMArZKqQ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYa1WVoI.ttf"
-  },
-  {
     "family": "Noto Sans Lycian",
     "variants": ["regular"],
     "subsets": ["lycian"],
@@ -26045,6 +26032,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQDA.ttf"
+  },
+  {
+    "family": "Noto Sans Nushu",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nushu"],
+    "version": "v19",
+    "lastModified": "2023-04-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYaFWFAMArZKqQ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYa1WVoI.ttf"
   },
   {
     "family": "Noto Serif Grantha",
@@ -26372,19 +26372,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RMB.ttf"
   },
   {
-    "family": "Noto Sans Modi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "modi"],
-    "version": "v23",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeav5qWVAgVol-.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeas5rU1Q.ttf"
-  },
-  {
     "family": "Noto Sans Nag Mundari",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "nag-mundari"],
@@ -26403,6 +26390,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Sans Modi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "modi"],
+    "version": "v23",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeav5qWVAgVol-.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeas5rU1Q.ttf"
   },
   {
     "family": "Noto Sans Balinese",
