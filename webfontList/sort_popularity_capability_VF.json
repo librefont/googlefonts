@@ -26444,19 +26444,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RMB.ttf"
   },
   {
-    "family": "Noto Sans Chorasmian",
-    "variants": ["regular"],
-    "subsets": ["chorasmian", "latin", "latin-ext", "math", "symbols"],
-    "version": "v3",
-    "lastModified": "2024-01-26",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanschorasmian/v3/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S5vyoH7w4g9b.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanschorasmian/v3/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S6vzqno.ttf"
-  },
-  {
     "family": "Noto Sans Nag Mundari",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "nag-mundari"],
@@ -26475,6 +26462,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Sans Chorasmian",
+    "variants": ["regular"],
+    "subsets": ["chorasmian", "latin", "latin-ext", "math", "symbols"],
+    "version": "v3",
+    "lastModified": "2024-01-26",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanschorasmian/v3/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S5vyoH7w4g9b.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanschorasmian/v3/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S6vzqno.ttf"
   },
   {
     "family": "Noto Sans Lisu",
