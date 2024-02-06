@@ -29497,19 +29497,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAJ.woff2"
   },
   {
-    "family": "Noto Sans Elymaic",
-    "variants": ["regular"],
-    "subsets": ["elymaic", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD4AmWOT0zi2V.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuU.woff2"
-  },
-  {
     "family": "Noto Sans Manichaean",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "manichaean"],
@@ -29521,6 +29508,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPzo.woff2"
+  },
+  {
+    "family": "Noto Sans Elymaic",
+    "variants": ["regular"],
+    "subsets": ["elymaic", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD4AmWOT0zi2V.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuU.woff2"
   },
   {
     "family": "Noto Sans Soyombo",
