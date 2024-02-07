@@ -28545,6 +28545,22 @@
     "menu": "http://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQDA.ttf"
   },
   {
+    "family": "Noto Sans Bamum",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["bamum", "latin", "latin-ext"],
+    "version": "v27",
+    "lastModified": "2023-09-14",
+    "files": {
+      "500": "http://fonts.gstatic.com/s/notosansbamum/v27/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPEeVO-_gLykxEkxA.ttf",
+      "600": "http://fonts.gstatic.com/s/notosansbamum/v27/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPEQlJ-_gLykxEkxA.ttf",
+      "700": "http://fonts.gstatic.com/s/notosansbamum/v27/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPETBJ-_gLykxEkxA.ttf",
+      "regular": "http://fonts.gstatic.com/s/notosansbamum/v27/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPEddO-_gLykxEkxA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansbamum/v27/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPEddOy_kBzg.ttf"
+  },
+  {
     "family": "Noto Sans Syriac Eastern",
     "variants": [
       "100",
@@ -28574,22 +28590,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanssyriaceastern/v1/Noac6Vj_wIWFbTTCrYmvy8AjVU8aslWRHHvRYxS-Ro3yS0FDacnHPi-fgzGB4Q.ttf"
-  },
-  {
-    "family": "Noto Sans Bamum",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["bamum", "latin", "latin-ext"],
-    "version": "v27",
-    "lastModified": "2023-09-14",
-    "files": {
-      "500": "http://fonts.gstatic.com/s/notosansbamum/v27/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPEeVO-_gLykxEkxA.ttf",
-      "600": "http://fonts.gstatic.com/s/notosansbamum/v27/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPEQlJ-_gLykxEkxA.ttf",
-      "700": "http://fonts.gstatic.com/s/notosansbamum/v27/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPETBJ-_gLykxEkxA.ttf",
-      "regular": "http://fonts.gstatic.com/s/notosansbamum/v27/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPEddO-_gLykxEkxA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansbamum/v27/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPEddOy_kBzg.ttf"
   },
   {
     "family": "Noto Sans Tirhuta",
@@ -29306,19 +29306,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanshanifirohingya/v28/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4g6ut88.ttf"
   },
   {
-    "family": "Noto Sans Chorasmian",
-    "variants": ["regular"],
-    "subsets": ["chorasmian", "latin", "latin-ext", "math", "symbols"],
-    "version": "v3",
-    "lastModified": "2024-01-26",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanschorasmian/v3/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S5vyoH7w4g9b.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanschorasmian/v3/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S6vzqno.ttf"
-  },
-  {
     "family": "Noto Sans Mandaic",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mandaic"],
@@ -29330,6 +29317,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmandaic/v16/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
+  },
+  {
+    "family": "Noto Sans Chorasmian",
+    "variants": ["regular"],
+    "subsets": ["chorasmian", "latin", "latin-ext", "math", "symbols"],
+    "version": "v3",
+    "lastModified": "2024-01-26",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanschorasmian/v3/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S5vyoH7w4g9b.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanschorasmian/v3/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S6vzqno.ttf"
   },
   {
     "family": "Noto Serif Dogra",
