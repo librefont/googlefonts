@@ -27580,22 +27580,6 @@
     "menu": "http://fonts.gstatic.com/s/rubikmicrobe/v2/UqyWK8oPP3hjw6ANS9rM3PsZQs4QbA.ttf"
   },
   {
-    "family": "Noto Sans Vithkuqi",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext", "vithkuqi"],
-    "version": "v1",
-    "lastModified": "2023-07-24",
-    "files": {
-      "500": "http://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvZxSgKM7vmn0BLE.ttf",
-      "600": "http://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvXBVgKM7vmn0BLE.ttf",
-      "700": "http://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvUlVgKM7vmn0BLE.ttf",
-      "regular": "http://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SgKM7vmn0BLE.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SsKIxug.ttf"
-  },
-  {
     "family": "Lunasima",
     "variants": ["regular", "700"],
     "subsets": [
@@ -27617,6 +27601,22 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/lunasima/v1/wEO-EBvPh9RSOj7JFDwkcdo.ttf"
+  },
+  {
+    "family": "Noto Sans Vithkuqi",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext", "vithkuqi"],
+    "version": "v1",
+    "lastModified": "2023-07-24",
+    "files": {
+      "500": "http://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvZxSgKM7vmn0BLE.ttf",
+      "600": "http://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvXBVgKM7vmn0BLE.ttf",
+      "700": "http://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvUlVgKM7vmn0BLE.ttf",
+      "regular": "http://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SgKM7vmn0BLE.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SsKIxug.ttf"
   },
   {
     "family": "Kay Pho Du",
@@ -28941,19 +28941,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeas5rU1Q.ttf"
   },
   {
-    "family": "Noto Sans Mro",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mro"],
-    "version": "v18",
-    "lastModified": "2022-12-08",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39WDzRtjkho4M.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3bsg.ttf"
-  },
-  {
     "family": "Noto Sans Old Turkic",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "old-turkic"],
@@ -28965,6 +28952,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsH2Qhkg.ttf"
+  },
+  {
+    "family": "Noto Sans Mro",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mro"],
+    "version": "v18",
+    "lastModified": "2022-12-08",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39WDzRtjkho4M.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3bsg.ttf"
   },
   {
     "family": "Noto Sans Palmyrene",
@@ -29256,19 +29256,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9XQ.ttf"
   },
   {
-    "family": "Noto Sans Sogdian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "sogdian"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo--Pm6KHidM.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
-  },
-  {
     "family": "Noto Sans Hanifi Rohingya",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["hanifi-rohingya", "latin", "latin-ext"],
@@ -29283,6 +29270,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanshanifirohingya/v28/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4g6ut88.ttf"
+  },
+  {
+    "family": "Noto Sans Sogdian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "sogdian"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo--Pm6KHidM.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
   },
   {
     "family": "Noto Sans Gunjala Gondi",
