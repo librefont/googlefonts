@@ -9697,19 +9697,6 @@
     "menu": "http://fonts.gstatic.com/s/cinzeldecorative/v16/daaCSScvJGqLYhG8nNt8KPPswUAPni7VTMw.woff2"
   },
   {
-    "family": "Calistoga",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v15",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/calistoga/v15/6NUU8F2OJg6MeR7l4e0vscYAwdRZfw.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/calistoga/v15/6NUU8F2OJg6MeR7l4e0ftcwB.woff2"
-  },
-  {
     "family": "Averia Serif Libre",
     "variants": ["300", "300italic", "regular", "italic", "700", "700italic"],
     "subsets": ["latin"],
@@ -9726,6 +9713,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/averiaseriflibre/v18/neIWzD2ms4wxr6GvjeD0X88SHPyX2xYOpAuP.woff2"
+  },
+  {
+    "family": "Calistoga",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v15",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/calistoga/v15/6NUU8F2OJg6MeR7l4e0vscYAwdRZfw.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/calistoga/v15/6NUU8F2OJg6MeR7l4e0ftcwB.woff2"
   },
   {
     "family": "Hind Guntur",
@@ -28439,19 +28439,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanskayahli/v21/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3OZDyEA.woff2"
   },
   {
-    "family": "Noto Sans Soyombo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "soyombo"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY0FuIFOcK25W.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlI.woff2"
-  },
-  {
     "family": "Noto Sans Meroitic",
     "variants": ["regular"],
     "subsets": [
@@ -28469,6 +28456,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzgTJS.woff2"
+  },
+  {
+    "family": "Noto Sans Soyombo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "soyombo"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY0FuIFOcK25W.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlI.woff2"
   },
   {
     "family": "Noto Sans Phags Pa",
