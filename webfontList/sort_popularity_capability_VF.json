@@ -25494,26 +25494,6 @@
     "menu": "http://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHgDbQm.ttf"
   },
   {
-    "family": "Noto Serif Oriya",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "oriya"],
-    "version": "v4",
-    "lastModified": "2023-03-09",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQdmj56u-r69izk_LDqWN7w0cYB0OBNBn8Kwb0.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxrc_Ey_tUk.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
-      }
-    ]
-  },
-  {
     "family": "Linefont",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -25535,6 +25515,26 @@
         "tag": "wght",
         "start": 4,
         "end": 1000
+      }
+    ]
+  },
+  {
+    "family": "Noto Serif Oriya",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "oriya"],
+    "version": "v4",
+    "lastModified": "2023-03-09",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQdmj56u-r69izk_LDqWN7w0cYB0OBNBn8Kwb0.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxrc_Ey_tUk.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
       }
     ]
   },
@@ -26510,19 +26510,6 @@
     ]
   },
   {
-    "family": "Noto Sans Inscriptional Parthian",
-    "variants": ["regular"],
-    "subsets": ["inscriptional-parthian", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansinscriptionalparthian/v16/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2yklBJ2jNkLlLr.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansinscriptionalparthian/v16/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2ykmBI0Dc.ttf"
-  },
-  {
     "family": "Noto Sans Modi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "modi"],
@@ -26534,6 +26521,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeas5rU1Q.ttf"
+  },
+  {
+    "family": "Noto Sans Inscriptional Parthian",
+    "variants": ["regular"],
+    "subsets": ["inscriptional-parthian", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansinscriptionalparthian/v16/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2yklBJ2jNkLlLr.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansinscriptionalparthian/v16/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2ykmBI0Dc.ttf"
   },
   {
     "family": "Wavefont",

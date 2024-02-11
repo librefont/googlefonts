@@ -27865,22 +27865,6 @@
     "menu": "http://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHgDbQj.woff2"
   },
   {
-    "family": "Noto Serif Oriya",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext", "oriya"],
-    "version": "v4",
-    "lastModified": "2023-03-09",
-    "files": {
-      "500": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxru_Hy7v039MF1j.woff2",
-      "600": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxoC-3y7v039MF1j.woff2",
-      "700": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxo7-3y7v039MF1j.woff2",
-      "regular": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxrc_Hy7v039MF1j.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxrc_Ey_tUw.woff2"
-  },
-  {
     "family": "Linefont",
     "variants": [
       "100",
@@ -27910,6 +27894,22 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/linefont/v5/dg4I_pzpoqcLKUIzVfFMh1TF2rkhli25jn7CKTTWSumsFuSnY4UMXu_nmA.woff2"
+  },
+  {
+    "family": "Noto Serif Oriya",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext", "oriya"],
+    "version": "v4",
+    "lastModified": "2023-03-09",
+    "files": {
+      "500": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxru_Hy7v039MF1j.woff2",
+      "600": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxoC-3y7v039MF1j.woff2",
+      "700": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxo7-3y7v039MF1j.woff2",
+      "regular": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxrc_Hy7v039MF1j.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxrc_Ey_tUw.woff2"
   },
   {
     "family": "Rubik Gemstones",
@@ -28853,19 +28853,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansmedefaidrin/v23/WwkzxOq6Dk-wranENynkfeVsNbRZtbOIdLb1exeM4ZeuabBfmErWpTz_8A.woff2"
   },
   {
-    "family": "Noto Sans Inscriptional Parthian",
-    "variants": ["regular"],
-    "subsets": ["inscriptional-parthian", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansinscriptionalparthian/v16/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2yklBM2jNkLlLr.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansinscriptionalparthian/v16/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2ykmBI0DI.woff2"
-  },
-  {
     "family": "Noto Sans Modi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "modi"],
@@ -28877,6 +28864,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeas5rU1E.woff2"
+  },
+  {
+    "family": "Noto Sans Inscriptional Parthian",
+    "variants": ["regular"],
+    "subsets": ["inscriptional-parthian", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansinscriptionalparthian/v16/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2yklBM2jNkLlLr.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansinscriptionalparthian/v16/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2ykmBI0DI.woff2"
   },
   {
     "family": "Wavefont",
