@@ -25494,6 +25494,26 @@
     "menu": "http://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHgDbQm.ttf"
   },
   {
+    "family": "Noto Serif Oriya",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "oriya"],
+    "version": "v4",
+    "lastModified": "2023-03-09",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQdmj56u-r69izk_LDqWN7w0cYB0OBNBn8Kwb0.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxrc_Ey_tUk.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
+      }
+    ]
+  },
+  {
     "family": "Linefont",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -25515,26 +25535,6 @@
         "tag": "wght",
         "start": 4,
         "end": 1000
-      }
-    ]
-  },
-  {
-    "family": "Noto Serif Oriya",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "oriya"],
-    "version": "v4",
-    "lastModified": "2023-03-09",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQdmj56u-r69izk_LDqWN7w0cYB0OBNBn8Kwb0.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxrc_Ey_tUk.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
       }
     ]
   },
