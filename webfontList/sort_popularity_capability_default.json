@@ -22937,20 +22937,6 @@
     "menu": "http://fonts.gstatic.com/s/birthstonebounce/v11/ga6XaxZF43lIvTWrktHOTBJZGH7dEdVIEoc.ttf"
   },
   {
-    "family": "Alumni Sans Collegiate One",
-    "variants": ["regular", "italic"],
-    "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
-    "version": "v5",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/alumnisanscollegiateone/v5/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhjdayDiPw2ta.ttf",
-      "italic": "http://fonts.gstatic.com/s/alumnisanscollegiateone/v5/MQpD-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdYwjytxntaDFU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/alumnisanscollegiateone/v5/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdbwjw.ttf"
-  },
-  {
     "family": "The Nautigal",
     "variants": ["regular", "700"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -22963,6 +22949,20 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/thenautigal/v6/VdGZAZ8ZH51Lvng9fQV2bfKb5g9g.ttf"
+  },
+  {
+    "family": "Alumni Sans Collegiate One",
+    "variants": ["regular", "italic"],
+    "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
+    "version": "v5",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/alumnisanscollegiateone/v5/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhjdayDiPw2ta.ttf",
+      "italic": "http://fonts.gstatic.com/s/alumnisanscollegiateone/v5/MQpD-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdYwjytxntaDFU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/alumnisanscollegiateone/v5/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdbwjw.ttf"
   },
   {
     "family": "Black And White Picture",
@@ -28782,19 +28782,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrUdMXmCA.ttf"
   },
   {
-    "family": "Noto Sans Siddham",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "siddham"],
-    "version": "v20",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGqndk3Ic92ZH.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf"
-  },
-  {
     "family": "Noto Sans Wancho",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "wancho"],
@@ -28806,6 +28793,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALiog.ttf"
+  },
+  {
+    "family": "Noto Sans Siddham",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "siddham"],
+    "version": "v20",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGqndk3Ic92ZH.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf"
   },
   {
     "family": "Wavefont",

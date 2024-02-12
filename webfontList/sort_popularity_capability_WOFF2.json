@@ -22937,20 +22937,6 @@
     "menu": "http://fonts.gstatic.com/s/birthstonebounce/v11/ga6XaxZF43lIvTWrktHOTBJZGH7dEdVIEoI.woff2"
   },
   {
-    "family": "Alumni Sans Collegiate One",
-    "variants": ["regular", "italic"],
-    "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
-    "version": "v5",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/alumnisanscollegiateone/v5/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhjdfyDiPw2ta.woff2",
-      "italic": "http://fonts.gstatic.com/s/alumnisanscollegiateone/v5/MQpD-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdYwjmtxntaDFU.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/alumnisanscollegiateone/v5/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdbwjk.woff2"
-  },
-  {
     "family": "The Nautigal",
     "variants": ["regular", "700"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -22963,6 +22949,20 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/thenautigal/v6/VdGZAZ8ZH51Lvng9fQV2bfKb5g9l.woff2"
+  },
+  {
+    "family": "Alumni Sans Collegiate One",
+    "variants": ["regular", "italic"],
+    "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
+    "version": "v5",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/alumnisanscollegiateone/v5/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhjdfyDiPw2ta.woff2",
+      "italic": "http://fonts.gstatic.com/s/alumnisanscollegiateone/v5/MQpD-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdYwjmtxntaDFU.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/alumnisanscollegiateone/v5/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdbwjk.woff2"
   },
   {
     "family": "Black And White Picture",
@@ -28030,6 +28030,19 @@
     "menu": "http://fonts.gstatic.com/s/linefont/v5/dg4I_pzpoqcLKUIzVfFMh1TF2rkhli25jn7CKTTWSumsFuSnY4UMXu_nmA.woff2"
   },
   {
+    "family": "Mingzat",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "lepcha"],
+    "version": "v8",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/mingzat/v8/0QIgMX5C-o-oWWyvBt5km_mv670.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/mingzat/v8/0QIgMX5C-o-oWWyvNtpumg.woff2"
+  },
+  {
     "family": "Kay Pho Du",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["kayah-li", "latin", "latin-ext"],
@@ -28044,19 +28057,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR0OitLQ.woff2"
-  },
-  {
-    "family": "Mingzat",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "lepcha"],
-    "version": "v8",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/mingzat/v8/0QIgMX5C-o-oWWyvBt5km_mv670.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/mingzat/v8/0QIgMX5C-o-oWWyvNtpumg.woff2"
   },
   {
     "family": "Noto Sans Tangsa",
