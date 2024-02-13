@@ -19343,19 +19343,6 @@
     "menu": "http://fonts.gstatic.com/s/asar/v22/sZlLdRyI6TBIbkcaCA.ttf"
   },
   {
-    "family": "Mochiy Pop P One",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin"],
-    "version": "v9",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/mochiypoppone/v9/Ktk2AKuPeY_td1-h9LayHYWCjAqyN4O3WYZB_sU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/mochiypoppone/v9/Ktk2AKuPeY_td1-h9LayHYWCjAqyB4K9XQ.ttf"
-  },
-  {
     "family": "Peralta",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -19367,6 +19354,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/peralta/v19/hYkJPu0-RP_9d3kRKxErqg.ttf"
+  },
+  {
+    "family": "Mochiy Pop P One",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin"],
+    "version": "v9",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/mochiypoppone/v9/Ktk2AKuPeY_td1-h9LayHYWCjAqyN4O3WYZB_sU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/mochiypoppone/v9/Ktk2AKuPeY_td1-h9LayHYWCjAqyB4K9XQ.ttf"
   },
   {
     "family": "Edu SA Beginner",
@@ -27752,19 +27752,6 @@
     "menu": "http://fonts.gstatic.com/s/grandifloraone/v3/0ybmGD0g27bCk_5MGWZcKWhxwnUk_Bf2.ttf"
   },
   {
-    "family": "Noto Sans Avestan",
-    "variants": ["regular"],
-    "subsets": ["avestan", "latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansavestan/v21/bWti7ejKfBziStx7lIzKOLQZKhIJkyu9SASLji8U.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansavestan/v21/bWti7ejKfBziStx7lIzKOLQZKhIJkxu8QgA.ttf"
-  },
-  {
     "family": "Noto Sans Cypriot",
     "variants": ["regular"],
     "subsets": ["cypriot", "latin", "latin-ext"],
@@ -27776,6 +27763,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZc.ttf"
+  },
+  {
+    "family": "Noto Sans Avestan",
+    "variants": ["regular"],
+    "subsets": ["avestan", "latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansavestan/v21/bWti7ejKfBziStx7lIzKOLQZKhIJkyu9SASLji8U.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansavestan/v21/bWti7ejKfBziStx7lIzKOLQZKhIJkxu8QgA.ttf"
   },
   {
     "family": "Noto Sans Old Hungarian",
