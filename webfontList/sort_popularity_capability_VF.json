@@ -22101,19 +22101,6 @@
     "menu": "http://fonts.gstatic.com/s/bokor/v30/m8JcjfpeeaqTiS2Xfo0.ttf"
   },
   {
-    "family": "Noto Sans Samaritan",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "samaritan"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanssamaritan/v16/buEqppe9f8_vkXadMBJJo0tSmaYjFkxOUo5jNlOVMzQ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanssamaritan/v16/buEqppe9f8_vkXadMBJJo0tSmaYjFkxOYo9pMg.ttf"
-  },
-  {
     "family": "Lacquer",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -22125,6 +22112,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/lacquer/v15/EYqzma1QwqpG4_BBN76KWg.ttf"
+  },
+  {
+    "family": "Noto Sans Samaritan",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "samaritan"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanssamaritan/v16/buEqppe9f8_vkXadMBJJo0tSmaYjFkxOUo5jNlOVMzQ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanssamaritan/v16/buEqppe9f8_vkXadMBJJo0tSmaYjFkxOYo9pMg.ttf"
   },
   {
     "family": "Aoboshi One",
@@ -26605,26 +26605,6 @@
     ]
   },
   {
-    "family": "Noto Sans Nag Mundari",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nag-mundari"],
-    "version": "v1",
-    "lastModified": "2023-05-09",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansnagmundari/v1/3qTzoi2hnSyU8TNFIdhZTyod3g5lBnKlQFksmg2vd02J1Q.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansnagmundari/v1/3qTAoi2hnSyU8TNFIdhZTyod3g5lBnKlQFk2kS9fr9Eq09RHRxirXUCK1w.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
-      }
-    ]
-  },
-  {
     "family": "Noto Sans Syriac Eastern",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "syriac"],
@@ -26641,6 +26621,26 @@
         "tag": "wght",
         "start": 100,
         "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Noto Sans Nag Mundari",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nag-mundari"],
+    "version": "v1",
+    "lastModified": "2023-05-09",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansnagmundari/v1/3qTzoi2hnSyU8TNFIdhZTyod3g5lBnKlQFksmg2vd02J1Q.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansnagmundari/v1/3qTAoi2hnSyU8TNFIdhZTyod3g5lBnKlQFk2kS9fr9Eq09RHRxirXUCK1w.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
       }
     ]
   },
