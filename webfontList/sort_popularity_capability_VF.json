@@ -26411,26 +26411,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
   },
   {
-    "family": "Noto Serif Yezidi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "yezidi"],
-    "version": "v21",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notoserifyezidi/v21/XLY8IYr5bJNDGYxLBibeHZAn3B5KJFlsYMYHGGeT.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notoserifyezidi/v21/XLYPIYr5bJNDGYxLBibeHZAn3B5KJENnQjbfhMSVZspD2yEUr1uN.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
-      }
-    ]
-  },
-  {
     "family": "Noto Sans Bassa Vah",
     "variants": ["regular"],
     "subsets": ["bassa-vah", "latin", "latin-ext"],
@@ -26442,6 +26422,26 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAf6o1Yw.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
+      }
+    ]
+  },
+  {
+    "family": "Noto Serif Yezidi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "yezidi"],
+    "version": "v21",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notoserifyezidi/v21/XLY8IYr5bJNDGYxLBibeHZAn3B5KJFlsYMYHGGeT.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notoserifyezidi/v21/XLYPIYr5bJNDGYxLBibeHZAn3B5KJENnQjbfhMSVZspD2yEUr1uN.ttf",
     "axes": [
       {
         "tag": "wght",
