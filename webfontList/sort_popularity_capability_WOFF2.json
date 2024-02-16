@@ -27887,19 +27887,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansolditalic/v16/TuGOUUFzXI5FBtUq5a8bh68BJxxEVam7tVlQfxk.woff2"
   },
   {
-    "family": "Noto Serif Ahom",
-    "variants": ["regular"],
-    "subsets": ["ahom", "latin", "latin-ext"],
-    "version": "v20",
-    "lastModified": "2023-11-09",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notoserifahom/v20/FeVIS0hfp6cprmEUffAW_fUL_AN-x-YrPFiwaw.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notoserifahom/v20/FeVIS0hfp6cprmEUffAW_fUL_ANOw-wq.woff2"
-  },
-  {
     "family": "Noto Sans Avestan",
     "variants": ["regular"],
     "subsets": ["avestan", "latin", "latin-ext"],
@@ -27911,6 +27898,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansavestan/v21/bWti7ejKfBziStx7lIzKOLQZKhIJkxu8QgU.woff2"
+  },
+  {
+    "family": "Noto Serif Ahom",
+    "variants": ["regular"],
+    "subsets": ["ahom", "latin", "latin-ext"],
+    "version": "v20",
+    "lastModified": "2023-11-09",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notoserifahom/v20/FeVIS0hfp6cprmEUffAW_fUL_AN-x-YrPFiwaw.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notoserifahom/v20/FeVIS0hfp6cprmEUffAW_fUL_ANOw-wq.woff2"
   },
   {
     "family": "Noto Sans Duployan",
@@ -29583,19 +29583,6 @@
     "menu": "http://fonts.gstatic.com/s/annapurnasil/v2/yYLv0hDY0f2iu9tPmRWtllidwNJ3dA.woff2"
   },
   {
-    "family": "Jacquarda Bastarda 9",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols"],
-    "version": "v1",
-    "lastModified": "2024-02-16",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/jacquardabastarda9/v1/f0Xp0fWr_8t6WFtKQJfOhaC0hcZ1HYAMAbwG1TB_JHHY.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/jacquardabastarda9/v1/f0Xp0fWr_8t6WFtKQJfOhaC0hcZ1HYAMAYwC3zE.woff2"
-  },
-  {
     "family": "Anta",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
@@ -29607,6 +29594,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/anta/v1/gyBzhwQ3KsIyVF07PQ.woff2"
+  },
+  {
+    "family": "Jacquarda Bastarda 9",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "version": "v1",
+    "lastModified": "2024-02-16",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/jacquardabastarda9/v1/f0Xp0fWr_8t6WFtKQJfOhaC0hcZ1HYAMAbwG1TB_JHHY.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/jacquardabastarda9/v1/f0Xp0fWr_8t6WFtKQJfOhaC0hcZ1HYAMAYwC3zE.woff2"
   },
   {
     "family": "Micro 5",
