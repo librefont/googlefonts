@@ -29368,19 +29368,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiP4.woff2"
   },
   {
-    "family": "Noto Sans Runic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "runic"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansrunic/v17/H4c_BXWPl9DZ0Xe_nHUaus7W68WWbhpvHtgIYg.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansrunic/v17/H4c_BXWPl9DZ0Xe_nHUaus7W68WmahBu.woff2"
-  },
-  {
     "family": "Noto Sans Mro",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mro"],
@@ -29392,6 +29379,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3btw.woff2"
+  },
+  {
+    "family": "Noto Sans Runic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "runic"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansrunic/v17/H4c_BXWPl9DZ0Xe_nHUaus7W68WWbhpvHtgIYg.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansrunic/v17/H4c_BXWPl9DZ0Xe_nHUaus7W68WmahBu.woff2"
   },
   {
     "family": "Noto Sans Linear B",
@@ -29561,19 +29561,6 @@
     "menu": "http://fonts.gstatic.com/s/notosanssyriac/v16/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5Y.woff2"
   },
   {
-    "family": "Noto Sans Nushu",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nushu"],
-    "version": "v19",
-    "lastModified": "2023-04-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYaFXVAMArZKqQ.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYa1WVoN.woff2"
-  },
-  {
     "family": "Noto Sans New Tai Lue",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "new-tai-lue"],
@@ -29588,6 +29575,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAUUfqhQ.woff2"
+  },
+  {
+    "family": "Noto Sans Nushu",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nushu"],
+    "version": "v19",
+    "lastModified": "2023-04-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYaFXVAMArZKqQ.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYa1WVoN.woff2"
   },
   {
     "family": "Noto Sans Ogham",
