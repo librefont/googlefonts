@@ -22715,6 +22715,19 @@
     "menu": "http://fonts.gstatic.com/s/kiranghaerang/v20/E21-_dn_gvvIjhYON1lpIU4-bfquUvc.woff2"
   },
   {
+    "family": "Condiment",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v24",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/condiment/v24/pONk1hggFNmwvXALyH6Sron4o1vyCQ.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/condiment/v24/pONk1hggFNmwvXALyH6iqoP5.woff2"
+  },
+  {
     "family": "Elsie Swash Caps",
     "variants": ["regular", "900"],
     "subsets": ["latin", "latin-ext"],
@@ -22727,19 +22740,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/elsieswashcaps/v23/845DNN8xGZyVX5MVo_upKf7KnjK0TevfKQ.woff2"
-  },
-  {
-    "family": "Condiment",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v24",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/condiment/v24/pONk1hggFNmwvXALyH6Sron4o1vyCQ.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/condiment/v24/pONk1hggFNmwvXALyH6iqoP5.woff2"
   },
   {
     "family": "Carlito",
@@ -28477,19 +28477,6 @@
     "menu": "http://fonts.gstatic.com/s/linefont/v5/dg4I_pzpoqcLKUIzVfFMh1TF2rkhli25jn7CKTTWSumsFuSnY4UMXu_nmA.woff2"
   },
   {
-    "family": "Noto Serif Old Uyghur",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-uyghur"],
-    "version": "v3",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notoserifolduyghur/v3/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwnL-meF2yVgA.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notoserifolduyghur/v3/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Of.woff2"
-  },
-  {
     "family": "Noto Sans Batak",
     "variants": ["regular"],
     "subsets": ["batak", "latin", "latin-ext"],
@@ -28501,6 +28488,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansbatak/v19/gok2H6TwAEdtF9N8-mdTCQvT-ZdQooXO.woff2"
+  },
+  {
+    "family": "Noto Serif Old Uyghur",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-uyghur"],
+    "version": "v3",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notoserifolduyghur/v3/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwnL-meF2yVgA.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notoserifolduyghur/v3/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Of.woff2"
   },
   {
     "family": "Noto Sans Sundanese",
@@ -29519,19 +29519,6 @@
     "menu": "http://fonts.gstatic.com/s/notosansoldsogdian/v16/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgr.woff2"
   },
   {
-    "family": "Noto Sans Kharoshthi",
-    "variants": ["regular"],
-    "subsets": ["kharoshthi", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-04-27",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE5z9rFyx5mR1.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5pl0.woff2"
-  },
-  {
     "family": "Noto Sans Caucasian Albanian",
     "variants": ["regular"],
     "subsets": ["caucasian-albanian", "latin", "latin-ext"],
@@ -29543,6 +29530,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHsoA.woff2"
+  },
+  {
+    "family": "Noto Sans Kharoshthi",
+    "variants": ["regular"],
+    "subsets": ["kharoshthi", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-04-27",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE5z9rFyx5mR1.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5pl0.woff2"
   },
   {
     "family": "Noto Sans Phoenician",
