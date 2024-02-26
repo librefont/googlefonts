@@ -26371,21 +26371,6 @@
     "menu": "http://fonts.gstatic.com/s/rubikmaps/v1/Gw6_wcjl80TZK9XxtbbevSceDg.ttf"
   },
   {
-    "family": "Redacted Script",
-    "variants": ["300", "regular", "700"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v10",
-    "lastModified": "2023-08-25",
-    "files": {
-      "300": "http://fonts.gstatic.com/s/redactedscript/v10/ypvEbXGRglhokR7dcC3d1-R6zmxqHUzVmbI397ldkg.ttf",
-      "700": "http://fonts.gstatic.com/s/redactedscript/v10/ypvEbXGRglhokR7dcC3d1-R6zmxqDUvVmbI397ldkg.ttf",
-      "regular": "http://fonts.gstatic.com/s/redactedscript/v10/ypvBbXGRglhokR7dcC3d1-R6zmxSsWTxkZkr_g.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/redactedscript/v10/ypvBbXGRglhokR7dcC3d1-R6zmxisG71.ttf"
-  },
-  {
     "family": "Rubik Glitch Pop",
     "variants": ["regular"],
     "subsets": [
@@ -26405,6 +26390,21 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/rubikglitchpop/v1/tDbX2pGHhFcM0gB3hN2elZLa3G-MCwWnTQ.ttf"
+  },
+  {
+    "family": "Redacted Script",
+    "variants": ["300", "regular", "700"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v10",
+    "lastModified": "2023-08-25",
+    "files": {
+      "300": "http://fonts.gstatic.com/s/redactedscript/v10/ypvEbXGRglhokR7dcC3d1-R6zmxqHUzVmbI397ldkg.ttf",
+      "700": "http://fonts.gstatic.com/s/redactedscript/v10/ypvEbXGRglhokR7dcC3d1-R6zmxqDUvVmbI397ldkg.ttf",
+      "regular": "http://fonts.gstatic.com/s/redactedscript/v10/ypvBbXGRglhokR7dcC3d1-R6zmxSsWTxkZkr_g.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/redactedscript/v10/ypvBbXGRglhokR7dcC3d1-R6zmxisG71.ttf"
   },
   {
     "family": "Updock",
@@ -28132,19 +28132,6 @@
     "menu": "http://fonts.gstatic.com/s/yujihentaiganaakari/v11/cY9bfiyVT0VB6QuhWKOrpr6z58lnb_zYFnL4RDbK.ttf"
   },
   {
-    "family": "Noto Sans Ogham",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "ogham"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "http://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hrt5laQxcoCA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "http://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf"
-  },
-  {
     "family": "Noto Sans New Tai Lue",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "new-tai-lue"],
@@ -28159,6 +28146,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "http://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAUUfqgA.ttf"
+  },
+  {
+    "family": "Noto Sans Ogham",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "ogham"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "http://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hrt5laQxcoCA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "http://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf"
   },
   {
     "family": "Noto Sans Pau Cin Hau",
