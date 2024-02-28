@@ -24290,6 +24290,20 @@
     "menu": "https://fonts.gstatic.com/s/notosanstagalog/v22/J7aFnoNzCnFcV9ZI-sUYuvote1R0wzEBCcw.ttf"
   },
   {
+    "family": "Tiro Gurmukhi",
+    "variants": ["regular", "italic"],
+    "subsets": ["gurmukhi", "latin", "latin-ext"],
+    "version": "v6",
+    "lastModified": "2023-01-06",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3dmckXSYq-Uqjc048JUF7Jvly7HAQsyA2Y.ttf",
+      "italic": "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3d4ckXSYq-Uqjc048JUF7JvpyzNBSk3E2YljQ.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3dmckXSYq-Uqjc048JUF7Jvpy_NBQ.ttf"
+  },
+  {
     "family": "Tsukimi Rounded",
     "variants": ["300", "regular", "500", "600", "700"],
     "subsets": ["japanese", "latin", "latin-ext"],
@@ -24305,20 +24319,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tsukimirounded/v10/sJoc3LJNksWZO0LvnZwkF3HtoB7dPHkK.ttf"
-  },
-  {
-    "family": "Tiro Gurmukhi",
-    "variants": ["regular", "italic"],
-    "subsets": ["gurmukhi", "latin", "latin-ext"],
-    "version": "v6",
-    "lastModified": "2023-01-06",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3dmckXSYq-Uqjc048JUF7Jvly7HAQsyA2Y.ttf",
-      "italic": "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3d4ckXSYq-Uqjc048JUF7JvpyzNBSk3E2YljQ.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3dmckXSYq-Uqjc048JUF7Jvpy_NBQ.ttf"
   },
   {
     "family": "Edu VIC WA NT Beginner",
@@ -27035,19 +27035,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhjwrPecQ.ttf"
   },
   {
-    "family": "Noto Serif Dogra",
-    "variants": ["regular"],
-    "subsets": ["dogra", "latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2023-11-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fGy63IbPzkns.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fKy-9JQ.ttf"
-  },
-  {
     "family": "Noto Sans Meroitic",
     "variants": ["regular"],
     "subsets": [
@@ -27065,6 +27052,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzgTJX.ttf"
+  },
+  {
+    "family": "Noto Serif Dogra",
+    "variants": ["regular"],
+    "subsets": ["dogra", "latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2023-11-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fGy63IbPzkns.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fKy-9JQ.ttf"
   },
   {
     "family": "Noto Sans Old Permic",
