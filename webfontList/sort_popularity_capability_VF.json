@@ -19067,19 +19067,6 @@
     "menu": "https://fonts.gstatic.com/s/passionsconflict/v7/kmKnZrcrFhfafnWX9x0GuEC-zowow6NfaxY.ttf"
   },
   {
-    "family": "Yomogi",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "japanese", "latin", "latin-ext", "vietnamese"],
-    "version": "v11",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/yomogi/v11/VuJwdNrS2ZL7rpoPWIz5NIh-YA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/yomogi/v11/VuJwdNrS2ZL7rpo_WYb9.ttf"
-  },
-  {
     "family": "Beth Ellen",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -19091,6 +19078,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/bethellen/v17/WwkbxPW2BE-3rb_JNT-qIIEoUA.ttf"
+  },
+  {
+    "family": "Yomogi",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "japanese", "latin", "latin-ext", "vietnamese"],
+    "version": "v11",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/yomogi/v11/VuJwdNrS2ZL7rpoPWIz5NIh-YA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/yomogi/v11/VuJwdNrS2ZL7rpo_WYb9.ttf"
   },
   {
     "family": "Protest Riot",
@@ -26611,19 +26611,6 @@
     "menu": "https://fonts.gstatic.com/s/narnoor/v7/cIf9MaFWuVo-UTyP9CihZA.ttf"
   },
   {
-    "family": "Yuji Hentaigana Akebono",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin", "latin-ext"],
-    "version": "v12",
-    "lastModified": "2023-05-31",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/yujihentaiganaakebono/v12/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wQy9NKXRzrrF.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/yujihentaiganaakebono/v12/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wTy8PqE.ttf"
-  },
-  {
     "family": "Noto Sans Zanabazar Square",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "zanabazar-square"],
@@ -26635,6 +26622,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf"
+  },
+  {
+    "family": "Yuji Hentaigana Akebono",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin", "latin-ext"],
+    "version": "v12",
+    "lastModified": "2023-05-31",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/yujihentaiganaakebono/v12/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wQy9NKXRzrrF.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/yujihentaiganaakebono/v12/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wTy8PqE.ttf"
   },
   {
     "family": "Noto Sans Runic",
