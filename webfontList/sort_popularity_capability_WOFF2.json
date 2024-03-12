@@ -21066,19 +21066,6 @@
     "menu": "https://fonts.gstatic.com/s/portlligatslab/v25/LDIpaoiQNgArA8kR7ulhZ8P_NYOsg7sR9g.woff2"
   },
   {
-    "family": "Protest Riot",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
-    "version": "v2",
-    "lastModified": "2024-02-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/protestriot/v2/d6lPkaOxWMKm7TdezXFmpkrM0vJgjmRpOA.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/protestriot/v2/d6lPkaOxWMKm7TdezXFmpkr81vhh.woff2"
-  },
-  {
     "family": "Kenia",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -21090,6 +21077,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/kenia/v28/jizURE5PuHQH9pCPP0A.woff2"
+  },
+  {
+    "family": "Protest Riot",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
+    "version": "v2",
+    "lastModified": "2024-02-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/protestriot/v2/d6lPkaOxWMKm7TdezXFmpkrM0vJgjmRpOA.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/protestriot/v2/d6lPkaOxWMKm7TdezXFmpkr81vhh.woff2"
   },
   {
     "family": "Martian Mono",
@@ -28438,19 +28438,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoQ.woff2"
   },
   {
-    "family": "Noto Serif Grantha",
-    "variants": ["regular"],
-    "subsets": ["grantha", "latin", "latin-ext"],
-    "version": "v19",
-    "lastModified": "2022-09-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifgrantha/v19/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiqEUNLR7fHGw.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v19/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlK.woff2"
-  },
-  {
     "family": "Noto Sans Kharoshthi",
     "variants": ["regular"],
     "subsets": ["kharoshthi", "latin", "latin-ext"],
@@ -28462,6 +28449,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5pl0.woff2"
+  },
+  {
+    "family": "Noto Serif Grantha",
+    "variants": ["regular"],
+    "subsets": ["grantha", "latin", "latin-ext"],
+    "version": "v19",
+    "lastModified": "2022-09-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifgrantha/v19/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiqEUNLR7fHGw.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v19/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlK.woff2"
   },
   {
     "family": "Noto Sans Cherokee",
@@ -29604,19 +29604,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYa1WVoN.woff2"
   },
   {
-    "family": "Noto Sans Old Sogdian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-sogdian"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldsogdian/v16/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURt7mOIqM-9uyg.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldsogdian/v16/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgr.woff2"
-  },
-  {
     "family": "Noto Sans Mende Kikakui",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mende-kikakui"],
@@ -29628,6 +29615,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjM.woff2"
+  },
+  {
+    "family": "Noto Sans Old Sogdian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-sogdian"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldsogdian/v16/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURt7mOIqM-9uyg.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldsogdian/v16/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgr.woff2"
   },
   {
     "family": "Noto Sans Pau Cin Hau",
