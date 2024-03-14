@@ -23310,6 +23310,19 @@
     "menu": "https://fonts.gstatic.com/s/oi/v19/w8gXH2EuRptbsNo.ttf"
   },
   {
+    "family": "Metal",
+    "variants": ["regular"],
+    "subsets": ["khmer", "latin"],
+    "version": "v30",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/metal/v30/lW-wwjUJIXTo7i3nnoQAUdN2.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/metal/v30/lW-wwjUJIXTo7h3mlIA.ttf"
+  },
+  {
     "family": "Hedvig Letters Serif",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
@@ -23328,19 +23341,6 @@
         "end": 24
       }
     ]
-  },
-  {
-    "family": "Metal",
-    "variants": ["regular"],
-    "subsets": ["khmer", "latin"],
-    "version": "v30",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/metal/v30/lW-wwjUJIXTo7i3nnoQAUdN2.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/metal/v30/lW-wwjUJIXTo7h3mlIA.ttf"
   },
   {
     "family": "Noto Sans Cham",
@@ -23926,19 +23926,6 @@
     "menu": "https://fonts.gstatic.com/s/lovelight/v6/t5tlIR0TNJyZWimpNAXDvKfIzQ.ttf"
   },
   {
-    "family": "Sigmar",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v7",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/sigmar/v7/hv-XlzJgIE8a85pUbWY3MTFgVg.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/sigmar/v7/hv-XlzJgIE8a85pkbGwz.ttf"
-  },
-  {
     "family": "Suravaram",
     "variants": ["regular"],
     "subsets": ["latin", "telugu"],
@@ -23950,6 +23937,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/suravaram/v21/_gP61R_usiY7SCym4xIwimSx.ttf"
+  },
+  {
+    "family": "Sigmar",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v7",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/sigmar/v7/hv-XlzJgIE8a85pUbWY3MTFgVg.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/sigmar/v7/hv-XlzJgIE8a85pkbGwz.ttf"
   },
   {
     "family": "Tiro Bangla",
@@ -25992,19 +25992,6 @@
     "menu": "https://fonts.gstatic.com/s/notoserifolduyghur/v3/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Oa.ttf"
   },
   {
-    "family": "Noto Sans Runic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "runic"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansrunic/v17/H4c_BXWPl9DZ0Xe_nHUaus7W68WWaxpvHtgIYg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansrunic/v17/H4c_BXWPl9DZ0Xe_nHUaus7W68WmahBr.ttf"
-  },
-  {
     "family": "Noto Sans Old Persian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "old-persian"],
@@ -26016,6 +26003,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansoldpersian/v16/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_dqeNU.ttf"
+  },
+  {
+    "family": "Noto Sans Runic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "runic"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansrunic/v17/H4c_BXWPl9DZ0Xe_nHUaus7W68WWaxpvHtgIYg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansrunic/v17/H4c_BXWPl9DZ0Xe_nHUaus7W68WmahBr.ttf"
   },
   {
     "family": "Noto Sans Old Turkic",
