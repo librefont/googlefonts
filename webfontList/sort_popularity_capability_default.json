@@ -25619,19 +25619,6 @@
     "menu": "https://fonts.gstatic.com/s/oi/v19/w8gXH2EuRptbsNo.ttf"
   },
   {
-    "family": "Hedvig Letters Serif",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols"],
-    "version": "v2",
-    "lastModified": "2023-12-14",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/hedviglettersserif/v2/OD5puN2I2mekHmyoU1Kj2AXOd5_7v7gIDlX8quj7viQ_N1HixEAZf7fcvSGpZg.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/hedviglettersserif/v2/OD5puN2I2mekHmyoU1Kj2AXOd5_7v7gIDlX8quj7viQ_N1HixEApfr3Y.ttf"
-  },
-  {
     "family": "Metal",
     "variants": ["regular"],
     "subsets": ["khmer", "latin"],
@@ -25643,6 +25630,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/metal/v30/lW-wwjUJIXTo7h3mlIA.ttf"
+  },
+  {
+    "family": "Hedvig Letters Serif",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "version": "v2",
+    "lastModified": "2023-12-14",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/hedviglettersserif/v2/OD5puN2I2mekHmyoU1Kj2AXOd5_7v7gIDlX8quj7viQ_N1HixEAZf7fcvSGpZg.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/hedviglettersserif/v2/OD5puN2I2mekHmyoU1Kj2AXOd5_7v7gIDlX8quj7viQ_N1HixEApfr3Y.ttf"
   },
   {
     "family": "Noto Sans Cham",
@@ -26261,19 +26261,6 @@
     "menu": "https://fonts.gstatic.com/s/lovelight/v6/t5tlIR0TNJyZWimpNAXDvKfIzQ.ttf"
   },
   {
-    "family": "Sigmar",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v7",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/sigmar/v7/hv-XlzJgIE8a85pUbWY3MTFgVg.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/sigmar/v7/hv-XlzJgIE8a85pkbGwz.ttf"
-  },
-  {
     "family": "Suravaram",
     "variants": ["regular"],
     "subsets": ["latin", "telugu"],
@@ -26285,6 +26272,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/suravaram/v21/_gP61R_usiY7SCym4xIwimSx.ttf"
+  },
+  {
+    "family": "Sigmar",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v7",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/sigmar/v7/hv-XlzJgIE8a85pUbWY3MTFgVg.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/sigmar/v7/hv-XlzJgIE8a85pkbGwz.ttf"
   },
   {
     "family": "Tiro Bangla",
@@ -29379,6 +29379,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9XQ.ttf"
   },
   {
+    "family": "Noto Sans Mende Kikakui",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mende-kikakui"],
+    "version": "v28",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx_aDJLAHer.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjY.ttf"
+  },
+  {
     "family": "Noto Sans Duployan",
     "variants": ["regular", "700"],
     "subsets": ["duployan", "latin", "latin-ext"],
@@ -29391,19 +29404,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansduployan/v17/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gj.ttf"
-  },
-  {
-    "family": "Noto Sans Mende Kikakui",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mende-kikakui"],
-    "version": "v28",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx_aDJLAHer.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjY.ttf"
   },
   {
     "family": "Noto Sans Saurashtra",
