@@ -26594,19 +26594,6 @@
     ]
   },
   {
-    "family": "Noto Sans Lycian",
-    "variants": ["regular"],
-    "subsets": ["lycian"],
-    "version": "v15",
-    "lastModified": "2022-05-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA5_naCJwn00E.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQDA.ttf"
-  },
-  {
     "family": "Wavefont",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -26635,6 +26622,19 @@
         "end": 1000
       }
     ]
+  },
+  {
+    "family": "Noto Sans Lycian",
+    "variants": ["regular"],
+    "subsets": ["lycian"],
+    "version": "v15",
+    "lastModified": "2022-05-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA5_naCJwn00E.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQDA.ttf"
   },
   {
     "family": "Noto Sans Tagbanwa",
