@@ -28257,6 +28257,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYa1WVoN.woff2"
   },
   {
+    "family": "Noto Sans Elbasan",
+    "variants": ["regular"],
+    "subsets": ["elbasan", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvHdgre4dFcFh.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvEdkp-8.woff2"
+  },
+  {
     "family": "Noto Sans Ol Chiki",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "ol-chiki"],
@@ -28271,19 +28284,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansolchiki/v29/N0b92TJNOPt-eHmFZCdQbrL32r-4CvhzDzRwlxOQYuVALWk227MwgA.woff2"
-  },
-  {
-    "family": "Noto Sans Elbasan",
-    "variants": ["regular"],
-    "subsets": ["elbasan", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvHdgre4dFcFh.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvEdkp-8.woff2"
   },
   {
     "family": "Noto Sans Ugaritic",
@@ -29362,19 +29362,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanspsalterpahlavi/v16/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w5GzAsA.woff2"
   },
   {
-    "family": "Noto Sans Osage",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "osage"],
-    "version": "v18",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtXQ1aSxkrMCQ.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtnR1yT.woff2"
-  },
-  {
     "family": "Chokokutai",
     "variants": ["regular"],
     "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
@@ -29386,6 +29373,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fwsxy_4pw.woff2"
+  },
+  {
+    "family": "Noto Sans Osage",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "osage"],
+    "version": "v18",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtXQ1aSxkrMCQ.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtnR1yT.woff2"
   },
   {
     "family": "Noto Sans Mandaic",
