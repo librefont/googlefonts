@@ -3580,16 +3580,16 @@
   {
     "family": "Bodoni Moda",
     "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2023-03-21",
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "version": "v25",
+    "lastModified": "2024-03-25",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/bodonimoda/v23/aFTQ7PxzY382XsXX63LUYKSNQqn0X0BO.ttf",
-      "italic": "https://fonts.gstatic.com/s/bodonimoda/v23/aFTS7PxzY382XsXX63LUYJSPSK3WWlBOoas.ttf"
+      "regular": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTQ7PxzY382XsXX63LUYKSNQqn0X0BO.ttf",
+      "italic": "https://fonts.gstatic.com/s/bodonimoda/v25/aFTS7PxzY382XsXX63LUYJSPSK3WWlBOoas.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bodonimoda/v23/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oU7a8IF4sQ.ttf",
+    "menu": "https://fonts.gstatic.com/s/bodonimoda/v25/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oU7a8IF4sQ.ttf",
     "axes": [
       {
         "tag": "opsz",
@@ -5669,15 +5669,15 @@
     "family": "DM Sans",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
-    "version": "v14",
-    "lastModified": "2023-07-13",
+    "version": "v15",
+    "lastModified": "2024-03-25",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/dmsans/v14/rP2Hp2ywxg089UriOZSCHBeHFl0.ttf",
-      "italic": "https://fonts.gstatic.com/s/dmsans/v14/rP2Fp2ywxg089UriCZaIGDWCBl0O8Q.ttf"
+      "regular": "https://fonts.gstatic.com/s/dmsans/v15/rP2Hp2ywxg089UriOZSCHBeHFl0.ttf",
+      "italic": "https://fonts.gstatic.com/s/dmsans/v15/rP2Fp2ywxg089UriCZaIGDWCBl0O8Q.ttf"
     },
     "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/dmsans/v14/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRT23z.ttf",
+    "menu": "https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRT23z.ttf",
     "axes": [
       {
         "tag": "opsz",
@@ -5834,17 +5834,24 @@
   {
     "family": "David Libre",
     "variants": ["regular", "500", "700"],
-    "subsets": ["hebrew", "latin", "latin-ext", "vietnamese"],
-    "version": "v14",
-    "lastModified": "2023-05-02",
+    "subsets": [
+      "hebrew",
+      "latin",
+      "latin-ext",
+      "math",
+      "symbols",
+      "vietnamese"
+    ],
+    "version": "v16",
+    "lastModified": "2024-03-25",
     "files": {
-      "500": "https://fonts.gstatic.com/s/davidlibre/v14/snfzs0W_99N64iuYSvp4W8GIw7qbSjORSo9W.ttf",
-      "700": "https://fonts.gstatic.com/s/davidlibre/v14/snfzs0W_99N64iuYSvp4W8HAxbqbSjORSo9W.ttf",
-      "regular": "https://fonts.gstatic.com/s/davidlibre/v14/snfus0W_99N64iuYSvp4W_l86p6TYS-Y.ttf"
+      "500": "https://fonts.gstatic.com/s/davidlibre/v16/snfzs0W_99N64iuYSvp4W8GIw7qbSjORSo9W.ttf",
+      "700": "https://fonts.gstatic.com/s/davidlibre/v16/snfzs0W_99N64iuYSvp4W8HAxbqbSjORSo9W.ttf",
+      "regular": "https://fonts.gstatic.com/s/davidlibre/v16/snfus0W_99N64iuYSvp4W_l86p6TYS-Y.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/davidlibre/v14/snfus0W_99N64iuYSvp4W8l94Jo.ttf"
+    "menu": "https://fonts.gstatic.com/s/davidlibre/v16/snfus0W_99N64iuYSvp4W8l94Jo.ttf"
   },
   {
     "family": "Dawning of a New Day",
@@ -10354,14 +10361,14 @@
     "family": "Jacquarda Bastarda 9",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
-    "version": "v1",
-    "lastModified": "2024-02-16",
+    "version": "v4",
+    "lastModified": "2024-03-25",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/jacquardabastarda9/v1/f0Xp0fWr_8t6WFtKQJfOhaC0hcZ1HYAMAbwD1TB_JHHY.ttf"
+      "regular": "https://fonts.gstatic.com/s/jacquardabastarda9/v4/f0Xp0fWr_8t6WFtKQJfOhaC0hcZ1HYAMAbwD1TB_JHHY.ttf"
     },
     "category": "display",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jacquardabastarda9/v1/f0Xp0fWr_8t6WFtKQJfOhaC0hcZ1HYAMAYwC3zQ.ttf"
+    "menu": "https://fonts.gstatic.com/s/jacquardabastarda9/v4/f0Xp0fWr_8t6WFtKQJfOhaC0hcZ1HYAMAYwC3zQ.ttf"
   },
   {
     "family": "Jacques Francois",
@@ -17571,14 +17578,14 @@
     "family": "Noto Sans Symbols",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "symbols"],
-    "version": "v41",
-    "lastModified": "2023-09-27",
+    "version": "v42",
+    "lastModified": "2024-03-25",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssymbols/v41/rP2dp3q65FkAtHfwd-eIS2brbDN6gwn8wq-72bOY.ttf"
+      "regular": "https://fonts.gstatic.com/s/notosanssymbols/v42/rP2dp3q65FkAtHfwd-eIS2brbDN6gwn8wq-72bOY.ttf"
     },
     "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssymbols/v41/rP2up3q65FkAtHfwd-eIS2brbDN6gxP34F9jRRCe4W3gfQ8Qa_9B.ttf",
+    "menu": "https://fonts.gstatic.com/s/notosanssymbols/v42/rP2up3q65FkAtHfwd-eIS2brbDN6gxP34F9jRRCe4W3gfQ8Qa_9B.ttf",
     "axes": [
       {
         "tag": "wght",
@@ -20485,32 +20492,32 @@
       "900",
       "900italic"
     ],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v20",
-    "lastModified": "2022-09-22",
+    "subsets": ["latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2024-03-25",
     "files": {
-      "100": "https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTed3FBGPaTSQ.ttf",
-      "200": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_V1tvFP-KUEg.ttf",
-      "300": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1tvFP-KUEg.ttf",
-      "500": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1tvFP-KUEg.ttf",
-      "600": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1tvFP-KUEg.ttf",
-      "700": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1tvFP-KUEg.ttf",
-      "800": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1tvFP-KUEg.ttf",
-      "900": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1tvFP-KUEg.ttf",
-      "100italic": "https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE3tFOvODSVFF.ttf",
-      "200italic": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1plEN2PQEhcqw.ttf",
-      "300italic": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21llEN2PQEhcqw.ttf",
-      "regular": "https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJDUc1NECPY.ttf",
-      "italic": "https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLed3FBGPaTSQ.ttf",
-      "500italic": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hlEN2PQEhcqw.ttf",
-      "600italic": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19lEN2PQEhcqw.ttf",
-      "700italic": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15lEN2PQEhcqw.ttf",
-      "800italic": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111lEN2PQEhcqw.ttf",
-      "900italic": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xlEN2PQEhcqw.ttf"
+      "100": "https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTed3FBGPaTSQ.ttf",
+      "200": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_V1tvFP-KUEg.ttf",
+      "300": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1tvFP-KUEg.ttf",
+      "500": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1tvFP-KUEg.ttf",
+      "600": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1tvFP-KUEg.ttf",
+      "700": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1tvFP-KUEg.ttf",
+      "800": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4V1tvFP-KUEg.ttf",
+      "900": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1tvFP-KUEg.ttf",
+      "100italic": "https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE3tFOvODSVFF.ttf",
+      "200italic": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1plEN2PQEhcqw.ttf",
+      "300italic": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21llEN2PQEhcqw.ttf",
+      "regular": "https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJDUc1NECPY.ttf",
+      "italic": "https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLed3FBGPaTSQ.ttf",
+      "500italic": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hlEN2PQEhcqw.ttf",
+      "600italic": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19lEN2PQEhcqw.ttf",
+      "700italic": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15lEN2PQEhcqw.ttf",
+      "800italic": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111lEN2PQEhcqw.ttf",
+      "900italic": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xlEN2PQEhcqw.ttf"
     },
     "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJHedw.ttf"
+    "menu": "https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJHedw.ttf"
   },
   {
     "family": "Port Lligat Sans",
@@ -21486,6 +21493,26 @@
     "menu": "https://fonts.gstatic.com/s/redactedscript/v10/ypvBbXGRglhokR7dcC3d1-R6zmxisG71.ttf"
   },
   {
+    "family": "Reddit Mono",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v1",
+    "lastModified": "2024-03-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/redditmono/v1/oPWL_kRmmu4oQ88oo13o49rMTDp_R2SX.ttf"
+    },
+    "category": "monospace",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/redditmono/v1/oPWc_kRmmu4oQ88oo13o48DHbsqn28eR20vUwCYqc3Pc.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 200,
+        "end": 900
+      }
+    ]
+  },
+  {
     "family": "Redressed",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -21581,15 +21608,15 @@
     "family": "Rethink Sans",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2023-12-07",
+    "version": "v4",
+    "lastModified": "2024-03-25",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/rethinksans/v3/AMOWz4SDuXOMCPfdoglY9JQ0U1K2w9lb4g.ttf",
-      "italic": "https://fonts.gstatic.com/s/rethinksans/v3/AMOIz4SDuXOMCPfdoglY9JQEUViy4dxL4jSr.ttf"
+      "regular": "https://fonts.gstatic.com/s/rethinksans/v4/AMOWz4SDuXOMCPfdoglY9JQ0U1K2w9lb4g.ttf",
+      "italic": "https://fonts.gstatic.com/s/rethinksans/v4/AMOIz4SDuXOMCPfdoglY9JQEUViy4dxL4jSr.ttf"
     },
     "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rethinksans/v3/AMODz4SDuXOMCPfdoglY9JQuWHBGG0X45DmqkmFROE_snQ.ttf",
+    "menu": "https://fonts.gstatic.com/s/rethinksans/v4/AMODz4SDuXOMCPfdoglY9JQuWHBGG0X45DmqkmFROE_snQ.ttf",
     "axes": [
       {
         "tag": "wght",
@@ -24933,6 +24960,19 @@
     "menu": "https://fonts.gstatic.com/s/synetactile/v15/11hGGpna2UTQKjMCVzjAPMKR3iEZ.ttf"
   },
   {
+    "family": "Tac One",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
+    "version": "v2",
+    "lastModified": "2024-03-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/tacone/v2/ahcZv8Cj3zw7qDr8fO4hU-FwnU0.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/tacone/v2/ahcZv8Cj3zw7qDr8TO8rVw.ttf"
+  },
+  {
     "family": "Tai Heritage Pro",
     "variants": ["regular", "700"],
     "subsets": ["latin", "latin-ext", "tai-viet", "vietnamese"],
@@ -26785,6 +26825,58 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/yantramanav/v13/flU8Rqu5zY00QEpyWJYWN5f1XeM.ttf"
+  },
+  {
+    "family": "Yarndings 12",
+    "variants": ["regular"],
+    "subsets": ["latin", "math", "symbols"],
+    "version": "v2",
+    "lastModified": "2024-03-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/yarndings12/v2/55xreyp2N8T5P2LJbZAlkY9c8ZLMI2VUnQ.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/yarndings12/v2/55xreyp2N8T5P2LJbZAlkY9s8JjI.ttf"
+  },
+  {
+    "family": "Yarndings 12 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "math", "symbols"],
+    "version": "v2",
+    "lastModified": "2024-03-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/yarndings12charted/v2/eLGDP_DlKhO-DUfeqM4I_vDdJgmIh7hAvvbJ0t-dHaJH.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/yarndings12charted/v2/eLGDP_DlKhO-DUfeqM4I_vDdJgmIh7hAvsbI2Ns.ttf"
+  },
+  {
+    "family": "Yarndings 20",
+    "variants": ["regular"],
+    "subsets": ["latin", "math", "symbols"],
+    "version": "v2",
+    "lastModified": "2024-03-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/yarndings20/v2/TuGWUVlkUohEQu8l7K8b-vNFB380PMTK1w.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/yarndings20/v2/TuGWUVlkUohEQu8l7K8b-vN1BnUw.ttf"
+  },
+  {
+    "family": "Yarndings 20 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "math", "symbols"],
+    "version": "v2",
+    "lastModified": "2024-03-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/yarndings20charted/v2/QldRNSdbpg0G8vh0W2qxe0l-hcUPtY2VaLQm4UTqz5V9.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/yarndings20charted/v2/QldRNSdbpg0G8vh0W2qxe0l-hcUPtY2VaIQn60A.ttf"
   },
   {
     "family": "Yatra One",
