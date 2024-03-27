@@ -25339,19 +25339,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansimperialaramaic/v16/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXI.ttf"
   },
   {
-    "family": "Rubik Puddles",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcJfC0wVMT-aE.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcFfG-xQ.ttf"
-  },
-  {
     "family": "M PLUS Code Latin",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -25375,6 +25362,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Rubik Puddles",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcJfC0wVMT-aE.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcFfG-xQ.ttf"
   },
   {
     "family": "Linefont",
@@ -27004,19 +27004,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3gA.ttf"
   },
   {
-    "family": "Noto Sans Rejang",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "rejang"],
-    "version": "v21",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwN4O3WYZB_sU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9XQ.ttf"
-  },
-  {
     "family": "Noto Sans Phoenician",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "phoenician"],
@@ -27028,6 +27015,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqNs.ttf"
+  },
+  {
+    "family": "Noto Sans Rejang",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "rejang"],
+    "version": "v21",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwN4O3WYZB_sU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9XQ.ttf"
   },
   {
     "family": "Noto Sans Sogdian",
@@ -27233,19 +27233,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf"
   },
   {
-    "family": "Noto Sans Masaram Gondi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "masaram-gondi"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGe7RI9WSWX.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf"
-  },
-  {
     "family": "Noto Sans Linear B",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "linear-b"],
@@ -27257,6 +27244,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RMB.ttf"
+  },
+  {
+    "family": "Noto Sans Masaram Gondi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "masaram-gondi"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGe7RI9WSWX.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf"
   },
   {
     "family": "Noto Sans Modi",
