@@ -17215,19 +17215,6 @@
     "menu": "https://fonts.gstatic.com/s/bigshotone/v29/u-470qukhRkkO6BD_7cM_jxvWwY.ttf"
   },
   {
-    "family": "Slabo 13px",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v15",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/slabo13px/v15/11hEGp_azEvXZUdSBzzRcKer2wkYnvI.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/slabo13px/v15/11hEGp_azEvXZUdSBzzRQKah3w.ttf"
-  },
-  {
     "family": "Overlock SC",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -17239,6 +17226,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/overlocksc/v23/1cX3aUHKGZrstGAY8nwVzEGBocA.ttf"
+  },
+  {
+    "family": "Slabo 13px",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v15",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/slabo13px/v15/11hEGp_azEvXZUdSBzzRcKer2wkYnvI.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/slabo13px/v15/11hEGp_azEvXZUdSBzzRQKah3w.ttf"
   },
   {
     "family": "Sarpanch",
@@ -27698,19 +27698,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansimperialaramaic/v16/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXI.ttf"
   },
   {
-    "family": "Rubik Puddles",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcJfC0wVMT-aE.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcFfG-xQ.ttf"
-  },
-  {
     "family": "M PLUS Code Latin",
     "variants": ["100", "200", "300", "regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -27728,6 +27715,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/mpluscodelatin/v13/hv-ylyV-aXg7x7tULiNXXBA0Np4WMS8fDIymHY8fy8wn4_ifLAtrObKDO0Xf1EbA2i9GrA.ttf"
+  },
+  {
+    "family": "Rubik Puddles",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcJfC0wVMT-aE.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcFfG-xQ.ttf"
   },
   {
     "family": "Linefont",
@@ -29276,19 +29276,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXS.ttf"
   },
   {
-    "family": "Noto Sans Cuneiform",
-    "variants": ["regular"],
-    "subsets": ["cuneiform", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWgb9JlRQueeQ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DkQ.ttf"
-  },
-  {
     "family": "Noto Sans Newa",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "newa"],
@@ -29300,6 +29287,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-oto.ttf"
+  },
+  {
+    "family": "Noto Sans Cuneiform",
+    "variants": ["regular"],
+    "subsets": ["cuneiform", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWgb9JlRQueeQ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DkQ.ttf"
   },
   {
     "family": "Noto Sans Psalter Pahlavi",
@@ -29573,19 +29573,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf"
   },
   {
-    "family": "Noto Sans Masaram Gondi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "masaram-gondi"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGe7RI9WSWX.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf"
-  },
-  {
     "family": "Noto Sans Linear B",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "linear-b"],
@@ -29597,6 +29584,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RMB.ttf"
+  },
+  {
+    "family": "Noto Sans Masaram Gondi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "masaram-gondi"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGe7RI9WSWX.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf"
   },
   {
     "family": "Noto Sans Modi",
