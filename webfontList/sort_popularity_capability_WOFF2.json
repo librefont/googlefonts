@@ -22968,6 +22968,19 @@
     "menu": "https://fonts.gstatic.com/s/arbutus/v28/NaPYcZ7dG_5J3pooX9Nnrg.woff2"
   },
   {
+    "family": "Ruluko",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2022-04-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/ruluko/v21/xMQVuFNZVaODtm0pDqWzKX_QmA.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/ruluko/v21/xMQVuFNZVaODtm0ZCq-y.woff2"
+  },
+  {
     "family": "Tiro Devanagari Marathi",
     "variants": ["regular", "italic"],
     "subsets": ["devanagari", "latin", "latin-ext"],
@@ -22980,19 +22993,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tirodevanagarimarathi/v5/fC1xPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkouDqBpc.woff2"
-  },
-  {
-    "family": "Ruluko",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2022-04-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/ruluko/v21/xMQVuFNZVaODtm0pDqWzKX_QmA.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/ruluko/v21/xMQVuFNZVaODtm0ZCq-y.woff2"
   },
   {
     "family": "Seymour One",
@@ -26772,19 +26772,6 @@
     "menu": "https://fonts.gstatic.com/s/notoseriftangut/v16/xn76YGc72GKoTvER4Gn3b4m9Ern7El40d8o.woff2"
   },
   {
-    "family": "Vibes",
-    "variants": ["regular"],
-    "subsets": ["arabic", "latin"],
-    "version": "v14",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/vibes/v14/QdVYSTsmIB6tmbdyHpbsuBlh.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/vibes/v14/QdVYSTsmIB6tmYd2FJc.woff2"
-  },
-  {
     "family": "Noto Sans Tagalog",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tagalog"],
@@ -26796,6 +26783,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstagalog/v22/J7aFnoNzCnFcV9ZI-sUYuvote1R0wzEBCck.woff2"
+  },
+  {
+    "family": "Vibes",
+    "variants": ["regular"],
+    "subsets": ["arabic", "latin"],
+    "version": "v14",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/vibes/v14/QdVYSTsmIB6tmbdyHpbsuBlh.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/vibes/v14/QdVYSTsmIB6tmYd2FJc.woff2"
   },
   {
     "family": "Noto Sans Sora Sompeng",
@@ -29677,19 +29677,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlI.woff2"
   },
   {
-    "family": "Noto Sans Pau Cin Hau",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "pau-cin-hau"],
-    "version": "v20",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehIdiUWqKMxsKw.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-r.woff2"
-  },
-  {
     "family": "Noto Sans Meroitic",
     "variants": ["regular"],
     "subsets": [
@@ -29707,6 +29694,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzgTJS.woff2"
+  },
+  {
+    "family": "Noto Sans Pau Cin Hau",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "pau-cin-hau"],
+    "version": "v20",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehIdiUWqKMxsKw.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-r.woff2"
   },
   {
     "family": "Noto Sans Manichaean",
