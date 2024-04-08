@@ -12953,6 +12953,26 @@
     "menu": "https://fonts.gstatic.com/s/arefruqaaink/v10/1q2fY5WOGUFlt84GTOkP6Kdx71TgXoU.ttf"
   },
   {
+    "family": "Mada",
+    "variants": ["regular"],
+    "subsets": ["arabic", "latin", "latin-ext"],
+    "version": "v19",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/mada/v19/7Auwp_0qnzeSTTXMLCrX0kU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/mada/v19/7Aulp_0qnzeSVz7u3PJLcUMYOFnOkEkx0e0.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 200,
+        "end": 900
+      }
+    ]
+  },
+  {
     "family": "Vollkorn",
     "variants": ["regular", "italic"],
     "subsets": [
@@ -12992,26 +13012,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6B6Mw.ttf"
-  },
-  {
-    "family": "Mada",
-    "variants": ["regular"],
-    "subsets": ["arabic", "latin", "latin-ext"],
-    "version": "v19",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/mada/v19/7Auwp_0qnzeSTTXMLCrX0kU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/mada/v19/7Aulp_0qnzeSVz7u3PJLcUMYOFnOkEkx0e0.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 200,
-        "end": 900
-      }
-    ]
   },
   {
     "family": "Irish Grover",
@@ -17209,19 +17209,6 @@
     "menu": "https://fonts.gstatic.com/s/mashanzheng/v10/NaPecZTRCLxvwo41b4gvzkXadMXmCA.ttf"
   },
   {
-    "family": "Wire One",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v28",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/wireone/v28/qFdH35Wah5htUhV75WGiWdrCwwcJ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/wireone/v28/qFdH35Wah5htUhV75VGjU94.ttf"
-  },
-  {
     "family": "Varta",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -17240,6 +17227,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Wire One",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v28",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/wireone/v28/qFdH35Wah5htUhV75WGiWdrCwwcJ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/wireone/v28/qFdH35Wah5htUhV75VGjU94.ttf"
   },
   {
     "family": "Belleza",
