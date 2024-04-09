@@ -27773,19 +27773,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstangsa/v6/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1YkxoQa9s.woff2"
   },
   {
-    "family": "Flow Rounded",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
-    "version": "v11",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/flowrounded/v11/-zki91mtwsU9qlLiGwD4oQX3pJX-Xup87g.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/flowrounded/v11/-zki91mtwsU9qlLiGwD4oQXHoJ__.woff2"
-  },
-  {
     "family": "Rubik Pixels",
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
@@ -27797,6 +27784,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikpixels/v2/SlGXmQOaupkIeSx4CEpB7AdiaRwQ.woff2"
+  },
+  {
+    "family": "Flow Rounded",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+    "version": "v11",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/flowrounded/v11/-zki91mtwsU9qlLiGwD4oQX3pJX-Xup87g.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/flowrounded/v11/-zki91mtwsU9qlLiGwD4oQXHoJ__.woff2"
   },
   {
     "family": "Noto Sans Thaana",
@@ -29297,19 +29297,6 @@
     "menu": "https://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fwsxy_4pw.woff2"
   },
   {
-    "family": "Noto Sans Cypriot",
-    "variants": ["regular"],
-    "subsets": ["cypriot", "latin", "latin-ext"],
-    "version": "v19",
-    "lastModified": "2023-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cxIpK5MPpahF.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZI.woff2"
-  },
-  {
     "family": "Noto Sans Linear B",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "linear-b"],
@@ -29321,6 +29308,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RME.woff2"
+  },
+  {
+    "family": "Noto Sans Cypriot",
+    "variants": ["regular"],
+    "subsets": ["cypriot", "latin", "latin-ext"],
+    "version": "v19",
+    "lastModified": "2023-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cxIpK5MPpahF.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZI.woff2"
   },
   {
     "family": "Noto Sans Wancho",
@@ -29469,19 +29469,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHsoA.woff2"
   },
   {
-    "family": "Noto Sans Sogdian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "sogdian"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo-7Pm6KHidM.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NG8.woff2"
-  },
-  {
     "family": "Noto Sans Mende Kikakui",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mende-kikakui"],
@@ -29493,6 +29480,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjM.woff2"
+  },
+  {
+    "family": "Noto Sans Sogdian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "sogdian"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo-7Pm6KHidM.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NG8.woff2"
   },
   {
     "family": "Noto Sans Mayan Numerals",
@@ -29651,19 +29651,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuU.woff2"
   },
   {
-    "family": "Noto Sans Manichaean",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "manichaean"],
-    "version": "v18",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfekqHNTtFCtdX.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPzo.woff2"
-  },
-  {
     "family": "Noto Sans Soyombo",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "soyombo"],
@@ -29675,6 +29662,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlI.woff2"
+  },
+  {
+    "family": "Noto Sans Manichaean",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "manichaean"],
+    "version": "v18",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfekqHNTtFCtdX.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPzo.woff2"
   },
   {
     "family": "Noto Sans Mahajani",
