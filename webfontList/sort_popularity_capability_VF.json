@@ -26105,6 +26105,22 @@
     ]
   },
   {
+    "family": "Kay Pho Du",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["kayah-li", "latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2023-10-25",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2B2OCDUy_zoyk18.ttf",
+      "600": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2DGJCDUy_zoyk18.ttf",
+      "700": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2FWICDUy_zoyk18.ttf",
+      "regular": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR4OmnLD0Z4zM.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR0OitKA.ttf"
+  },
+  {
     "family": "Rubik Broken Fax",
     "variants": ["regular"],
     "subsets": [
@@ -26124,22 +26140,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikbrokenfax/v1/NGSvv4rXG042O-GzH9sg1cUgl8w8UW6ccg.ttf"
-  },
-  {
-    "family": "Kay Pho Du",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["kayah-li", "latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2023-10-25",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2B2OCDUy_zoyk18.ttf",
-      "600": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2DGJCDUy_zoyk18.ttf",
-      "700": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2FWICDUy_zoyk18.ttf",
-      "regular": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR4OmnLD0Z4zM.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR0OitKA.ttf"
   },
   {
     "family": "Noto Sans Khojki",
@@ -27473,19 +27473,6 @@
     ]
   },
   {
-    "family": "Jersey 20 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2024-04-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey20charted/v2/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn_Z1ji-rqnQ_.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey20charted/v2/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn8Z0hCs.ttf"
-  },
-  {
     "family": "Jacquarda Bastarda 9 Charted",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
@@ -27497,6 +27484,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v2/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0YFbA.ttf"
+  },
+  {
+    "family": "Jersey 20 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2024-04-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey20charted/v2/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn_Z1ji-rqnQ_.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey20charted/v2/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn8Z0hCs.ttf"
   },
   {
     "family": "Jersey 15 Charted",
@@ -27577,17 +27577,17 @@
     "menu": "https://fonts.gstatic.com/s/jersey10charted/v2/oY1E8fPFr6XiNWqEp90XSbwUGfF8SkecIGM.ttf"
   },
   {
-    "family": "Jersey 25",
+    "family": "Jacquard 12 Charted",
     "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
     "version": "v2",
     "lastModified": "2024-04-12",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey25/v2/ll8-K2eeXj2tAs6F9BXIJ4AMng8ChA.ttf"
+      "regular": "https://fonts.gstatic.com/s/jacquard12charted/v2/i7dWIE97bzCOB9Q_Up6PQmYfKDPIb2HwT3StZ9jetKY.ttf"
     },
     "category": "display",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey25/v2/ll8-K2eeXj2tAs6F9BX4JooI.ttf"
+    "menu": "https://fonts.gstatic.com/s/jacquard12charted/v2/i7dWIE97bzCOB9Q_Up6PQmYfKDPIb2Hwf3WnYw.ttf"
   },
   {
     "family": "Micro 5 Charted",
@@ -27603,17 +27603,17 @@
     "menu": "https://fonts.gstatic.com/s/micro5charted/v1/hESp6XxmPDtTtADZhn7oD_yrmxE2REEN.ttf"
   },
   {
-    "family": "Jacquard 12 Charted",
+    "family": "Jersey 25",
     "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "subsets": ["latin", "latin-ext"],
     "version": "v2",
     "lastModified": "2024-04-12",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/jacquard12charted/v2/i7dWIE97bzCOB9Q_Up6PQmYfKDPIb2HwT3StZ9jetKY.ttf"
+      "regular": "https://fonts.gstatic.com/s/jersey25/v2/ll8-K2eeXj2tAs6F9BXIJ4AMng8ChA.ttf"
     },
     "category": "display",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jacquard12charted/v2/i7dWIE97bzCOB9Q_Up6PQmYfKDPIb2Hwf3WnYw.ttf"
+    "menu": "https://fonts.gstatic.com/s/jersey25/v2/ll8-K2eeXj2tAs6F9BX4JooI.ttf"
   },
   {
     "family": "Sedan",
