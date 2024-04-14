@@ -20401,19 +20401,6 @@
     "menu": "https://fonts.gstatic.com/s/bubblerone/v20/f0Xy0eqj68ppQV9KBLmAotHG0ac.ttf"
   },
   {
-    "family": "Tulpen One",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v25",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/tulpenone/v25/dFa6ZfeC474skLgesc0CWj0w_HyIRlE.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/tulpenone/v25/dFa6ZfeC474skLgesc0Cajw6-A.ttf"
-  },
-  {
     "family": "Dorsa",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -20425,6 +20412,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/dorsa/v27/yYLn0hjd0OGwqr4813Q.ttf"
+  },
+  {
+    "family": "Tulpen One",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v25",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/tulpenone/v25/dFa6ZfeC474skLgesc0CWj0w_HyIRlE.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/tulpenone/v25/dFa6ZfeC474skLgesc0Cajw6-A.ttf"
   },
   {
     "family": "Simonetta",
@@ -25169,19 +25169,6 @@
     "menu": "https://fonts.gstatic.com/s/tapestry/v4/SlGTmQecrosEYXhaGCIloHQ.ttf"
   },
   {
-    "family": "Noto Sans Carian",
-    "variants": ["regular"],
-    "subsets": ["carian", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscarian/v16/LDIpaoiONgYwA9Yc6f0gUILeMIOgs7ob9yGLmfI.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscarian/v16/LDIpaoiONgYwA9Yc6f0gUILeMIOgg7sR8w.ttf"
-  },
-  {
     "family": "Micro 5",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
@@ -25193,6 +25180,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/micro5/v1/H4cnBX2MkcfEngTr4gca6A.ttf"
+  },
+  {
+    "family": "Noto Sans Carian",
+    "variants": ["regular"],
+    "subsets": ["carian", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscarian/v16/LDIpaoiONgYwA9Yc6f0gUILeMIOgs7ob9yGLmfI.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscarian/v16/LDIpaoiONgYwA9Yc6f0gUILeMIOgg7sR8w.ttf"
   },
   {
     "family": "Noto Sans Egyptian Hieroglyphs",
