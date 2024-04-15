@@ -29022,6 +29022,22 @@
     "menu": "https://fonts.gstatic.com/s/yujihentaiganaakebono/v12/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wTy8PqE.ttf"
   },
   {
+    "family": "Noto Sans Balinese",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["balinese", "latin", "latin-ext"],
+    "version": "v24",
+    "lastModified": "2023-05-02",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov4XdhE5Vd222PPY.ttf",
+      "600": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov2nahE5Vd222PPY.ttf",
+      "700": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov1DahE5Vd222PPY.ttf",
+      "regular": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov7fdhE5Vd222PPY.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov7fdtE9fcw.ttf"
+  },
+  {
     "family": "Narnoor",
     "variants": ["regular", "500", "600", "700", "800"],
     "subsets": ["gunjala-gondi", "latin", "latin-ext", "math", "symbols"],
@@ -29037,22 +29053,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/narnoor/v7/cIf9MaFWuVo-UTyP9CihZA.ttf"
-  },
-  {
-    "family": "Noto Sans Balinese",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["balinese", "latin", "latin-ext"],
-    "version": "v24",
-    "lastModified": "2023-05-02",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov4XdhE5Vd222PPY.ttf",
-      "600": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov2nahE5Vd222PPY.ttf",
-      "700": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov1DahE5Vd222PPY.ttf",
-      "regular": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov7fdhE5Vd222PPY.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov7fdtE9fcw.ttf"
   },
   {
     "family": "Noto Sans Kawi",
@@ -29819,19 +29819,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf"
   },
   {
-    "family": "Noto Sans Mende Kikakui",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mende-kikakui"],
-    "version": "v28",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx_aDJLAHer.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjY.ttf"
-  },
-  {
     "family": "Noto Sans NKo",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "nko"],
@@ -29843,6 +29830,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpApGGGA.ttf"
+  },
+  {
+    "family": "Noto Sans Mende Kikakui",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mende-kikakui"],
+    "version": "v28",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx_aDJLAHer.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjY.ttf"
   },
   {
     "family": "Noto Sans Mahajani",
@@ -29910,19 +29910,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5plg.ttf"
   },
   {
-    "family": "Noto Sans Pau Cin Hau",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "pau-cin-hau"],
-    "version": "v20",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehIdjEWqKMxsKw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-u.ttf"
-  },
-  {
     "family": "Noto Sans Ugaritic",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "ugaritic"],
@@ -29934,6 +29921,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAM.ttf"
+  },
+  {
+    "family": "Noto Sans Pau Cin Hau",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "pau-cin-hau"],
+    "version": "v20",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehIdjEWqKMxsKw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-u.ttf"
   },
   {
     "family": "Noto Sans Manichaean",
