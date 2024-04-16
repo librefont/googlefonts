@@ -23956,6 +23956,19 @@
     "menu": "https://fonts.gstatic.com/s/rubikbeastly/v10/0QImMXRd5oOmSC2ZQ7o9653X4732-A.ttf"
   },
   {
+    "family": "Explora",
+    "variants": ["regular"],
+    "subsets": ["cherokee", "latin", "latin-ext", "vietnamese"],
+    "version": "v9",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/explora/v9/tsstApxFfjUH4wrvc1qPonC3vqc.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/explora/v9/tsstApxFfjUH4wrvQ1uFpg.ttf"
+  },
+  {
     "family": "Noto Serif Sinhala",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "sinhala"],
@@ -23979,19 +23992,6 @@
         "end": 900
       }
     ]
-  },
-  {
-    "family": "Explora",
-    "variants": ["regular"],
-    "subsets": ["cherokee", "latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/explora/v9/tsstApxFfjUH4wrvc1qPonC3vqc.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/explora/v9/tsstApxFfjUH4wrvQ1uFpg.ttf"
   },
   {
     "family": "Bonbon",
@@ -26634,6 +26634,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansinscriptionalpahlavi/v16/ll8UK3GaVDuxR-TEqFPIbsR79Xxz9WEKbwsjpz7VklYlC7FCZtufPA.ttf"
   },
   {
+    "family": "Noto Sans Pahawh Hmong",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "pahawh-hmong"],
+    "version": "v18",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspahawhhmong/v18/bWtp7e_KfBziStx7lIzKKaMUOBEA3UPQDW7krzc_c48aMpM.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspahawhhmong/v18/bWtp7e_KfBziStx7lIzKKaMUOBEA3UPQDW7knzY1dw.ttf"
+  },
+  {
     "family": "Noto Sans Duployan",
     "variants": ["regular", "700"],
     "subsets": ["duployan", "latin", "latin-ext"],
@@ -26646,19 +26659,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansduployan/v17/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gj.ttf"
-  },
-  {
-    "family": "Noto Sans Pahawh Hmong",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "pahawh-hmong"],
-    "version": "v18",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspahawhhmong/v18/bWtp7e_KfBziStx7lIzKKaMUOBEA3UPQDW7krzc_c48aMpM.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspahawhhmong/v18/bWtp7e_KfBziStx7lIzKKaMUOBEA3UPQDW7knzY1dw.ttf"
   },
   {
     "family": "Noto Sans Saurashtra",
@@ -27468,19 +27468,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf"
   },
   {
-    "family": "Noto Sans Mahajani",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mahajani"],
-    "version": "v19",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5Fh8ARHNh4zg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoV.ttf"
-  },
-  {
     "family": "Noto Sans Meroitic",
     "variants": ["regular"],
     "subsets": [
@@ -27498,6 +27485,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzgTJX.ttf"
+  },
+  {
+    "family": "Noto Sans Mahajani",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mahajani"],
+    "version": "v19",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5Fh8ARHNh4zg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoV.ttf"
   },
   {
     "family": "Noto Sans Elymaic",

@@ -28067,19 +28067,6 @@
     "menu": "https://fonts.gstatic.com/s/shizuru/v10/O4ZSFGfvnxFiCA3i70MDkg.ttf"
   },
   {
-    "family": "Noto Serif Ottoman Siyaq",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "ottoman-siyaq-numbers"],
-    "version": "v2",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoHLJrgA00kAdA.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoH7J7IE.ttf"
-  },
-  {
     "family": "Noto Sans Tifinagh",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tifinagh"],
@@ -28091,6 +28078,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PA.ttf"
+  },
+  {
+    "family": "Noto Serif Ottoman Siyaq",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "ottoman-siyaq-numbers"],
+    "version": "v2",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoHLJrgA00kAdA.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoH7J7IE.ttf"
   },
   {
     "family": "Ingrid Darling",
@@ -29832,19 +29832,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf"
   },
   {
-    "family": "Noto Sans Mahajani",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mahajani"],
-    "version": "v19",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5Fh8ARHNh4zg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoV.ttf"
-  },
-  {
     "family": "Noto Sans Meroitic",
     "variants": ["regular"],
     "subsets": [
@@ -29862,6 +29849,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzgTJX.ttf"
+  },
+  {
+    "family": "Noto Sans Mahajani",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mahajani"],
+    "version": "v19",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5Fh8ARHNh4zg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoV.ttf"
   },
   {
     "family": "Noto Sans Elymaic",
