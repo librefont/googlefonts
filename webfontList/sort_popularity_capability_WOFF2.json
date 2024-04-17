@@ -6314,21 +6314,21 @@
       "700italic"
     ],
     "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v11",
-    "lastModified": "2024-04-12",
+    "version": "v12",
+    "lastModified": "2024-04-17",
     "files": {
-      "500": "https://fonts.gstatic.com/s/gelasio/v11/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL86lycp-TDO8Aba.woff2",
-      "600": "https://fonts.gstatic.com/s/gelasio/v11/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL_WkCcp-TDO8Aba.woff2",
-      "700": "https://fonts.gstatic.com/s/gelasio/v11/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL_vkCcp-TDO8Aba.woff2",
-      "regular": "https://fonts.gstatic.com/s/gelasio/v11/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL8Ilycp-TDO8Aba.woff2",
-      "italic": "https://fonts.gstatic.com/s/gelasio/v11/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1M9v8zHs9RbanYs.woff2",
-      "500italic": "https://fonts.gstatic.com/s/gelasio/v11/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1P1v8zHs9RbanYs.woff2",
-      "600italic": "https://fonts.gstatic.com/s/gelasio/v11/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1BFo8zHs9RbanYs.woff2",
-      "700italic": "https://fonts.gstatic.com/s/gelasio/v11/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1Cho8zHs9RbanYs.woff2"
+      "500": "https://fonts.gstatic.com/s/gelasio/v12/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL86lycp-TDO8Aba.woff2",
+      "600": "https://fonts.gstatic.com/s/gelasio/v12/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL_WkCcp-TDO8Aba.woff2",
+      "700": "https://fonts.gstatic.com/s/gelasio/v12/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL_vkCcp-TDO8Aba.woff2",
+      "regular": "https://fonts.gstatic.com/s/gelasio/v12/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL8Ilycp-TDO8Aba.woff2",
+      "italic": "https://fonts.gstatic.com/s/gelasio/v12/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1M9v8zHs9RbanYs.woff2",
+      "500italic": "https://fonts.gstatic.com/s/gelasio/v12/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1P1v8zHs9RbanYs.woff2",
+      "600italic": "https://fonts.gstatic.com/s/gelasio/v12/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1BFo8zHs9RbanYs.woff2",
+      "700italic": "https://fonts.gstatic.com/s/gelasio/v12/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1Cho8zHs9RbanYs.woff2"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gelasio/v11/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL8Ilxct8zE.woff2"
+    "menu": "https://fonts.gstatic.com/s/gelasio/v12/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL8Ilxct8zE.woff2"
   },
   {
     "family": "IBM Plex Sans Condensed",
@@ -29877,19 +29877,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NG8.woff2"
   },
   {
-    "family": "Noto Sans Kharoshthi",
-    "variants": ["regular"],
-    "subsets": ["kharoshthi", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-04-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE5z9rFyx5mR1.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5pl0.woff2"
-  },
-  {
     "family": "Noto Sans Mahajani",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mahajani"],
@@ -29901,6 +29888,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoQ.woff2"
+  },
+  {
+    "family": "Noto Sans Kharoshthi",
+    "variants": ["regular"],
+    "subsets": ["kharoshthi", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-04-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE5z9rFyx5mR1.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5pl0.woff2"
   },
   {
     "family": "Noto Sans SignWriting",

@@ -5267,15 +5267,15 @@
     "family": "Gelasio",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v11",
-    "lastModified": "2024-04-12",
+    "version": "v12",
+    "lastModified": "2024-04-17",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/gelasio/v11/cIf9MaFfvUQxTTqSxCmrYGkHgIs.ttf",
-      "italic": "https://fonts.gstatic.com/s/gelasio/v11/cIf_MaFfvUQxTTqS9CuhZEsCkIt9QQ.ttf"
+      "regular": "https://fonts.gstatic.com/s/gelasio/v12/cIf9MaFfvUQxTTqSxCmrYGkHgIs.ttf",
+      "italic": "https://fonts.gstatic.com/s/gelasio/v12/cIf_MaFfvUQxTTqS9CuhZEsCkIt9QQ.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gelasio/v11/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL8Ilxct8zQ.ttf",
+    "menu": "https://fonts.gstatic.com/s/gelasio/v12/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL8Ilxct8zQ.ttf",
     "axes": [
       {
         "tag": "wght",
@@ -26606,6 +26606,19 @@
     ]
   },
   {
+    "family": "Noto Sans Old Turkic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-turkic"],
+    "version": "v17",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsE2RjEw-Vyws.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsH2Qhkg.ttf"
+  },
+  {
     "family": "Noto Sans New Tai Lue",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "new-tai-lue"],
@@ -26624,19 +26637,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Noto Sans Old Turkic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-turkic"],
-    "version": "v17",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsE2RjEw-Vyws.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsH2Qhkg.ttf"
   },
   {
     "family": "Noto Sans Inscriptional Pahlavi",
