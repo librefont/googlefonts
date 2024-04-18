@@ -29299,19 +29299,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXS.ttf"
   },
   {
-    "family": "Noto Sans Palmyrene",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "palmyrene"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCPnK5ZpdNtcA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnOzYg.ttf"
-  },
-  {
     "family": "Narnoor",
     "variants": ["regular", "500", "600", "700", "800"],
     "subsets": ["gunjala-gondi", "latin", "latin-ext", "math", "symbols"],
@@ -29327,6 +29314,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/narnoor/v7/cIf9MaFWuVo-UTyP9CihZA.ttf"
+  },
+  {
+    "family": "Noto Sans Palmyrene",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "palmyrene"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCPnK5ZpdNtcA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnOzYg.ttf"
   },
   {
     "family": "Noto Sans Duployan",
