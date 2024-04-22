@@ -26825,6 +26825,19 @@
     ]
   },
   {
+    "family": "Noto Sans Multani",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "multani"],
+    "version": "v20",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO1A0pfCs5Kos.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_Q.ttf"
+  },
+  {
     "family": "Narnoor",
     "variants": ["regular", "500", "600", "700", "800"],
     "subsets": ["gunjala-gondi", "latin", "latin-ext", "math", "symbols"],
@@ -26840,19 +26853,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/narnoor/v7/cIf9MaFWuVo-UTyP9CihZA.ttf"
-  },
-  {
-    "family": "Noto Sans Multani",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "multani"],
-    "version": "v20",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO1A0pfCs5Kos.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_Q.ttf"
   },
   {
     "family": "Noto Sans Newa",
@@ -27292,19 +27292,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Xw.ttf"
   },
   {
-    "family": "Noto Sans Takri",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "takri"],
-    "version": "v24",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwQNO_W3khJXg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXS.ttf"
-  },
-  {
     "family": "Noto Sans Syriac",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "syriac"],
@@ -27323,6 +27310,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Noto Sans Takri",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "takri"],
+    "version": "v24",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwQNO_W3khJXg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXS.ttf"
   },
   {
     "family": "Noto Sans Old Permic",
@@ -27520,19 +27520,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvEdkp-o.ttf"
   },
   {
-    "family": "Noto Sans Kharoshthi",
-    "variants": ["regular"],
-    "subsets": ["kharoshthi", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-04-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE5z4rFyx5mR1.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5plg.ttf"
-  },
-  {
     "family": "Noto Sans Soyombo",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "soyombo"],
@@ -27544,6 +27531,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlc.ttf"
+  },
+  {
+    "family": "Noto Sans Kharoshthi",
+    "variants": ["regular"],
+    "subsets": ["kharoshthi", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-04-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE5z4rFyx5mR1.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5plg.ttf"
   },
   {
     "family": "Noto Sans Pau Cin Hau",

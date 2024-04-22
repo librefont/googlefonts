@@ -28253,6 +28253,19 @@
     "menu": "https://fonts.gstatic.com/s/rubikmaps/v1/Gw6_wcjl80TZK9XxtbbevSceDg.ttf"
   },
   {
+    "family": "Rubik Storm",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2022-12-08",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaouL9T2Xh9NQk.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaotL8RWE.ttf"
+  },
+  {
     "family": "Noto Serif Myanmar",
     "variants": [
       "100",
@@ -28282,19 +28295,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifmyanmar/v13/VuJsdM7F2Yv76aBKKs-bHMQfAHUw3jnFpRDs.ttf"
-  },
-  {
-    "family": "Rubik Storm",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2022-12-08",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaouL9T2Xh9NQk.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaotL8RWE.ttf"
   },
   {
     "family": "Noto Sans Inscriptional Parthian",
@@ -29175,6 +29175,19 @@
     "menu": "https://fonts.gstatic.com/s/notoserifgurmukhi/v20/92z-tA9LNqsg7tCYlXdCV1VPnAEeDU0vLoYMbylXk0xTCr6-eSTMkKE.ttf"
   },
   {
+    "family": "Noto Sans Multani",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "multani"],
+    "version": "v20",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO1A0pfCs5Kos.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_Q.ttf"
+  },
+  {
     "family": "Narnoor",
     "variants": ["regular", "500", "600", "700", "800"],
     "subsets": ["gunjala-gondi", "latin", "latin-ext", "math", "symbols"],
@@ -29190,19 +29203,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/narnoor/v7/cIf9MaFWuVo-UTyP9CihZA.ttf"
-  },
-  {
-    "family": "Noto Sans Multani",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "multani"],
-    "version": "v20",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO1A0pfCs5Kos.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_Q.ttf"
   },
   {
     "family": "Noto Sans Newa",
@@ -29645,19 +29645,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Xw.ttf"
   },
   {
-    "family": "Noto Sans Takri",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "takri"],
-    "version": "v24",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwQNO_W3khJXg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXS.ttf"
-  },
-  {
     "family": "Noto Sans Syriac",
     "variants": [
       "100",
@@ -29687,6 +29674,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssyriac/v16/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5M.ttf"
+  },
+  {
+    "family": "Noto Sans Takri",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "takri"],
+    "version": "v24",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwQNO_W3khJXg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXS.ttf"
   },
   {
     "family": "Noto Sans Old Permic",
@@ -29884,19 +29884,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvEdkp-o.ttf"
   },
   {
-    "family": "Noto Sans Soyombo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "soyombo"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY0FrIFOcK25W.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlc.ttf"
-  },
-  {
     "family": "Noto Sans Kharoshthi",
     "variants": ["regular"],
     "subsets": ["kharoshthi", "latin", "latin-ext"],
@@ -29908,6 +29895,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5plg.ttf"
+  },
+  {
+    "family": "Noto Sans Soyombo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "soyombo"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY0FrIFOcK25W.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlc.ttf"
   },
   {
     "family": "Noto Sans Pau Cin Hau",
