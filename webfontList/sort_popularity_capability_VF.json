@@ -18847,19 +18847,6 @@
     "menu": "https://fonts.gstatic.com/s/imfellgreatprimer/v21/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrWtj4.ttf"
   },
   {
-    "family": "Dekko",
-    "variants": ["regular"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/dekko/v21/46khlb_wWjfSrttFR0vsfl1B.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/dekko/v21/46khlb_wWjfSrutETU8.ttf"
-  },
-  {
     "family": "Bruno Ace SC",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -18871,6 +18858,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/brunoacesc/v5/ptROTiycffFLBuiHjdJDl63ILCtv.ttf"
+  },
+  {
+    "family": "Dekko",
+    "variants": ["regular"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/dekko/v21/46khlb_wWjfSrttFR0vsfl1B.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/dekko/v21/46khlb_wWjfSrutETU8.ttf"
   },
   {
     "family": "Vujahday Script",
@@ -27018,19 +27018,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf"
   },
   {
-    "family": "Noto Sans Limbu",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "limbu"],
-    "version": "v22",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslimbu/v22/3JnlSDv90Gmq2mrzckOBBRRoNJVj0MF3OHRDnA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslimbu/v22/3JnlSDv90Gmq2mrzckOBBRRoNJVT0ctz.ttf"
-  },
-  {
     "family": "Noto Sans Tai Le",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tai-le"],
@@ -27042,6 +27029,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Xw.ttf"
+  },
+  {
+    "family": "Noto Sans Limbu",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "limbu"],
+    "version": "v22",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslimbu/v22/3JnlSDv90Gmq2mrzckOBBRRoNJVj0MF3OHRDnA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslimbu/v22/3JnlSDv90Gmq2mrzckOBBRRoNJVT0ctz.ttf"
   },
   {
     "family": "Noto Sans Phags Pa",
