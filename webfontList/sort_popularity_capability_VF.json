@@ -18699,19 +18699,6 @@
     "menu": "https://fonts.gstatic.com/s/jacquard12charted/v2/i7dWIE97bzCOB9Q_Up6PQmYfKDPIb2Hwf3WnYw.ttf"
   },
   {
-    "family": "Akaya Telivigala",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "telugu"],
-    "version": "v22",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/akayatelivigala/v22/lJwc-oo_iG9wXqU3rCTD395tp0uifdLdsIH0YH8.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/akayatelivigala/v22/lJwc-oo_iG9wXqU3rCTD395tp0uiTdPXtA.ttf"
-  },
-  {
     "family": "Workbench",
     "variants": ["regular"],
     "subsets": ["latin", "math", "symbols"],
@@ -18735,6 +18722,19 @@
         "end": 100
       }
     ]
+  },
+  {
+    "family": "Akaya Telivigala",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "telugu"],
+    "version": "v22",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/akayatelivigala/v22/lJwc-oo_iG9wXqU3rCTD395tp0uifdLdsIH0YH8.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/akayatelivigala/v22/lJwc-oo_iG9wXqU3rCTD395tp0uiTdPXtA.ttf"
   },
   {
     "family": "Metal Mania",
@@ -27455,19 +27455,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeas5rU1Q.ttf"
   },
   {
-    "family": "Noto Sans Manichaean",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "manichaean"],
-    "version": "v18",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfekqCNTtFCtdX.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPz8.ttf"
-  },
-  {
     "family": "Noto Sans Mro",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mro"],
@@ -27479,6 +27466,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3bsg.ttf"
+  },
+  {
+    "family": "Noto Sans Manichaean",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "manichaean"],
+    "version": "v18",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfekqCNTtFCtdX.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPz8.ttf"
   },
   {
     "family": "Noto Sans Mende Kikakui",
