@@ -17251,6 +17251,19 @@
     "menu": "https://fonts.gstatic.com/s/convergence/v15/rax5HiePvdgXPmmMHcIPYShbu08.woff2"
   },
   {
+    "family": "Stick",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/stick/v17/Qw3TZQpMCyTtJSvavPVDMPoF.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/stick/v17/Qw3TZQpMCyTtJRvetvQ.woff2"
+  },
+  {
     "family": "Red Hat Mono",
     "variants": [
       "300",
@@ -17282,19 +17295,6 @@
     "category": "monospace",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/redhatmono/v11/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQV3Iy7DHuA.woff2"
-  },
-  {
-    "family": "Stick",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/stick/v17/Qw3TZQpMCyTtJSvavPVDMPoF.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/stick/v17/Qw3TZQpMCyTtJRvetvQ.woff2"
   },
   {
     "family": "Wendy One",
@@ -26627,19 +26627,6 @@
     "menu": "https://fonts.gstatic.com/s/redactedscript/v10/ypvBbXGRglhokR7dcC3d1-R6zmxisG7w.woff2"
   },
   {
-    "family": "Honk",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
-    "version": "v1",
-    "lastModified": "2024-01-26",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/honk/v1/m8J7jftUea-XwTaemClumrBQbmvynOmXBji9zFhHRr8WFgVLprtNepQKvg.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/honk/v1/m8J7jftUea-XwTaemClumrBQbmvynOmXBji9zFhHRr8WFgV7orFM.woff2"
-  },
-  {
     "family": "Tsukimi Rounded",
     "variants": ["300", "regular", "500", "600", "700"],
     "subsets": ["japanese", "latin", "latin-ext"],
@@ -26655,6 +26642,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tsukimirounded/v10/sJoc3LJNksWZO0LvnZwkF3HtoB7dPHkP.woff2"
+  },
+  {
+    "family": "Honk",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
+    "version": "v1",
+    "lastModified": "2024-01-26",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/honk/v1/m8J7jftUea-XwTaemClumrBQbmvynOmXBji9zFhHRr8WFgVLprtNepQKvg.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/honk/v1/m8J7jftUea-XwTaemClumrBQbmvynOmXBji9zFhHRr8WFgV7orFM.woff2"
   },
   {
     "family": "Edu QLD Beginner",
@@ -29803,19 +29803,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNb.woff2"
   },
   {
-    "family": "Noto Sans Khudawadi",
-    "variants": ["regular"],
-    "subsets": ["khudawadi", "latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanskhudawadi/v21/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHIjFnVVXz9MY.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanskhudawadi/v21/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHEjVtVA.woff2"
-  },
-  {
     "family": "Noto Sans Old South Arabian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "old-south-arabian"],
@@ -29827,6 +29814,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansoldsoutharabian/v16/3qT5oiOhnSyU8TNFIdhZTice3hB_HWKsEnF--0XCHiKB1eFC.woff2"
+  },
+  {
+    "family": "Noto Sans Khudawadi",
+    "variants": ["regular"],
+    "subsets": ["khudawadi", "latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanskhudawadi/v21/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHIjFnVVXz9MY.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanskhudawadi/v21/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHEjVtVA.woff2"
   },
   {
     "family": "Noto Sans Tirhuta",
