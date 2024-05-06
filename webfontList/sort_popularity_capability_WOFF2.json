@@ -15811,19 +15811,6 @@
     "menu": "https://fonts.gstatic.com/s/coiny/v16/gyByhwU1K989PUwaGFU.woff2"
   },
   {
-    "family": "Fjord One",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v21",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/fjordone/v21/zOL-4pbEnKBY_9S1jNKr7O5As-FeiQ.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/fjordone/v21/zOL-4pbEnKBY_9S1jNKb6ORB.woff2"
-  },
-  {
     "family": "Libre Barcode 39 Extended Text",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -15835,6 +15822,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/librebarcode39extendedtext/v27/eLG1P_rwIgOiDA7yrs9LoKaYRVLQ1YldrrOnnL7xPO4jNP6Mfbgj.woff2"
+  },
+  {
+    "family": "Fjord One",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v21",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/fjordone/v21/zOL-4pbEnKBY_9S1jNKr7O5As-FeiQ.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/fjordone/v21/zOL-4pbEnKBY_9S1jNKb6ORB.woff2"
   },
   {
     "family": "Allan",
@@ -28774,19 +28774,6 @@
     "menu": "https://fonts.gstatic.com/s/linefont/v5/dg4I_pzpoqcLKUIzVfFMh1TF2rkhli25jn7CKTTWSumsFuSnY4UMXu_nmA.woff2"
   },
   {
-    "family": "Rubik Storm",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2022-12-08",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaouL4T2Xh9NQk.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaotL8RWQ.woff2"
-  },
-  {
     "family": "Noto Serif Grantha",
     "variants": ["regular"],
     "subsets": ["grantha", "latin", "latin-ext"],
@@ -28798,6 +28785,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v19/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlK.woff2"
+  },
+  {
+    "family": "Rubik Storm",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2022-12-08",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaouL4T2Xh9NQk.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaotL8RWQ.woff2"
   },
   {
     "family": "Puppies Play",
