@@ -21441,6 +21441,19 @@
     ]
   },
   {
+    "family": "Jersey 20",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2024-04-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey20/v2/ZgNRjP1ON6jeW4D12z3crE_qP4mXuQ.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey20/v2/ZgNRjP1ON6jeW4D12z3srUXu.ttf"
+  },
+  {
     "family": "Big Shoulders Stencil Text",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -21459,19 +21472,6 @@
         "end": 900
       }
     ]
-  },
-  {
-    "family": "Jersey 20",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2024-04-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey20/v2/ZgNRjP1ON6jeW4D12z3crE_qP4mXuQ.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey20/v2/ZgNRjP1ON6jeW4D12z3srUXu.ttf"
   },
   {
     "family": "Reddit Sans",
@@ -24989,19 +24989,6 @@
     "menu": "https://fonts.gstatic.com/s/rubikdoodletriangles/v1/esDA301BLOmMKxKspb3g-domRuLPeaSn2bTzRLm1tg.ttf"
   },
   {
-    "family": "Cherish",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v8",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/cherish/v8/ll88K2mXUyqsDsTN5iDCI6IJjg8.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/cherish/v8/ll88K2mXUyqsDsTN1iHIJw.ttf"
-  },
-  {
     "family": "Kablammo",
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
@@ -25020,6 +25007,19 @@
         "end": 60
       }
     ]
+  },
+  {
+    "family": "Cherish",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v8",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/cherish/v8/ll88K2mXUyqsDsTN5iDCI6IJjg8.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/cherish/v8/ll88K2mXUyqsDsTN1iHIJw.ttf"
   },
   {
     "family": "Palette Mosaic",
@@ -27593,19 +27593,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf"
   },
   {
-    "family": "Noto Sans Mandaic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mandaic"],
-    "version": "v16",
-    "lastModified": "2023-08-08",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmandaic/v16/cIfnMbdWt1w_HgCcilqhKQBo_OsMI5_A_gMk0izH.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmandaic/v16/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
-  },
-  {
     "family": "Noto Sans Buginese",
     "variants": ["regular"],
     "subsets": ["buginese", "latin", "latin-ext"],
@@ -27617,6 +27604,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_QtPGA.ttf"
+  },
+  {
+    "family": "Noto Sans Mandaic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mandaic"],
+    "version": "v16",
+    "lastModified": "2023-08-08",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmandaic/v16/cIfnMbdWt1w_HgCcilqhKQBo_OsMI5_A_gMk0izH.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmandaic/v16/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
   },
   {
     "family": "Noto Sans Nabataean",
