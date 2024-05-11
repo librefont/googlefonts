@@ -21441,19 +21441,6 @@
     ]
   },
   {
-    "family": "Jersey 20",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2024-04-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey20/v2/ZgNRjP1ON6jeW4D12z3crE_qP4mXuQ.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey20/v2/ZgNRjP1ON6jeW4D12z3srUXu.ttf"
-  },
-  {
     "family": "Big Shoulders Stencil Text",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -21472,6 +21459,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Jersey 20",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2024-04-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey20/v2/ZgNRjP1ON6jeW4D12z3crE_qP4mXuQ.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey20/v2/ZgNRjP1ON6jeW4D12z3srUXu.ttf"
   },
   {
     "family": "Reddit Sans",
