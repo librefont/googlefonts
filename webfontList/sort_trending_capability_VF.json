@@ -1335,7 +1335,8 @@
     },
     "category": "display",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bungeespice/v11/nwpTtK2nIhxE0q-IwgSpZBqyzig6.ttf"
+    "menu": "https://fonts.gstatic.com/s/bungeespice/v11/nwpTtK2nIhxE0q-IwgSpZBqyzig6.ttf",
+    "colorCapabilities": ["COLRv1", "SVG"]
   },
   {
     "family": "Ole",
@@ -2696,7 +2697,8 @@
     },
     "category": "display",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/blakaink/v8/AlZy_zVVtpj22Znag2cRdH38.ttf"
+    "menu": "https://fonts.gstatic.com/s/blakaink/v8/AlZy_zVVtpj22Znag2cRdH38.ttf",
+    "colorCapabilities": ["COLRv1", "SVG"]
   },
   {
     "family": "AR One Sans",
@@ -4223,7 +4225,8 @@
     },
     "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/reemkufiink/v9/oPWJ_kJmmu8hCvB9iFumxZSndj9XRg.ttf"
+    "menu": "https://fonts.gstatic.com/s/reemkufiink/v9/oPWJ_kJmmu8hCvB9iFumxZSndj9XRg.ttf",
+    "colorCapabilities": ["COLRv1", "SVG"]
   },
   {
     "family": "Scheherazade New",
@@ -4240,6 +4243,26 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/scheherazadenew/v15/4UaZrFhTvxVnHDvUkUiHg8jprP4DOwJmPg.ttf"
+  },
+  {
+    "family": "Danfo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v2",
+    "lastModified": "2024-05-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/danfo/v2/snfks0u_98t16SvUCZwCP8F9.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/danfo/v2/snf3s0u_98t16THfK1Csj3N41ZqbYDeJSrdX.ttf",
+    "axes": [
+      {
+        "tag": "ELSH",
+        "start": 0,
+        "end": 100
+      }
+    ]
   },
   {
     "family": "WindSong",
@@ -5020,7 +5043,8 @@
         "start": 0,
         "end": 24
       }
-    ]
+    ],
+    "colorCapabilities": ["COLRv1", "SVG"]
   },
   {
     "family": "Noto Serif Tangut",
@@ -5398,14 +5422,14 @@
     "family": "Material Symbols Sharp",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v175",
-    "lastModified": "2024-04-25",
+    "version": "v179",
+    "lastModified": "2024-05-13",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/materialsymbolssharp/v175/gNMVW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4aWTSTGlMyd8.ttf"
+      "regular": "https://fonts.gstatic.com/s/materialsymbolssharp/v179/gNMVW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4aWTSTGlMyd8.ttf"
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/materialsymbolssharp/v175/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLogCPLVU.ttf",
+    "menu": "https://fonts.gstatic.com/s/materialsymbolssharp/v179/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLogCPLVU.ttf",
     "axes": [
       {
         "tag": "FILL",
@@ -6665,6 +6689,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssamaritan/v16/buEqppe9f8_vkXadMBJJo0tSmaYjFkxOYo9pMg.ttf"
+  },
+  {
+    "family": "Jacquard 12",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "version": "v6",
+    "lastModified": "2024-05-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jacquard12/v6/vm8ydRLuXETEweL79J4rGc3JUnr34c9-.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jacquard12/v6/vm8ydRLuXETEweL79J4rGf3IWH4.ttf"
   },
   {
     "family": "Rubik Moonrocks",
@@ -12016,7 +12053,8 @@
         "start": 200,
         "end": 1000
       }
-    ]
+    ],
+    "colorCapabilities": ["COLRv0"]
   },
   {
     "family": "Sigmar One",
@@ -14889,7 +14927,8 @@
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/materialiconstwotone/v112/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNBuwPDI.otf"
+    "menu": "https://fonts.gstatic.com/s/materialiconstwotone/v112/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNBuwPDI.otf",
+    "colorCapabilities": ["COLRv0"]
   },
   {
     "family": "Martel",
@@ -15132,7 +15171,8 @@
     },
     "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notocoloremoji/v30/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFWb9m6w.ttf"
+    "menu": "https://fonts.gstatic.com/s/notocoloremoji/v30/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFWb9m6w.ttf",
+    "colorCapabilities": ["COLRv1", "SVG"]
   },
   {
     "family": "Piazzolla",
@@ -20122,7 +20162,8 @@
         "start": 100,
         "end": 900
       }
-    ]
+    ],
+    "colorCapabilities": ["COLRv1"]
   },
   {
     "family": "Lacquer",
@@ -23979,14 +24020,14 @@
     "family": "Material Symbols Outlined",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v179",
-    "lastModified": "2024-04-25",
+    "version": "v183",
+    "lastModified": "2024-05-13",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v179/kJEhBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oFsfjAOVZBgs.ttf"
+      "regular": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v183/kJEhBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oFsfjAOVZBgs.ttf"
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v179/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHNenZ9o.ttf",
+    "menu": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v183/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHNenZ9o.ttf",
     "axes": [
       {
         "tag": "FILL",
@@ -25886,14 +25927,14 @@
     "family": "Material Symbols Rounded",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v177",
-    "lastModified": "2024-04-25",
+    "version": "v181",
+    "lastModified": "2024-05-13",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/materialsymbolsrounded/v177/sykg-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190Fjzb6kLCeA_PQ.ttf"
+      "regular": "https://fonts.gstatic.com/s/materialsymbolsrounded/v181/sykg-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190Fjzb6kLCeA_PQ.ttf"
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/materialsymbolsrounded/v177/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelbxODLA.ttf",
+    "menu": "https://fonts.gstatic.com/s/materialsymbolsrounded/v181/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelbxODLA.ttf",
     "axes": [
       {
         "tag": "FILL",
@@ -25942,7 +25983,8 @@
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/arefruqaaink/v10/1q2fY5WOGUFlt84GTOkP6Kdx71TgXoU.ttf"
+    "menu": "https://fonts.gstatic.com/s/arefruqaaink/v10/1q2fY5WOGUFlt84GTOkP6Kdx71TgXoU.ttf",
+    "colorCapabilities": ["COLRv1", "SVG"]
   },
   {
     "family": "Tiro Kannada",
@@ -26405,7 +26447,8 @@
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/amiriquran/v14/_Xmo-Hk0rD6DbUL4_vH8Zp5s5ig.ttf"
+    "menu": "https://fonts.gstatic.com/s/amiriquran/v14/_Xmo-Hk0rD6DbUL4_vH8Zp5s5ig.ttf",
+    "colorCapabilities": ["COLRv0", "SVG"]
   },
   {
     "family": "Orelega One",
@@ -26443,7 +26486,8 @@
         "start": 0,
         "end": 100
       }
-    ]
+    ],
+    "colorCapabilities": ["COLRv1"]
   },
   {
     "family": "Libre Barcode 39 Extended",
@@ -27823,7 +27867,8 @@
     },
     "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v3/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jft5Cu.ttf"
+    "menu": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v3/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jft5Cu.ttf",
+    "colorCapabilities": ["COLRv0"]
   },
   {
     "family": "Noto Sans Old Persian",
@@ -27895,7 +27940,8 @@
         "start": 400,
         "end": 700
       }
-    ]
+    ],
+    "colorCapabilities": ["COLRv0"]
   },
   {
     "family": "Jersey 10 Charted",
