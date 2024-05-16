@@ -20908,32 +20908,6 @@
     "menu": "https://fonts.gstatic.com/s/comforter/v7/H4clBXOCl8nQnlaql3Qq6Zu4.ttf"
   },
   {
-    "family": "Briem Hand",
-    "variants": ["regular"],
-    "subsets": [
-      "cyrillic-ext",
-      "greek-ext",
-      "latin",
-      "latin-ext",
-      "vietnamese"
-    ],
-    "version": "v1",
-    "lastModified": "2024-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/briemhand/v1/2V0YKIEPHZ0wU-0arjnYZFQoBoHMd2U.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/briemhand/v1/2V0NKIEPHZ0wU-0arjnYfl8K9llQ1GP88pXwDYykWT0.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
     "family": "Playpen Sans",
     "variants": ["regular"],
     "subsets": ["emoji", "latin", "latin-ext", "math", "vietnamese"],
@@ -26697,19 +26671,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskaithi/v21/buEtppS9f8_vkXadMBJJu0tWjLwjciwAcg.ttf"
   },
   {
-    "family": "Noto Sans Cuneiform",
-    "variants": ["regular"],
-    "subsets": ["cuneiform", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWgb9JlRQueeQ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DkQ.ttf"
-  },
-  {
     "family": "Noto Sans Khojki",
     "variants": ["regular"],
     "subsets": ["khojki", "latin", "latin-ext"],
@@ -26721,6 +26682,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanskhojki/v19/-nFnOHM29Oofr2wohFbTuPPKVWpmG_Zx1w.ttf"
+  },
+  {
+    "family": "Noto Sans Cuneiform",
+    "variants": ["regular"],
+    "subsets": ["cuneiform", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWgb9JlRQueeQ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DkQ.ttf"
   },
   {
     "family": "Noto Serif Makasar",

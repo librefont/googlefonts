@@ -23076,43 +23076,6 @@
     "menu": "https://fonts.gstatic.com/s/comforter/v7/H4clBXOCl8nQnlaql3Qq6Zu4.ttf"
   },
   {
-    "family": "Briem Hand",
-    "variants": [
-      "100",
-      "200",
-      "300",
-      "regular",
-      "500",
-      "600",
-      "700",
-      "800",
-      "900"
-    ],
-    "subsets": [
-      "cyrillic-ext",
-      "greek-ext",
-      "latin",
-      "latin-ext",
-      "vietnamese"
-    ],
-    "version": "v1",
-    "lastModified": "2024-05-02",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/briemhand/v1/2V0NKIEPHZ0wU-0arjnYfl8K9llQ1GP88pXwDLylUzmVxUmm.ttf",
-      "200": "https://fonts.gstatic.com/s/briemhand/v1/2V0NKIEPHZ0wU-0arjnYfl8K9llQ1GP88pVwDbylUzmVxUmm.ttf",
-      "300": "https://fonts.gstatic.com/s/briemhand/v1/2V0NKIEPHZ0wU-0arjnYfl8K9llQ1GP88pWuDbylUzmVxUmm.ttf",
-      "500": "https://fonts.gstatic.com/s/briemhand/v1/2V0NKIEPHZ0wU-0arjnYfl8K9llQ1GP88pXCDbylUzmVxUmm.ttf",
-      "600": "https://fonts.gstatic.com/s/briemhand/v1/2V0NKIEPHZ0wU-0arjnYfl8K9llQ1GP88pUuCrylUzmVxUmm.ttf",
-      "700": "https://fonts.gstatic.com/s/briemhand/v1/2V0NKIEPHZ0wU-0arjnYfl8K9llQ1GP88pUXCrylUzmVxUmm.ttf",
-      "800": "https://fonts.gstatic.com/s/briemhand/v1/2V0NKIEPHZ0wU-0arjnYfl8K9llQ1GP88pVwCrylUzmVxUmm.ttf",
-      "900": "https://fonts.gstatic.com/s/briemhand/v1/2V0NKIEPHZ0wU-0arjnYfl8K9llQ1GP88pVZCrylUzmVxUmm.ttf",
-      "regular": "https://fonts.gstatic.com/s/briemhand/v1/2V0NKIEPHZ0wU-0arjnYfl8K9llQ1GP88pXwDbylUzmVxUmm.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/briemhand/v1/2V0NKIEPHZ0wU-0arjnYfl8K9llQ1GP88pXwDYykWT0.ttf"
-  },
-  {
     "family": "Playpen Sans",
     "variants": ["100", "200", "300", "regular", "500", "600", "700", "800"],
     "subsets": ["emoji", "latin", "latin-ext", "math", "vietnamese"],
@@ -29133,19 +29096,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskaithi/v21/buEtppS9f8_vkXadMBJJu0tWjLwjciwAcg.ttf"
   },
   {
-    "family": "Noto Sans Cuneiform",
-    "variants": ["regular"],
-    "subsets": ["cuneiform", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWgb9JlRQueeQ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DkQ.ttf"
-  },
-  {
     "family": "Noto Sans Khojki",
     "variants": ["regular"],
     "subsets": ["khojki", "latin", "latin-ext"],
@@ -29157,6 +29107,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanskhojki/v19/-nFnOHM29Oofr2wohFbTuPPKVWpmG_Zx1w.ttf"
+  },
+  {
+    "family": "Noto Sans Cuneiform",
+    "variants": ["regular"],
+    "subsets": ["cuneiform", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWgb9JlRQueeQ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DkQ.ttf"
   },
   {
     "family": "Noto Serif Makasar",
