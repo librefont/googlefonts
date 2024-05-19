@@ -18371,6 +18371,19 @@
     "menu": "https://fonts.gstatic.com/s/slackey/v28/N0bV2SdQO-5yM0-dGlVQIQ.ttf"
   },
   {
+    "family": "Belgrano",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v18",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/belgrano/v18/55xvey5tM9rwKWrJZcMFirl08KDJ.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/belgrano/v18/55xvey5tM9rwKWrJZfMEgL0.ttf"
+  },
+  {
     "family": "Instrument Serif",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -18383,19 +18396,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/instrumentserif/v4/jizBRFtNs2ka5fXjeivQ4LroWlx-6zMTiw.ttf"
-  },
-  {
-    "family": "Belgrano",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v18",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/belgrano/v18/55xvey5tM9rwKWrJZcMFirl08KDJ.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/belgrano/v18/55xvey5tM9rwKWrJZfMEgL0.ttf"
   },
   {
     "family": "Nova Square",
@@ -27263,19 +27263,6 @@
     "menu": "https://fonts.gstatic.com/s/jersey20charted/v2/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn8Z0hCs.ttf"
   },
   {
-    "family": "Jacquarda Bastarda 9 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols"],
-    "version": "v2",
-    "lastModified": "2024-04-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v2/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuf0cPaL8pmQg.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v2/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0YFbA.ttf"
-  },
-  {
     "family": "Noto Sans Tai Viet",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tai-viet"],
@@ -27287,6 +27274,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstaiviet/v19/8QIUdj3HhN_lv4jf9vsE-9GMOLsaSPZb6oQb.ttf"
+  },
+  {
+    "family": "Jacquarda Bastarda 9 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "version": "v2",
+    "lastModified": "2024-04-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v2/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuf0cPaL8pmQg.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v2/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0YFbA.ttf"
   },
   {
     "family": "Jersey 10 Charted",
