@@ -29395,6 +29395,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansinscriptionalpahlavi/v16/ll8UK3GaVDuxR-TEqFPIbsR79Xxz9WEKbwsjpz7VklYlC7FCZtufPA.ttf"
   },
   {
+    "family": "Noto Sans Siddham",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "siddham"],
+    "version": "v20",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGqndk3Ic92ZH.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf"
+  },
+  {
     "family": "Noto Sans Ol Chiki",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "ol-chiki"],
@@ -29409,19 +29422,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansolchiki/v29/N0b92TJNOPt-eHmFZCdQbrL32r-4CvhzDzRwlxOQYuVALWk227MwhQ.ttf"
-  },
-  {
-    "family": "Noto Sans Siddham",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "siddham"],
-    "version": "v20",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGqndk3Ic92ZH.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf"
   },
   {
     "family": "Noto Sans Lisu",
@@ -29886,19 +29886,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-oto.ttf"
   },
   {
-    "family": "Noto Sans Rejang",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "rejang"],
-    "version": "v21",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwN4O3WYZB_sU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9XQ.ttf"
-  },
-  {
     "family": "Noto Sans Palmyrene",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "palmyrene"],
@@ -29910,6 +29897,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnOzYg.ttf"
+  },
+  {
+    "family": "Noto Sans Rejang",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "rejang"],
+    "version": "v21",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwN4O3WYZB_sU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9XQ.ttf"
   },
   {
     "family": "Noto Sans Nabataean",
