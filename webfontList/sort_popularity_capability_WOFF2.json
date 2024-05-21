@@ -29395,19 +29395,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansinscriptionalpahlavi/v16/ll8UK3GaVDuxR-TEqFPIbsR79Xxz9WEKbwsjpz7VklYlC7FCZtufOQ.woff2"
   },
   {
-    "family": "Noto Sans Siddham",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "siddham"],
-    "version": "v20",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGqnYk3Ic92ZH.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXM.woff2"
-  },
-  {
     "family": "Noto Sans Ol Chiki",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "ol-chiki"],
@@ -29422,6 +29409,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansolchiki/v29/N0b92TJNOPt-eHmFZCdQbrL32r-4CvhzDzRwlxOQYuVALWk227MwgA.woff2"
+  },
+  {
+    "family": "Noto Sans Siddham",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "siddham"],
+    "version": "v20",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGqnYk3Ic92ZH.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXM.woff2"
   },
   {
     "family": "Noto Sans Lisu",
@@ -30277,19 +30277,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5pl0.woff2"
   },
   {
-    "family": "Noto Sans Pau Cin Hau",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "pau-cin-hau"],
-    "version": "v20",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehIdiUWqKMxsKw.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-r.woff2"
-  },
-  {
     "family": "Noto Sans Masaram Gondi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "masaram-gondi"],
@@ -30301,6 +30288,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xM.woff2"
+  },
+  {
+    "family": "Noto Sans Pau Cin Hau",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "pau-cin-hau"],
+    "version": "v20",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehIdiUWqKMxsKw.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-r.woff2"
   },
   {
     "family": "Noto Sans SignWriting",
