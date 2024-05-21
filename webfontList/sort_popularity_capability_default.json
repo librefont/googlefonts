@@ -27476,20 +27476,6 @@
     "menu": "https://fonts.gstatic.com/s/synetactile/v15/11hGGpna2UTQKjMCVzjAPMKR3iEZ.ttf"
   },
   {
-    "family": "Zen Loop",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v9",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEK9zqwzX5vOG.ttf",
-      "italic": "https://fonts.gstatic.com/s/zenloop/v9/h0GtssK16UsnJwHsEJ9xoQj14-OGJ0w.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEJ9yoQg.ttf"
-  },
-  {
     "family": "Noto Serif Tibetan",
     "variants": [
       "100",
@@ -27519,6 +27505,20 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoseriftibetan/v22/gokGH7nwAEdtF9N45n0Vaz7O-pk0wsvxHeDXMfqguoCmIrYcDS_hcQ.ttf"
+  },
+  {
+    "family": "Zen Loop",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v9",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEK9zqwzX5vOG.ttf",
+      "italic": "https://fonts.gstatic.com/s/zenloop/v9/h0GtssK16UsnJwHsEJ9xoQj14-OGJ0w.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEJ9yoQg.ttf"
   },
   {
     "family": "Are You Serious",
@@ -29395,19 +29395,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansinscriptionalpahlavi/v16/ll8UK3GaVDuxR-TEqFPIbsR79Xxz9WEKbwsjpz7VklYlC7FCZtufPA.ttf"
   },
   {
-    "family": "Noto Sans Siddham",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "siddham"],
-    "version": "v20",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGqndk3Ic92ZH.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf"
-  },
-  {
     "family": "Noto Sans Ol Chiki",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "ol-chiki"],
@@ -29422,6 +29409,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansolchiki/v29/N0b92TJNOPt-eHmFZCdQbrL32r-4CvhzDzRwlxOQYuVALWk227MwhQ.ttf"
+  },
+  {
+    "family": "Noto Sans Siddham",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "siddham"],
+    "version": "v20",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGqndk3Ic92ZH.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf"
   },
   {
     "family": "Noto Sans Lisu",
@@ -29938,19 +29938,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALiog.ttf"
   },
   {
-    "family": "Noto Sans Osage",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "osage"],
-    "version": "v18",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtXRlaSxkrMCQ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtnR1yW.ttf"
-  },
-  {
     "family": "Noto Sans Cypriot",
     "variants": ["regular"],
     "subsets": ["cypriot", "latin", "latin-ext"],
@@ -29962,6 +29949,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZc.ttf"
+  },
+  {
+    "family": "Noto Sans Osage",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "osage"],
+    "version": "v18",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtXRlaSxkrMCQ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtnR1yW.ttf"
   },
   {
     "family": "Noto Sans Syriac",
@@ -30277,19 +30277,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5plg.ttf"
   },
   {
-    "family": "Noto Sans Masaram Gondi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "masaram-gondi"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGe7RI9WSWX.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf"
-  },
-  {
     "family": "Noto Sans Pau Cin Hau",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "pau-cin-hau"],
@@ -30301,6 +30288,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-u.ttf"
+  },
+  {
+    "family": "Noto Sans Masaram Gondi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "masaram-gondi"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGe7RI9WSWX.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf"
   },
   {
     "family": "Noto Sans SignWriting",
