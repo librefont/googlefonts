@@ -25690,6 +25690,19 @@
     ]
   },
   {
+    "family": "Noto Sans Imperial Aramaic",
+    "variants": ["regular"],
+    "subsets": ["imperial-aramaic", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-08-08",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansimperialaramaic/v16/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrtdml3YfPNno.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansimperialaramaic/v16/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXI.ttf"
+  },
+  {
     "family": "Noto Serif Tibetan",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tibetan"],
@@ -25708,19 +25721,6 @@
         "end": 900
       }
     ]
-  },
-  {
-    "family": "Noto Sans Imperial Aramaic",
-    "variants": ["regular"],
-    "subsets": ["imperial-aramaic", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-08-08",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansimperialaramaic/v16/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrtdml3YfPNno.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansimperialaramaic/v16/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXI.ttf"
   },
   {
     "family": "Rubik Pixels",
@@ -25866,19 +25866,6 @@
     "menu": "https://fonts.gstatic.com/s/ingriddarling/v5/LDIrapaJNxUtSuFdw-9yf4rCPvLPs7o.ttf"
   },
   {
-    "family": "Gajraj One",
-    "variants": ["regular"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v5",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/gajrajone/v5/1cX2aUDCDpXsuWVb1jIjr1GqhcitzeM.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gajrajone/v5/1cX2aUDCDpXsuWVb1jIjn1CggQ.ttf"
-  },
-  {
     "family": "Rubik Burned",
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
@@ -25890,6 +25877,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqnSHAGe.ttf"
+  },
+  {
+    "family": "Gajraj One",
+    "variants": ["regular"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v5",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/gajrajone/v5/1cX2aUDCDpXsuWVb1jIjr1GqhcitzeM.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/gajrajone/v5/1cX2aUDCDpXsuWVb1jIjn1CggQ.ttf"
   },
   {
     "family": "Yarndings 12",
