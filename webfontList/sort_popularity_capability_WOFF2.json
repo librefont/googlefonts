@@ -21387,19 +21387,6 @@
     "menu": "https://fonts.gstatic.com/s/thenautigal/v6/VdGZAZ8ZH51Lvng9fQV2bfKb5g9l.woff2"
   },
   {
-    "family": "Meie Script",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/meiescript/v21/_LOImzDK7erRjhunIspaMjxi5IXg0WDz.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/meiescript/v21/_LOImzDK7erRjhunIspaMgxm7oQ.woff2"
-  },
-  {
     "family": "Kotta One",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -21411,6 +21398,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/kottaone/v20/S6u_w41LXzPc_jlfNWq_HQft.woff2"
+  },
+  {
+    "family": "Meie Script",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/meiescript/v21/_LOImzDK7erRjhunIspaMjxi5IXg0WDz.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/meiescript/v21/_LOImzDK7erRjhunIspaMgxm7oQ.woff2"
   },
   {
     "family": "Ysabeau Office",
@@ -30245,19 +30245,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xM.woff2"
   },
   {
-    "family": "Noto Sans Mahajani",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mahajani"],
-    "version": "v19",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5FgsARHNh4zg.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoQ.woff2"
-  },
-  {
     "family": "Noto Sans Elbasan",
     "variants": ["regular"],
     "subsets": ["elbasan", "latin", "latin-ext"],
@@ -30269,6 +30256,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvEdkp-8.woff2"
+  },
+  {
+    "family": "Noto Sans Mahajani",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mahajani"],
+    "version": "v19",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5FgsARHNh4zg.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoQ.woff2"
   },
   {
     "family": "Noto Sans Kharoshthi",
