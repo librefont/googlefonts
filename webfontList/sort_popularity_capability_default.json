@@ -26473,19 +26473,6 @@
     "menu": "https://fonts.gstatic.com/s/taiheritagepro/v6/sZlfdQid-zgaNiNIYcUzJMU3IYyNkH1YFA.ttf"
   },
   {
-    "family": "Yuji Boku",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
-    "version": "v5",
-    "lastModified": "2022-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/yujiboku/v5/P5sAzZybeNzXsA9xj1Fkjb2r2dgvJA.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/yujiboku/v5/P5sAzZybeNzXsA9xj1FUjLev.ttf"
-  },
-  {
     "family": "Rubik Beastly",
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
@@ -26497,6 +26484,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikbeastly/v10/0QImMXRd5oOmSC2ZQ7o9653X4732-A.ttf"
+  },
+  {
+    "family": "Yuji Boku",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
+    "version": "v5",
+    "lastModified": "2022-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/yujiboku/v5/P5sAzZybeNzXsA9xj1Fkjb2r2dgvJA.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/yujiboku/v5/P5sAzZybeNzXsA9xj1FUjLev.ttf"
   },
   {
     "family": "Fleur De Leah",
@@ -30245,19 +30245,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf"
   },
   {
-    "family": "Noto Sans Mahajani",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mahajani"],
-    "version": "v19",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5Fh8ARHNh4zg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoV.ttf"
-  },
-  {
     "family": "Noto Sans Elbasan",
     "variants": ["regular"],
     "subsets": ["elbasan", "latin", "latin-ext"],
@@ -30269,6 +30256,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvEdkp-o.ttf"
+  },
+  {
+    "family": "Noto Sans Mahajani",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mahajani"],
+    "version": "v19",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5Fh8ARHNh4zg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoV.ttf"
   },
   {
     "family": "Noto Sans Kharoshthi",
