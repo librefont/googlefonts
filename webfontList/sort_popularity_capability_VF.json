@@ -26095,19 +26095,6 @@
     "menu": "https://fonts.gstatic.com/s/micro5/v1/H4cnBX2MkcfEngTr4gca6A.ttf"
   },
   {
-    "family": "Grey Qo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNDOtQ9Wf0QcE.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNPOpa8Q.ttf"
-  },
-  {
     "family": "Noto Sans Bamum",
     "variants": ["regular"],
     "subsets": ["bamum", "latin", "latin-ext"],
@@ -26126,6 +26113,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Grey Qo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v9",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNDOtQ9Wf0QcE.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNPOpa8Q.ttf"
   },
   {
     "family": "Noto Sans Mro",

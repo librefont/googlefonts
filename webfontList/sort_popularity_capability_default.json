@@ -28533,19 +28533,6 @@
     "menu": "https://fonts.gstatic.com/s/micro5/v1/H4cnBX2MkcfEngTr4gca6A.ttf"
   },
   {
-    "family": "Grey Qo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNDOtQ9Wf0QcE.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNPOpa8Q.ttf"
-  },
-  {
     "family": "Noto Sans Bamum",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["bamum", "latin", "latin-ext"],
@@ -28560,6 +28547,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansbamum/v27/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPEddOy_kBzg.ttf"
+  },
+  {
+    "family": "Grey Qo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v9",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNDOtQ9Wf0QcE.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNPOpa8Q.ttf"
   },
   {
     "family": "Noto Sans Mro",
@@ -29309,19 +29309,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstagbanwa/v18/Y4GWYbB8VTEp4t3MKJSMmQdIKjRtt_npRz4A.ttf"
   },
   {
-    "family": "Noto Sans Yi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "yi"],
-    "version": "v19",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansyi/v19/sJoD3LFXjsSdcnzn071rO3apxVDJNVgSNg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansyi/v19/sJoD3LFXjsSdcnzn071rO3aZxFrN.ttf"
-  },
-  {
     "family": "Noto Sans Tai Tham",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "tai-tham"],
@@ -29336,6 +29323,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstaitham/v20/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBCUbDgukzQ.ttf"
+  },
+  {
+    "family": "Noto Sans Yi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "yi"],
+    "version": "v19",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansyi/v19/sJoD3LFXjsSdcnzn071rO3apxVDJNVgSNg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansyi/v19/sJoD3LFXjsSdcnzn071rO3aZxFrN.ttf"
   },
   {
     "family": "Noto Sans Bassa Vah",
