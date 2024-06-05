@@ -1,5 +1,18 @@
 [
   {
+    "family": "Tiny5",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "greek", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-06-05",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/tiny5/v1/KFOpCnmCvdGT7hw-z0hHAi88.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/tiny5/v1/KFOpCnmCvdGT7iw_xUw.ttf"
+  },
+  {
     "family": "LXGW WenKai TC",
     "variants": ["300", "regular", "700"],
     "subsets": [
@@ -7918,15 +7931,15 @@
   {
     "family": "Noto Rashi Hebrew",
     "variants": ["regular"],
-    "subsets": ["hebrew", "latin", "latin-ext"],
-    "version": "v25",
-    "lastModified": "2023-03-09",
+    "subsets": ["greek-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v26",
+    "lastModified": "2024-06-05",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notorashihebrew/v25/EJRMQh82XsIK-QFmqXk4zvLwFVya0utA2omSrzS8.ttf"
+      "regular": "https://fonts.gstatic.com/s/notorashihebrew/v26/EJRMQh82XsIK-QFmqXk4zvLwFVya0utA2omSrzS8.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notorashihebrew/v25/EJR_Qh82XsIK-QFmqXk4zvLwFVya0vFL-HlKM5e6C6HZB-HURiC-.ttf",
+    "menu": "https://fonts.gstatic.com/s/notorashihebrew/v26/EJR_Qh82XsIK-QFmqXk4zvLwFVya0vFL-HlKM5e6C6HZB-HURiC-.ttf",
     "axes": [
       {
         "tag": "wght",
@@ -11923,14 +11936,14 @@
     "family": "Alata",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2022-09-22",
+    "version": "v10",
+    "lastModified": "2024-06-05",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/alata/v9/PbytFmztEwbIofe6xKcRQEOX.ttf"
+      "regular": "https://fonts.gstatic.com/s/alata/v10/PbytFmztEwbIofe6xKcRQEOX.ttf"
     },
     "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/alata/v9/PbytFmztEwbIoce7zqM.ttf"
+    "menu": "https://fonts.gstatic.com/s/alata/v10/PbytFmztEwbIoce7zqM.ttf"
   },
   {
     "family": "Odibee Sans",
@@ -11975,14 +11988,14 @@
     "family": "Calistoga",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v15",
-    "lastModified": "2023-08-25",
+    "version": "v16",
+    "lastModified": "2024-06-05",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/calistoga/v15/6NUU8F2OJg6MeR7l4e0vtMYAwdRZfw.ttf"
+      "regular": "https://fonts.gstatic.com/s/calistoga/v16/6NUU8F2OJg6MeR7l4e0vtMYAwdRZfw.ttf"
     },
     "category": "display",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/calistoga/v15/6NUU8F2OJg6MeR7l4e0ftcwE.ttf"
+    "menu": "https://fonts.gstatic.com/s/calistoga/v16/6NUU8F2OJg6MeR7l4e0ftcwE.ttf"
   },
   {
     "family": "Ibarra Real Nova",
@@ -24001,14 +24014,14 @@
     "family": "Pinyon Script",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v21",
-    "lastModified": "2023-08-25",
+    "version": "v22",
+    "lastModified": "2024-06-05",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/pinyonscript/v21/6xKpdSJbL9-e9LuoeQiDRQR8aOLQO4bhiDY.ttf"
+      "regular": "https://fonts.gstatic.com/s/pinyonscript/v22/6xKpdSJbL9-e9LuoeQiDRQR8aOLQO4bhiDY.ttf"
     },
     "category": "handwriting",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/pinyonscript/v21/6xKpdSJbL9-e9LuoeQiDRQR8WOPaPw.ttf"
+    "menu": "https://fonts.gstatic.com/s/pinyonscript/v22/6xKpdSJbL9-e9LuoeQiDRQR8WOPaPw.ttf"
   },
   {
     "family": "Rancho",
@@ -24491,14 +24504,14 @@
     "family": "Voltaire",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v20",
-    "lastModified": "2023-08-25",
+    "version": "v21",
+    "lastModified": "2024-06-05",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/voltaire/v20/1Pttg8PcRfSblAvGvQooYKVnBOif.ttf"
+      "regular": "https://fonts.gstatic.com/s/voltaire/v21/1Pttg8PcRfSblAvGvQooYKVnBOif.ttf"
     },
     "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/voltaire/v20/1Pttg8PcRfSblAvGvTopaqE.ttf"
+    "menu": "https://fonts.gstatic.com/s/voltaire/v21/1Pttg8PcRfSblAvGvTopaqE.ttf"
   },
   {
     "family": "Alice",
@@ -25804,15 +25817,15 @@
   {
     "family": "Damion",
     "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v14",
-    "lastModified": "2022-09-22",
+    "subsets": ["latin", "latin-ext"],
+    "version": "v15",
+    "lastModified": "2024-06-05",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/damion/v14/hv-XlzJ3KEUe_YZUbWY3MTFgVg.ttf"
+      "regular": "https://fonts.gstatic.com/s/damion/v15/hv-XlzJ3KEUe_YZUbWY3MTFgVg.ttf"
     },
     "category": "handwriting",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/damion/v14/hv-XlzJ3KEUe_YZkbGwz.ttf"
+    "menu": "https://fonts.gstatic.com/s/damion/v15/hv-XlzJ3KEUe_YZkbGwz.ttf"
   },
   {
     "family": "News Cycle",
@@ -27933,14 +27946,14 @@
     "family": "Material Symbols Outlined",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v190",
-    "lastModified": "2024-05-29",
+    "version": "v192",
+    "lastModified": "2024-06-05",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v190/kJEhBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oFsfjAOVZBgs.ttf"
+      "regular": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v192/kJEhBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oFsfjAOVZBgs.ttf"
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v190/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHNenZ9o.ttf",
+    "menu": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v192/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHNenZ9o.ttf",
     "axes": [
       {
         "tag": "FILL",
@@ -27968,14 +27981,14 @@
     "family": "Material Symbols Rounded",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v188",
-    "lastModified": "2024-05-29",
+    "version": "v190",
+    "lastModified": "2024-06-05",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/materialsymbolsrounded/v188/sykg-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190Fjzb6kLCeA_PQ.ttf"
+      "regular": "https://fonts.gstatic.com/s/materialsymbolsrounded/v190/sykg-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190Fjzb6kLCeA_PQ.ttf"
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/materialsymbolsrounded/v188/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelbxODLA.ttf",
+    "menu": "https://fonts.gstatic.com/s/materialsymbolsrounded/v190/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelbxODLA.ttf",
     "axes": [
       {
         "tag": "FILL",
@@ -28003,14 +28016,14 @@
     "family": "Material Symbols Sharp",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v186",
-    "lastModified": "2024-05-29",
+    "version": "v188",
+    "lastModified": "2024-06-05",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/materialsymbolssharp/v186/gNMVW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4aWTSTGlMyd8.ttf"
+      "regular": "https://fonts.gstatic.com/s/materialsymbolssharp/v188/gNMVW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4aWTSTGlMyd8.ttf"
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/materialsymbolssharp/v186/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLogCPLVU.ttf",
+    "menu": "https://fonts.gstatic.com/s/materialsymbolssharp/v188/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLogCPLVU.ttf",
     "axes": [
       {
         "tag": "FILL",
