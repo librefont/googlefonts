@@ -26657,26 +26657,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_Q.ttf"
   },
   {
-    "family": "Noto Sans Adlam Unjoined",
-    "variants": ["regular"],
-    "subsets": ["adlam", "latin", "latin-ext"],
-    "version": "v25",
-    "lastModified": "2023-03-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansadlamunjoined/v25/P5sRzY2MYsLRsB5_ildkzPPDsLQXcOEmaFOqOGcAaZ41lBRPOw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansadlamunjoined/v25/P5sszY2MYsLRsB5_ildkzPPDsLQXcOEmaFOqOGcaYrzFTIjsPam_Ye35DMAU_A.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
-      }
-    ]
-  },
-  {
     "family": "Rubik Broken Fax",
     "variants": ["regular"],
     "subsets": [
@@ -26696,6 +26676,26 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikbrokenfax/v1/NGSvv4rXG042O-GzH9sg1cUgl8w8UW6ccg.ttf"
+  },
+  {
+    "family": "Noto Sans Adlam Unjoined",
+    "variants": ["regular"],
+    "subsets": ["adlam", "latin", "latin-ext"],
+    "version": "v25",
+    "lastModified": "2023-03-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansadlamunjoined/v25/P5sRzY2MYsLRsB5_ildkzPPDsLQXcOEmaFOqOGcAaZ41lBRPOw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansadlamunjoined/v25/P5sszY2MYsLRsB5_ildkzPPDsLQXcOEmaFOqOGcaYrzFTIjsPam_Ye35DMAU_A.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
+      }
+    ]
   },
   {
     "family": "Yarndings 12 Charted",
