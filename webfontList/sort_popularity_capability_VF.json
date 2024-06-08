@@ -26701,19 +26701,6 @@
     ]
   },
   {
-    "family": "Noto Serif Grantha",
-    "variants": ["regular"],
-    "subsets": ["grantha", "latin", "latin-ext"],
-    "version": "v19",
-    "lastModified": "2022-09-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifgrantha/v19/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiqFENLR7fHGw.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v19/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlP.ttf"
-  },
-  {
     "family": "Wavefont",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -26742,6 +26729,19 @@
         "end": 1000
       }
     ]
+  },
+  {
+    "family": "Noto Serif Grantha",
+    "variants": ["regular"],
+    "subsets": ["grantha", "latin", "latin-ext"],
+    "version": "v19",
+    "lastModified": "2022-09-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifgrantha/v19/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiqFENLR7fHGw.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v19/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlP.ttf"
   },
   {
     "family": "Noto Sans Medefaidrin",
