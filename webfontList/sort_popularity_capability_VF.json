@@ -26815,6 +26815,19 @@
     ]
   },
   {
+    "family": "Noto Sans Brahmi",
+    "variants": ["regular"],
+    "subsets": ["brahmi", "latin", "latin-ext", "math", "symbols"],
+    "version": "v19",
+    "lastModified": "2024-02-29",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV18tK1W77HtMo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
+  },
+  {
     "family": "Rubik Broken Fax",
     "variants": ["regular"],
     "subsets": [
@@ -26834,19 +26847,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikbrokenfax/v1/NGSvv4rXG042O-GzH9sg1cUgl8w8UW6ccg.ttf"
-  },
-  {
-    "family": "Noto Sans Brahmi",
-    "variants": ["regular"],
-    "subsets": ["brahmi", "latin", "latin-ext", "math", "symbols"],
-    "version": "v19",
-    "lastModified": "2024-02-29",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV18tK1W77HtMo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
   },
   {
     "family": "Noto Sans Vai",
@@ -27040,19 +27040,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsH2Qhkg.ttf"
   },
   {
-    "family": "Noto Serif Old Uyghur",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-uyghur"],
-    "version": "v3",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifolduyghur/v3/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwnKumeF2yVgA.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifolduyghur/v3/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Oa.ttf"
-  },
-  {
     "family": "Noto Sans Bassa Vah",
     "variants": ["regular"],
     "subsets": ["bassa-vah", "latin", "latin-ext"],
@@ -27071,6 +27058,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Serif Old Uyghur",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-uyghur"],
+    "version": "v3",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifolduyghur/v3/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwnKumeF2yVgA.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifolduyghur/v3/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Oa.ttf"
   },
   {
     "family": "Noto Sans Tifinagh",
