@@ -29354,19 +29354,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmongolian/v21/VdGCAYADGIwE0EopZx8xQfHlgEAMsrTo9Loq6g.woff2"
   },
   {
-    "family": "Noto Sans Phoenician",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "phoenician"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5X7Mot-p5561.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqN4.woff2"
-  },
-  {
     "family": "Noto Sans Yi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "yi"],
@@ -29378,6 +29365,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansyi/v19/sJoD3LFXjsSdcnzn071rO3aZxFrI.woff2"
+  },
+  {
+    "family": "Noto Sans Phoenician",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "phoenician"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5X7Mot-p5561.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqN4.woff2"
   },
   {
     "family": "Noto Sans Lydian",
