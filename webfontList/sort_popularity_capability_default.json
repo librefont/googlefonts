@@ -21689,6 +21689,19 @@
     "menu": "https://fonts.gstatic.com/s/bungeehairline/v22/snfys0G548t04270a_ljTLUVrv-LYReZ.ttf"
   },
   {
+    "family": "Khmer",
+    "variants": ["regular"],
+    "subsets": ["khmer"],
+    "version": "v29",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/khmer/v29/MjQImit_vPPwpF-BpN2EeYmD.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/khmer/v29/MjQImit_vPPwpG-Artk.ttf"
+  },
+  {
     "family": "Koh Santepheap",
     "variants": ["100", "300", "regular", "700", "900"],
     "subsets": ["khmer", "latin"],
@@ -21704,19 +21717,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/kohsantepheap/v11/gNMdW3p6SJbwyGj2rBZyeOrTjNPgHVw.ttf"
-  },
-  {
-    "family": "Khmer",
-    "variants": ["regular"],
-    "subsets": ["khmer"],
-    "version": "v29",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/khmer/v29/MjQImit_vPPwpF-BpN2EeYmD.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/khmer/v29/MjQImit_vPPwpG-Artk.ttf"
   },
   {
     "family": "Zhi Mang Xing",
@@ -29275,19 +29275,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansbatak/v20/gok2H6TwAEdtF9N8-mdTCQvT-ZdQooXL.ttf"
   },
   {
-    "family": "Yarndings 20",
-    "variants": ["regular"],
-    "subsets": ["latin", "math", "symbols"],
-    "version": "v2",
-    "lastModified": "2024-03-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/yarndings20/v2/TuGWUVlkUohEQu8l7K8b-vNFB380PMTK1w.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/yarndings20/v2/TuGWUVlkUohEQu8l7K8b-vN1BnUw.ttf"
-  },
-  {
     "family": "Noto Sans Tagbanwa",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tagbanwa"],
@@ -29299,6 +29286,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstagbanwa/v18/Y4GWYbB8VTEp4t3MKJSMmQdIKjRtt_npRz4A.ttf"
+  },
+  {
+    "family": "Yarndings 20",
+    "variants": ["regular"],
+    "subsets": ["latin", "math", "symbols"],
+    "version": "v2",
+    "lastModified": "2024-03-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/yarndings20/v2/TuGWUVlkUohEQu8l7K8b-vNFB380PMTK1w.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/yarndings20/v2/TuGWUVlkUohEQu8l7K8b-vN1BnUw.ttf"
   },
   {
     "family": "Noto Sans Medefaidrin",
