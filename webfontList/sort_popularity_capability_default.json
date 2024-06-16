@@ -24346,19 +24346,6 @@
     "menu": "https://fonts.gstatic.com/s/raviprakash/v19/gokpH6fsDkVrF9Bv9X8SOAK3mdxA.ttf"
   },
   {
-    "family": "Galindo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v24",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/galindo/v24/HI_KiYMeLqVKqwyuQ5HiRp-dhpQ.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/galindo/v24/HI_KiYMeLqVKqwyuc5DoQg.ttf"
-  },
-  {
     "family": "Lugrasimo",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -24370,6 +24357,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/lugrasimo/v4/qkBXXvoF_s_eT9c7Y7au5Z5P.ttf"
+  },
+  {
+    "family": "Galindo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v24",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/galindo/v24/HI_KiYMeLqVKqwyuQ5HiRp-dhpQ.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/galindo/v24/HI_KiYMeLqVKqwyuc5DoQg.ttf"
   },
   {
     "family": "Kode Mono",
@@ -29397,19 +29397,6 @@
     "menu": "https://fonts.gstatic.com/s/rock3d/v10/yYLp0hrL0PCo651553WtxQ.ttf"
   },
   {
-    "family": "Noto Sans Old North Arabian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-north-arabian"],
-    "version": "v16",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldnortharabian/v16/esDF30BdNv-KYGGJpKGk2tNiMt7Jar6olZDyNdr81zBQmUo_xw4ABw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldnortharabian/v16/esDF30BdNv-KYGGJpKGk2tNiMt7Jar6olZDyNdr81zBgmEA7.ttf"
-  },
-  {
     "family": "Blaka Ink",
     "variants": ["regular"],
     "subsets": ["arabic", "latin", "latin-ext"],
@@ -29422,6 +29409,19 @@
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/blakaink/v8/AlZy_zVVtpj22Znag2cRdH38.ttf",
     "colorCapabilities": ["COLRv1", "SVG"]
+  },
+  {
+    "family": "Noto Sans Old North Arabian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-north-arabian"],
+    "version": "v16",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldnortharabian/v16/esDF30BdNv-KYGGJpKGk2tNiMt7Jar6olZDyNdr81zBQmUo_xw4ABw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldnortharabian/v16/esDF30BdNv-KYGGJpKGk2tNiMt7Jar6olZDyNdr81zBgmEA7.ttf"
   },
   {
     "family": "Noto Sans Khojki",
