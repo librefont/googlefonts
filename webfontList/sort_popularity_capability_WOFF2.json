@@ -20552,19 +20552,6 @@
     "menu": "https://fonts.gstatic.com/s/gorditas/v22/ll8_K2aTVD26DsPEtTDpB68.woff2"
   },
   {
-    "family": "Barrio",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v19",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/barrio/v19/wEO8EBXBk8hBIDiEcAYhWdsX1Q.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/barrio/v19/wEO8EBXBk8hBIDi0dAwg.woff2"
-  },
-  {
     "family": "Nova Flat",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -20576,6 +20563,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/novaflat/v24/QdVUSTc-JgqpytEbVeb0uCFl.woff2"
+  },
+  {
+    "family": "Barrio",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v19",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/barrio/v19/wEO8EBXBk8hBIDiEcAYhWdsX1Q.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/barrio/v19/wEO8EBXBk8hBIDi0dAwg.woff2"
   },
   {
     "family": "Jomolhari",
@@ -29009,6 +29009,27 @@
     "menu": "https://fonts.gstatic.com/s/namdhinggo/v2/uk-mEGe3rbgg8Xzoy5-TPnSp4g.woff2"
   },
   {
+    "family": "Rubik Glitch Pop",
+    "variants": ["regular"],
+    "subsets": [
+      "cyrillic",
+      "cyrillic-ext",
+      "hebrew",
+      "latin",
+      "latin-ext",
+      "math",
+      "symbols"
+    ],
+    "version": "v1",
+    "lastModified": "2024-01-26",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikglitchpop/v1/tDbX2pGHhFcM0gB3hN2elZLa3G-MOwGtSUrV_BE.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikglitchpop/v1/tDbX2pGHhFcM0gB3hN2elZLa3G-MCwWnSA.woff2"
+  },
+  {
     "family": "Noto Sans Syriac Eastern",
     "variants": [
       "100",
@@ -29038,27 +29059,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssyriaceastern/v1/Noac6Vj_wIWFbTTCrYmvy8AjVU8aslWRHHvRYxS-Ro3yS0FDacnHPi-fgzGB5A.woff2"
-  },
-  {
-    "family": "Rubik Glitch Pop",
-    "variants": ["regular"],
-    "subsets": [
-      "cyrillic",
-      "cyrillic-ext",
-      "hebrew",
-      "latin",
-      "latin-ext",
-      "math",
-      "symbols"
-    ],
-    "version": "v1",
-    "lastModified": "2024-01-26",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikglitchpop/v1/tDbX2pGHhFcM0gB3hN2elZLa3G-MOwGtSUrV_BE.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikglitchpop/v1/tDbX2pGHhFcM0gB3hN2elZLa3G-MCwWnSA.woff2"
   },
   {
     "family": "Rubik Microbe",
@@ -30324,19 +30324,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3btw.woff2"
   },
   {
-    "family": "Noto Sans Old Turkic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-turkic"],
-    "version": "v17",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsE2UjEw-Vyws.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsH2Qhk0.woff2"
-  },
-  {
     "family": "Noto Sans Osage",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "osage"],
@@ -30348,6 +30335,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtnR1yT.woff2"
+  },
+  {
+    "family": "Noto Sans Old Turkic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-turkic"],
+    "version": "v17",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsE2UjEw-Vyws.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldturkic/v17/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsH2Qhk0.woff2"
   },
   {
     "family": "Noto Sans Tai Le",
