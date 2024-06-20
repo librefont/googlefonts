@@ -30627,19 +30627,6 @@
     "menu": "https://fonts.gstatic.com/s/yarndings12charted/v2/eLGDP_DlKhO-DUfeqM4I_vDdJgmIh7hAvsbI2N4.woff2"
   },
   {
-    "family": "Noto Sans Wancho",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "wancho"],
-    "version": "v17",
-    "lastModified": "2022-09-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBqAbopiRfKp8.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALipw.woff2"
-  },
-  {
     "family": "Noto Serif Old Uyghur",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "old-uyghur"],
@@ -30651,6 +30638,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifolduyghur/v3/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Of.woff2"
+  },
+  {
+    "family": "Noto Sans Wancho",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "wancho"],
+    "version": "v17",
+    "lastModified": "2022-09-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBqAbopiRfKp8.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALipw.woff2"
   },
   {
     "family": "Noto Sans Takri",
