@@ -28177,6 +28177,19 @@
     "menu": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgt6kQSQ.woff2"
   },
   {
+    "family": "Flow Block",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+    "version": "v11",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/flowblock/v11/wlp0gwfPCEB65UmTk-d6-WNlbCBXE_I.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/flowblock/v11/wlp0gwfPCEB65UmTk-d6yWdvbQ.woff2"
+  },
+  {
     "family": "Playwrite IN",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -28191,19 +28204,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritein/v4/uk-xEGGpoLQ97mfv2J3cZzuz7CyEJhPw65lkM7mMAR4t3g.woff2"
-  },
-  {
-    "family": "Flow Block",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
-    "version": "v11",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/flowblock/v11/wlp0gwfPCEB65UmTk-d6-WNlbCBXE_I.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/flowblock/v11/wlp0gwfPCEB65UmTk-d6yWdvbQ.woff2"
   },
   {
     "family": "Playwrite BR",
@@ -29521,19 +29521,6 @@
     "menu": "https://fonts.gstatic.com/s/rubikgemstones/v1/zrf90HrL0-_8Xb4DFM2rUkWbOVr-iSPH.woff2"
   },
   {
-    "family": "Noto Sans Multani",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "multani"],
-    "version": "v20",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO1AxpfCs5Kos.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_E.woff2"
-  },
-  {
     "family": "Noto Sans Glagolitic",
     "variants": ["regular"],
     "subsets": [
@@ -29552,6 +29539,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansglagolitic/v18/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRL6gg.woff2"
+  },
+  {
+    "family": "Noto Sans Multani",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "multani"],
+    "version": "v20",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO1AxpfCs5Kos.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_E.woff2"
   },
   {
     "family": "Mingzat",
