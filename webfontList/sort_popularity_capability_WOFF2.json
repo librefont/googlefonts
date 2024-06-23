@@ -20740,19 +20740,6 @@
     "menu": "https://fonts.gstatic.com/s/ranchers/v17/zrfm0H3Lx-P2Xvs2ArDZBi8.woff2"
   },
   {
-    "family": "Cute Font",
-    "variants": ["regular"],
-    "subsets": ["korean", "latin"],
-    "version": "v22",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/cutefont/v22/Noaw6Uny2oWPbSHMrY6vnZNVNC9hkw.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/cutefont/v22/Noaw6Uny2oWPbSHMrY6fmZlU.woff2"
-  },
-  {
     "family": "Noto Sans Thai Looped",
     "variants": [
       "100",
@@ -20782,6 +20769,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansthailooped/v14/B50RF6pOpWTRcGrhOVJJ3-oPfY7WQuFu5R3QOqAd.woff2"
+  },
+  {
+    "family": "Cute Font",
+    "variants": ["regular"],
+    "subsets": ["korean", "latin"],
+    "version": "v22",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/cutefont/v22/Noaw6Uny2oWPbSHMrY6vnZNVNC9hkw.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/cutefont/v22/Noaw6Uny2oWPbSHMrY6fmZlU.woff2"
   },
   {
     "family": "Nova Flat",
@@ -28177,19 +28177,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgt6kQSQ.woff2"
   },
   {
-    "family": "Flow Block",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
-    "version": "v11",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/flowblock/v11/wlp0gwfPCEB65UmTk-d6-WNlbCBXE_I.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/flowblock/v11/wlp0gwfPCEB65UmTk-d6yWdvbQ.woff2"
-  },
-  {
     "family": "Playwrite IN",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -28204,6 +28191,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritein/v4/uk-xEGGpoLQ97mfv2J3cZzuz7CyEJhPw65lkM7mMAR4t3g.woff2"
+  },
+  {
+    "family": "Flow Block",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+    "version": "v11",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/flowblock/v11/wlp0gwfPCEB65UmTk-d6-WNlbCBXE_I.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/flowblock/v11/wlp0gwfPCEB65UmTk-d6yWdvbQ.woff2"
   },
   {
     "family": "Playwrite BR",
