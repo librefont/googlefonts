@@ -29968,22 +29968,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanschorasmian/v3/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S6vzqn8.woff2"
   },
   {
-    "family": "Noto Sans Balinese",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["balinese", "latin", "latin-ext"],
-    "version": "v24",
-    "lastModified": "2023-05-02",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov4XdhEtVd222PPY.woff2",
-      "600": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov2nahEtVd222PPY.woff2",
-      "700": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov1DahEtVd222PPY.woff2",
-      "regular": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov7fdhEtVd222PPY.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov7fdtE9fdg.woff2"
-  },
-  {
     "family": "Noto Sans Ol Chiki",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "ol-chiki"],
@@ -29998,6 +29982,22 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansolchiki/v29/N0b92TJNOPt-eHmFZCdQbrL32r-4CvhzDzRwlxOQYuVALWk227MwgA.woff2"
+  },
+  {
+    "family": "Noto Sans Balinese",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["balinese", "latin", "latin-ext"],
+    "version": "v24",
+    "lastModified": "2023-05-02",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov4XdhEtVd222PPY.woff2",
+      "600": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov2nahEtVd222PPY.woff2",
+      "700": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov1DahEtVd222PPY.woff2",
+      "regular": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov7fdhEtVd222PPY.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbalinese/v24/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov7fdtE9fdg.woff2"
   },
   {
     "family": "Noto Sans Cuneiform",
@@ -30803,19 +30803,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpApGGHQ.woff2"
   },
   {
-    "family": "Noto Sans Caucasian Albanian",
-    "variants": ["regular"],
-    "subsets": ["caucasian-albanian", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXrYXmoVmRSZo.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHsoA.woff2"
-  },
-  {
     "family": "Noto Sans Elymaic",
     "variants": ["regular"],
     "subsets": ["elymaic", "latin", "latin-ext"],
@@ -30827,6 +30814,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuU.woff2"
+  },
+  {
+    "family": "Noto Sans Caucasian Albanian",
+    "variants": ["regular"],
+    "subsets": ["caucasian-albanian", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXrYXmoVmRSZo.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHsoA.woff2"
   },
   {
     "family": "Noto Sans Modi",
@@ -30895,19 +30895,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXX.woff2"
   },
   {
-    "family": "Noto Sans Saurashtra",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "saurashtra"],
-    "version": "v23",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9nYjhPTSIx9.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBI.woff2"
-  },
-  {
     "family": "Noto Sans Shavian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "shavian"],
@@ -30919,6 +30906,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4HFRQJg.woff2"
+  },
+  {
+    "family": "Noto Sans Saurashtra",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "saurashtra"],
+    "version": "v23",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9nYjhPTSIx9.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBI.woff2"
   },
   {
     "family": "Noto Sans Mende Kikakui",
