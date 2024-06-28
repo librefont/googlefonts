@@ -21862,6 +21862,19 @@
     "menu": "https://fonts.gstatic.com/s/oldenburg/v22/fC1jPY5JYWzbywv7c4VKUESs.ttf"
   },
   {
+    "family": "Dangrek",
+    "variants": ["regular"],
+    "subsets": ["khmer", "latin"],
+    "version": "v30",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/dangrek/v30/LYjCdG30nEgoH8E2gCNqqVIuTN4.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/dangrek/v30/LYjCdG30nEgoH8E2sCJgrQ.ttf"
+  },
+  {
     "family": "IBM Plex Sans Devanagari",
     "variants": ["100", "200", "300", "regular", "500", "600", "700"],
     "subsets": ["cyrillic-ext", "devanagari", "latin", "latin-ext"],
@@ -21879,19 +21892,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/ibmplexsansdevanagari/v11/XRXH3JCMvG4IDoS9SubXB6W-UX5iehIMBFR2-O_PVEjw.ttf"
-  },
-  {
-    "family": "Dangrek",
-    "variants": ["regular"],
-    "subsets": ["khmer", "latin"],
-    "version": "v30",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/dangrek/v30/LYjCdG30nEgoH8E2gCNqqVIuTN4.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/dangrek/v30/LYjCdG30nEgoH8E2sCJgrQ.ttf"
   },
   {
     "family": "Smokum",
@@ -27874,6 +27874,19 @@
     ]
   },
   {
+    "family": "Noto Sans Vai",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vai"],
+    "version": "v17",
+    "lastModified": "2022-09-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrURMTsDIRSfr0.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrUdMXmCA.ttf"
+  },
+  {
     "family": "Noto Sans Tai Tham",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tai-tham"],
@@ -27892,19 +27905,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Noto Sans Vai",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vai"],
-    "version": "v17",
-    "lastModified": "2022-09-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrURMTsDIRSfr0.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrUdMXmCA.ttf"
   },
   {
     "family": "Yuji Hentaigana Akebono",
