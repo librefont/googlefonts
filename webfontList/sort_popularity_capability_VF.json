@@ -20318,25 +20318,6 @@
     "menu": "https://fonts.gstatic.com/s/novaoval/v24/jAnEgHdmANHvPenMaswyMIWl.ttf"
   },
   {
-    "family": "Chocolate Classical Sans",
-    "variants": ["regular"],
-    "subsets": [
-      "chinese-traditional",
-      "cyrillic",
-      "latin",
-      "latin-ext",
-      "vietnamese"
-    ],
-    "version": "v2",
-    "lastModified": "2024-05-29",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/chocolateclassicalsans/v2/nuFqD-PLTZX4XIgT-P2ToCDudWHHflqUpTpfjWdDPI2J9mHITw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/chocolateclassicalsans/v2/nuFqD-PLTZX4XIgT-P2ToCDudWHHflqUpTpfjWdzPYeN.ttf"
-  },
-  {
     "family": "Rubik Glitch Pop",
     "variants": ["regular"],
     "subsets": [
@@ -20356,6 +20337,25 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikglitchpop/v1/tDbX2pGHhFcM0gB3hN2elZLa3G-MCwWnTQ.ttf"
+  },
+  {
+    "family": "Chocolate Classical Sans",
+    "variants": ["regular"],
+    "subsets": [
+      "chinese-traditional",
+      "cyrillic",
+      "latin",
+      "latin-ext",
+      "vietnamese"
+    ],
+    "version": "v2",
+    "lastModified": "2024-05-29",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/chocolateclassicalsans/v2/nuFqD-PLTZX4XIgT-P2ToCDudWHHflqUpTpfjWdDPI2J9mHITw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/chocolateclassicalsans/v2/nuFqD-PLTZX4XIgT-P2ToCDudWHHflqUpTpfjWdzPYeN.ttf"
   },
   {
     "family": "Farsan",
@@ -22353,19 +22353,6 @@
     "menu": "https://fonts.gstatic.com/s/vibes/v14/QdVYSTsmIB6tmYd2FJI.ttf"
   },
   {
-    "family": "Federant",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v29",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/federant/v29/2sDdZGNfip_eirT0_U0jRUG0AqUc.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/federant/v29/2sDdZGNfip_eirT0_X0iT0U.ttf"
-  },
-  {
     "family": "Lancelot",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -22377,6 +22364,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/lancelot/v26/J7acnppxBGtQEulG4KY5zps.ttf"
+  },
+  {
+    "family": "Federant",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v29",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/federant/v29/2sDdZGNfip_eirT0_U0jRUG0AqUc.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/federant/v29/2sDdZGNfip_eirT0_X0iT0U.ttf"
   },
   {
     "family": "Romanesco",
@@ -26565,19 +26565,6 @@
     ]
   },
   {
-    "family": "Noto Sans Nandinagari",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nandinagari"],
-    "version": "v4",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jVa5RXzC1KOw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jlap5T.ttf"
-  },
-  {
     "family": "Playwrite CA",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -26596,6 +26583,19 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Noto Sans Nandinagari",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nandinagari"],
+    "version": "v4",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jVa5RXzC1KOw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jlap5T.ttf"
   },
   {
     "family": "Rubik Marker Hatch",
