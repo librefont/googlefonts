@@ -28396,19 +28396,6 @@
     "menu": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoH7J7IB.woff2"
   },
   {
-    "family": "Moirai One",
-    "variants": ["regular"],
-    "subsets": ["korean", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2023-06-07",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/moiraione/v1/2sDbZGFUgJLJmby6xgNGT0CWB7UcfCg.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/moiraione/v1/2sDbZGFUgJLJmby6xgNGf0ScBg.woff2"
-  },
-  {
     "family": "Noto Sans Kayah Li",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["kayah-li", "latin", "latin-ext"],
@@ -28423,6 +28410,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanskayahli/v21/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3OZDyEA.woff2"
+  },
+  {
+    "family": "Moirai One",
+    "variants": ["regular"],
+    "subsets": ["korean", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2023-06-07",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/moiraione/v1/2sDbZGFUgJLJmby6xgNGT0CWB7UcfCg.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/moiraione/v1/2sDbZGFUgJLJmby6xgNGf0ScBg.woff2"
   },
   {
     "family": "Grandiflora One",
@@ -30616,17 +30616,17 @@
     "menu": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Wg.woff2"
   },
   {
-    "family": "Chokokutai",
+    "family": "Noto Sans Osage",
     "variants": ["regular"],
-    "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2023-05-23",
+    "subsets": ["latin", "latin-ext", "osage"],
+    "version": "v18",
+    "lastModified": "2022-11-09",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fws9yvypu1Kr7I.woff2"
+      "regular": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtXQ1aSxkrMCQ.woff2"
     },
-    "category": "display",
+    "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fwsxy_4pw.woff2"
+    "menu": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtnR1yT.woff2"
   },
   {
     "family": "Noto Znamenny Musical Notation",
@@ -30643,17 +30643,17 @@
     "colorCapabilities": ["COLRv0"]
   },
   {
-    "family": "Noto Sans Osage",
+    "family": "Chokokutai",
     "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "osage"],
-    "version": "v18",
-    "lastModified": "2022-11-09",
+    "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
+    "version": "v9",
+    "lastModified": "2023-05-23",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtXQ1aSxkrMCQ.woff2"
+      "regular": "https://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fws9yvypu1Kr7I.woff2"
     },
-    "category": "sans-serif",
+    "category": "display",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtnR1yT.woff2"
+    "menu": "https://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fwsxy_4pw.woff2"
   },
   {
     "family": "Noto Sans Hanifi Rohingya",
