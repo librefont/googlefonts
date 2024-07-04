@@ -27713,6 +27713,19 @@
     "menu": "https://fonts.gstatic.com/s/hedvigletterssans/v2/CHy_V_PfGVjobSBkihHWDT98RVp37w8jcJxH2Q.ttf"
   },
   {
+    "family": "Noto Sans Tifinagh",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tifinagh"],
+    "version": "v20",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbn6rnEcXfs4Q.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PA.ttf"
+  },
+  {
     "family": "Tiro Tamil",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext", "tamil"],
@@ -27725,19 +27738,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tirotamil/v10/m8JXjfVIf7OT22n3M-S_YLVlbg.ttf"
-  },
-  {
-    "family": "Noto Sans Tifinagh",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tifinagh"],
-    "version": "v20",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbn6rnEcXfs4Q.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PA.ttf"
   },
   {
     "family": "Sedan",
@@ -30847,19 +30847,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf"
   },
   {
-    "family": "Noto Sans Wancho",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "wancho"],
-    "version": "v17",
-    "lastModified": "2022-09-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBqAPopiRfKp8.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALiog.ttf"
-  },
-  {
     "family": "Noto Sans Syriac",
     "variants": [
       "100",
@@ -30889,6 +30876,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssyriac/v16/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5M.ttf"
+  },
+  {
+    "family": "Noto Sans Wancho",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "wancho"],
+    "version": "v17",
+    "lastModified": "2022-09-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBqAPopiRfKp8.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALiog.ttf"
   },
   {
     "family": "Noto Sans Old Permic",

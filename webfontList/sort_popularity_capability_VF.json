@@ -25342,6 +25342,19 @@
     "menu": "https://fonts.gstatic.com/s/hedvigletterssans/v2/CHy_V_PfGVjobSBkihHWDT98RVp37w8jcJxH2Q.ttf"
   },
   {
+    "family": "Noto Sans Tifinagh",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tifinagh"],
+    "version": "v20",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbn6rnEcXfs4Q.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PA.ttf"
+  },
+  {
     "family": "Tiro Tamil",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext", "tamil"],
@@ -25354,19 +25367,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tirotamil/v10/m8JXjfVIf7OT22n3M-S_YLVlbg.ttf"
-  },
-  {
-    "family": "Noto Sans Tifinagh",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tifinagh"],
-    "version": "v20",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbn6rnEcXfs4Q.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PA.ttf"
   },
   {
     "family": "Sedan",
@@ -28122,19 +28122,6 @@
     "menu": "https://fonts.gstatic.com/s/yarndings12charted/v2/eLGDP_DlKhO-DUfeqM4I_vDdJgmIh7hAvsbI2Ns.ttf"
   },
   {
-    "family": "Chokokutai",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fws9y7ypu1Kr7I.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fwsxy_4og.ttf"
-  },
-  {
     "family": "Noto Sans Chakma",
     "variants": ["regular"],
     "subsets": ["chakma", "latin", "latin-ext"],
@@ -28146,6 +28133,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
+  },
+  {
+    "family": "Chokokutai",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
+    "version": "v9",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fws9y7ypu1Kr7I.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fwsxy_4og.ttf"
   },
   {
     "family": "Noto Sans Tai Le",
@@ -28949,19 +28949,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYa1WVoI.ttf"
   },
   {
-    "family": "Noto Sans Bhaiksuki",
-    "variants": ["regular"],
-    "subsets": ["bhaiksuki", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhj8rLUdU4wh9U.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhjwrPecQ.ttf"
-  },
-  {
     "family": "Noto Sans Ugaritic",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "ugaritic"],
@@ -28973,6 +28960,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAM.ttf"
+  },
+  {
+    "family": "Noto Sans Bhaiksuki",
+    "variants": ["regular"],
+    "subsets": ["bhaiksuki", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhj8rLUdU4wh9U.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhjwrPecQ.ttf"
   },
   {
     "family": "Noto Sans Mende Kikakui",
