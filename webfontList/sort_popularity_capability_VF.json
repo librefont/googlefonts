@@ -18267,19 +18267,6 @@
     "menu": "https://fonts.gstatic.com/s/imfelldwpicasc/v21/0ybjGCAu5PfqkvtGVU15aBhXz3EUrnTm-RKO.ttf"
   },
   {
-    "family": "Habibi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/habibi/v21/CSR-4zFWkuqcTTNCShJeZOYySQ.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/habibi/v21/CSR-4zFWkuqcTTNySxha.ttf"
-  },
-  {
     "family": "Sancreek",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -18291,6 +18278,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/sancreek/v25/pxiHypAnsdxUm159X4D_V1s.ttf"
+  },
+  {
+    "family": "Habibi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/habibi/v21/CSR-4zFWkuqcTTNCShJeZOYySQ.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/habibi/v21/CSR-4zFWkuqcTTNySxha.ttf"
   },
   {
     "family": "Delius Swash Caps",
@@ -27861,6 +27861,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansyi/v19/sJoD3LFXjsSdcnzn071rO3aZxFrN.ttf"
   },
   {
+    "family": "Noto Sans Newa",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "newa"],
+    "version": "v16",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg8n_qN4R5lNU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-oto.ttf"
+  },
+  {
     "family": "Noto Sans New Tai Lue",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "new-tai-lue"],
@@ -27879,19 +27892,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Noto Sans Newa",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "newa"],
-    "version": "v16",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg8n_qN4R5lNU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-oto.ttf"
   },
   {
     "family": "Noto Sans Duployan",
