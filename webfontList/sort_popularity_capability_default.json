@@ -30228,19 +30228,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjY.ttf"
   },
   {
-    "family": "Noto Sans Ugaritic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "ugaritic"],
-    "version": "v16",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXkMhoIkiazfg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAM.ttf"
-  },
-  {
     "family": "Noto Sans Meroitic",
     "variants": ["regular"],
     "subsets": [
@@ -30258,6 +30245,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzgTJX.ttf"
+  },
+  {
+    "family": "Noto Sans Ugaritic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "ugaritic"],
+    "version": "v16",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXkMhoIkiazfg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAM.ttf"
   },
   {
     "family": "Noto Sans Nushu",
@@ -31217,19 +31217,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansgunjalagondi/v19/bWtX7e7KfBziStx7lIzKPrcSMwcEnCv6DW7n5g0ef3PLtymzNxYL4YD04ZQr.ttf"
   },
   {
-    "family": "Noto Sans Wancho",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "wancho"],
-    "version": "v17",
-    "lastModified": "2022-09-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBqAPopiRfKp8.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALiog.ttf"
-  },
-  {
     "family": "Noto Sans Mro",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mro"],
@@ -31241,6 +31228,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3bsg.ttf"
+  },
+  {
+    "family": "Noto Sans Wancho",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "wancho"],
+    "version": "v17",
+    "lastModified": "2022-09-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBqAPopiRfKp8.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALiog.ttf"
   },
   {
     "family": "Noto Sans Nabataean",
