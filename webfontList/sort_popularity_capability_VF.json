@@ -25485,26 +25485,6 @@
     "menu": "https://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUiHxm7Y.ttf"
   },
   {
-    "family": "Noto Serif NP Hmong",
-    "variants": ["regular"],
-    "subsets": ["latin", "nyiakeng-puachue-hmong"],
-    "version": "v1",
-    "lastModified": "2022-12-08",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifnphmong/v1/pON61gItFMO79E4L1GPUi-2sixKHZyFj7peYDHDLnAo.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifnphmong/v1/pONN1gItFMO79E4L1GPUi-2sixKHZyFj9Jy6_KhXPwzdvbjPhGLo1Ok.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
-      }
-    ]
-  },
-  {
     "family": "Playwrite NL",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -25521,6 +25501,26 @@
         "tag": "wght",
         "start": 100,
         "end": 400
+      }
+    ]
+  },
+  {
+    "family": "Noto Serif NP Hmong",
+    "variants": ["regular"],
+    "subsets": ["latin", "nyiakeng-puachue-hmong"],
+    "version": "v1",
+    "lastModified": "2022-12-08",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifnphmong/v1/pON61gItFMO79E4L1GPUi-2sixKHZyFj7peYDHDLnAo.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifnphmong/v1/pONN1gItFMO79E4L1GPUi-2sixKHZyFj9Jy6_KhXPwzdvbjPhGLo1Ok.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
       }
     ]
   },
