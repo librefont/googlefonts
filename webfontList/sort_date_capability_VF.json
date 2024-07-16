@@ -1,5 +1,51 @@
 [
   {
+    "family": "Kalnia Glaze",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-07-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/kalniaglaze/v1/wlp2gwHCBUNjrGrfu-hwowNvaAJSA_JN3Q.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/kalniaglaze/v1/wlpQgwHCBUNjrGrfu-hwowN1YyC-42Lu26VHf2LtOkAod0wTxm2tFYdL6knYI_w.ttf",
+    "axes": [
+      {
+        "tag": "wdth",
+        "start": 100,
+        "end": 125
+      },
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 700
+      }
+    ],
+    "colorCapabilities": ["COLRv1"]
+  },
+  {
+    "family": "Edu AU VIC WA NT Hand",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-07-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/eduauvicwanthand/v1/C8c94dY1tX2x0uuiUHFS4y7ERV-jfqJ6x06tFtksa4Q7LA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/eduauvicwanthand/v1/C8cO4dY1tX2x0uuiUHFS4y7ERV-jfqJ6x063HfvcsxiYKifhtCJ1pKpPaQ.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
+      }
+    ]
+  },
+  {
     "family": "Playwrite PE",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -1521,14 +1567,14 @@
     "family": "Jaro",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v1",
-    "lastModified": "2024-05-02",
+    "version": "v5",
+    "lastModified": "2024-07-16",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/jaro/v1/ea8WadQwV_r_XPbcEdiM628.ttf"
+      "regular": "https://fonts.gstatic.com/s/jaro/v5/ea8WadQwV_r_XPbcEdiM628.ttf"
     },
     "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jaro/v1/ea8DadQwV_r_Rv3-7zZMCGhQgVr1SmCtPvk.ttf",
+    "menu": "https://fonts.gstatic.com/s/jaro/v5/ea8DadQwV_r_Rv3-7zZMCGhQgVr1SmCtPvk.ttf",
     "axes": [
       {
         "tag": "opsz",
@@ -4571,14 +4617,14 @@
     "family": "Noto Serif Toto",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "toto"],
-    "version": "v4",
-    "lastModified": "2023-03-09",
+    "version": "v5",
+    "lastModified": "2024-07-16",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notoseriftoto/v4/Ktk1ALSMeZjqPnXk1rCkHYHNtwv3F6mZVY9Y5w.ttf"
+      "regular": "https://fonts.gstatic.com/s/notoseriftoto/v5/Ktk1ALSMeZjqPnXk1rCkHYHNtwv3F6mZVY9Y5w.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoseriftoto/v4/Ktk6ALSMeZjqPnXk1rCkHYHNtwvtHItpjRP74dHhCy3Ip-ep4w.ttf",
+    "menu": "https://fonts.gstatic.com/s/notoseriftoto/v5/Ktk6ALSMeZjqPnXk1rCkHYHNtwvtHItpjRP74dHhCy3Ip-ep4w.ttf",
     "axes": [
       {
         "tag": "wght",
@@ -13912,14 +13958,14 @@
     "family": "Beth Ellen",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v17",
-    "lastModified": "2022-04-20",
+    "version": "v21",
+    "lastModified": "2024-07-16",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/bethellen/v17/WwkbxPW2BE-3rb_JNT-qEIAiVNo5xNY.ttf"
+      "regular": "https://fonts.gstatic.com/s/bethellen/v21/WwkbxPW2BE-3rb_JNT-qEIAiVNo5xNY.ttf"
     },
     "category": "handwriting",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bethellen/v17/WwkbxPW2BE-3rb_JNT-qIIEoUA.ttf"
+    "menu": "https://fonts.gstatic.com/s/bethellen/v21/WwkbxPW2BE-3rb_JNT-qIIEoUA.ttf"
   },
   {
     "family": "Vibes",
@@ -20119,15 +20165,15 @@
     "family": "Elsie Swash Caps",
     "variants": ["regular", "900"],
     "subsets": ["latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2023-08-25",
+    "version": "v24",
+    "lastModified": "2024-07-16",
     "files": {
-      "900": "https://fonts.gstatic.com/s/elsieswashcaps/v23/845ENN8xGZyVX5MVo_upKf7KnjK0RW74DG2HToawrdU.ttf",
-      "regular": "https://fonts.gstatic.com/s/elsieswashcaps/v23/845DNN8xGZyVX5MVo_upKf7KnjK0ferVKGWsUo8.ttf"
+      "900": "https://fonts.gstatic.com/s/elsieswashcaps/v24/845ENN8xGZyVX5MVo_upKf7KnjK0RW74DG2HToawrdU.ttf",
+      "regular": "https://fonts.gstatic.com/s/elsieswashcaps/v24/845DNN8xGZyVX5MVo_upKf7KnjK0ferVKGWsUo8.ttf"
     },
     "category": "display",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/elsieswashcaps/v23/845DNN8xGZyVX5MVo_upKf7KnjK0TevfLA.ttf"
+    "menu": "https://fonts.gstatic.com/s/elsieswashcaps/v24/845DNN8xGZyVX5MVo_upKf7KnjK0TevfLA.ttf"
   },
   {
     "family": "Wendy One",
@@ -21462,16 +21508,16 @@
     "family": "Life Savers",
     "variants": ["regular", "700", "800"],
     "subsets": ["latin", "latin-ext"],
-    "version": "v20",
-    "lastModified": "2023-08-25",
+    "version": "v21",
+    "lastModified": "2024-07-16",
     "files": {
-      "700": "https://fonts.gstatic.com/s/lifesavers/v20/ZXu_e1UftKKabUQMgxAal8HXOS5Tk8fIpPRW.ttf",
-      "800": "https://fonts.gstatic.com/s/lifesavers/v20/ZXu_e1UftKKabUQMgxAal8HLOi5Tk8fIpPRW.ttf",
-      "regular": "https://fonts.gstatic.com/s/lifesavers/v20/ZXuie1UftKKabUQMgxAal_lrFgpbuNvB.ttf"
+      "700": "https://fonts.gstatic.com/s/lifesavers/v21/ZXu_e1UftKKabUQMgxAal8HXOS5Tk8fIpPRW.ttf",
+      "800": "https://fonts.gstatic.com/s/lifesavers/v21/ZXu_e1UftKKabUQMgxAal8HLOi5Tk8fIpPRW.ttf",
+      "regular": "https://fonts.gstatic.com/s/lifesavers/v21/ZXuie1UftKKabUQMgxAal_lrFgpbuNvB.ttf"
     },
     "category": "display",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/lifesavers/v20/ZXuie1UftKKabUQMgxAal8lqHA4.ttf"
+    "menu": "https://fonts.gstatic.com/s/lifesavers/v21/ZXuie1UftKKabUQMgxAal8lqHA4.ttf"
   },
   {
     "family": "McLaren",
@@ -25075,14 +25121,14 @@
     "family": "Rammetto One",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2023-08-25",
+    "version": "v19",
+    "lastModified": "2024-07-16",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/rammettoone/v18/LhWiMV3HOfMbMetJG3lQDpp9Mvuciu-_SQ.ttf"
+      "regular": "https://fonts.gstatic.com/s/rammettoone/v19/LhWiMV3HOfMbMetJG3lQDpp9Mvuciu-_SQ.ttf"
     },
     "category": "display",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rammettoone/v18/LhWiMV3HOfMbMetJG3lQDppNM_GY.ttf"
+    "menu": "https://fonts.gstatic.com/s/rammettoone/v19/LhWiMV3HOfMbMetJG3lQDppNM_GY.ttf"
   },
   {
     "family": "Supermercado One",
@@ -29160,14 +29206,14 @@
     "family": "Material Symbols Outlined",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v196",
-    "lastModified": "2024-07-10",
+    "version": "v199",
+    "lastModified": "2024-07-16",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v196/kJEhBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oFsfjAOVZBgs.ttf"
+      "regular": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v199/kJEhBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oFsfjAOVZBgs.ttf"
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v196/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHNenZ9o.ttf",
+    "menu": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v199/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHNenZ9o.ttf",
     "axes": [
       {
         "tag": "FILL",
@@ -29195,14 +29241,14 @@
     "family": "Material Symbols Rounded",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v194",
-    "lastModified": "2024-07-10",
+    "version": "v197",
+    "lastModified": "2024-07-16",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/materialsymbolsrounded/v194/sykg-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190Fjzb6kLCeA_PQ.ttf"
+      "regular": "https://fonts.gstatic.com/s/materialsymbolsrounded/v197/sykg-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190Fjzb6kLCeA_PQ.ttf"
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/materialsymbolsrounded/v194/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelbxODLA.ttf",
+    "menu": "https://fonts.gstatic.com/s/materialsymbolsrounded/v197/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelbxODLA.ttf",
     "axes": [
       {
         "tag": "FILL",
@@ -29230,14 +29276,14 @@
     "family": "Material Symbols Sharp",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v192",
-    "lastModified": "2024-07-10",
+    "version": "v195",
+    "lastModified": "2024-07-16",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/materialsymbolssharp/v192/gNMVW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4aWTSTGlMyd8.ttf"
+      "regular": "https://fonts.gstatic.com/s/materialsymbolssharp/v195/gNMVW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4aWTSTGlMyd8.ttf"
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/materialsymbolssharp/v192/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLogCPLVU.ttf",
+    "menu": "https://fonts.gstatic.com/s/materialsymbolssharp/v195/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLogCPLVU.ttf",
     "axes": [
       {
         "tag": "FILL",
