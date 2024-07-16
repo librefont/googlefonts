@@ -25485,26 +25485,6 @@
     "menu": "https://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUiHxm7Y.ttf"
   },
   {
-    "family": "Playwrite NL",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v3",
-    "lastModified": "2024-06-14",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritenl/v3/k3kXo84SPe9dzQ1UGbvoZQ3hKYiJ-Q7m8w.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritenl/v3/k3kCo84SPe9dzQ1UGbvoZQ37Iqp5IZJF9bmaG9_FrY1HaA.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 400
-      }
-    ]
-  },
-  {
     "family": "Noto Serif NP Hmong",
     "variants": ["regular"],
     "subsets": ["latin", "nyiakeng-puachue-hmong"],
@@ -25521,6 +25501,26 @@
         "tag": "wght",
         "start": 400,
         "end": 700
+      }
+    ]
+  },
+  {
+    "family": "Playwrite NL",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v3",
+    "lastModified": "2024-06-14",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritenl/v3/k3kXo84SPe9dzQ1UGbvoZQ3hKYiJ-Q7m8w.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritenl/v3/k3kCo84SPe9dzQ1UGbvoZQ37Iqp5IZJF9bmaG9_FrY1HaA.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 400
       }
     ]
   },
