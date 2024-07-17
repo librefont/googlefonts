@@ -13455,19 +13455,6 @@
     "menu": "https://fonts.gstatic.com/s/ooohbaby/v4/2sDcZGJWgJTT2Jf76xQzbmW5.woff2"
   },
   {
-    "family": "Love Ya Like A Sister",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v22",
-    "lastModified": "2024-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/loveyalikeasister/v22/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-Be793ZcsGGycA.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/loveyalikeasister/v22/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL83xd.woff2"
-  },
-  {
     "family": "Miriam Libre",
     "variants": ["regular", "700"],
     "subsets": ["hebrew", "latin", "latin-ext"],
@@ -13480,6 +13467,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/miriamlibre/v14/DdTh798HsHwubBAqfkcBTL_fYZP-.woff2"
+  },
+  {
+    "family": "Love Ya Like A Sister",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v22",
+    "lastModified": "2024-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/loveyalikeasister/v22/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-Be793ZcsGGycA.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/loveyalikeasister/v22/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL83xd.woff2"
   },
   {
     "family": "IM Fell English SC",
@@ -20262,6 +20262,21 @@
     "menu": "https://fonts.gstatic.com/s/pixelifysans/v1/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTp0E1ZZZM.woff2"
   },
   {
+    "family": "Belanosima",
+    "variants": ["regular", "600", "700"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2023-08-25",
+    "files": {
+      "600": "https://fonts.gstatic.com/s/belanosima/v3/3y9n6bI8ejDo_3MfCDSL_Nh1M39qn5cdJ-4.woff2",
+      "700": "https://fonts.gstatic.com/s/belanosima/v3/3y9n6bI8ejDo_3MfCDSL_Lx0M39qn5cdJ-4.woff2",
+      "regular": "https://fonts.gstatic.com/s/belanosima/v3/3y9k6bI8ejDo_3MfCDSLxAVbF3JBg54.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/belanosima/v3/3y9k6bI8ejDo_3MfCDSL9AFRFg.woff2"
+  },
+  {
     "family": "Playwrite HU",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -20276,21 +20291,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1PL6fOyXHg.woff2"
-  },
-  {
-    "family": "Belanosima",
-    "variants": ["regular", "600", "700"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2023-08-25",
-    "files": {
-      "600": "https://fonts.gstatic.com/s/belanosima/v3/3y9n6bI8ejDo_3MfCDSL_Nh1M39qn5cdJ-4.woff2",
-      "700": "https://fonts.gstatic.com/s/belanosima/v3/3y9n6bI8ejDo_3MfCDSL_Lx0M39qn5cdJ-4.woff2",
-      "regular": "https://fonts.gstatic.com/s/belanosima/v3/3y9k6bI8ejDo_3MfCDSLxAVbF3JBg54.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/belanosima/v3/3y9k6bI8ejDo_3MfCDSL9AFRFg.woff2"
   },
   {
     "family": "Montagu Slab",
@@ -29365,19 +29365,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritegbj/v4/k3kEo8wSPe9dzQ1UGbvobAPhY5iG-fsubxedDheGdc93adTW.woff2"
   },
   {
-    "family": "Grey Qo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNDO5Q9Wf0QcE.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNPOpa9A.woff2"
-  },
-  {
     "family": "Kings",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -29389,6 +29376,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/kings/v7/8AtnGsK4O5CYXX_JoaA.woff2"
+  },
+  {
+    "family": "Grey Qo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v9",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNDO5Q9Wf0QcE.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNPOpa9A.woff2"
   },
   {
     "family": "Rubik Maps",
