@@ -20262,21 +20262,6 @@
     "menu": "https://fonts.gstatic.com/s/pixelifysans/v1/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTp0E1ZZZM.woff2"
   },
   {
-    "family": "Belanosima",
-    "variants": ["regular", "600", "700"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2023-08-25",
-    "files": {
-      "600": "https://fonts.gstatic.com/s/belanosima/v3/3y9n6bI8ejDo_3MfCDSL_Nh1M39qn5cdJ-4.woff2",
-      "700": "https://fonts.gstatic.com/s/belanosima/v3/3y9n6bI8ejDo_3MfCDSL_Lx0M39qn5cdJ-4.woff2",
-      "regular": "https://fonts.gstatic.com/s/belanosima/v3/3y9k6bI8ejDo_3MfCDSLxAVbF3JBg54.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/belanosima/v3/3y9k6bI8ejDo_3MfCDSL9AFRFg.woff2"
-  },
-  {
     "family": "Playwrite HU",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -20291,6 +20276,21 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1PL6fOyXHg.woff2"
+  },
+  {
+    "family": "Belanosima",
+    "variants": ["regular", "600", "700"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2023-08-25",
+    "files": {
+      "600": "https://fonts.gstatic.com/s/belanosima/v3/3y9n6bI8ejDo_3MfCDSL_Nh1M39qn5cdJ-4.woff2",
+      "700": "https://fonts.gstatic.com/s/belanosima/v3/3y9n6bI8ejDo_3MfCDSL_Lx0M39qn5cdJ-4.woff2",
+      "regular": "https://fonts.gstatic.com/s/belanosima/v3/3y9k6bI8ejDo_3MfCDSLxAVbF3JBg54.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/belanosima/v3/3y9k6bI8ejDo_3MfCDSL9AFRFg.woff2"
   },
   {
     "family": "Montagu Slab",
@@ -30860,6 +30860,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnOzZw.woff2"
   },
   {
+    "family": "Chokokutai",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
+    "version": "v9",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fws9yvypu1Kr7I.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fwsxy_4pw.woff2"
+  },
+  {
     "family": "Rubik Lines",
     "variants": ["regular"],
     "subsets": [
@@ -30879,19 +30892,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubiklines/v1/_gP81R3vsjYzVW2Y6xFF-FSwavs.woff2"
-  },
-  {
-    "family": "Chokokutai",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fws9yvypu1Kr7I.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fwsxy_4pw.woff2"
   },
   {
     "family": "Noto Sans Hanifi Rohingya",
