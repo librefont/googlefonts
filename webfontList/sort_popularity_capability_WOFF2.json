@@ -28746,19 +28746,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jlap5W.woff2"
   },
   {
-    "family": "Jersey 25",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2024-04-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey25/v2/ll8-K2eeXj2tAs6F9BXIIoAMng8ChA.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey25/v2/ll8-K2eeXj2tAs6F9BX4JooN.woff2"
-  },
-  {
     "family": "Playwrite NO",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -28773,6 +28760,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteno/v3/nuFrD_fYSZviRJYb-P2TrQO1DRpazaZDgnw-49wgLKat-w.woff2"
+  },
+  {
+    "family": "Jersey 25",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2024-04-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey25/v2/ll8-K2eeXj2tAs6F9BXIIoAMng8ChA.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey25/v2/ll8-K2eeXj2tAs6F9BX4JooN.woff2"
   },
   {
     "family": "Playwrite NZ",
@@ -29320,6 +29320,27 @@
     "menu": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNPOpa9A.woff2"
   },
   {
+    "family": "Rubik Maps",
+    "variants": ["regular"],
+    "subsets": [
+      "cyrillic",
+      "cyrillic-ext",
+      "hebrew",
+      "latin",
+      "latin-ext",
+      "math",
+      "symbols"
+    ],
+    "version": "v1",
+    "lastModified": "2023-12-14",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikmaps/v1/Gw6_wcjl80TZK9XxtbbejSMUChRqp9k.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikmaps/v1/Gw6_wcjl80TZK9XxtbbevSceCw.woff2"
+  },
+  {
     "family": "Playwrite GB J",
     "variants": [
       "100",
@@ -29347,27 +29368,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritegbj/v4/k3kEo8wSPe9dzQ1UGbvobAPhY5iG-fsubxedDheGdc93adTW.woff2"
-  },
-  {
-    "family": "Rubik Maps",
-    "variants": ["regular"],
-    "subsets": [
-      "cyrillic",
-      "cyrillic-ext",
-      "hebrew",
-      "latin",
-      "latin-ext",
-      "math",
-      "symbols"
-    ],
-    "version": "v1",
-    "lastModified": "2023-12-14",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikmaps/v1/Gw6_wcjl80TZK9XxtbbejSMUChRqp9k.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikmaps/v1/Gw6_wcjl80TZK9XxtbbevSceCw.woff2"
   },
   {
     "family": "Playwrite IE",
@@ -30227,19 +30227,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPzo.woff2"
   },
   {
-    "family": "Noto Sans Phoenician",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "phoenician"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5X7Mot-p5561.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqN4.woff2"
-  },
-  {
     "family": "Jaini",
     "variants": ["regular"],
     "subsets": ["devanagari", "latin", "latin-ext"],
@@ -30251,6 +30238,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/jaini/v1/fC1vPYJMbGHQzHmPIec.woff2"
+  },
+  {
+    "family": "Noto Sans Phoenician",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "phoenician"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5X7Mot-p5561.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqN4.woff2"
   },
   {
     "family": "Noto Sans Medefaidrin",
