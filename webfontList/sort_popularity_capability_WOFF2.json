@@ -23053,19 +23053,6 @@
     "menu": "https://fonts.gstatic.com/s/redacted/v8/Z9XVDmdRShme2O_7aLTf6Ow.woff2"
   },
   {
-    "family": "Shippori Antique B1",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin", "latin-ext"],
-    "version": "v8",
-    "lastModified": "2022-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/shipporiantiqueb1/v8/2Eb7L_JwClR7Zl_UAKZ0mUHw3oMKd40grRRCj9-5Y8Y.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/shipporiantiqueb1/v8/2Eb7L_JwClR7Zl_UAKZ0mUHw3oMKd40gnRBIjg.woff2"
-  },
-  {
     "family": "Kaisei HarunoUmi",
     "variants": ["regular", "500", "700"],
     "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
@@ -23079,6 +23066,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/kaiseiharunoumi/v8/HI_RiZQSLqBQoAHhK_C6N_nzy_jcKsrzsQ.woff2"
+  },
+  {
+    "family": "Shippori Antique B1",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin", "latin-ext"],
+    "version": "v8",
+    "lastModified": "2022-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/shipporiantiqueb1/v8/2Eb7L_JwClR7Zl_UAKZ0mUHw3oMKd40grRRCj9-5Y8Y.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/shipporiantiqueb1/v8/2Eb7L_JwClR7Zl_UAKZ0mUHw3oMKd40gnRBIjg.woff2"
   },
   {
     "family": "Finlandica",
