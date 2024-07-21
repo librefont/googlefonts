@@ -28526,19 +28526,6 @@
     "menu": "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v2/pxiYyos4iPVgyWx9WtufHnsIf5nkaB0Hum-Ipg.ttf"
   },
   {
-    "family": "Hanalei",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/hanalei/v23/E21n_dD8iufIjBRHXzgmVydREus.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/hanalei/v23/E21n_dD8iufIjBRHbzksUw.ttf"
-  },
-  {
     "family": "Noto Sans Egyptian Hieroglyphs",
     "variants": ["regular"],
     "subsets": ["egyptian-hieroglyphs", "latin", "latin-ext"],
@@ -28550,6 +28537,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYintSFi4.ttf"
+  },
+  {
+    "family": "Hanalei",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/hanalei/v23/E21n_dD8iufIjBRHXzgmVydREus.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/hanalei/v23/E21n_dD8iufIjBRHbzksUw.ttf"
   },
   {
     "family": "Noto Sans Tai Viet",
@@ -31110,19 +31110,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoV.ttf"
   },
   {
-    "family": "Noto Sans Buginese",
-    "variants": ["regular"],
-    "subsets": ["buginese", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_gtfuEXLmNtw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_QtPGA.ttf"
-  },
-  {
     "family": "Noto Sans Pahawh Hmong",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "pahawh-hmong"],
@@ -31134,6 +31121,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanspahawhhmong/v18/bWtp7e_KfBziStx7lIzKKaMUOBEA3UPQDW7knzY1dw.ttf"
+  },
+  {
+    "family": "Noto Sans Buginese",
+    "variants": ["regular"],
+    "subsets": ["buginese", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_gtfuEXLmNtw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_QtPGA.ttf"
   },
   {
     "family": "Noto Sans Elymaic",
