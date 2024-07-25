@@ -25948,19 +25948,6 @@
     "menu": "https://fonts.gstatic.com/s/lakkireddy/v21/S6u5w49MUSzD9jlCPmvLZTfpzdg.woff2"
   },
   {
-    "family": "Mea Culpa",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v6",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/meaculpa/v6/AMOTz4GcuWbEIuza8jsZn80QW3mqyg.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/meaculpa/v6/AMOTz4GcuWbEIuza8jspm8cR.woff2"
-  },
-  {
     "family": "Labrada",
     "variants": [
       "100",
@@ -26008,6 +25995,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/labrada/v2/ieVh2Y9HLWefIpOyF1Vi3ZqDss1Px9VTSzM5SvY.woff2"
+  },
+  {
+    "family": "Mea Culpa",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v6",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/meaculpa/v6/AMOTz4GcuWbEIuza8jsZn80QW3mqyg.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/meaculpa/v6/AMOTz4GcuWbEIuza8jspm8cR.woff2"
   },
   {
     "family": "Butterfly Kids",
@@ -29892,6 +29892,22 @@
     "menu": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOPJsbpAQ.woff2"
   },
   {
+    "family": "Playwrite DE VA",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v4",
+    "lastModified": "2024-06-14",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSyTv2sjGyvutu4.woff2",
+      "200": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRaySv2sjGyvutu4.woff2",
+      "300": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRXKSv2sjGyvutu4.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySv2sjGyvutu4.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySj28pGg.woff2"
+  },
+  {
     "family": "Playwrite GB J",
     "variants": [
       "100",
@@ -29919,22 +29935,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritegbj/v4/k3kEo8wSPe9dzQ1UGbvobAPhY5iG-fsubxedDheGdc93adTW.woff2"
-  },
-  {
-    "family": "Playwrite DE VA",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v4",
-    "lastModified": "2024-06-14",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSyTv2sjGyvutu4.woff2",
-      "200": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRaySv2sjGyvutu4.woff2",
-      "300": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRXKSv2sjGyvutu4.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySv2sjGyvutu4.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySj28pGg.woff2"
   },
   {
     "family": "Noto Serif Grantha",
@@ -31050,19 +31050,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_QtPGF.woff2"
   },
   {
-    "family": "Noto Sans Nabataean",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nabataean"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNoBd9hK8kMK4.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3hQ.woff2"
-  },
-  {
     "family": "Kay Pho Du",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["kayah-li", "latin", "latin-ext"],
@@ -31077,6 +31064,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR0OitLQ.woff2"
+  },
+  {
+    "family": "Noto Sans Nabataean",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nabataean"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNoBd9hK8kMK4.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3hQ.woff2"
   },
   {
     "family": "Noto Sans Pahawh Hmong",
