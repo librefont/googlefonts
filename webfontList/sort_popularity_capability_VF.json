@@ -27610,26 +27610,6 @@
     ]
   },
   {
-    "family": "Playwrite DE VA",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v4",
-    "lastModified": "2024-06-14",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJpdNPb2p7tvoFGLMPdeMxGN1p9v2HRrDH0eA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySj28pHw.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 400
-      }
-    ]
-  },
-  {
     "family": "Playwrite GB J",
     "variants": ["regular", "italic"],
     "subsets": ["latin"],
@@ -27642,6 +27622,26 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritegbj/v4/k3kEo8wSPe9dzQ1UGbvobAPhY5iG-fsubxedDheGdc93adTT.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 400
+      }
+    ]
+  },
+  {
+    "family": "Playwrite DE VA",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v4",
+    "lastModified": "2024-06-14",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJpdNPb2p7tvoFGLMPdeMxGN1p9v2HRrDH0eA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySj28pHw.ttf",
     "axes": [
       {
         "tag": "wght",
@@ -29046,6 +29046,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQDA.ttf"
   },
   {
+    "family": "Noto Sans Mayan Numerals",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mayan-numerals"],
+    "version": "v16",
+    "lastModified": "2023-08-17",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmayannumerals/v16/PlIuFk25O6RzLfvNNVSivR09_KqYMwvvDKYjfIiE68oo6eepYQ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmayannumerals/v16/PlIuFk25O6RzLfvNNVSivR09_KqYMwvvDKYjfIi06sAs.ttf"
+  },
+  {
     "family": "Noto Znamenny Musical Notation",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols", "znamenny"],
@@ -29058,19 +29071,6 @@
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v3/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jft5Cu.ttf",
     "colorCapabilities": ["COLRv0"]
-  },
-  {
-    "family": "Noto Sans Mayan Numerals",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mayan-numerals"],
-    "version": "v16",
-    "lastModified": "2023-08-17",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmayannumerals/v16/PlIuFk25O6RzLfvNNVSivR09_KqYMwvvDKYjfIiE68oo6eepYQ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmayannumerals/v16/PlIuFk25O6RzLfvNNVSivR09_KqYMwvvDKYjfIi06sAs.ttf"
   },
   {
     "family": "Noto Sans Saurashtra",
