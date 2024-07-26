@@ -13040,26 +13040,6 @@
     "menu": "https://fonts.gstatic.com/s/inriaserif/v16/fC1lPYxPY3rXxEndZJAzN3Stdyg.ttf"
   },
   {
-    "family": "Noto Sans Meetei Mayek",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "meetei-mayek"],
-    "version": "v15",
-    "lastModified": "2023-09-14",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmeeteimayek/v15/HTx9L3QyKieByqY9eZPFweO0be7M21uSphSdnKkpbrJN35k.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmeeteimayek/v15/HTxAL3QyKieByqY9eZPFweO0be7M21uSphSdhqILnmrRfJ8t_1TJ_sTX7vw.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
     "family": "Tomorrow",
     "variants": [
       "100",
@@ -13107,6 +13087,26 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tomorrow/v17/WBLmrETNbFtZCeGqgRXUe2U.ttf"
+  },
+  {
+    "family": "Noto Sans Meetei Mayek",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "meetei-mayek"],
+    "version": "v15",
+    "lastModified": "2023-09-14",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmeeteimayek/v15/HTx9L3QyKieByqY9eZPFweO0be7M21uSphSdnKkpbrJN35k.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmeeteimayek/v15/HTxAL3QyKieByqY9eZPFweO0be7M21uSphSdhqILnmrRfJ8t_1TJ_sTX7vw.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ]
   },
   {
     "family": "Sedgwick Ave",
@@ -27644,26 +27644,6 @@
     ]
   },
   {
-    "family": "Playwrite IT Trad",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v4",
-    "lastModified": "2024-06-14",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteittrad/v4/SlGKmR6Yo5oYZX5BFVcEySBSPE50BivIh2y2Iq91.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteittrad/v4/SlG5mR6Yo5oYZX5BFVcEySBSPE50BjHDpZxuvgxzFq96u-6PgUlJ.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 400
-      }
-    ]
-  },
-  {
     "family": "Playwrite DE VA",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -27675,6 +27655,26 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySj28pHw.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 400
+      }
+    ]
+  },
+  {
+    "family": "Playwrite IT Trad",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v4",
+    "lastModified": "2024-06-14",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteittrad/v4/SlGKmR6Yo5oYZX5BFVcEySBSPE50BivIh2y2Iq91.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteittrad/v4/SlG5mR6Yo5oYZX5BFVcEySBSPE50BjHDpZxuvgxzFq96u-6PgUlJ.ttf",
     "axes": [
       {
         "tag": "wght",
