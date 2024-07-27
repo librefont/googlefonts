@@ -18205,19 +18205,6 @@
     "menu": "https://fonts.gstatic.com/s/asar/v22/sZlLdRyI6TBIbkcaCA.ttf"
   },
   {
-    "family": "Gamja Flower",
-    "variants": ["regular"],
-    "subsets": ["korean", "latin"],
-    "version": "v22",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/gamjaflower/v22/6NUR8FiKJg-Pa0rM6uN40Z4kyf9Fdty2ew.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gamjaflower/v22/6NUR8FiKJg-Pa0rM6uN40Z4UyPVB.ttf"
-  },
-  {
     "family": "Buenard",
     "variants": ["regular", "700"],
     "subsets": ["latin", "latin-ext"],
@@ -18230,6 +18217,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/buenard/v17/OD5DuM6Cyma8FnnsDzb3rA.ttf"
+  },
+  {
+    "family": "Gamja Flower",
+    "variants": ["regular"],
+    "subsets": ["korean", "latin"],
+    "version": "v22",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/gamjaflower/v22/6NUR8FiKJg-Pa0rM6uN40Z4kyf9Fdty2ew.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/gamjaflower/v22/6NUR8FiKJg-Pa0rM6uN40Z4UyPVB.ttf"
   },
   {
     "family": "Noto Sans Myanmar",
@@ -31361,19 +31361,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvEdkp-o.ttf"
   },
   {
-    "family": "Noto Sans Sogdian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "sogdian"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo--Pm6KHidM.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
-  },
-  {
     "family": "Noto Sans Warang Citi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "warang-citi"],
@@ -31385,6 +31372,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanswarangciti/v17/EYqtmb9SzL1YtsZSScyKDXIeOv3w-zgsNvKhpO9G.ttf"
+  },
+  {
+    "family": "Noto Sans Sogdian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "sogdian"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo--Pm6KHidM.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
   },
   {
     "family": "Noto Sans Modi",
