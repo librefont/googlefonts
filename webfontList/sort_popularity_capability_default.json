@@ -18205,6 +18205,19 @@
     "menu": "https://fonts.gstatic.com/s/asar/v22/sZlLdRyI6TBIbkcaCA.ttf"
   },
   {
+    "family": "Gamja Flower",
+    "variants": ["regular"],
+    "subsets": ["korean", "latin"],
+    "version": "v22",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/gamjaflower/v22/6NUR8FiKJg-Pa0rM6uN40Z4kyf9Fdty2ew.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/gamjaflower/v22/6NUR8FiKJg-Pa0rM6uN40Z4UyPVB.ttf"
+  },
+  {
     "family": "Buenard",
     "variants": ["regular", "700"],
     "subsets": ["latin", "latin-ext"],
@@ -18217,19 +18230,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/buenard/v17/OD5DuM6Cyma8FnnsDzb3rA.ttf"
-  },
-  {
-    "family": "Gamja Flower",
-    "variants": ["regular"],
-    "subsets": ["korean", "latin"],
-    "version": "v22",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/gamjaflower/v22/6NUR8FiKJg-Pa0rM6uN40Z4kyf9Fdty2ew.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gamjaflower/v22/6NUR8FiKJg-Pa0rM6uN40Z4UyPVB.ttf"
   },
   {
     "family": "Noto Sans Myanmar",
@@ -24547,26 +24547,6 @@
     "menu": "https://fonts.gstatic.com/s/odormeanchey/v27/raxkHiKDttkTe1aOGcJMR1A_4lrZ0T4.ttf"
   },
   {
-    "family": "Anek Gurmukhi",
-    "variants": ["100", "200", "300", "regular", "500", "600", "700", "800"],
-    "subsets": ["gurmukhi", "latin", "latin-ext"],
-    "version": "v8",
-    "lastModified": "2023-03-09",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbd5ppXK41H6DjbA.ttf",
-      "200": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkb95tpXK41H6DjbA.ttf",
-      "300": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbKZtpXK41H6DjbA.ttf",
-      "500": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbRZtpXK41H6DjbA.ttf",
-      "600": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbqZxpXK41H6DjbA.ttf",
-      "700": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbkJxpXK41H6DjbA.ttf",
-      "800": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkb95xpXK41H6DjbA.ttf",
-      "regular": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbd5tpXK41H6DjbA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbd5tZXaQx.ttf"
-  },
-  {
     "family": "Noto Sans Glagolitic",
     "variants": ["regular"],
     "subsets": [
@@ -24585,6 +24565,26 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansglagolitic/v18/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRL6g0.ttf"
+  },
+  {
+    "family": "Anek Gurmukhi",
+    "variants": ["100", "200", "300", "regular", "500", "600", "700", "800"],
+    "subsets": ["gurmukhi", "latin", "latin-ext"],
+    "version": "v8",
+    "lastModified": "2023-03-09",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbd5ppXK41H6DjbA.ttf",
+      "200": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkb95tpXK41H6DjbA.ttf",
+      "300": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbKZtpXK41H6DjbA.ttf",
+      "500": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbRZtpXK41H6DjbA.ttf",
+      "600": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbqZxpXK41H6DjbA.ttf",
+      "700": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbkJxpXK41H6DjbA.ttf",
+      "800": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkb95xpXK41H6DjbA.ttf",
+      "regular": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbd5tpXK41H6DjbA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/anekgurmukhi/v8/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbd5tZXaQx.ttf"
   },
   {
     "family": "Ysabeau Infant",
@@ -31361,19 +31361,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvEdkp-o.ttf"
   },
   {
-    "family": "Noto Sans Warang Citi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "warang-citi"],
-    "version": "v17",
-    "lastModified": "2022-09-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanswarangciti/v17/EYqtmb9SzL1YtsZSScyKDXIeOv3w-zgsNvKRpeVCCXzdgA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanswarangciti/v17/EYqtmb9SzL1YtsZSScyKDXIeOv3w-zgsNvKhpO9G.ttf"
-  },
-  {
     "family": "Noto Sans Sogdian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "sogdian"],
@@ -31385,6 +31372,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
+  },
+  {
+    "family": "Noto Sans Warang Citi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "warang-citi"],
+    "version": "v17",
+    "lastModified": "2022-09-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanswarangciti/v17/EYqtmb9SzL1YtsZSScyKDXIeOv3w-zgsNvKRpeVCCXzdgA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanswarangciti/v17/EYqtmb9SzL1YtsZSScyKDXIeOv3w-zgsNvKhpO9G.ttf"
   },
   {
     "family": "Noto Sans Modi",
