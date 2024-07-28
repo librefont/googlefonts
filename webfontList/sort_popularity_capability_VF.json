@@ -27842,26 +27842,6 @@
     "menu": "https://fonts.gstatic.com/s/padyakkeexpandedone/v6/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoOa5g.ttf"
   },
   {
-    "family": "Noto Sans Sundanese",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "sundanese"],
-    "version": "v26",
-    "lastModified": "2024-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZH7_84xUkosG2xJo2gm7nFwSLQkdymsWKGP6kvdPA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNOHDgT8.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
-      }
-    ]
-  },
-  {
     "family": "Playwrite GB J",
     "variants": ["regular", "italic"],
     "subsets": ["latin"],
@@ -27879,6 +27859,26 @@
         "tag": "wght",
         "start": 100,
         "end": 400
+      }
+    ]
+  },
+  {
+    "family": "Noto Sans Sundanese",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "sundanese"],
+    "version": "v26",
+    "lastModified": "2024-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZH7_84xUkosG2xJo2gm7nFwSLQkdymsWKGP6kvdPA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNOHDgT8.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
       }
     ]
   },
