@@ -28685,6 +28685,23 @@
     "menu": "https://fonts.gstatic.com/s/warnes/v27/pONn1hc0GsW6sW5-pyqy.ttf"
   },
   {
+    "family": "Noto Traditional Nushu",
+    "variants": ["300", "regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext", "nushu"],
+    "version": "v17",
+    "lastModified": "2023-05-23",
+    "files": {
+      "300": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXvy1tnPa7QoqirI.ttf",
+      "500": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXue1tnPa7QoqirI.ttf",
+      "600": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXty0dnPa7QoqirI.ttf",
+      "700": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXtL0dnPa7QoqirI.ttf",
+      "regular": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1tnPa7QoqirI.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1unOYbA.ttf"
+  },
+  {
     "family": "Noto Sans Thaana",
     "variants": [
       "100",
@@ -28714,23 +28731,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansthaana/v24/C8c14dM-vnz-s-3jaEsxlxHkBH-WZOETXfoQrfQ9Y4XrbiLglOo.ttf"
-  },
-  {
-    "family": "Noto Traditional Nushu",
-    "variants": ["300", "regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext", "nushu"],
-    "version": "v17",
-    "lastModified": "2023-05-23",
-    "files": {
-      "300": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXvy1tnPa7QoqirI.ttf",
-      "500": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXue1tnPa7QoqirI.ttf",
-      "600": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXty0dnPa7QoqirI.ttf",
-      "700": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXtL0dnPa7QoqirI.ttf",
-      "regular": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1tnPa7QoqirI.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1unOYbA.ttf"
   },
   {
     "family": "Noto Serif Ahom",
@@ -30652,19 +30652,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansoldsoutharabian/v16/3qT5oiOhnSyU8TNFIdhZTice3hB_HWKsEnF--0XCHiKB1eFH.ttf"
   },
   {
-    "family": "Noto Serif Makasar",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "makasar"],
-    "version": "v1",
-    "lastModified": "2023-06-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9S7j4HTVSmevw.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9SLjovX.ttf"
-  },
-  {
     "family": "Noto Sans Nabataean",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "nabataean"],
@@ -30676,6 +30663,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3gA.ttf"
+  },
+  {
+    "family": "Noto Serif Makasar",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "makasar"],
+    "version": "v1",
+    "lastModified": "2023-06-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9S7j4HTVSmevw.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9SLjovX.ttf"
   },
   {
     "family": "Yuji Hentaigana Akebono",

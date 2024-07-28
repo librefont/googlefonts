@@ -28685,6 +28685,23 @@
     "menu": "https://fonts.gstatic.com/s/warnes/v27/pONn1hc0GsW6sW5-pyq3.woff2"
   },
   {
+    "family": "Noto Traditional Nushu",
+    "variants": ["300", "regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext", "nushu"],
+    "version": "v17",
+    "lastModified": "2023-05-23",
+    "files": {
+      "300": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXvy1tnKa7QoqirI.woff2",
+      "500": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXue1tnKa7QoqirI.woff2",
+      "600": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXty0dnKa7QoqirI.woff2",
+      "700": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXtL0dnKa7QoqirI.woff2",
+      "regular": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1tnKa7QoqirI.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1unOYbU.woff2"
+  },
+  {
     "family": "Noto Sans Thaana",
     "variants": [
       "100",
@@ -28714,23 +28731,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansthaana/v24/C8c14dM-vnz-s-3jaEsxlxHkBH-WZOETXfoQrfQ9Y4XrbiLglO8.woff2"
-  },
-  {
-    "family": "Noto Traditional Nushu",
-    "variants": ["300", "regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext", "nushu"],
-    "version": "v17",
-    "lastModified": "2023-05-23",
-    "files": {
-      "300": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXvy1tnKa7QoqirI.woff2",
-      "500": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXue1tnKa7QoqirI.woff2",
-      "600": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXty0dnKa7QoqirI.woff2",
-      "700": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXtL0dnKa7QoqirI.woff2",
-      "regular": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1tnKa7QoqirI.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1unOYbU.woff2"
   },
   {
     "family": "Noto Serif Ahom",
@@ -29393,19 +29393,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritemx/v4/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnd1xcVXQ.woff2"
   },
   {
-    "family": "Rubik Gemstones",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2022-12-08",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikgemstones/v1/zrf90HrL0-_8Xb4DFM2rUkWbOVrOjSnGqi1GMw.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikgemstones/v1/zrf90HrL0-_8Xb4DFM2rUkWbOVr-iSPH.woff2"
-  },
-  {
     "family": "Noto Serif Yezidi",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "yezidi"],
@@ -29420,6 +29407,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifyezidi/v21/XLYPIYr5bJNDGYxLBibeHZAn3B5KJENnQjbfhMSVZspD2yEUr1uI.woff2"
+  },
+  {
+    "family": "Rubik Gemstones",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2022-12-08",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikgemstones/v1/zrf90HrL0-_8Xb4DFM2rUkWbOVrOjSnGqi1GMw.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikgemstones/v1/zrf90HrL0-_8Xb4DFM2rUkWbOVr-iSPH.woff2"
   },
   {
     "family": "Noto Sans Bamum",
@@ -31188,6 +31188,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiP4.woff2"
   },
   {
+    "family": "Jacquard 24 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2024-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jacquard24charted/v3/mtGm4-dNK6HaudrE9VVKhENTsEXEYish0iFrMYJ_K-4.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jacquard24charted/v3/mtGm4-dNK6HaudrE9VVKhENTsEXEYish4iVhMA.woff2"
+  },
+  {
     "family": "Noto Sans Syriac",
     "variants": [
       "100",
@@ -31217,19 +31230,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssyriac/v16/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5Y.woff2"
-  },
-  {
-    "family": "Jacquard 24 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2024-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jacquard24charted/v3/mtGm4-dNK6HaudrE9VVKhENTsEXEYish0iFrMYJ_K-4.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jacquard24charted/v3/mtGm4-dNK6HaudrE9VVKhENTsEXEYish4iVhMA.woff2"
   },
   {
     "family": "Noto Sans Shavian",
