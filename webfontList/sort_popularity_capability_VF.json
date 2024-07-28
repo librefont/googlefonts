@@ -27054,6 +27054,19 @@
     ]
   },
   {
+    "family": "Rubik Gemstones",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2022-12-08",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikgemstones/v1/zrf90HrL0-_8Xb4DFM2rUkWbOVrOiCnGqi1GMw.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikgemstones/v1/zrf90HrL0-_8Xb4DFM2rUkWbOVr-iSPC.ttf"
+  },
+  {
     "family": "Noto Serif Yezidi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "yezidi"],
@@ -27072,19 +27085,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Rubik Gemstones",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2022-12-08",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikgemstones/v1/zrf90HrL0-_8Xb4DFM2rUkWbOVrOiCnGqi1GMw.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikgemstones/v1/zrf90HrL0-_8Xb4DFM2rUkWbOVr-iSPC.ttf"
   },
   {
     "family": "Noto Sans Bamum",
@@ -28937,19 +28937,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf"
   },
   {
-    "family": "Jacquard 24 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2024-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jacquard24charted/v3/mtGm4-dNK6HaudrE9VVKhENTsEXEYish0iRrMYJ_K-4.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jacquard24charted/v3/mtGm4-dNK6HaudrE9VVKhENTsEXEYish4iVhNQ.ttf"
-  },
-  {
     "family": "Noto Sans Syriac",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "syriac"],
@@ -28968,6 +28955,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Jacquard 24 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2024-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jacquard24charted/v3/mtGm4-dNK6HaudrE9VVKhENTsEXEYish0iRrMYJ_K-4.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jacquard24charted/v3/mtGm4-dNK6HaudrE9VVKhENTsEXEYish4iVhNQ.ttf"
   },
   {
     "family": "Noto Sans Shavian",
