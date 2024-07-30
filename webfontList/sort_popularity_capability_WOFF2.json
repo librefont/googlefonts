@@ -30380,19 +30380,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SsKIxvw.woff2"
   },
   {
-    "family": "Jersey 15 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2024-04-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey15charted/v2/nuFjD-rCQIjoVp1Sva2ToCTudGbLeRv9r2024gxi.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey15charted/v2/nuFjD-rCQIjoVp1Sva2ToCTudGbLeSv5pWw.woff2"
-  },
-  {
     "family": "Jaini",
     "variants": ["regular"],
     "subsets": ["devanagari", "latin", "latin-ext"],
@@ -30404,6 +30391,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/jaini/v1/fC1vPYJMbGHQzHmPIec.woff2"
+  },
+  {
+    "family": "Jersey 15 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2024-04-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey15charted/v2/nuFjD-rCQIjoVp1Sva2ToCTudGbLeRv9r2024gxi.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey15charted/v2/nuFjD-rCQIjoVp1Sva2ToCTudGbLeSv5pWw.woff2"
   },
   {
     "family": "Noto Sans Yi",
@@ -30581,20 +30581,6 @@
     "menu": "https://fonts.gstatic.com/s/yujihentaiganaakebono/v12/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wTy8PqQ.woff2"
   },
   {
-    "family": "Noto Sans Duployan",
-    "variants": ["regular", "700"],
-    "subsets": ["duployan", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2024-07-01",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/notosansduployan/v18/gokwH7nwAEdtF9N8-mdTDx_X9JM5wsvTqu0D5E0ftZS-Iw.woff2",
-      "regular": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvrE8In6WYDvA.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gm.woff2"
-  },
-  {
     "family": "Linefont",
     "variants": [
       "100",
@@ -30624,6 +30610,20 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/linefont/v5/dg4I_pzpoqcLKUIzVfFMh1TF2rkhli25jn7CKTTWSumsFuSnY4UMXu_nmA.woff2"
+  },
+  {
+    "family": "Noto Sans Duployan",
+    "variants": ["regular", "700"],
+    "subsets": ["duployan", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2024-07-01",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/notosansduployan/v18/gokwH7nwAEdtF9N8-mdTDx_X9JM5wsvTqu0D5E0ftZS-Iw.woff2",
+      "regular": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvrE8In6WYDvA.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gm.woff2"
   },
   {
     "family": "Noto Sans Tai Le",
