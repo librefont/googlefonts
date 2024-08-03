@@ -28194,19 +28194,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansbatak/v20/gok2H6TwAEdtF9N8-mdTCQvT-ZdQooXL.ttf"
   },
   {
-    "family": "Noto Sans Mro",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mro"],
-    "version": "v18",
-    "lastModified": "2022-12-08",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39WDzRtjkho4M.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3bsg.ttf"
-  },
-  {
     "family": "Linefont",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -28230,6 +28217,19 @@
         "end": 1000
       }
     ]
+  },
+  {
+    "family": "Noto Sans Mro",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mro"],
+    "version": "v18",
+    "lastModified": "2022-12-08",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39WDzRtjkho4M.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3bsg.ttf"
   },
   {
     "family": "Noto Sans Yi",
