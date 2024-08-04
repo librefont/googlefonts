@@ -17199,19 +17199,6 @@
     "menu": "https://fonts.gstatic.com/s/fuzzybubbles/v7/6qLGKZMbrgv9pwtjPEVNV0F2BnLzYw.ttf"
   },
   {
-    "family": "MonteCarlo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v11",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/montecarlo/v11/buEzpo6-f9X01GadLA0G0CoV_NxLeiw.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/montecarlo/v11/buEzpo6-f9X01GadLA0G4Csf-A.ttf"
-  },
-  {
     "family": "Edu SA Beginner",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -17230,6 +17217,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "MonteCarlo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v11",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/montecarlo/v11/buEzpo6-f9X01GadLA0G0CoV_NxLeiw.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/montecarlo/v11/buEzpo6-f9X01GadLA0G4Csf-A.ttf"
   },
   {
     "family": "Noto Sans Symbols",
@@ -27777,6 +27777,26 @@
     "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DkQ.ttf"
   },
   {
+    "family": "Noto Sans Cham",
+    "variants": ["regular"],
+    "subsets": ["cham", "latin", "latin-ext"],
+    "version": "v31",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscham/v31/pe03MIySN5pO62Z5YkFyQb_bbv5qWVAgVol-.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscham/v31/pe06MIySN5pO62Z5YkFyQb_bbuRhe6D4yip43qfcERwsvru2.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ]
+  },
+  {
     "family": "Rubik Broken Fax",
     "variants": ["regular"],
     "subsets": [
@@ -27796,26 +27816,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikbrokenfax/v1/NGSvv4rXG042O-GzH9sg1cUgl8w8UW6ccg.ttf"
-  },
-  {
-    "family": "Noto Sans Cham",
-    "variants": ["regular"],
-    "subsets": ["cham", "latin", "latin-ext"],
-    "version": "v31",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscham/v31/pe03MIySN5pO62Z5YkFyQb_bbv5qWVAgVol-.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscham/v31/pe06MIySN5pO62Z5YkFyQb_bbuRhe6D4yip43qfcERwsvru2.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
   },
   {
     "family": "Noto Sans Brahmi",
