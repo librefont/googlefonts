@@ -28028,19 +28028,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteat/v1/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M76R0zGLQ.woff2"
   },
   {
-    "family": "Twinkle Star",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v6",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/twinklestar/v6/pe0pMI6IL4dPoFl9LGEmY6WaBvRue1UwVg.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/twinklestar/v6/pe0pMI6IL4dPoFl9LGEmY6WqAv5v.woff2"
-  },
-  {
     "family": "Flow Block",
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
@@ -28052,6 +28039,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/flowblock/v11/wlp0gwfPCEB65UmTk-d6yWdvbQ.woff2"
+  },
+  {
+    "family": "Twinkle Star",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v6",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/twinklestar/v6/pe0pMI6IL4dPoFl9LGEmY6WaBvRue1UwVg.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/twinklestar/v6/pe0pMI6IL4dPoFl9LGEmY6WqAv5v.woff2"
   },
   {
     "family": "Playwrite DK Uloopet",
@@ -29116,19 +29116,6 @@
     "menu": "https://fonts.gstatic.com/s/protestguerrilla/v2/Qw3HZR5PDSL6K3irtrY-VJB2YzARHW0lqp4.woff2"
   },
   {
-    "family": "Rubik Puddles",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcJfW0wVMT-aE.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcFfG-wA.woff2"
-  },
-  {
     "family": "Playwrite PT",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -29143,6 +29130,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritept/v3/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDiffNnvw.woff2"
+  },
+  {
+    "family": "Rubik Puddles",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcJfW0wVMT-aE.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcFfG-wA.woff2"
   },
   {
     "family": "Noto Sans Hanunoo",
@@ -31029,19 +31029,6 @@
     "menu": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v2/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0YFaQ.woff2"
   },
   {
-    "family": "Noto Sans Khudawadi",
-    "variants": ["regular"],
-    "subsets": ["khudawadi", "latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanskhudawadi/v21/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHIjFnVVXz9MY.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanskhudawadi/v21/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHEjVtVA.woff2"
-  },
-  {
     "family": "Noto Sans Phags Pa",
     "variants": ["regular"],
     "subsets": ["phags-pa"],
@@ -31053,6 +31040,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansphagspa/v15/pxiZyoo6v8ZYyWh5WuPeJzMkd4SrGChUq06t.woff2"
+  },
+  {
+    "family": "Noto Sans Khudawadi",
+    "variants": ["regular"],
+    "subsets": ["khudawadi", "latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanskhudawadi/v21/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHIjFnVVXz9MY.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanskhudawadi/v21/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHEjVtVA.woff2"
   },
   {
     "family": "Noto Sans Psalter Pahlavi",
