@@ -26263,26 +26263,6 @@
     ]
   },
   {
-    "family": "Playwrite MX",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v4",
-    "lastModified": "2024-06-14",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritemx/v4/6xKodSNbKtCe7KfhXg7RYSwoSMj-N4_4kQ.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritemx/v4/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnd1xcVWA.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 400
-      }
-    ]
-  },
-  {
     "family": "Playwrite AU QLD",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -26294,6 +26274,26 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteauqld/v4/SlGGmR-Yo5oYZX5BFVcEwSFSOXBRWADAWbgjmLBhA6-yML2eoGk.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 400
+      }
+    ]
+  },
+  {
+    "family": "Playwrite MX",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v4",
+    "lastModified": "2024-06-14",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritemx/v4/6xKodSNbKtCe7KfhXg7RYSwoSMj-N4_4kQ.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritemx/v4/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnd1xcVWA.ttf",
     "axes": [
       {
         "tag": "wght",
@@ -27399,19 +27399,6 @@
     "colorCapabilities": ["COLRv1", "SVG"]
   },
   {
-    "family": "Noto Sans Tamil Supplement",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tamil-supplement"],
-    "version": "v21",
-    "lastModified": "2023-06-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax_vsAeMkeq1x.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-c.ttf"
-  },
-  {
     "family": "Noto Sans Vithkuqi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vithkuqi"],
@@ -27430,6 +27417,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Sans Tamil Supplement",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tamil-supplement"],
+    "version": "v21",
+    "lastModified": "2023-06-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax_vsAeMkeq1x.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-c.ttf"
   },
   {
     "family": "Chokokutai",

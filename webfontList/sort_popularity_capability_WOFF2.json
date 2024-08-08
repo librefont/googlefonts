@@ -28640,22 +28640,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteusmodern/v4/H4cMBWmRlMXPhla3hmMaveiYz8nSDkIFLNIYl2TXUwK62YohNj2CYUM.woff2"
   },
   {
-    "family": "Playwrite MX",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v4",
-    "lastModified": "2024-06-14",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritemx/v4/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnc5xMfXDWXDu8.woff2",
-      "200": "https://fonts.gstatic.com/s/playwritemx/v4/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr94nd5xMfXDWXDu8.woff2",
-      "300": "https://fonts.gstatic.com/s/playwritemx/v4/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr91fd5xMfXDWXDu8.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwritemx/v4/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnd5xMfXDWXDu8.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritemx/v4/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnd1xcVXQ.woff2"
-  },
-  {
     "family": "Playwrite AU QLD",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -28670,6 +28654,22 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteauqld/v4/SlGGmR-Yo5oYZX5BFVcEwSFSOXBRWADAWbgjmLBhA6-yML2eoGw.woff2"
+  },
+  {
+    "family": "Playwrite MX",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v4",
+    "lastModified": "2024-06-14",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritemx/v4/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnc5xMfXDWXDu8.woff2",
+      "200": "https://fonts.gstatic.com/s/playwritemx/v4/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr94nd5xMfXDWXDu8.woff2",
+      "300": "https://fonts.gstatic.com/s/playwritemx/v4/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr91fd5xMfXDWXDu8.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwritemx/v4/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnd5xMfXDWXDu8.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritemx/v4/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnd1xcVXQ.woff2"
   },
   {
     "family": "Rubik Burned",
@@ -29715,19 +29715,6 @@
     "colorCapabilities": ["COLRv1", "SVG"]
   },
   {
-    "family": "Noto Sans Tamil Supplement",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tamil-supplement"],
-    "version": "v21",
-    "lastModified": "2023-06-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax_vpAeMkeq1x.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-I.woff2"
-  },
-  {
     "family": "Noto Sans Vithkuqi",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "vithkuqi"],
@@ -29742,6 +29729,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SsKIxvw.woff2"
+  },
+  {
+    "family": "Noto Sans Tamil Supplement",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tamil-supplement"],
+    "version": "v21",
+    "lastModified": "2023-06-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax_vpAeMkeq1x.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-I.woff2"
   },
   {
     "family": "Chokokutai",
