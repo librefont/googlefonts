@@ -29715,6 +29715,19 @@
     "colorCapabilities": ["COLRv1", "SVG"]
   },
   {
+    "family": "Noto Sans Tamil Supplement",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tamil-supplement"],
+    "version": "v21",
+    "lastModified": "2023-06-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax_vpAeMkeq1x.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-I.woff2"
+  },
+  {
     "family": "Noto Sans Vithkuqi",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "vithkuqi"],
@@ -29729,19 +29742,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SsKIxvw.woff2"
-  },
-  {
-    "family": "Noto Sans Tamil Supplement",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tamil-supplement"],
-    "version": "v21",
-    "lastModified": "2023-06-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax_vpAeMkeq1x.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-I.woff2"
   },
   {
     "family": "Chokokutai",
@@ -30452,6 +30452,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansinscriptionalpahlavi/v17/ll8UK3GaVDuxR-TEqFPIbsR79Xxz9WEKbwsjpz7VklYlC7FCZtufOQ.woff2"
   },
   {
+    "family": "Noto Sans NKo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nko"],
+    "version": "v6",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpMpWMHMLBrdA.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpApGGHQ.woff2"
+  },
+  {
     "family": "Noto Sans New Tai Lue",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "new-tai-lue"],
@@ -30466,19 +30479,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAUUfqhQ.woff2"
-  },
-  {
-    "family": "Noto Sans NKo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nko"],
-    "version": "v6",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpMpWMHMLBrdA.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpApGGHQ.woff2"
   },
   {
     "family": "Noto Sans Sundanese",
