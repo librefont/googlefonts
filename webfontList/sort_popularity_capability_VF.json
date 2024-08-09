@@ -27993,19 +27993,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansoldpersian/v16/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_dqeNU.ttf"
   },
   {
-    "family": "Noto Sans Brahmi",
-    "variants": ["regular"],
-    "subsets": ["brahmi", "latin", "latin-ext", "math", "symbols"],
-    "version": "v19",
-    "lastModified": "2024-02-29",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV18tK1W77HtMo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
-  },
-  {
     "family": "Noto Sans Medefaidrin",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "medefaidrin"],
@@ -28024,6 +28011,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Sans Brahmi",
+    "variants": ["regular"],
+    "subsets": ["brahmi", "latin", "latin-ext", "math", "symbols"],
+    "version": "v19",
+    "lastModified": "2024-02-29",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV18tK1W77HtMo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
   },
   {
     "family": "Noto Sans Old Turkic",
