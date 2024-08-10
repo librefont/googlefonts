@@ -24958,6 +24958,26 @@
     "menu": "https://fonts.gstatic.com/s/notomusic/v20/pe0rMIiSN5pO63htf1sxEtaaAw.ttf"
   },
   {
+    "family": "Noto Sans Javanese",
+    "variants": ["regular"],
+    "subsets": ["javanese", "latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansjavanese/v23/2V0AKJkDAIA6Hp4zoSScDjV0Y-eoHAHJ8r88Rp29eA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansjavanese/v23/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxJnkJFhoYQ.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
+      }
+    ]
+  },
+  {
     "family": "Wittgenstein",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -24975,26 +24995,6 @@
         "tag": "wght",
         "start": 400,
         "end": 900
-      }
-    ]
-  },
-  {
-    "family": "Noto Sans Javanese",
-    "variants": ["regular"],
-    "subsets": ["javanese", "latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansjavanese/v23/2V0AKJkDAIA6Hp4zoSScDjV0Y-eoHAHJ8r88Rp29eA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansjavanese/v23/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxJnkJFhoYQ.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
       }
     ]
   },
@@ -26659,19 +26659,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanschorasmian/v3/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S6vzqno.ttf"
   },
   {
-    "family": "Rubik Burned",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqniHQuaCY5ZSg.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqnSHAGe.ttf"
-  },
-  {
     "family": "Noto Serif Ottoman Siyaq",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "ottoman-siyaq-numbers"],
@@ -26683,6 +26670,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoH7J7IE.ttf"
+  },
+  {
+    "family": "Rubik Burned",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqniHQuaCY5ZSg.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqnSHAGe.ttf"
   },
   {
     "family": "Playwrite SK",
@@ -29074,19 +29074,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBc.ttf"
   },
   {
-    "family": "Noto Sans SignWriting",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "signwriting"],
-    "version": "v4",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUEVCARYQemg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqE.ttf"
-  },
-  {
     "family": "Noto Sans Shavian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "shavian"],
@@ -29098,6 +29085,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4HFRQJ0.ttf"
+  },
+  {
+    "family": "Noto Sans SignWriting",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "signwriting"],
+    "version": "v4",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUEVCARYQemg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqE.ttf"
   },
   {
     "family": "Noto Sans Khudawadi",
