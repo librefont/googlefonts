@@ -19995,19 +19995,6 @@
     ]
   },
   {
-    "family": "Carattere",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v7",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/carattere/v7/4iCv6Kp1b9dXlgt_CkvTt2aMH4V_gg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/carattere/v7/4iCv6Kp1b9dXlgt_CkvjtmyI.ttf"
-  },
-  {
     "family": "Akaya Kanadaka",
     "variants": ["regular"],
     "subsets": ["kannada", "latin", "latin-ext"],
@@ -20019,6 +20006,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/akayakanadaka/v16/N0bM2S5CPO5oOQqvazoRRb-8-MfQQZE.ttf"
+  },
+  {
+    "family": "Carattere",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v7",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/carattere/v7/4iCv6Kp1b9dXlgt_CkvTt2aMH4V_gg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/carattere/v7/4iCv6Kp1b9dXlgt_CkvjtmyI.ttf"
   },
   {
     "family": "Farsan",
@@ -27017,6 +27017,19 @@
     ]
   },
   {
+    "family": "Jersey 25",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2024-04-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey25/v2/ll8-K2eeXj2tAs6F9BXIJ4AMng8ChA.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey25/v2/ll8-K2eeXj2tAs6F9BX4JooI.ttf"
+  },
+  {
     "family": "Rubik Maps",
     "variants": ["regular"],
     "subsets": [
@@ -27036,19 +27049,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikmaps/v1/Gw6_wcjl80TZK9XxtbbevSceDg.ttf"
-  },
-  {
-    "family": "Jersey 25",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2024-04-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey25/v2/ll8-K2eeXj2tAs6F9BXIJ4AMng8ChA.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey25/v2/ll8-K2eeXj2tAs6F9BX4JooI.ttf"
   },
   {
     "family": "Rubik Maze",
@@ -28504,19 +28504,6 @@
     ]
   },
   {
-    "family": "Noto Sans Palmyrene",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "palmyrene"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCPnK5ZpdNtcA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnOzYg.ttf"
-  },
-  {
     "family": "Micro 5 Charted",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
@@ -28528,6 +28515,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/micro5charted/v1/hESp6XxmPDtTtADZhn7oD_yrmxE2REEN.ttf"
+  },
+  {
+    "family": "Noto Sans Palmyrene",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "palmyrene"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCPnK5ZpdNtcA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnOzYg.ttf"
   },
   {
     "family": "Noto Sans Duployan",
