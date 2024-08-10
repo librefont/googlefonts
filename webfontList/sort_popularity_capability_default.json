@@ -27383,22 +27383,6 @@
     "menu": "https://fonts.gstatic.com/s/notomusic/v20/pe0rMIiSN5pO63htf1sxEtaaAw.ttf"
   },
   {
-    "family": "Noto Sans Javanese",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["javanese", "latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2023-09-27",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/notosansjavanese/v23/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxKvkFFliZYWj4O8.ttf",
-      "600": "https://fonts.gstatic.com/s/notosansjavanese/v23/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxEfjFFliZYWj4O8.ttf",
-      "700": "https://fonts.gstatic.com/s/notosansjavanese/v23/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxH7jFFliZYWj4O8.ttf",
-      "regular": "https://fonts.gstatic.com/s/notosansjavanese/v23/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxJnkFFliZYWj4O8.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansjavanese/v23/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxJnkJFhoYQ.ttf"
-  },
-  {
     "family": "Wittgenstein",
     "variants": [
       "regular",
@@ -27434,6 +27418,22 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/wittgenstein/v2/WBL3rEDOakJCHParhXGwMgvyJ8hdWNLC1kI61G4TzBrxYw.ttf"
+  },
+  {
+    "family": "Noto Sans Javanese",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["javanese", "latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2023-09-27",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/notosansjavanese/v23/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxKvkFFliZYWj4O8.ttf",
+      "600": "https://fonts.gstatic.com/s/notosansjavanese/v23/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxEfjFFliZYWj4O8.ttf",
+      "700": "https://fonts.gstatic.com/s/notosansjavanese/v23/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxH7jFFliZYWj4O8.ttf",
+      "regular": "https://fonts.gstatic.com/s/notosansjavanese/v23/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxJnkFFliZYWj4O8.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansjavanese/v23/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxJnkJFhoYQ.ttf"
   },
   {
     "family": "Tiro Gurmukhi",
@@ -28893,19 +28893,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-c.ttf"
   },
   {
-    "family": "Noto Sans Imperial Aramaic",
-    "variants": ["regular"],
-    "subsets": ["imperial-aramaic", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2024-07-01",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansimperialaramaic/v17/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrtdml3YfPNno.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansimperialaramaic/v17/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXI.ttf"
-  },
-  {
     "family": "Playwrite IT Moderna",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -28920,6 +28907,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteitmoderna/v4/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5WihMuLzb.ttf"
+  },
+  {
+    "family": "Noto Sans Imperial Aramaic",
+    "variants": ["regular"],
+    "subsets": ["imperial-aramaic", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2024-07-01",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansimperialaramaic/v17/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrtdml3YfPNno.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansimperialaramaic/v17/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXI.ttf"
   },
   {
     "family": "Tapestry",
@@ -29032,19 +29032,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanschorasmian/v3/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S6vzqno.ttf"
   },
   {
-    "family": "Rubik Burned",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2022-09-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqniHQuaCY5ZSg.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqnSHAGe.ttf"
-  },
-  {
     "family": "Noto Serif Ottoman Siyaq",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "ottoman-siyaq-numbers"],
@@ -29056,6 +29043,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoH7J7IE.ttf"
+  },
+  {
+    "family": "Rubik Burned",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2022-09-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqniHQuaCY5ZSg.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqnSHAGe.ttf"
   },
   {
     "family": "Playwrite SK",
@@ -30788,19 +30788,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAf6o1Yw.ttf"
   },
   {
-    "family": "Noto Sans Palmyrene",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "palmyrene"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCPnK5ZpdNtcA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnOzYg.ttf"
-  },
-  {
     "family": "Micro 5 Charted",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
@@ -30812,6 +30799,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/micro5charted/v1/hESp6XxmPDtTtADZhn7oD_yrmxE2REEN.ttf"
+  },
+  {
+    "family": "Noto Sans Palmyrene",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "palmyrene"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCPnK5ZpdNtcA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnOzYg.ttf"
   },
   {
     "family": "Noto Sans Duployan",
