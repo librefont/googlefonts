@@ -15681,19 +15681,6 @@
     "menu": "https://fonts.gstatic.com/s/wendyone/v18/2sDcZGJOipXfgfXV5wgzbmW8.ttf"
   },
   {
-    "family": "Vina Sans",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v6",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/vinasans/v6/m8JQjfZKf6-d2273MP7zcJ5BZmqa3A.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/vinasans/v6/m8JQjfZKf6-d2273MP7DcZRF.ttf"
-  },
-  {
     "family": "Noto Sans Khmer",
     "variants": ["regular"],
     "subsets": ["khmer", "latin", "latin-ext"],
@@ -15717,6 +15704,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Vina Sans",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v6",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/vinasans/v6/m8JQjfZKf6-d2273MP7zcJ5BZmqa3A.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/vinasans/v6/m8JQjfZKf6-d2273MP7DcZRF.ttf"
   },
   {
     "family": "BIZ UDPMincho",
@@ -21005,6 +21005,19 @@
     "menu": "https://fonts.gstatic.com/s/gentiumbookplus/v1/vEFL2-RHBgUK5fbjKxRpbBtJPyRpocKef7Y.ttf"
   },
   {
+    "family": "Vampiro One",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2022-04-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/vampiroone/v18/gokqH6DoDl5yXvJytFsdLkqnsvhIor3K.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/vampiroone/v18/gokqH6DoDl5yXvJytFsdLnqmuPw.ttf"
+  },
+  {
     "family": "Foldit",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -21024,19 +21037,6 @@
       }
     ],
     "colorCapabilities": ["COLRv1"]
-  },
-  {
-    "family": "Vampiro One",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2022-04-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/vampiroone/v18/gokqH6DoDl5yXvJytFsdLkqnsvhIor3K.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/vampiroone/v18/gokqH6DoDl5yXvJytFsdLnqmuPw.ttf"
   },
   {
     "family": "Noto Serif Khojki",
