@@ -24670,20 +24670,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanscoptic/v21/iJWfBWmUZi_OHPqn4wq6kgqumOEd38q1UA.ttf"
   },
   {
-    "family": "Tiro Tamil",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext", "tamil"],
-    "version": "v10",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/tirotamil/v10/m8JXjfVIf7OT22n3M-S_ULRvamODxdI.ttf",
-      "italic": "https://fonts.gstatic.com/s/tirotamil/v10/m8JVjfVIf7OT22n3M-S_YLZlbkGG1dKEDw.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/tirotamil/v10/m8JXjfVIf7OT22n3M-S_YLVlbg.ttf"
-  },
-  {
     "family": "Playwrite BE VLG",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -24702,6 +24688,20 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Tiro Tamil",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext", "tamil"],
+    "version": "v10",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/tirotamil/v10/m8JXjfVIf7OT22n3M-S_ULRvamODxdI.ttf",
+      "italic": "https://fonts.gstatic.com/s/tirotamil/v10/m8JVjfVIf7OT22n3M-S_YLZlbkGG1dKEDw.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/tirotamil/v10/m8JXjfVIf7OT22n3M-S_YLVlbg.ttf"
   },
   {
     "family": "Noto Serif Lao",
