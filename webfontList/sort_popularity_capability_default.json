@@ -14444,25 +14444,6 @@
     "menu": "https://fonts.gstatic.com/s/fjordone/v21/zOL-4pbEnKBY_9S1jNKb6ORE.ttf"
   },
   {
-    "family": "IBM Plex Sans JP",
-    "variants": ["100", "200", "300", "regular", "500", "600", "700"],
-    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
-    "version": "v6",
-    "lastModified": "2024-08-07",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XLDn9KbTDf6_f7dISNqYf_tvPT7E7yjPB7twdmHQ.ttf",
-      "200": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XKDn9KbTDf6_f7dISNqYf_tvPT7OLTrNpVuw5_BAM.ttf",
-      "300": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XKDn9KbTDf6_f7dISNqYf_tvPT7IbQrNpVuw5_BAM.ttf",
-      "500": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XKDn9KbTDf6_f7dISNqYf_tvPT7N7RrNpVuw5_BAM.ttf",
-      "600": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XKDn9KbTDf6_f7dISNqYf_tvPT7PLWrNpVuw5_BAM.ttf",
-      "700": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XKDn9KbTDf6_f7dISNqYf_tvPT7JbXrNpVuw5_BAM.ttf",
-      "regular": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XNDn9KbTDf6_f7dISNqYf_tvPT1Cr4iNJ-pwc.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XNDn9KbTDf6_f7dISNqYf_tvPT5CvyjA.ttf"
-  },
-  {
     "family": "Rubik Scribble",
     "variants": ["regular"],
     "subsets": [
@@ -14482,6 +14463,25 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikscribble/v1/snfzs0Cp48d67SuHQOpjXLsQpYqaQDc.ttf"
+  },
+  {
+    "family": "IBM Plex Sans JP",
+    "variants": ["100", "200", "300", "regular", "500", "600", "700"],
+    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
+    "version": "v6",
+    "lastModified": "2024-08-07",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XLDn9KbTDf6_f7dISNqYf_tvPT7E7yjPB7twdmHQ.ttf",
+      "200": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XKDn9KbTDf6_f7dISNqYf_tvPT7OLTrNpVuw5_BAM.ttf",
+      "300": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XKDn9KbTDf6_f7dISNqYf_tvPT7IbQrNpVuw5_BAM.ttf",
+      "500": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XKDn9KbTDf6_f7dISNqYf_tvPT7N7RrNpVuw5_BAM.ttf",
+      "600": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XKDn9KbTDf6_f7dISNqYf_tvPT7PLWrNpVuw5_BAM.ttf",
+      "700": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XKDn9KbTDf6_f7dISNqYf_tvPT7JbXrNpVuw5_BAM.ttf",
+      "regular": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XNDn9KbTDf6_f7dISNqYf_tvPT1Cr4iNJ-pwc.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/ibmplexsansjp/v6/Z9XNDn9KbTDf6_f7dISNqYf_tvPT5CvyjA.ttf"
   },
   {
     "family": "Rakkas",
@@ -25292,19 +25292,6 @@
     "menu": "https://fonts.gstatic.com/s/bigelowrules/v29/RrQWboly8iR_I3KWSzeRuN0zf4YIGw.ttf"
   },
   {
-    "family": "Climate Crisis",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v8",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/climatecrisis/v8/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFp6jaUrGb7PsQ.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/climatecrisis/v8/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFpKjK8v.ttf"
-  },
-  {
     "family": "Snippet",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -25316,6 +25303,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/snippet/v21/bWt47f7XfQH9Gupu6v7KeQ.ttf"
+  },
+  {
+    "family": "Climate Crisis",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v8",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/climatecrisis/v8/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFp6jaUrGb7PsQ.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/climatecrisis/v8/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFpKjK8v.ttf"
   },
   {
     "family": "Plaster",
@@ -31396,19 +31396,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
   },
   {
-    "family": "Noto Serif Dogra",
-    "variants": ["regular"],
-    "subsets": ["dogra", "latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2023-11-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fGy63IbPzkns.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fKy-9JQ.ttf"
-  },
-  {
     "family": "Noto Sans Phoenician",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "phoenician"],
@@ -31420,6 +31407,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqNs.ttf"
+  },
+  {
+    "family": "Noto Serif Dogra",
+    "variants": ["regular"],
+    "subsets": ["dogra", "latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2023-11-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fGy63IbPzkns.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fKy-9JQ.ttf"
   },
   {
     "family": "Noto Sans Mayan Numerals",
