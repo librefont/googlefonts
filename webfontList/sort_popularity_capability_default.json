@@ -30696,19 +30696,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXS.ttf"
   },
   {
-    "family": "Chokokutai",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
-    "version": "v10",
-    "lastModified": "2024-08-07",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fws9y7ypu1Kr7I.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fwsxy_4og.ttf"
-  },
-  {
     "family": "Noto Sans Duployan",
     "variants": ["regular", "700"],
     "subsets": ["duployan", "latin", "latin-ext"],
@@ -30721,6 +30708,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gj.ttf"
+  },
+  {
+    "family": "Chokokutai",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
+    "version": "v10",
+    "lastModified": "2024-08-07",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fws9y7ypu1Kr7I.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fwsxy_4og.ttf"
   },
   {
     "family": "Padyakke Expanded One",
@@ -31396,19 +31396,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
   },
   {
-    "family": "Noto Serif Dogra",
-    "variants": ["regular"],
-    "subsets": ["dogra", "latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2023-11-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fGy63IbPzkns.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fKy-9JQ.ttf"
-  },
-  {
     "family": "Noto Sans Phoenician",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "phoenician"],
@@ -31420,6 +31407,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqNs.ttf"
+  },
+  {
+    "family": "Noto Serif Dogra",
+    "variants": ["regular"],
+    "subsets": ["dogra", "latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2023-11-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fGy63IbPzkns.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fKy-9JQ.ttf"
   },
   {
     "family": "Noto Sans Mayan Numerals",
