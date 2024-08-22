@@ -15168,19 +15168,6 @@
     "menu": "https://fonts.gstatic.com/s/fingerpaint/v19/0QInMXVJ-o-oRn_7dron8YW-8pzW.ttf"
   },
   {
-    "family": "Bakbak One",
-    "variants": ["regular"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v8",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bakbakone/v8/zOL54pXAl6RI-p_ardnuycRuv-hHkOs.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bakbakone/v8/zOL54pXAl6RI-p_ardnu-cVkuw.ttf"
-  },
-  {
     "family": "Syne Mono",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -15192,6 +15179,19 @@
     "category": "monospace",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/synemono/v15/K2FzfZNHj_FHBmRbFvHDI6qg.ttf"
+  },
+  {
+    "family": "Bakbak One",
+    "variants": ["regular"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v8",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bakbakone/v8/zOL54pXAl6RI-p_ardnuycRuv-hHkOs.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bakbakone/v8/zOL54pXAl6RI-p_ardnu-cVkuw.ttf"
   },
   {
     "family": "Noto Sans Telugu",
@@ -25837,6 +25837,19 @@
     ]
   },
   {
+    "family": "Rubik 80s Fade",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUhHwkbL8IHcK.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUiHxm7Y.ttf"
+  },
+  {
     "family": "Playwrite DK Loopet",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -25855,19 +25868,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Rubik 80s Fade",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUhHwkbL8IHcK.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUiHxm7Y.ttf"
   },
   {
     "family": "Noto Sans Masaram Gondi",

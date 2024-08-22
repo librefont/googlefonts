@@ -17115,19 +17115,6 @@
     "menu": "https://fonts.gstatic.com/s/fingerpaint/v19/0QInMXVJ-o-oRn_7dron8YW-8pzW.ttf"
   },
   {
-    "family": "Bakbak One",
-    "variants": ["regular"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v8",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bakbakone/v8/zOL54pXAl6RI-p_ardnuycRuv-hHkOs.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bakbakone/v8/zOL54pXAl6RI-p_ardnu-cVkuw.ttf"
-  },
-  {
     "family": "Syne Mono",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -17139,6 +17126,19 @@
     "category": "monospace",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/synemono/v15/K2FzfZNHj_FHBmRbFvHDI6qg.ttf"
+  },
+  {
+    "family": "Bakbak One",
+    "variants": ["regular"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v8",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bakbakone/v8/zOL54pXAl6RI-p_ardnuycRuv-hHkOs.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bakbakone/v8/zOL54pXAl6RI-p_ardnu-cVkuw.ttf"
   },
   {
     "family": "Noto Sans Telugu",
@@ -28205,6 +28205,19 @@
     "menu": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1unOYbA.ttf"
   },
   {
+    "family": "Rubik 80s Fade",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUhHwkbL8IHcK.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUiHxm7Y.ttf"
+  },
+  {
     "family": "Playwrite DK Loopet",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -28219,19 +28232,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritedkloopet/v1/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwdgQsw4.ttf"
-  },
-  {
-    "family": "Rubik 80s Fade",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUhHwkbL8IHcK.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUiHxm7Y.ttf"
   },
   {
     "family": "Noto Sans Masaram Gondi",
@@ -31288,19 +31288,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBc.ttf"
   },
   {
-    "family": "Noto Sans Phoenician",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "phoenician"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5X7Jot-p5561.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqNs.ttf"
-  },
-  {
     "family": "Noto Sans Hatran",
     "variants": ["regular"],
     "subsets": ["hatran", "latin", "latin-ext"],
@@ -31312,6 +31299,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf"
+  },
+  {
+    "family": "Noto Sans Phoenician",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "phoenician"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5X7Jot-p5561.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqNs.ttf"
   },
   {
     "family": "Noto Sans Kharoshthi",
