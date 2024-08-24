@@ -14540,19 +14540,6 @@
     ]
   },
   {
-    "family": "Agbalumo",
-    "variants": ["regular"],
-    "subsets": ["cyrillic-ext", "latin", "latin-ext", "vietnamese"],
-    "version": "v5",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/agbalumo/v5/55xvey5uMdT2N37KZcMFirl08KDJ.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/agbalumo/v5/55xvey5uMdT2N37KZfMEgL0.ttf"
-  },
-  {
     "family": "Sue Ellen Francisco",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -14564,6 +14551,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/sueellenfrancisco/v20/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9notP3g.ttf"
+  },
+  {
+    "family": "Agbalumo",
+    "variants": ["regular"],
+    "subsets": ["cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+    "version": "v5",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/agbalumo/v5/55xvey5uMdT2N37KZcMFirl08KDJ.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/agbalumo/v5/55xvey5uMdT2N37KZfMEgL0.ttf"
   },
   {
     "family": "IM Fell English SC",
