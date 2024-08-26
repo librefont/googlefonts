@@ -29588,6 +29588,22 @@
     "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-I.woff2"
   },
   {
+    "family": "Playwrite PT",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v3",
+    "lastModified": "2024-08-12",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritept/v3/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDjTfdtvlo3Qaw.woff2",
+      "200": "https://fonts.gstatic.com/s/playwritept/v3/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9iDiTfdtvlo3Qaw.woff2",
+      "300": "https://fonts.gstatic.com/s/playwritept/v3/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9v7iTfdtvlo3Qaw.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwritept/v3/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDiTfdtvlo3Qaw.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritept/v3/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDiffNnvw.woff2"
+  },
+  {
     "family": "Noto Traditional Nushu",
     "variants": ["300", "regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "nushu"],
@@ -29603,22 +29619,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/nototraditionalnushu/v17/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1unOYbU.woff2"
-  },
-  {
-    "family": "Playwrite PT",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v3",
-    "lastModified": "2024-08-12",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritept/v3/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDjTfdtvlo3Qaw.woff2",
-      "200": "https://fonts.gstatic.com/s/playwritept/v3/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9iDiTfdtvlo3Qaw.woff2",
-      "300": "https://fonts.gstatic.com/s/playwritept/v3/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9v7iTfdtvlo3Qaw.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwritept/v3/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDiTfdtvlo3Qaw.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritept/v3/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDiffNnvw.woff2"
   },
   {
     "family": "Noto Sans Old Italic",
@@ -29952,6 +29952,19 @@
     "menu": "https://fonts.gstatic.com/s/playwritefrtrad/v6/sJot3KxJjdGLJV3vyatrJE2pkQisWWMBP23HSIVI5tvAogv9d9We.woff2"
   },
   {
+    "family": "Noto Serif Grantha",
+    "variants": ["regular"],
+    "subsets": ["grantha", "latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2024-06-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiqEUNLR7fHGw.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlK.woff2"
+  },
+  {
     "family": "Noto Sans New Tai Lue",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "new-tai-lue"],
@@ -29966,19 +29979,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAUUfqhQ.woff2"
-  },
-  {
-    "family": "Noto Serif Grantha",
-    "variants": ["regular"],
-    "subsets": ["grantha", "latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2024-06-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiqEUNLR7fHGw.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlK.woff2"
   },
   {
     "family": "Playwrite ZA",
