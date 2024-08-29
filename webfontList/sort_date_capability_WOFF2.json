@@ -1,5 +1,25 @@
 [
   {
+    "family": "SUSE",
+    "variants": ["100", "200", "300", "regular", "500", "600", "700", "800"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-08-28",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/suse/v1/MwQsbhb078Wt81NpzELmC2QqjbGG71q4ZnJSZtQG.woff2",
+      "200": "https://fonts.gstatic.com/s/suse/v1/MwQsbhb078Wt81NpzELmC2QqjbEG7lq4ZnJSZtQG.woff2",
+      "300": "https://fonts.gstatic.com/s/suse/v1/MwQsbhb078Wt81NpzELmC2QqjbHY7lq4ZnJSZtQG.woff2",
+      "500": "https://fonts.gstatic.com/s/suse/v1/MwQsbhb078Wt81NpzELmC2QqjbG07lq4ZnJSZtQG.woff2",
+      "600": "https://fonts.gstatic.com/s/suse/v1/MwQsbhb078Wt81NpzELmC2QqjbFY6Vq4ZnJSZtQG.woff2",
+      "700": "https://fonts.gstatic.com/s/suse/v1/MwQsbhb078Wt81NpzELmC2QqjbFh6Vq4ZnJSZtQG.woff2",
+      "800": "https://fonts.gstatic.com/s/suse/v1/MwQsbhb078Wt81NpzELmC2QqjbEG6Vq4ZnJSZtQG.woff2",
+      "regular": "https://fonts.gstatic.com/s/suse/v1/MwQsbhb078Wt81NpzELmC2QqjbGG7lq4ZnJSZtQG.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/suse/v1/MwQsbhb078Wt81NpzELmC2QqjbGG7mq8bHM.woff2"
+  },
+  {
     "family": "New Amsterdam",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -362,14 +382,14 @@
     "family": "Ga Maamli",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v1",
-    "lastModified": "2024-08-12",
+    "version": "v2",
+    "lastModified": "2024-08-28",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/gamaamli/v1/uU9NCBsQ4c-DPW1Yo3rR396CilKOdQ.woff2"
+      "regular": "https://fonts.gstatic.com/s/gamaamli/v2/uU9NCBsQ4c-DPW1Yo3rR396CilKOdQ.woff2"
     },
     "category": "display",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gamaamli/v1/uU9NCBsQ4c-DPW1Yo3rh29SD.woff2"
+    "menu": "https://fonts.gstatic.com/s/gamaamli/v2/uU9NCBsQ4c-DPW1Yo3rh29SD.woff2"
   },
   {
     "family": "Fustat",

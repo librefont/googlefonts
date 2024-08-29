@@ -8156,14 +8156,14 @@
     "family": "Ga Maamli",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v1",
-    "lastModified": "2024-08-12",
+    "version": "v2",
+    "lastModified": "2024-08-28",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/gamaamli/v1/uU9NCBsQ4c-DPW1Yo3rR2t6CilKOdQ.ttf"
+      "regular": "https://fonts.gstatic.com/s/gamaamli/v2/uU9NCBsQ4c-DPW1Yo3rR2t6CilKOdQ.ttf"
     },
     "category": "display",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gamaamli/v1/uU9NCBsQ4c-DPW1Yo3rh29SG.ttf"
+    "menu": "https://fonts.gstatic.com/s/gamaamli/v2/uU9NCBsQ4c-DPW1Yo3rh29SG.ttf"
   },
   {
     "family": "Gabarito",
@@ -24525,6 +24525,26 @@
         "tag": "wght",
         "start": 400,
         "end": 700
+      }
+    ]
+  },
+  {
+    "family": "SUSE",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-08-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/suse/v1/MwQ5bhb078Wt6VhLPJp6qGI.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/suse/v1/MwQsbhb078Wt81NpzELmC2QqjbGG7mq8bHY.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 800
       }
     ]
   },
