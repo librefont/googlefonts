@@ -29232,19 +29232,6 @@
     "menu": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR0OitKA.ttf"
   },
   {
-    "family": "Noto Sans SignWriting",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "signwriting"],
-    "version": "v4",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUEVCARYQemg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqE.ttf"
-  },
-  {
     "family": "Noto Sans Manichaean",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "manichaean"],
@@ -29256,6 +29243,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPz8.ttf"
+  },
+  {
+    "family": "Noto Sans SignWriting",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "signwriting"],
+    "version": "v4",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUEVCARYQemg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqE.ttf"
   },
   {
     "family": "Noto Sans Lepcha",

@@ -27721,19 +27721,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskaithi/v22/buEtppS9f8_vkXadMBJJu0tWjLwjciwAdw.woff2"
   },
   {
-    "family": "Grechen Fuemen",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/grechenfuemen/v9/vEFI2_tHEQ4d5ObgKxBzZh0MAWgZ-NaXXq7H.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/grechenfuemen/v9/vEFI2_tHEQ4d5ObgKxBzZh0MAVgd8tc.woff2"
-  },
-  {
     "family": "Hedvig Letters Serif",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
@@ -27745,6 +27732,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/hedviglettersserif/v2/OD5puN2I2mekHmyoU1Kj2AXOd5_7v7gIDlX8quj7viQ_N1HixEApfr3d.woff2"
+  },
+  {
+    "family": "Grechen Fuemen",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v9",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/grechenfuemen/v9/vEFI2_tHEQ4d5ObgKxBzZh0MAWgZ-NaXXq7H.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/grechenfuemen/v9/vEFI2_tHEQ4d5ObgKxBzZh0MAVgd8tc.woff2"
   },
   {
     "family": "Playwrite AU SA",
@@ -31509,19 +31509,6 @@
     "menu": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR0OitLQ.woff2"
   },
   {
-    "family": "Noto Sans SignWriting",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "signwriting"],
-    "version": "v4",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUFFCARYQemg.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqB.woff2"
-  },
-  {
     "family": "Noto Sans Manichaean",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "manichaean"],
@@ -31533,6 +31520,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPzo.woff2"
+  },
+  {
+    "family": "Noto Sans SignWriting",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "signwriting"],
+    "version": "v4",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUFFCARYQemg.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqB.woff2"
   },
   {
     "family": "Noto Sans Lepcha",
