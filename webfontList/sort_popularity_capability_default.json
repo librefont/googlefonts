@@ -11743,6 +11743,19 @@
     "menu": "https://fonts.gstatic.com/s/boogaloo/v23/kmK-Zq45GAvOdnaW6y1E9y4.ttf"
   },
   {
+    "family": "Cedarville Cursive",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v17",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/cedarvillecursive/v17/yYL00g_a2veiudhUmxjo5VKkoqA-B_neJbBxw8BeTg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/cedarvillecursive/v17/yYL00g_a2veiudhUmxjo5VKkoqA-B_nuJLp1.ttf"
+  },
+  {
     "family": "Averia Libre",
     "variants": ["300", "300italic", "regular", "italic", "700", "700italic"],
     "subsets": ["latin"],
@@ -11759,19 +11772,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESA6nN.ttf"
-  },
-  {
-    "family": "Cedarville Cursive",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v17",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/cedarvillecursive/v17/yYL00g_a2veiudhUmxjo5VKkoqA-B_neJbBxw8BeTg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/cedarvillecursive/v17/yYL00g_a2veiudhUmxjo5VKkoqA-B_nuJLp1.ttf"
   },
   {
     "family": "Ibarra Real Nova",
@@ -22002,20 +22002,6 @@
     "menu": "https://fonts.gstatic.com/s/textmeone/v24/i7dOIFdlayuLUvgoFvHQFVZdYFI.ttf"
   },
   {
-    "family": "Astloch",
-    "variants": ["regular", "700"],
-    "subsets": ["latin"],
-    "version": "v26",
-    "lastModified": "2024-08-12",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/astloch/v26/TuGUUVJ8QI5GSeUjk2A-6MNPA10xLMQ.ttf",
-      "regular": "https://fonts.gstatic.com/s/astloch/v26/TuGRUVJ8QI5GSeUjq9wRzMtkH1Q.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/astloch/v26/TuGRUVJ8QI5GSeUjm90byA.ttf"
-  },
-  {
     "family": "Kulim Park",
     "variants": [
       "200",
@@ -22047,6 +22033,20 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/kulimpark/v14/fdN79secq3hflz1Uu3IwhF8s4Q.ttf"
+  },
+  {
+    "family": "Astloch",
+    "variants": ["regular", "700"],
+    "subsets": ["latin"],
+    "version": "v26",
+    "lastModified": "2024-08-12",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/astloch/v26/TuGUUVJ8QI5GSeUjk2A-6MNPA10xLMQ.ttf",
+      "regular": "https://fonts.gstatic.com/s/astloch/v26/TuGRUVJ8QI5GSeUjq9wRzMtkH1Q.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/astloch/v26/TuGRUVJ8QI5GSeUjm90byA.ttf"
   },
   {
     "family": "Fuzzy Bubbles",
@@ -31170,19 +31170,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansphagspa/v15/pxiZyoo6v8ZYyWh5WuPeJzMkd4SrGChUq06o.ttf"
   },
   {
-    "family": "Noto Sans Buginese",
-    "variants": ["regular"],
-    "subsets": ["buginese", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_gtfuEXLmNtw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_QtPGA.ttf"
-  },
-  {
     "family": "Noto Sans Linear B",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "linear-b"],
@@ -31194,6 +31181,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RMB.ttf"
+  },
+  {
+    "family": "Noto Sans Buginese",
+    "variants": ["regular"],
+    "subsets": ["buginese", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_gtfuEXLmNtw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_QtPGA.ttf"
   },
   {
     "family": "Jacquarda Bastarda 9 Charted",

@@ -11743,6 +11743,19 @@
     "menu": "https://fonts.gstatic.com/s/boogaloo/v23/kmK-Zq45GAvOdnaW6y1E9ys.woff2"
   },
   {
+    "family": "Cedarville Cursive",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v17",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/cedarvillecursive/v17/yYL00g_a2veiudhUmxjo5VKkoqA-B_neILBxw8BeTg.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/cedarvillecursive/v17/yYL00g_a2veiudhUmxjo5VKkoqA-B_nuJLpw.woff2"
+  },
+  {
     "family": "Averia Libre",
     "variants": ["300", "300italic", "regular", "italic", "700", "700italic"],
     "subsets": ["latin"],
@@ -11759,19 +11772,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESA6nI.woff2"
-  },
-  {
-    "family": "Cedarville Cursive",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v17",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/cedarvillecursive/v17/yYL00g_a2veiudhUmxjo5VKkoqA-B_neILBxw8BeTg.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/cedarvillecursive/v17/yYL00g_a2veiudhUmxjo5VKkoqA-B_nuJLpw.woff2"
   },
   {
     "family": "Ibarra Real Nova",
@@ -25977,19 +25977,6 @@
     "menu": "https://fonts.gstatic.com/s/stalinistone/v56/MQpS-WezM9W4Dd7D3B7I-UT7SZ6ePg.woff2"
   },
   {
-    "family": "Miss Fajardose",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v22",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/missfajardose/v22/E21-_dn5gvrawDdPFVl-N0Ajb8qqWPaJq4no.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/missfajardose/v22/E21-_dn5gvrawDdPFVl-N0Ajb_quUvc.woff2"
-  },
-  {
     "family": "Ballet",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -26001,6 +25988,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/ballet/v27/QGYyz_MYZA-HM4NjuGOVnUEXme1I4Xi3O4C0Ew.woff2"
+  },
+  {
+    "family": "Miss Fajardose",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v22",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/missfajardose/v22/E21-_dn5gvrawDdPFVl-N0Ajb8qqWPaJq4no.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/missfajardose/v22/E21-_dn5gvrawDdPFVl-N0Ajb_quUvc.woff2"
   },
   {
     "family": "Noto Sans Cypro Minoan",
@@ -31170,19 +31170,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansphagspa/v15/pxiZyoo6v8ZYyWh5WuPeJzMkd4SrGChUq06t.woff2"
   },
   {
-    "family": "Noto Sans Buginese",
-    "variants": ["regular"],
-    "subsets": ["buginese", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_gsPuEXLmNtw.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_QtPGF.woff2"
-  },
-  {
     "family": "Noto Sans Linear B",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "linear-b"],
@@ -31194,6 +31181,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RME.woff2"
+  },
+  {
+    "family": "Noto Sans Buginese",
+    "variants": ["regular"],
+    "subsets": ["buginese", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_gsPuEXLmNtw.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_QtPGF.woff2"
   },
   {
     "family": "Jacquarda Bastarda 9 Charted",
