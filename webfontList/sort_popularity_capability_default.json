@@ -25473,19 +25473,6 @@
     "menu": "https://fonts.gstatic.com/s/labrada/v2/ieVh2Y9HLWefIpOyF1Vi3ZqDss1Px9VTSzM5SvM.ttf"
   },
   {
-    "family": "Dr Sugiyama",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v28",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/drsugiyama/v28/HTxoL2k4N3O9n5I1boGI7abRM4-t-g7y.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/drsugiyama/v28/HTxoL2k4N3O9n5I1boGI7ZbQOYs.ttf"
-  },
-  {
     "family": "Suravaram",
     "variants": ["regular"],
     "subsets": ["latin", "telugu"],
@@ -25497,6 +25484,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/suravaram/v21/_gP61R_usiY7SCym4xIwimSx.ttf"
+  },
+  {
+    "family": "Dr Sugiyama",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v28",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/drsugiyama/v28/HTxoL2k4N3O9n5I1boGI7abRM4-t-g7y.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/drsugiyama/v28/HTxoL2k4N3O9n5I1boGI7ZbQOYs.ttf"
   },
   {
     "family": "Princess Sofia",
@@ -30646,6 +30646,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnOzYg.ttf"
   },
   {
+    "family": "Noto Sans Siddham",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "siddham"],
+    "version": "v20",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGqndk3Ic92ZH.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf"
+  },
+  {
     "family": "Playwrite IT Trad",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -30660,19 +30673,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteittrad/v4/SlG5mR6Yo5oYZX5BFVcEySBSPE50BjHDpZxuvgxzFq96u-6PgUlJ.ttf"
-  },
-  {
-    "family": "Noto Sans Siddham",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "siddham"],
-    "version": "v20",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGqndk3Ic92ZH.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf"
   },
   {
     "family": "Noto Sans Inscriptional Parthian",
@@ -31133,19 +31133,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansphagspa/v15/pxiZyoo6v8ZYyWh5WuPeJzMkd4SrGChUq06o.ttf"
   },
   {
-    "family": "Noto Sans Newa",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "newa"],
-    "version": "v16",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg8n_qN4R5lNU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-oto.ttf"
-  },
-  {
     "family": "Noto Sans Lepcha",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "lepcha"],
@@ -31157,6 +31144,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS36ANmsg.ttf"
+  },
+  {
+    "family": "Noto Sans Newa",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "newa"],
+    "version": "v16",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg8n_qN4R5lNU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-oto.ttf"
   },
   {
     "family": "Jacquarda Bastarda 9 Charted",
