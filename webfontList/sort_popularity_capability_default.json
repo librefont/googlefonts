@@ -30562,22 +30562,6 @@
     "menu": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fwsxy_4og.ttf"
   },
   {
-    "family": "Playwrite BR",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v4",
-    "lastModified": "2024-08-12",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOOFsfjAOVZBgs.ttf",
-      "200": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmNOPFsfjAOVZBgs.ttf",
-      "300": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmA2PFsfjAOVZBgs.ttf",
-      "regular": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOPFsfjAOVZBgs.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOPJsbpBA.ttf"
-  },
-  {
     "family": "Noto Sans Medefaidrin",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "medefaidrin"],
@@ -30592,6 +30576,22 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmedefaidrin/v23/WwkzxOq6Dk-wranENynkfeVsNbRZtbOIdLb1exeM4ZeuabBfmErWpTz_9Q.ttf"
+  },
+  {
+    "family": "Playwrite BR",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v4",
+    "lastModified": "2024-08-12",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOOFsfjAOVZBgs.ttf",
+      "200": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmNOPFsfjAOVZBgs.ttf",
+      "300": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmA2PFsfjAOVZBgs.ttf",
+      "regular": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOPFsfjAOVZBgs.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOPJsbpBA.ttf"
   },
   {
     "family": "Playwrite CA",
@@ -31380,6 +31380,25 @@
     "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjY.ttf"
   },
   {
+    "family": "Noto Sans Meroitic",
+    "variants": ["regular"],
+    "subsets": [
+      "latin",
+      "latin-ext",
+      "meroitic",
+      "meroitic-cursive",
+      "meroitic-hieroglyphs"
+    ],
+    "version": "v18",
+    "lastModified": "2023-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UDgDhTiKY9KQ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzgTJX.ttf"
+  },
+  {
     "family": "Rubik Lines",
     "variants": ["regular"],
     "subsets": [
@@ -31399,25 +31418,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubiklines/v1/_gP81R3vsjYzVW2Y6xFF-FSwav4.ttf"
-  },
-  {
-    "family": "Noto Sans Meroitic",
-    "variants": ["regular"],
-    "subsets": [
-      "latin",
-      "latin-ext",
-      "meroitic",
-      "meroitic-cursive",
-      "meroitic-hieroglyphs"
-    ],
-    "version": "v18",
-    "lastModified": "2023-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UDgDhTiKY9KQ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzgTJX.ttf"
   },
   {
     "family": "Noto Sans SignWriting",
