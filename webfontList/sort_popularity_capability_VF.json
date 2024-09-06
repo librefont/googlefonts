@@ -28254,26 +28254,6 @@
     "menu": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fwsxy_4og.ttf"
   },
   {
-    "family": "Noto Sans Medefaidrin",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "medefaidrin"],
-    "version": "v23",
-    "lastModified": "2023-09-14",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmedefaidrin/v23/WwkAxOq6Dk-wranENynkfeVsNbRZtbOIdLbvcDV8OQsNbw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmedefaidrin/v23/WwkzxOq6Dk-wranENynkfeVsNbRZtbOIdLb1exeM4ZeuabBfmErWpTz_9Q.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
-      }
-    ]
-  },
-  {
     "family": "Playwrite BR",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -28290,6 +28270,26 @@
         "tag": "wght",
         "start": 100,
         "end": 400
+      }
+    ]
+  },
+  {
+    "family": "Noto Sans Medefaidrin",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "medefaidrin"],
+    "version": "v23",
+    "lastModified": "2023-09-14",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmedefaidrin/v23/WwkAxOq6Dk-wranENynkfeVsNbRZtbOIdLbvcDV8OQsNbw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmedefaidrin/v23/WwkzxOq6Dk-wranENynkfeVsNbRZtbOIdLb1exeM4ZeuabBfmErWpTz_9Q.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
       }
     ]
   },
