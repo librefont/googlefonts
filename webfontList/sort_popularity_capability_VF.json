@@ -20149,20 +20149,6 @@
     "menu": "https://fonts.gstatic.com/s/khmer/v29/MjQImit_vPPwpG-Artk.ttf"
   },
   {
-    "family": "Gorditas",
-    "variants": ["regular", "700"],
-    "subsets": ["latin"],
-    "version": "v22",
-    "lastModified": "2024-09-04",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/gorditas/v22/ll84K2aTVD26DsPEtThUIooIvAoShA1i.ttf",
-      "regular": "https://fonts.gstatic.com/s/gorditas/v22/ll8_K2aTVD26DsPEtQDoDa4AlxYb.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gorditas/v22/ll8_K2aTVD26DsPEtTDpB6o.ttf"
-  },
-  {
     "family": "Anek Telugu",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "telugu"],
@@ -20186,6 +20172,20 @@
         "end": 800
       }
     ]
+  },
+  {
+    "family": "Gorditas",
+    "variants": ["regular", "700"],
+    "subsets": ["latin"],
+    "version": "v22",
+    "lastModified": "2024-09-04",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/gorditas/v22/ll84K2aTVD26DsPEtThUIooIvAoShA1i.ttf",
+      "regular": "https://fonts.gstatic.com/s/gorditas/v22/ll8_K2aTVD26DsPEtQDoDa4AlxYb.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/gorditas/v22/ll8_K2aTVD26DsPEtTDpB6o.ttf"
   },
   {
     "family": "Koh Santepheap",
@@ -27352,26 +27352,6 @@
     "menu": "https://fonts.gstatic.com/s/narnoor/v7/cIf9MaFWuVo-UTyP9CihZA.ttf"
   },
   {
-    "family": "Noto Sans Vithkuqi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vithkuqi"],
-    "version": "v1",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyX7m77CXvQswd6WjYu9E1wN6cih2TIeTf0SZST2g.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SsKIxug.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
-      }
-    ]
-  },
-  {
     "family": "Noto Serif Oriya",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "oriya"],
@@ -27383,6 +27363,26 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoseriforiya/v4/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxrc_Ey_tUk.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
+      }
+    ]
+  },
+  {
+    "family": "Noto Sans Vithkuqi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vithkuqi"],
+    "version": "v1",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyX7m77CXvQswd6WjYu9E1wN6cih2TIeTf0SZST2g.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SsKIxug.ttf",
     "axes": [
       {
         "tag": "wght",
