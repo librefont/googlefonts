@@ -22410,20 +22410,6 @@
     "menu": "https://fonts.gstatic.com/s/khmer/v29/MjQImit_vPPwpG-Artw.woff2"
   },
   {
-    "family": "Gorditas",
-    "variants": ["regular", "700"],
-    "subsets": ["latin"],
-    "version": "v22",
-    "lastModified": "2024-09-04",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/gorditas/v22/ll84K2aTVD26DsPEtThUIooNvAoShA1i.woff2",
-      "regular": "https://fonts.gstatic.com/s/gorditas/v22/ll8_K2aTVD26DsPEtQDtDa4AlxYb.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gorditas/v22/ll8_K2aTVD26DsPEtTDpB68.woff2"
-  },
-  {
     "family": "Anek Telugu",
     "variants": ["100", "200", "300", "regular", "500", "600", "700", "800"],
     "subsets": ["latin", "latin-ext", "telugu"],
@@ -22442,6 +22428,20 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/anektelugu/v8/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i13y--kEyM2A.woff2"
+  },
+  {
+    "family": "Gorditas",
+    "variants": ["regular", "700"],
+    "subsets": ["latin"],
+    "version": "v22",
+    "lastModified": "2024-09-04",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/gorditas/v22/ll84K2aTVD26DsPEtThUIooNvAoShA1i.woff2",
+      "regular": "https://fonts.gstatic.com/s/gorditas/v22/ll8_K2aTVD26DsPEtQDtDa4AlxYb.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/gorditas/v22/ll8_K2aTVD26DsPEtTDpB68.woff2"
   },
   {
     "family": "Koh Santepheap",
@@ -29312,19 +29312,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1PL6fOyXHg.woff2"
   },
   {
-    "family": "Noto Serif Grantha",
-    "variants": ["regular"],
-    "subsets": ["grantha", "latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2024-06-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiqEUNLR7fHGw.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlK.woff2"
-  },
-  {
     "family": "Playwrite CL",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -29339,6 +29326,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JajLu9Dg.woff2"
+  },
+  {
+    "family": "Noto Serif Grantha",
+    "variants": ["regular"],
+    "subsets": ["grantha", "latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2024-06-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiqEUNLR7fHGw.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlK.woff2"
   },
   {
     "family": "Noto Sans Imperial Aramaic",
