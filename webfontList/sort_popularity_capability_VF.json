@@ -26950,19 +26950,6 @@
     ]
   },
   {
-    "family": "Yuji Hentaigana Akari",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin", "latin-ext"],
-    "version": "v12",
-    "lastModified": "2024-08-07",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/yujihentaiganaakari/v12/cY9bfiyVT0VB6QuhWKOrpr6z58lnb_zYFnLIRTzODYALaA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/yujihentaiganaakari/v12/cY9bfiyVT0VB6QuhWKOrpr6z58lnb_zYFnL4RDbK.ttf"
-  },
-  {
     "family": "Playwrite SK",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -26981,6 +26968,19 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Yuji Hentaigana Akari",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin", "latin-ext"],
+    "version": "v12",
+    "lastModified": "2024-08-07",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/yujihentaiganaakari/v12/cY9bfiyVT0VB6QuhWKOrpr6z58lnb_zYFnLIRTzODYALaA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/yujihentaiganaakari/v12/cY9bfiyVT0VB6QuhWKOrpr6z58lnb_zYFnL4RDbK.ttf"
   },
   {
     "family": "Noto Sans Nandinagari",
@@ -29073,19 +29073,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS36ANmsg.ttf"
   },
   {
-    "family": "Jacquarda Bastarda 9",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols"],
-    "version": "v4",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jacquardabastarda9/v4/f0Xp0fWr_8t6WFtKQJfOhaC0hcZ1HYAMAbwD1TB_JHHY.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jacquardabastarda9/v4/f0Xp0fWr_8t6WFtKQJfOhaC0hcZ1HYAMAYwC3zQ.ttf"
-  },
-  {
     "family": "Noto Sans Mahajani",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mahajani"],
@@ -29097,6 +29084,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoV.ttf"
+  },
+  {
+    "family": "Jacquarda Bastarda 9",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "version": "v4",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jacquardabastarda9/v4/f0Xp0fWr_8t6WFtKQJfOhaC0hcZ1HYAMAbwD1TB_JHHY.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jacquardabastarda9/v4/f0Xp0fWr_8t6WFtKQJfOhaC0hcZ1HYAMAYwC3zQ.ttf"
   },
   {
     "family": "Noto Sans Linear B",
