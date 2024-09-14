@@ -25675,19 +25675,6 @@
     "menu": "https://fonts.gstatic.com/s/caramel/v7/P5sCzZKBbMTf_Shy9CVkiA.woff2"
   },
   {
-    "family": "Lakki Reddy",
-    "variants": ["regular"],
-    "subsets": ["latin", "telugu"],
-    "version": "v21",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/lakkireddy/v21/S6u5w49MUSzD9jlCPmvLZQftx9k97-xZ.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/lakkireddy/v21/S6u5w49MUSzD9jlCPmvLZTfpzdg.woff2"
-  },
-  {
     "family": "Tiny5",
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "greek", "latin", "latin-ext"],
@@ -25699,6 +25686,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tiny5/v1/KFOpCnmCvdGT7iw_xUk.woff2"
+  },
+  {
+    "family": "Lakki Reddy",
+    "variants": ["regular"],
+    "subsets": ["latin", "telugu"],
+    "version": "v21",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/lakkireddy/v21/S6u5w49MUSzD9jlCPmvLZQftx9k97-xZ.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/lakkireddy/v21/S6u5w49MUSzD9jlCPmvLZTfpzdg.woff2"
   },
   {
     "family": "Mr Bedfort",
@@ -28906,19 +28906,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteis/v3/JTUFjI4o_SGg9lecLGptrD17xQYXK0vOoz6jq6R9WX50pg.woff2"
   },
   {
-    "family": "Maname",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "sinhala", "vietnamese"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/maname/v1/gNMFW3J8RpCx9my43VkGGI6q_Q.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/maname/v1/gNMFW3J8RpCx9myI2VMH.woff2"
-  },
-  {
     "family": "Noto Sans Miao",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "miao"],
@@ -28930,6 +28917,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmiao/v17/Dxxz8jmXMW75w3OmoDXVV4zyZXjhW4Q.woff2"
+  },
+  {
+    "family": "Maname",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "sinhala", "vietnamese"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/maname/v1/gNMFW3J8RpCx9my43VkGGI6q_Q.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/maname/v1/gNMFW3J8RpCx9myI2VMH.woff2"
   },
   {
     "family": "Noto Sans Tifinagh",
@@ -29942,6 +29942,23 @@
     "menu": "https://fonts.gstatic.com/s/rubikmaze/v2/xMQRuF9ZVa2ftiJEavXSMX_onA.woff2"
   },
   {
+    "family": "Narnoor",
+    "variants": ["regular", "500", "600", "700", "800"],
+    "subsets": ["gunjala-gondi", "latin", "latin-ext", "math", "symbols"],
+    "version": "v7",
+    "lastModified": "2023-11-28",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/narnoor/v7/cIf4MaFWuVo-UTyP_N2CRGQsnIJkWL4.woff2",
+      "600": "https://fonts.gstatic.com/s/narnoor/v7/cIf4MaFWuVo-UTyP_PGFRGQsnIJkWL4.woff2",
+      "700": "https://fonts.gstatic.com/s/narnoor/v7/cIf4MaFWuVo-UTyP_JWERGQsnIJkWL4.woff2",
+      "800": "https://fonts.gstatic.com/s/narnoor/v7/cIf4MaFWuVo-UTyP_ImHRGQsnIJkWL4.woff2",
+      "regular": "https://fonts.gstatic.com/s/narnoor/v7/cIf9MaFWuVo-UTyPxCyrYGkHgIs.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/narnoor/v7/cIf9MaFWuVo-UTyP9CihYQ.woff2"
+  },
+  {
     "family": "Noto Sans Cham",
     "variants": [
       "100",
@@ -29971,23 +29988,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanscham/v31/pe06MIySN5pO62Z5YkFyQb_bbuRhe6D4yip43qfcERwsvruz.woff2"
-  },
-  {
-    "family": "Narnoor",
-    "variants": ["regular", "500", "600", "700", "800"],
-    "subsets": ["gunjala-gondi", "latin", "latin-ext", "math", "symbols"],
-    "version": "v7",
-    "lastModified": "2023-11-28",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/narnoor/v7/cIf4MaFWuVo-UTyP_N2CRGQsnIJkWL4.woff2",
-      "600": "https://fonts.gstatic.com/s/narnoor/v7/cIf4MaFWuVo-UTyP_PGFRGQsnIJkWL4.woff2",
-      "700": "https://fonts.gstatic.com/s/narnoor/v7/cIf4MaFWuVo-UTyP_JWERGQsnIJkWL4.woff2",
-      "800": "https://fonts.gstatic.com/s/narnoor/v7/cIf4MaFWuVo-UTyP_ImHRGQsnIJkWL4.woff2",
-      "regular": "https://fonts.gstatic.com/s/narnoor/v7/cIf9MaFWuVo-UTyPxCyrYGkHgIs.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/narnoor/v7/cIf9MaFWuVo-UTyP9CihYQ.woff2"
   },
   {
     "family": "Noto Sans Tagbanwa",
