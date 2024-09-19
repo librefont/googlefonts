@@ -14202,6 +14202,31 @@
     "menu": "https://fonts.gstatic.com/s/sunflower/v16/RWmPoKeF8fUjqIj7Vc-06MfSqIEC.ttf"
   },
   {
+    "family": "Anek Latin",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v5",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/aneklatin/v5/co3DmWZulTRoU4a8dqrWk6Pjp3Di8U0.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/aneklatin/v5/co3pmWZulTRoU4a8dqrWiajBS5ByUkvdrluH-xWG5uJTY4x-L3PuR7ApKNqh.ttf",
+    "axes": [
+      {
+        "tag": "wdth",
+        "start": 75,
+        "end": 125
+      },
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 800
+      }
+    ]
+  },
+  {
     "family": "Noto Sans Georgian",
     "variants": ["regular"],
     "subsets": [
@@ -14231,31 +14256,6 @@
         "tag": "wght",
         "start": 100,
         "end": 900
-      }
-    ]
-  },
-  {
-    "family": "Anek Latin",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v5",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/aneklatin/v5/co3DmWZulTRoU4a8dqrWk6Pjp3Di8U0.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/aneklatin/v5/co3pmWZulTRoU4a8dqrWiajBS5ByUkvdrluH-xWG5uJTY4x-L3PuR7ApKNqh.ttf",
-    "axes": [
-      {
-        "tag": "wdth",
-        "start": 75,
-        "end": 125
-      },
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 800
       }
     ]
   },
@@ -21811,6 +21811,19 @@
     "menu": "https://fonts.gstatic.com/s/akatab/v7/VuJwdNrK3Z7gqJE_WYb9.ttf"
   },
   {
+    "family": "Wellfleet",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/wellfleet/v23/nuF7D_LfQJb3VYgX6eyT42aLDhO2HA.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/wellfleet/v23/nuF7D_LfQJb3VYgX6eyj4myP.ttf"
+  },
+  {
     "family": "Sahitya",
     "variants": ["regular", "700"],
     "subsets": ["devanagari", "latin"],
@@ -21823,19 +21836,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/sahitya/v17/6qLAKZkOuhnuqlJAWSYPOw.ttf"
-  },
-  {
-    "family": "Wellfleet",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/wellfleet/v23/nuF7D_LfQJb3VYgX6eyT42aLDhO2HA.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/wellfleet/v23/nuF7D_LfQJb3VYgX6eyj4myP.ttf"
   },
   {
     "family": "Water Brush",
@@ -21944,19 +21944,6 @@
     ]
   },
   {
-    "family": "Romanesco",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSn3HwLqOqSBg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSX3XYP.ttf"
-  },
-  {
     "family": "Anton SC",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -21968,6 +21955,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/antonsc/v1/4UaBrEBBsgltGn71syLnx60.ttf"
+  },
+  {
+    "family": "Romanesco",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSn3HwLqOqSBg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSX3XYP.ttf"
   },
   {
     "family": "Elsie Swash Caps",
@@ -28261,19 +28261,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKy2XNu4.ttf"
   },
   {
-    "family": "Noto Sans Multani",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "multani"],
-    "version": "v20",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO1A0pfCs5Kos.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_Q.ttf"
-  },
-  {
     "family": "Noto Sans Brahmi",
     "variants": ["regular"],
     "subsets": ["brahmi", "latin", "latin-ext", "math", "symbols"],
@@ -28285,6 +28272,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
+  },
+  {
+    "family": "Noto Sans Multani",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "multani"],
+    "version": "v20",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO1A0pfCs5Kos.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_Q.ttf"
   },
   {
     "family": "Playwrite ID",
