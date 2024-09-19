@@ -24139,6 +24139,19 @@
     "menu": "https://fonts.gstatic.com/s/akatab/v7/VuJwdNrK3Z7gqJE_WYb9.ttf"
   },
   {
+    "family": "Wellfleet",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/wellfleet/v23/nuF7D_LfQJb3VYgX6eyT42aLDhO2HA.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/wellfleet/v23/nuF7D_LfQJb3VYgX6eyj4myP.ttf"
+  },
+  {
     "family": "Sahitya",
     "variants": ["regular", "700"],
     "subsets": ["devanagari", "latin"],
@@ -24151,19 +24164,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/sahitya/v17/6qLAKZkOuhnuqlJAWSYPOw.ttf"
-  },
-  {
-    "family": "Wellfleet",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/wellfleet/v23/nuF7D_LfQJb3VYgX6eyT42aLDhO2HA.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/wellfleet/v23/nuF7D_LfQJb3VYgX6eyj4myP.ttf"
   },
   {
     "family": "Water Brush",
@@ -28671,22 +28671,6 @@
     "menu": "https://fonts.gstatic.com/s/moolahlah/v6/dg4h_p_opKZOA0w1AYcm56wsawI.ttf"
   },
   {
-    "family": "Playwrite AU VIC",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v4",
-    "lastModified": "2024-08-12",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTaLK0CBIDKNvl.ttf",
-      "200": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4dTabK0CBIDKNvl.ttf",
-      "300": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4eNabK0CBIDKNvl.ttf",
-      "regular": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTabK0CBIDKNvl.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTaYK1AhY.ttf"
-  },
-  {
     "family": "Playwrite AU SA",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -28701,6 +28685,22 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteausa/v4/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpZgRQuRpDg.ttf"
+  },
+  {
+    "family": "Playwrite AU VIC",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v4",
+    "lastModified": "2024-08-12",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTaLK0CBIDKNvl.ttf",
+      "200": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4dTabK0CBIDKNvl.ttf",
+      "300": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4eNabK0CBIDKNvl.ttf",
+      "regular": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTabK0CBIDKNvl.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTaYK1AhY.ttf"
   },
   {
     "family": "Noto Sans Carian",
@@ -30569,19 +30569,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v16/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKy2XNu4.ttf"
   },
   {
-    "family": "Noto Sans Multani",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "multani"],
-    "version": "v20",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO1A0pfCs5Kos.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_Q.ttf"
-  },
-  {
     "family": "Noto Sans Brahmi",
     "variants": ["regular"],
     "subsets": ["brahmi", "latin", "latin-ext", "math", "symbols"],
@@ -30593,6 +30580,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
+  },
+  {
+    "family": "Noto Sans Multani",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "multani"],
+    "version": "v20",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO1A0pfCs5Kos.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_Q.ttf"
   },
   {
     "family": "Playwrite ID",
@@ -31269,6 +31269,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanssyriac/v16/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5M.ttf"
   },
   {
+    "family": "Noto Sans Caucasian Albanian",
+    "variants": ["regular"],
+    "subsets": ["caucasian-albanian", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXrYDmoVmRSZo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHspQ.ttf"
+  },
+  {
     "family": "Noto Sans Gunjala Gondi",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["gunjala-gondi", "latin", "latin-ext"],
@@ -31283,19 +31296,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansgunjalagondi/v19/bWtX7e7KfBziStx7lIzKPrcSMwcEnCv6DW7n5g0ef3PLtymzNxYL4YD04ZQr.ttf"
-  },
-  {
-    "family": "Noto Sans Caucasian Albanian",
-    "variants": ["regular"],
-    "subsets": ["caucasian-albanian", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXrYDmoVmRSZo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHspQ.ttf"
   },
   {
     "family": "Noto Sans Phoenician",

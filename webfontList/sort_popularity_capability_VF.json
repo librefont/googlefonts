@@ -26261,26 +26261,6 @@
     "menu": "https://fonts.gstatic.com/s/moolahlah/v6/dg4h_p_opKZOA0w1AYcm56wsawI.ttf"
   },
   {
-    "family": "Playwrite AU VIC",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v4",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtj7enUfwn0Hf1zjprKOJdcDy8r3QuXZgiClzY.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTaYK1AhY.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 400
-      }
-    ]
-  },
-  {
     "family": "Playwrite AU SA",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -26292,6 +26272,26 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteausa/v4/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpZgRQuRpDg.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 400
+      }
+    ]
+  },
+  {
+    "family": "Playwrite AU VIC",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v4",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtj7enUfwn0Hf1zjprKOJdcDy8r3QuXZgiClzY.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTaYK1AhY.ttf",
     "axes": [
       {
         "tag": "wght",
@@ -28984,6 +28984,19 @@
     ]
   },
   {
+    "family": "Noto Sans Caucasian Albanian",
+    "variants": ["regular"],
+    "subsets": ["caucasian-albanian", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXrYDmoVmRSZo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHspQ.ttf"
+  },
+  {
     "family": "Noto Sans Gunjala Gondi",
     "variants": ["regular"],
     "subsets": ["gunjala-gondi", "latin", "latin-ext"],
@@ -29002,19 +29015,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Noto Sans Caucasian Albanian",
-    "variants": ["regular"],
-    "subsets": ["caucasian-albanian", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXrYDmoVmRSZo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHspQ.ttf"
   },
   {
     "family": "Noto Sans Phoenician",
