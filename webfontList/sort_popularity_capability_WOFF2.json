@@ -22826,6 +22826,19 @@
     "menu": "https://fonts.gstatic.com/s/ysabeauinfant/v2/hv-ClzpqOkkV94kBTQVdX1EWI9B0V-HEmd9JmTQYFo83Kpqg.woff2"
   },
   {
+    "family": "Liu Jian Mao Cao",
+    "variants": ["regular"],
+    "subsets": ["chinese-simplified", "latin"],
+    "version": "v20",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/liujianmaocao/v20/845DNN84HJrccNonurqXILGpvCOofe_VKGWsUo8.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/liujianmaocao/v20/845DNN84HJrccNonurqXILGpvCOoTevfKQ.woff2"
+  },
+  {
     "family": "Spline Sans Mono",
     "variants": [
       "300",
@@ -22857,19 +22870,6 @@
     "category": "monospace",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/splinesansmono/v10/R70MjzAei_CDNLfgZxrW6wrZOF2WdZ6xabUGSVtNuGBiMotUwYY.woff2"
-  },
-  {
-    "family": "Liu Jian Mao Cao",
-    "variants": ["regular"],
-    "subsets": ["chinese-simplified", "latin"],
-    "version": "v20",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/liujianmaocao/v20/845DNN84HJrccNonurqXILGpvCOofe_VKGWsUo8.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/liujianmaocao/v20/845DNN84HJrccNonurqXILGpvCOoTevfKQ.woff2"
   },
   {
     "family": "Noto Serif Telugu",
@@ -25908,19 +25908,6 @@
     "menu": "https://fonts.gstatic.com/s/tirotelugu/v7/aFTQ7PxlZWk2EPiSymjXdJSMSKg.woff2"
   },
   {
-    "family": "Rubik Iso",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikiso/v2/x3dickHUfr-S4VAI4sABefACvy_1BA.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikiso/v2/x3dickHUfr-S4VAI4sAxffoD.woff2"
-  },
-  {
     "family": "Gideon Roman",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -25932,6 +25919,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/gideonroman/v11/e3tmeuGrVOys8sxzZgWlmXoQeknX.woff2"
+  },
+  {
+    "family": "Rubik Iso",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikiso/v2/x3dickHUfr-S4VAI4sABefACvy_1BA.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikiso/v2/x3dickHUfr-S4VAI4sAxffoD.woff2"
   },
   {
     "family": "Single Day",
