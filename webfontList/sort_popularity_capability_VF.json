@@ -12846,24 +12846,6 @@
     "menu": "https://fonts.gstatic.com/s/encodesansexpanded/v11/c4m_1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpojKQM.ttf"
   },
   {
-    "family": "Bellota Text",
-    "variants": ["300", "300italic", "regular", "italic", "700", "700italic"],
-    "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
-    "version": "v18",
-    "lastModified": "2024-09-04",
-    "files": {
-      "300": "https://fonts.gstatic.com/s/bellotatext/v18/0FlMVP2VnlWS4f3-UE9hHXM5VfsqfQXwQy6yxg.ttf",
-      "700": "https://fonts.gstatic.com/s/bellotatext/v18/0FlMVP2VnlWS4f3-UE9hHXM5RfwqfQXwQy6yxg.ttf",
-      "300italic": "https://fonts.gstatic.com/s/bellotatext/v18/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_0YSuixmYK.ttf",
-      "regular": "https://fonts.gstatic.com/s/bellotatext/v18/0FlTVP2VnlWS4f3-UE9hHXMB-dMOdS7sSg.ttf",
-      "italic": "https://fonts.gstatic.com/s/bellotatext/v18/0FlNVP2VnlWS4f3-UE9hHXMx-9kKVyv8Sjer.ttf",
-      "700italic": "https://fonts.gstatic.com/s/bellotatext/v18/0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_0YSuixmYK.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bellotatext/v18/0FlTVP2VnlWS4f3-UE9hHXMx-NkK.ttf"
-  },
-  {
     "family": "Spline Sans",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -12882,6 +12864,24 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Bellota Text",
+    "variants": ["300", "300italic", "regular", "italic", "700", "700italic"],
+    "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
+    "version": "v18",
+    "lastModified": "2024-09-04",
+    "files": {
+      "300": "https://fonts.gstatic.com/s/bellotatext/v18/0FlMVP2VnlWS4f3-UE9hHXM5VfsqfQXwQy6yxg.ttf",
+      "700": "https://fonts.gstatic.com/s/bellotatext/v18/0FlMVP2VnlWS4f3-UE9hHXM5RfwqfQXwQy6yxg.ttf",
+      "300italic": "https://fonts.gstatic.com/s/bellotatext/v18/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_0YSuixmYK.ttf",
+      "regular": "https://fonts.gstatic.com/s/bellotatext/v18/0FlTVP2VnlWS4f3-UE9hHXMB-dMOdS7sSg.ttf",
+      "italic": "https://fonts.gstatic.com/s/bellotatext/v18/0FlNVP2VnlWS4f3-UE9hHXMx-9kKVyv8Sjer.ttf",
+      "700italic": "https://fonts.gstatic.com/s/bellotatext/v18/0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_0YSuixmYK.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bellotatext/v18/0FlTVP2VnlWS4f3-UE9hHXMx-NkK.ttf"
   },
   {
     "family": "IM Fell DW Pica",
@@ -23119,6 +23119,19 @@
     "menu": "https://fonts.gstatic.com/s/flowrounded/v11/-zki91mtwsU9qlLiGwD4oQXHoJ_6.ttf"
   },
   {
+    "family": "Libre Barcode EAN13 Text",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v21",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/librebarcodeean13text/v21/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96PAGEki52WfA.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/librebarcodeean13text/v21/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96_AWsg.ttf"
+  },
+  {
     "family": "Climate Crisis",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -23137,19 +23150,6 @@
         "end": 2050
       }
     ]
-  },
-  {
-    "family": "Libre Barcode EAN13 Text",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v21",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/librebarcodeean13text/v21/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96PAGEki52WfA.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/librebarcodeean13text/v21/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96_AWsg.ttf"
   },
   {
     "family": "Chela One",
@@ -28126,19 +28126,6 @@
     ]
   },
   {
-    "family": "Noto Sans Zanabazar Square",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "zanabazar-square"],
-    "version": "v19",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQtJxOCEgN0Gc.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf"
-  },
-  {
     "family": "Noto Sans Ol Chiki",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "ol-chiki"],
@@ -28157,6 +28144,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Sans Zanabazar Square",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "zanabazar-square"],
+    "version": "v19",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQtJxOCEgN0Gc.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf"
   },
   {
     "family": "Noto Sans Takri",
