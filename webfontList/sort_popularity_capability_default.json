@@ -14694,23 +14694,6 @@
     "menu": "https://fonts.gstatic.com/s/encodesansexpanded/v11/c4m_1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpojKQM.ttf"
   },
   {
-    "family": "Spline Sans",
-    "variants": ["300", "regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v10",
-    "lastModified": "2024-09-04",
-    "files": {
-      "300": "https://fonts.gstatic.com/s/splinesans/v10/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpZlnYEtvlUfE2kw.ttf",
-      "500": "https://fonts.gstatic.com/s/splinesans/v10/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpClnYEtvlUfE2kw.ttf",
-      "600": "https://fonts.gstatic.com/s/splinesans/v10/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp5l7YEtvlUfE2kw.ttf",
-      "700": "https://fonts.gstatic.com/s/splinesans/v10/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp317YEtvlUfE2kw.ttf",
-      "regular": "https://fonts.gstatic.com/s/splinesans/v10/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpOFnYEtvlUfE2kw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/splinesans/v10/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpOFnoE9Hh.ttf"
-  },
-  {
     "family": "Bellota Text",
     "variants": ["300", "300italic", "regular", "italic", "700", "700italic"],
     "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
@@ -14727,6 +14710,23 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/bellotatext/v18/0FlTVP2VnlWS4f3-UE9hHXMx-NkK.ttf"
+  },
+  {
+    "family": "Spline Sans",
+    "variants": ["300", "regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v10",
+    "lastModified": "2024-09-04",
+    "files": {
+      "300": "https://fonts.gstatic.com/s/splinesans/v10/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpZlnYEtvlUfE2kw.ttf",
+      "500": "https://fonts.gstatic.com/s/splinesans/v10/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpClnYEtvlUfE2kw.ttf",
+      "600": "https://fonts.gstatic.com/s/splinesans/v10/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp5l7YEtvlUfE2kw.ttf",
+      "700": "https://fonts.gstatic.com/s/splinesans/v10/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp317YEtvlUfE2kw.ttf",
+      "regular": "https://fonts.gstatic.com/s/splinesans/v10/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpOFnYEtvlUfE2kw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/splinesans/v10/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpOFnoE9Hh.ttf"
   },
   {
     "family": "IM Fell DW Pica",
@@ -29486,22 +29486,6 @@
     "menu": "https://fonts.gstatic.com/s/wavefont/v10/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V04DGVq8.ttf"
   },
   {
-    "family": "Playwrite HR",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-08-12",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoA9YHXAHC7tvg.ttf",
-      "200": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPkoB9YHXAHC7tvg.ttf",
-      "300": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPpQB9YHXAHC7tvg.ttf",
-      "regular": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoB9YHXAHC7tvg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoBxYDdBA.ttf"
-  },
-  {
     "family": "Playwrite CZ",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -29516,6 +29500,22 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritecz/v1/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4bfqX1Ug.ttf"
+  },
+  {
+    "family": "Playwrite HR",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-08-12",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoA9YHXAHC7tvg.ttf",
+      "200": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPkoB9YHXAHC7tvg.ttf",
+      "300": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPpQB9YHXAHC7tvg.ttf",
+      "regular": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoB9YHXAHC7tvg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoBxYDdBA.ttf"
   },
   {
     "family": "Playwrite BE WAL",
@@ -30452,19 +30452,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritero/v3/gok8H6fuA1J7QPJ04HFTGSWdk_S0czhwEf0j4a9YrZSGIg.ttf"
   },
   {
-    "family": "Noto Sans Zanabazar Square",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "zanabazar-square"],
-    "version": "v19",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQtJxOCEgN0Gc.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf"
-  },
-  {
     "family": "Noto Sans Ol Chiki",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "ol-chiki"],
@@ -30479,6 +30466,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansolchiki/v29/N0b92TJNOPt-eHmFZCdQbrL32r-4CvhzDzRwlxOQYuVALWk227MwhQ.ttf"
+  },
+  {
+    "family": "Noto Sans Zanabazar Square",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "zanabazar-square"],
+    "version": "v19",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQtJxOCEgN0Gc.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf"
   },
   {
     "family": "Noto Sans Takri",
