@@ -28416,19 +28416,6 @@
     "menu": "https://fonts.gstatic.com/s/rock3d/v11/yYLp0hrL0PCo651553WtwA.woff2"
   },
   {
-    "family": "Noto Sans Old Hungarian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-hungarian"],
-    "version": "v18",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldhungarian/v18/E213_cD6hP3GwCJPEUssHEM0KqLaHJXg2PiIgRfmbg5nCYXt.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldhungarian/v18/E213_cD6hP3GwCJPEUssHEM0KqLaHJXg2PiIgSfiZA8.woff2"
-  },
-  {
     "family": "Slackside One",
     "variants": ["regular"],
     "subsets": ["japanese", "latin", "latin-ext"],
@@ -28440,6 +28427,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/slacksideone/v11/EJRQQgMrXdcGsiBuvnRxodTwZy_foA.woff2"
+  },
+  {
+    "family": "Noto Sans Old Hungarian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-hungarian"],
+    "version": "v18",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldhungarian/v18/E213_cD6hP3GwCJPEUssHEM0KqLaHJXg2PiIgRfmbg5nCYXt.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldhungarian/v18/E213_cD6hP3GwCJPEUssHEM0KqLaHJXg2PiIgSfiZA8.woff2"
   },
   {
     "family": "Gajraj One",
@@ -29615,22 +29615,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PF.woff2"
   },
   {
-    "family": "Playwrite HU",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-08-12",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1PL7TOidH3B2Xx4.woff2",
-      "200": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1HL6TOidH3B2Xx4.woff2",
-      "300": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1Kz6TOidH3B2Xx4.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1PL6TOidH3B2Xx4.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1PL6fOyXHg.woff2"
-  },
-  {
     "family": "Playwrite ES Deco",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -29645,6 +29629,22 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteesdeco/v4/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrdBOAVo.woff2"
+  },
+  {
+    "family": "Playwrite HU",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-08-12",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1PL7TOidH3B2Xx4.woff2",
+      "200": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1HL6TOidH3B2Xx4.woff2",
+      "300": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1Kz6TOidH3B2Xx4.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1PL6TOidH3B2Xx4.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1PL6fOyXHg.woff2"
   },
   {
     "family": "Noto Sans Syriac Eastern",
