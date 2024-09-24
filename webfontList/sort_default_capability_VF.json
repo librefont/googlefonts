@@ -6573,6 +6573,46 @@
     ]
   },
   {
+    "family": "Edu AU VIC WA NT Dots",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-09-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/eduauvicwantdots/v1/S6ujw5FFVDKI3kwwDUbsPHCpzZNhzrA3or3lDKWpMFUwWQ.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/eduauvicwantdots/v1/S6uQw5FFVDKI3kwwDUbsPHCpzZNhzrA3or3_B4dZ6MmTX8QNLvtYItiZ3Q.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
+      }
+    ]
+  },
+  {
+    "family": "Edu AU VIC WA NT Guides",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-09-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/eduauvicwantguides/v1/TuGBUUJ4V48KZ9Nr3ZV46JQkJxtkFIKnvy00LDxlIzIU5RwD.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/eduauvicwantguides/v1/TuG-UUJ4V48KZ9Nr3ZV46JQkJxtkFIKnvy00LCZuAcLMeb8FnyPdK1Zqz4tw.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
+      }
+    ]
+  },
+  {
     "family": "Edu AU VIC WA NT Hand",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -18971,14 +19011,14 @@
       "latin-ext",
       "vietnamese"
     ],
-    "version": "v8",
-    "lastModified": "2024-07-30",
+    "version": "v9",
+    "lastModified": "2024-09-23",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifhk/v8/BngOUXBETWXI6LwlBZGcqL-B5qCr5RCDY_k.ttf"
+      "regular": "https://fonts.gstatic.com/s/notoserifhk/v9/BngOUXBETWXI6LwlBZGcqL-B5qCr5RCDY_k.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifhk/v8/BngdUXBETWXI6LwlBZGcqL-B_KuJFcgfwP_9RMd-K1RnXdA.ttf",
+    "menu": "https://fonts.gstatic.com/s/notoserifhk/v9/BngdUXBETWXI6LwlBZGcqL-B_KuJFcgfwP_9RMd-K1RnXdA.ttf",
     "axes": [
       {
         "tag": "wght",
@@ -19016,14 +19056,14 @@
     "family": "Noto Serif JP",
     "variants": ["regular"],
     "subsets": ["cyrillic", "japanese", "latin", "latin-ext", "vietnamese"],
-    "version": "v29",
-    "lastModified": "2024-08-07",
+    "version": "v30",
+    "lastModified": "2024-09-23",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifjp/v29/xn7mYHs72GKoTvER4Gn3b5eMXN6kYkY0T84.ttf"
+      "regular": "https://fonts.gstatic.com/s/notoserifjp/v30/xn7mYHs72GKoTvER4Gn3b5eMXN6kYkY0T84.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifjp/v29/xn71YHs72GKoTvER4Gn3b5eMRtWGkp6o7MjQ2bwxOtbBKrc.ttf",
+    "menu": "https://fonts.gstatic.com/s/notoserifjp/v30/xn71YHs72GKoTvER4Gn3b5eMRtWGkp6o7MjQ2bwxOtbBKrc.ttf",
     "axes": [
       {
         "tag": "wght",
@@ -19036,14 +19076,14 @@
     "family": "Noto Serif KR",
     "variants": ["regular"],
     "subsets": ["cyrillic", "korean", "latin", "latin-ext", "vietnamese"],
-    "version": "v27",
-    "lastModified": "2024-05-14",
+    "version": "v28",
+    "lastModified": "2024-09-23",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifkr/v27/3Jn7SDn90Gmq2mr3blnHaTZXduBp1ONyKHQ.ttf"
+      "regular": "https://fonts.gstatic.com/s/notoserifkr/v28/3Jn7SDn90Gmq2mr3blnHaTZXduBp1ONyKHQ.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifkr/v27/3JnoSDn90Gmq2mr3blnHaTZXbOtLJDvui3JOncjmeP53658.ttf",
+    "menu": "https://fonts.gstatic.com/s/notoserifkr/v28/3JnoSDn90Gmq2mr3blnHaTZXbOtLJDvui3JOncjmeP53658.ttf",
     "axes": [
       {
         "tag": "wght",
@@ -19243,14 +19283,14 @@
     "family": "Noto Serif Old Uyghur",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "old-uyghur"],
-    "version": "v3",
-    "lastModified": "2023-10-25",
+    "version": "v4",
+    "lastModified": "2024-09-23",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifolduyghur/v3/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwnKumeF2yVgA.ttf"
+      "regular": "https://fonts.gstatic.com/s/notoserifolduyghur/v4/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwnKumeF2yVgA.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifolduyghur/v3/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Oa.ttf"
+    "menu": "https://fonts.gstatic.com/s/notoserifolduyghur/v4/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Oa.ttf"
   },
   {
     "family": "Noto Serif Oriya",
@@ -19346,14 +19386,14 @@
       "latin-ext",
       "vietnamese"
     ],
-    "version": "v31",
-    "lastModified": "2024-07-30",
+    "version": "v32",
+    "lastModified": "2024-09-23",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notoseriftc/v31/XLYgIZb5bJNDGYxLBibeHZ0BhncESXFtUsM.ttf"
+      "regular": "https://fonts.gstatic.com/s/notoseriftc/v32/XLYgIZb5bJNDGYxLBibeHZ0BhncESXFtUsM.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoseriftc/v31/XLYzIZb5bJNDGYxLBibeHZ0BnHwmuanx8cUaGX9aMNpCM2I.ttf",
+    "menu": "https://fonts.gstatic.com/s/notoseriftc/v32/XLYzIZb5bJNDGYxLBibeHZ0BnHwmuanx8cUaGX9aMNpCM2I.ttf",
     "axes": [
       {
         "tag": "wght",
