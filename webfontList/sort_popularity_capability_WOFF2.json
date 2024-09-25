@@ -25596,19 +25596,6 @@
     "menu": "https://fonts.gstatic.com/s/hanaleifill/v22/fC1mPYtObGbfyQznIaQzPQi8VgjA.woff2"
   },
   {
-    "family": "Libre Barcode EAN13 Text",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v21",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/librebarcodeean13text/v21/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96PBWEki52WfA.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/librebarcodeean13text/v21/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96_AWsl.woff2"
-  },
-  {
     "family": "Noto Serif Hebrew",
     "variants": [
       "100",
@@ -25638,6 +25625,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifhebrew/v28/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVAwSMG41vw.woff2"
+  },
+  {
+    "family": "Libre Barcode EAN13 Text",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v21",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/librebarcodeean13text/v21/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96PBWEki52WfA.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/librebarcodeean13text/v21/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96_AWsl.woff2"
   },
   {
     "family": "Revalia",
@@ -30813,19 +30813,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9WA.woff2"
   },
   {
-    "family": "Noto Sans Old Permic",
-    "variants": ["regular"],
-    "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
-    "version": "v17",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdSgv_dKYB5.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiP4.woff2"
-  },
-  {
     "family": "Linefont",
     "variants": [
       "100",
@@ -30855,6 +30842,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/linefont/v5/dg4I_pzpoqcLKUIzVfFMh1TF2rkhli25jn7CKTTWSumsFuSnY4UMXu_nmA.woff2"
+  },
+  {
+    "family": "Noto Sans Old Permic",
+    "variants": ["regular"],
+    "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
+    "version": "v17",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdSgv_dKYB5.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiP4.woff2"
   },
   {
     "family": "Playwrite TZ",
@@ -31567,19 +31567,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5pl0.woff2"
   },
   {
-    "family": "Noto Sans Nushu",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nushu"],
-    "version": "v19",
-    "lastModified": "2023-04-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYaFXVAMArZKqQ.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYa1WVoN.woff2"
-  },
-  {
     "family": "Noto Sans Hatran",
     "variants": ["regular"],
     "subsets": ["hatran", "latin", "latin-ext"],
@@ -31591,6 +31578,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49rg.woff2"
+  },
+  {
+    "family": "Noto Sans Nushu",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nushu"],
+    "version": "v19",
+    "lastModified": "2023-04-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYaFXVAMArZKqQ.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYa1WVoN.woff2"
   },
   {
     "family": "Noto Sans Meroitic",

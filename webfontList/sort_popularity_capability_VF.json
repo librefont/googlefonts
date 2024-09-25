@@ -23208,19 +23208,6 @@
     "menu": "https://fonts.gstatic.com/s/hanaleifill/v22/fC1mPYtObGbfyQznIaQzPQi8VgjF.ttf"
   },
   {
-    "family": "Libre Barcode EAN13 Text",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v21",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/librebarcodeean13text/v21/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96PAGEki52WfA.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/librebarcodeean13text/v21/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96_AWsg.ttf"
-  },
-  {
     "family": "Noto Serif Hebrew",
     "variants": ["regular"],
     "subsets": ["hebrew", "latin", "latin-ext"],
@@ -23244,6 +23231,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Libre Barcode EAN13 Text",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v21",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/librebarcodeean13text/v21/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96PAGEki52WfA.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/librebarcodeean13text/v21/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96_AWsg.ttf"
   },
   {
     "family": "Revalia",
@@ -28533,19 +28533,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9XQ.ttf"
   },
   {
-    "family": "Noto Sans Old Permic",
-    "variants": ["regular"],
-    "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
-    "version": "v17",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdXgv_dKYB5.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf"
-  },
-  {
     "family": "Linefont",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -28569,6 +28556,19 @@
         "end": 1000
       }
     ]
+  },
+  {
+    "family": "Noto Sans Old Permic",
+    "variants": ["regular"],
+    "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
+    "version": "v17",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdXgv_dKYB5.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf"
   },
   {
     "family": "Playwrite TZ",
