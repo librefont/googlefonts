@@ -26437,19 +26437,6 @@
     "menu": "https://fonts.gstatic.com/s/warnes/v27/pONn1hc0GsW6sW5-pyqy.ttf"
   },
   {
-    "family": "Noto Sans Hanunoo",
-    "variants": ["regular"],
-    "subsets": ["hanunoo", "latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2023-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanshanunoo/v21/f0Xs0fCv8dxkDWlZSoXOj6CphMloFsEsEpgL_ix2.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanshanunoo/v21/f0Xs0fCv8dxkDWlZSoXOj6CphMloFvEtGJw.ttf"
-  },
-  {
     "family": "Noto Sans Avestan",
     "variants": ["regular"],
     "subsets": ["avestan", "latin", "latin-ext"],
@@ -26461,6 +26448,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansavestan/v21/bWti7ejKfBziStx7lIzKOLQZKhIJkxu8QgA.ttf"
+  },
+  {
+    "family": "Noto Sans Hanunoo",
+    "variants": ["regular"],
+    "subsets": ["hanunoo", "latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2023-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanshanunoo/v21/f0Xs0fCv8dxkDWlZSoXOj6CphMloFsEsEpgL_ix2.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanshanunoo/v21/f0Xs0fCv8dxkDWlZSoXOj6CphMloFvEtGJw.ttf"
   },
   {
     "family": "Rubik Pixels",
@@ -28572,6 +28572,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
   },
   {
+    "family": "Noto Sans Palmyrene",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "palmyrene"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCPnK5ZpdNtcA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnOzYg.ttf"
+  },
+  {
     "family": "Noto Sans Duployan",
     "variants": ["regular", "700"],
     "subsets": ["duployan", "latin", "latin-ext"],
@@ -28584,19 +28597,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gj.ttf"
-  },
-  {
-    "family": "Noto Sans Palmyrene",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "palmyrene"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCPnK5ZpdNtcA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnOzYg.ttf"
   },
   {
     "family": "Jersey 25 Charted",
@@ -29056,19 +29056,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS36ANmsg.ttf"
   },
   {
-    "family": "Noto Sans Linear B",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "linear-b"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737IV3BkFTq4EPw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RMB.ttf"
-  },
-  {
     "family": "Noto Sans Syriac",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "syriac"],
@@ -29087,6 +29074,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Noto Sans Linear B",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "linear-b"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737IV3BkFTq4EPw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RMB.ttf"
   },
   {
     "family": "Noto Sans Elymaic",
@@ -29246,19 +29246,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5plg.ttf"
   },
   {
-    "family": "Noto Sans Hatran",
-    "variants": ["regular"],
-    "subsets": ["hatran", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_mM83r1nwzDs.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf"
-  },
-  {
     "family": "Noto Sans Pau Cin Hau",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "pau-cin-hau"],
@@ -29270,6 +29257,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-u.ttf"
+  },
+  {
+    "family": "Noto Sans Hatran",
+    "variants": ["regular"],
+    "subsets": ["hatran", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_mM83r1nwzDs.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf"
   },
   {
     "family": "Noto Sans SignWriting",

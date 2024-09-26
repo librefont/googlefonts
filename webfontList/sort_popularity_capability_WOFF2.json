@@ -30112,19 +30112,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlI.woff2"
   },
   {
-    "family": "Noto Sans Batak",
-    "variants": ["regular"],
-    "subsets": ["batak", "latin", "latin-ext"],
-    "version": "v20",
-    "lastModified": "2024-02-29",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbatak/v20/gok2H6TwAEdtF9N8-mdTCQvT-Zdgpo_PHuk74A.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbatak/v20/gok2H6TwAEdtF9N8-mdTCQvT-ZdQooXO.woff2"
-  },
-  {
     "family": "Noto Sans Old Sogdian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "old-sogdian"],
@@ -30136,6 +30123,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgr.woff2"
+  },
+  {
+    "family": "Noto Sans Batak",
+    "variants": ["regular"],
+    "subsets": ["batak", "latin", "latin-ext"],
+    "version": "v20",
+    "lastModified": "2024-02-29",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbatak/v20/gok2H6TwAEdtF9N8-mdTCQvT-Zdgpo_PHuk74A.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbatak/v20/gok2H6TwAEdtF9N8-mdTCQvT-ZdQooXO.woff2"
   },
   {
     "family": "Noto Sans Tai Tham",
@@ -31515,19 +31515,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5pl0.woff2"
   },
   {
-    "family": "Noto Sans Pau Cin Hau",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "pau-cin-hau"],
-    "version": "v20",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehIdiUWqKMxsKw.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-r.woff2"
-  },
-  {
     "family": "Noto Sans Hatran",
     "variants": ["regular"],
     "subsets": ["hatran", "latin", "latin-ext"],
@@ -31539,6 +31526,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49rg.woff2"
+  },
+  {
+    "family": "Noto Sans Pau Cin Hau",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "pau-cin-hau"],
+    "version": "v20",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehIdiUWqKMxsKw.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-r.woff2"
   },
   {
     "family": "Noto Sans SignWriting",
