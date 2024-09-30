@@ -30909,6 +30909,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf"
   },
   {
+    "family": "Noto Serif Dogra",
+    "variants": ["regular"],
+    "subsets": ["dogra", "latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2023-11-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fGy63IbPzkns.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fKy-9JQ.ttf"
+  },
+  {
     "family": "Playwrite ID",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -30923,19 +30936,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteid/v4/Cn-kJt2YWhlY2oC4KxifKQJmrtrRm-sKkQqUl0-RN_NREg.ttf"
-  },
-  {
-    "family": "Noto Serif Dogra",
-    "variants": ["regular"],
-    "subsets": ["dogra", "latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2023-11-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fGy63IbPzkns.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fKy-9JQ.ttf"
   },
   {
     "family": "Noto Sans Grantha",
@@ -31554,19 +31554,6 @@
     "menu": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fwsxy_4og.ttf"
   },
   {
-    "family": "Noto Sans Mende Kikakui",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mende-kikakui"],
-    "version": "v28",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx_aDJLAHer.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjY.ttf"
-  },
-  {
     "family": "Noto Sans Pau Cin Hau",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "pau-cin-hau"],
@@ -31578,6 +31565,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-u.ttf"
+  },
+  {
+    "family": "Noto Sans Mende Kikakui",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mende-kikakui"],
+    "version": "v28",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx_aDJLAHer.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjY.ttf"
   },
   {
     "family": "Noto Sans Masaram Gondi",
@@ -31606,19 +31606,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstirhuta/v16/t5t6IQYRNJ6TWjahPR6X-M-apUyby4uHWh8.ttf"
   },
   {
-    "family": "Noto Sans Hatran",
-    "variants": ["regular"],
-    "subsets": ["hatran", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_mM83r1nwzDs.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf"
-  },
-  {
     "family": "Noto Sans Ugaritic",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "ugaritic"],
@@ -31630,6 +31617,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAM.ttf"
+  },
+  {
+    "family": "Noto Sans Hatran",
+    "variants": ["regular"],
+    "subsets": ["hatran", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_mM83r1nwzDs.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf"
   },
   {
     "family": "Noto Sans Kharoshthi",

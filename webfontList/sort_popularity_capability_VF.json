@@ -21222,6 +21222,19 @@
     ]
   },
   {
+    "family": "Smokum",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v28",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/smokum/v28/TK3iWkUbAhopmrdGHjUHte5fKg.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/smokum/v28/TK3iWkUbAhopmrd2Hz8D.ttf"
+  },
+  {
     "family": "Noto Serif Kannada",
     "variants": ["regular"],
     "subsets": ["kannada", "latin", "latin-ext"],
@@ -21240,19 +21253,6 @@
         "end": 900
       }
     ]
-  },
-  {
-    "family": "Smokum",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v28",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/smokum/v28/TK3iWkUbAhopmrdGHjUHte5fKg.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/smokum/v28/TK3iWkUbAhopmrd2Hz8D.ttf"
   },
   {
     "family": "Alkalami",
@@ -29337,19 +29337,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstirhuta/v16/t5t6IQYRNJ6TWjahPR6X-M-apUyby4uHWh8.ttf"
   },
   {
-    "family": "Noto Sans Ugaritic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "ugaritic"],
-    "version": "v16",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXkMhoIkiazfg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAM.ttf"
-  },
-  {
     "family": "Noto Sans Hatran",
     "variants": ["regular"],
     "subsets": ["hatran", "latin", "latin-ext"],
@@ -29361,6 +29348,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf"
+  },
+  {
+    "family": "Noto Sans Ugaritic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "ugaritic"],
+    "version": "v16",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXkMhoIkiazfg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAM.ttf"
   },
   {
     "family": "Noto Sans Kharoshthi",
