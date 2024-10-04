@@ -29655,19 +29655,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansolditalic/v17/TuGOUUFzXI5FBtUq5a8bh68BJxxEVam7tVlQfxw.ttf"
   },
   {
-    "family": "Noto Serif Khitan Small Script",
-    "variants": ["regular"],
-    "subsets": ["khitan-small-script", "latin", "latin-ext"],
-    "version": "v4",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifkhitansmallscript/v4/jizzRFVKsm4Bt9PrbSzC4KLlQUF5lRJg5j-l5PvyhfTdd4TsZ8lb39iddA.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifkhitansmallscript/v4/jizzRFVKsm4Bt9PrbSzC4KLlQUF5lRJg5j-l5PvyhfTdd4TcZsNf.ttf"
-  },
-  {
     "family": "Playwrite SK",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -29682,6 +29669,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritesk/v3/9XU3lJp0klrZDw3AZHcsJTByz7latrF9yDIlf-2cjsK5cA.ttf"
+  },
+  {
+    "family": "Noto Serif Khitan Small Script",
+    "variants": ["regular"],
+    "subsets": ["khitan-small-script", "latin", "latin-ext"],
+    "version": "v4",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifkhitansmallscript/v4/jizzRFVKsm4Bt9PrbSzC4KLlQUF5lRJg5j-l5PvyhfTdd4TsZ8lb39iddA.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifkhitansmallscript/v4/jizzRFVKsm4Bt9PrbSzC4KLlQUF5lRJg5j-l5PvyhfTdd4TcZsNf.ttf"
   },
   {
     "family": "Namdhinggo",
@@ -30431,22 +30431,6 @@
     "menu": "https://fonts.gstatic.com/s/puppiesplay/v9/wlp2gwHZEV99rG6M3NR9uB9faQhW.ttf"
   },
   {
-    "family": "Playwrite IE",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v4",
-    "lastModified": "2024-08-12",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwriteie/v4/fC1zPYtWYWnH0hvndYd6GCGWXCAxfsUebXFMyzipBpIu30AZbUY.ttf",
-      "200": "https://fonts.gstatic.com/s/playwriteie/v4/fC1zPYtWYWnH0hvndYd6GCGWXCAxfsUebXFMy7ioBpIu30AZbUY.ttf",
-      "300": "https://fonts.gstatic.com/s/playwriteie/v4/fC1zPYtWYWnH0hvndYd6GCGWXCAxfsUebXFMy2aoBpIu30AZbUY.ttf",
-      "regular": "https://fonts.gstatic.com/s/playwriteie/v4/fC1zPYtWYWnH0hvndYd6GCGWXCAxfsUebXFMyzioBpIu30AZbUY.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteie/v4/fC1zPYtWYWnH0hvndYd6GCGWXCAxfsUebXFMyzioNpMk2w.ttf"
-  },
-  {
     "family": "Noto Sans Sundanese",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "sundanese"],
@@ -30461,6 +30445,22 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNOHDgT8.ttf"
+  },
+  {
+    "family": "Playwrite IE",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v4",
+    "lastModified": "2024-08-12",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwriteie/v4/fC1zPYtWYWnH0hvndYd6GCGWXCAxfsUebXFMyzipBpIu30AZbUY.ttf",
+      "200": "https://fonts.gstatic.com/s/playwriteie/v4/fC1zPYtWYWnH0hvndYd6GCGWXCAxfsUebXFMy7ioBpIu30AZbUY.ttf",
+      "300": "https://fonts.gstatic.com/s/playwriteie/v4/fC1zPYtWYWnH0hvndYd6GCGWXCAxfsUebXFMy2aoBpIu30AZbUY.ttf",
+      "regular": "https://fonts.gstatic.com/s/playwriteie/v4/fC1zPYtWYWnH0hvndYd6GCGWXCAxfsUebXFMyzioBpIu30AZbUY.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteie/v4/fC1zPYtWYWnH0hvndYd6GCGWXCAxfsUebXFMyzioNpMk2w.ttf"
   },
   {
     "family": "Rubik Storm",
@@ -31320,19 +31320,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RMB.ttf"
   },
   {
-    "family": "Noto Sans Nabataean",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nabataean"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNoBJ9hK8kMK4.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3gA.ttf"
-  },
-  {
     "family": "Noto Sans Caucasian Albanian",
     "variants": ["regular"],
     "subsets": ["caucasian-albanian", "latin", "latin-ext"],
@@ -31344,6 +31331,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHspQ.ttf"
+  },
+  {
+    "family": "Noto Sans Nabataean",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nabataean"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNoBJ9hK8kMK4.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3gA.ttf"
   },
   {
     "family": "Noto Sans Modi",
