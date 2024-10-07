@@ -29294,22 +29294,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritedkuloopet/v1/bWtS7e3Ufwn0Hf1zjprKPYlcDAoHknvYFjqIh8PF6jwcP5K06lUbKOPh.woff2"
   },
   {
-    "family": "Playwrite HR Lijeva",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-08-12",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d4zB8aRy4_lxmKl.woff2",
-      "200": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d6zBsaRy4_lxmKl.woff2",
-      "300": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d5tBsaRy4_lxmKl.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d4zBsaRy4_lxmKl.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d4zBvaVwY4.woff2"
-  },
-  {
     "family": "Namdhinggo",
     "variants": ["regular", "500", "600", "700", "800"],
     "subsets": ["latin", "latin-ext", "limbu"],
@@ -29325,6 +29309,22 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/namdhinggo/v2/uk-mEGe3rbgg8Xzoy5-TPnSp4g.woff2"
+  },
+  {
+    "family": "Playwrite HR Lijeva",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-08-12",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d4zB8aRy4_lxmKl.woff2",
+      "200": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d6zBsaRy4_lxmKl.woff2",
+      "300": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d5tBsaRy4_lxmKl.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d4zBsaRy4_lxmKl.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d4zBvaVwY4.woff2"
   },
   {
     "family": "Maname",
@@ -30614,19 +30614,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteid/v4/Cn-kJt2YWhlY2oC4KxifKQJmrtrRm-sKkQqUl0-RN_NRFw.woff2"
   },
   {
-    "family": "Micro 5 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/micro5charted/v1/hESp6XxmPDtTtADZhn7oD_yrmxEGQEsJQAlbUA.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/micro5charted/v1/hESp6XxmPDtTtADZhn7oD_yrmxE2REEI.woff2"
-  },
-  {
     "family": "Noto Sans Lisu",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "lisu"],
@@ -30641,6 +30628,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslisu/v25/uk-3EGO3o6EruUbnwovcYhz6kh57_nqbcTdjJnHP2Vwd2tgk.woff2"
+  },
+  {
+    "family": "Micro 5 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/micro5charted/v1/hESp6XxmPDtTtADZhn7oD_yrmxEGQEsJQAlbUA.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/micro5charted/v1/hESp6XxmPDtTtADZhn7oD_yrmxE2REEI.woff2"
   },
   {
     "family": "Noto Sans Warang Citi",
