@@ -13705,19 +13705,6 @@
     "menu": "https://fonts.gstatic.com/s/mallanna/v14/hv-Vlzx-KEQb84YaDFwyGTA.ttf"
   },
   {
-    "family": "Mogra",
-    "variants": ["regular"],
-    "subsets": ["gujarati", "latin", "latin-ext"],
-    "version": "v19",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/mogra/v19/f0X40eSs8c95TBo4DvLmxtnG.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/mogra/v19/f0X40eSs8c95TCo5BPY.ttf"
-  },
-  {
     "family": "Noto Sans Gurmukhi",
     "variants": ["regular"],
     "subsets": ["gurmukhi", "latin", "latin-ext"],
@@ -13741,6 +13728,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Mogra",
+    "variants": ["regular"],
+    "subsets": ["gujarati", "latin", "latin-ext"],
+    "version": "v19",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/mogra/v19/f0X40eSs8c95TBo4DvLmxtnG.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/mogra/v19/f0X40eSs8c95TCo5BPY.ttf"
   },
   {
     "family": "Prosto One",
@@ -21102,19 +21102,6 @@
     "menu": "https://fonts.gstatic.com/s/akatab/v7/VuJwdNrK3Z7gqJE_WYb9.ttf"
   },
   {
-    "family": "Port Lligat Sans",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v22",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/portlligatsans/v22/kmKmZrYrGBbdN1aV7Vokow6Lw4s4l7N0Tx4xEcQ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/portlligatsans/v22/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7J-Sw.ttf"
-  },
-  {
     "family": "Rubik Moonrocks",
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
@@ -21126,6 +21113,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikmoonrocks/v5/845ANMAmAI2VUZMLu_W0M7HqlDHXXMr_.ttf"
+  },
+  {
+    "family": "Port Lligat Sans",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v22",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/portlligatsans/v22/kmKmZrYrGBbdN1aV7Vokow6Lw4s4l7N0Tx4xEcQ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/portlligatsans/v22/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7J-Sw.ttf"
   },
   {
     "family": "Milonga",
@@ -26636,6 +26636,19 @@
     ]
   },
   {
+    "family": "Noto Sans Deseret",
+    "variants": ["regular"],
+    "subsets": ["deseret", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansdeseret/v17/MwQsbgPp1eKH6QsAVuFb9AZM6MMr2Vq9ZnJSZtQG.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansdeseret/v17/MwQsbgPp1eKH6QsAVuFb9AZM6MMr2Wq8bHY.ttf"
+  },
+  {
     "family": "Playwrite NG Modern",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -26654,19 +26667,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Noto Sans Deseret",
-    "variants": ["regular"],
-    "subsets": ["deseret", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansdeseret/v17/MwQsbgPp1eKH6QsAVuFb9AZM6MMr2Vq9ZnJSZtQG.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansdeseret/v17/MwQsbgPp1eKH6QsAVuFb9AZM6MMr2Wq8bHY.ttf"
   },
   {
     "family": "Grandiflora One",
@@ -29183,6 +29183,19 @@
     ]
   },
   {
+    "family": "Noto Sans Elymaic",
+    "variants": ["regular"],
+    "subsets": ["elymaic", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD4AjWOT0zi2V.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuA.ttf"
+  },
+  {
     "family": "Noto Sans Gunjala Gondi",
     "variants": ["regular"],
     "subsets": ["gunjala-gondi", "latin", "latin-ext"],
@@ -29201,19 +29214,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Noto Sans Elymaic",
-    "variants": ["regular"],
-    "subsets": ["elymaic", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD4AjWOT0zi2V.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuA.ttf"
   },
   {
     "family": "Noto Sans Buginese",
