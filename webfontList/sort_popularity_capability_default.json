@@ -13261,6 +13261,20 @@
     "menu": "https://fonts.gstatic.com/s/petitformalscript/v17/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkHjgOw.ttf"
   },
   {
+    "family": "Montserrat Subrayada",
+    "variants": ["regular", "700"],
+    "subsets": ["latin"],
+    "version": "v19",
+    "lastModified": "2024-09-04",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/montserratsubrayada/v19/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TcMWg3j36Ebz.ttf",
+      "regular": "https://fonts.gstatic.com/s/montserratsubrayada/v19/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQE8LYuceqGT-.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/montserratsubrayada/v19/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8KaOM.ttf"
+  },
+  {
     "family": "IBM Plex Sans KR",
     "variants": ["100", "200", "300", "regular", "500", "600", "700"],
     "subsets": ["korean", "latin", "latin-ext"],
@@ -13278,20 +13292,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/ibmplexsanskr/v10/vEFK2-VJISZe3O_rc3ZVYh4aTwNOwtO_Xw.ttf"
-  },
-  {
-    "family": "Montserrat Subrayada",
-    "variants": ["regular", "700"],
-    "subsets": ["latin"],
-    "version": "v19",
-    "lastModified": "2024-09-04",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/montserratsubrayada/v19/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TcMWg3j36Ebz.ttf",
-      "regular": "https://fonts.gstatic.com/s/montserratsubrayada/v19/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQE8LYuceqGT-.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/montserratsubrayada/v19/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8KaOM.ttf"
   },
   {
     "family": "Baloo Da 2",
@@ -26423,19 +26423,6 @@
     "menu": "https://fonts.gstatic.com/s/diplomata/v31/Cn-0JtiMXwhNwp-wKxyvYWZc.ttf"
   },
   {
-    "family": "Jim Nightshade",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v20",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jimnightshade/v20/PlIkFlu9Pb08Q8HLM1PxmB0g-OS4V3qKaMxD.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jimnightshade/v20/PlIkFlu9Pb08Q8HLM1PxmB0g-NS5XX4.ttf"
-  },
-  {
     "family": "Tiro Devanagari Marathi",
     "variants": ["regular", "italic"],
     "subsets": ["devanagari", "latin", "latin-ext"],
@@ -26448,6 +26435,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tirodevanagarimarathi/v5/fC1xPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkouDqBpI.ttf"
+  },
+  {
+    "family": "Jim Nightshade",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v20",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jimnightshade/v20/PlIkFlu9Pb08Q8HLM1PxmB0g-OS4V3qKaMxD.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jimnightshade/v20/PlIkFlu9Pb08Q8HLM1PxmB0g-NS5XX4.ttf"
   },
   {
     "family": "Fruktur",
@@ -29968,19 +29968,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskawi/v3/92zBtBJLNqsg7tCciW0EPHNNh1ZgbtGWiTYDjvnK4AhWC552.ttf"
   },
   {
-    "family": "Noto Sans NKo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nko"],
-    "version": "v6",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpMpCMHMLBrdA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpApGGGA.ttf"
-  },
-  {
     "family": "Lisu Bosa",
     "variants": [
       "200",
@@ -30024,6 +30011,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/lisubosa/v2/3XFoErkv240fsdmJRJQflkHm.ttf"
+  },
+  {
+    "family": "Noto Sans NKo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nko"],
+    "version": "v6",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpMpCMHMLBrdA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpApGGGA.ttf"
   },
   {
     "family": "Noto Sans Batak",
@@ -31469,19 +31469,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskayahli/v21/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3OZDyFQ.ttf"
   },
   {
-    "family": "Noto Sans Modi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "modi"],
-    "version": "v23",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeav5qWVAgVol-.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeas5rU1Q.ttf"
-  },
-  {
     "family": "Yarndings 20",
     "variants": ["regular"],
     "subsets": ["latin", "math", "symbols"],
@@ -31493,6 +31480,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/yarndings20/v2/TuGWUVlkUohEQu8l7K8b-vN1BnUw.ttf"
+  },
+  {
+    "family": "Noto Sans Modi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "modi"],
+    "version": "v23",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeav5qWVAgVol-.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeas5rU1Q.ttf"
   },
   {
     "family": "Noto Sans Mahajani",
