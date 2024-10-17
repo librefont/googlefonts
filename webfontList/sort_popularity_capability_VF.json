@@ -9354,16 +9354,16 @@
     "family": "Gupter",
     "variants": ["regular", "500", "700"],
     "subsets": ["latin"],
-    "version": "v14",
-    "lastModified": "2024-09-04",
+    "version": "v15",
+    "lastModified": "2024-10-17",
     "files": {
-      "500": "https://fonts.gstatic.com/s/gupter/v14/2-cl9JNmxJqPO1Qslb-bUsT5rZhaZg.ttf",
-      "700": "https://fonts.gstatic.com/s/gupter/v14/2-cl9JNmxJqPO1Qs3bmbUsT5rZhaZg.ttf",
-      "regular": "https://fonts.gstatic.com/s/gupter/v14/2-cm9JNmxJqPO1QUYZa_Wu_lpA.ttf"
+      "500": "https://fonts.gstatic.com/s/gupter/v15/2-cl9JNmxJqPO1Qslb-bUsT5rZhaZg.ttf",
+      "700": "https://fonts.gstatic.com/s/gupter/v15/2-cl9JNmxJqPO1Qs3bmbUsT5rZhaZg.ttf",
+      "regular": "https://fonts.gstatic.com/s/gupter/v15/2-cm9JNmxJqPO1QUYZa_Wu_lpA.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gupter/v14/2-cm9JNmxJqPO1QkYJy7.ttf"
+    "menu": "https://fonts.gstatic.com/s/gupter/v15/2-cm9JNmxJqPO1QkYJy7.ttf"
   },
   {
     "family": "Lemonada",
@@ -28189,19 +28189,6 @@
     ]
   },
   {
-    "family": "Noto Serif Grantha",
-    "variants": ["regular"],
-    "subsets": ["grantha", "latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2024-06-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiqFENLR7fHGw.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlP.ttf"
-  },
-  {
     "family": "Noto Sans Ol Chiki",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "ol-chiki"],
@@ -28220,6 +28207,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Serif Grantha",
+    "variants": ["regular"],
+    "subsets": ["grantha", "latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2024-06-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiqFENLR7fHGw.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlP.ttf"
   },
   {
     "family": "Noto Sans Cuneiform",

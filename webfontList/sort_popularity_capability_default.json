@@ -10865,16 +10865,16 @@
     "family": "Gupter",
     "variants": ["regular", "500", "700"],
     "subsets": ["latin"],
-    "version": "v14",
-    "lastModified": "2024-09-04",
+    "version": "v15",
+    "lastModified": "2024-10-17",
     "files": {
-      "500": "https://fonts.gstatic.com/s/gupter/v14/2-cl9JNmxJqPO1Qslb-bUsT5rZhaZg.ttf",
-      "700": "https://fonts.gstatic.com/s/gupter/v14/2-cl9JNmxJqPO1Qs3bmbUsT5rZhaZg.ttf",
-      "regular": "https://fonts.gstatic.com/s/gupter/v14/2-cm9JNmxJqPO1QUYZa_Wu_lpA.ttf"
+      "500": "https://fonts.gstatic.com/s/gupter/v15/2-cl9JNmxJqPO1Qslb-bUsT5rZhaZg.ttf",
+      "700": "https://fonts.gstatic.com/s/gupter/v15/2-cl9JNmxJqPO1Qs3bmbUsT5rZhaZg.ttf",
+      "regular": "https://fonts.gstatic.com/s/gupter/v15/2-cm9JNmxJqPO1QUYZa_Wu_lpA.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gupter/v14/2-cm9JNmxJqPO1QkYJy7.ttf"
+    "menu": "https://fonts.gstatic.com/s/gupter/v15/2-cm9JNmxJqPO1QkYJy7.ttf"
   },
   {
     "family": "Lemonada",
@@ -30478,19 +30478,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritegbj/v4/k3kEo8wSPe9dzQ1UGbvobAPhY5iG-fsubxedDheGdc93adTT.ttf"
   },
   {
-    "family": "Noto Serif Grantha",
-    "variants": ["regular"],
-    "subsets": ["grantha", "latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2024-06-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiqFENLR7fHGw.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlP.ttf"
-  },
-  {
     "family": "Noto Sans Ol Chiki",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "ol-chiki"],
@@ -30505,6 +30492,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansolchiki/v29/N0b92TJNOPt-eHmFZCdQbrL32r-4CvhzDzRwlxOQYuVALWk227MwhQ.ttf"
+  },
+  {
+    "family": "Noto Serif Grantha",
+    "variants": ["regular"],
+    "subsets": ["grantha", "latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2024-06-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiqFENLR7fHGw.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlP.ttf"
   },
   {
     "family": "Noto Sans Cuneiform",
@@ -31479,19 +31479,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeas5rU1Q.ttf"
   },
   {
-    "family": "Noto Sans Sogdian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "sogdian"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo--Pm6KHidM.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
-  },
-  {
     "family": "Noto Sans Lepcha",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "lepcha"],
@@ -31503,6 +31490,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS36ANmsg.ttf"
+  },
+  {
+    "family": "Noto Sans Sogdian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "sogdian"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo--Pm6KHidM.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
   },
   {
     "family": "Noto Sans Elymaic",

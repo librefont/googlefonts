@@ -10865,16 +10865,16 @@
     "family": "Gupter",
     "variants": ["regular", "500", "700"],
     "subsets": ["latin"],
-    "version": "v14",
-    "lastModified": "2024-09-04",
+    "version": "v15",
+    "lastModified": "2024-10-17",
     "files": {
-      "500": "https://fonts.gstatic.com/s/gupter/v14/2-cl9JNmxJqPO1Qslb-bV8T5rZhaZg.woff2",
-      "700": "https://fonts.gstatic.com/s/gupter/v14/2-cl9JNmxJqPO1Qs3bmbV8T5rZhaZg.woff2",
-      "regular": "https://fonts.gstatic.com/s/gupter/v14/2-cm9JNmxJqPO1QUZJa_Wu_lpA.woff2"
+      "500": "https://fonts.gstatic.com/s/gupter/v15/2-cl9JNmxJqPO1Qslb-bV8T5rZhaZg.woff2",
+      "700": "https://fonts.gstatic.com/s/gupter/v15/2-cl9JNmxJqPO1Qs3bmbV8T5rZhaZg.woff2",
+      "regular": "https://fonts.gstatic.com/s/gupter/v15/2-cm9JNmxJqPO1QUZJa_Wu_lpA.woff2"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gupter/v14/2-cm9JNmxJqPO1QkYJy-.woff2"
+    "menu": "https://fonts.gstatic.com/s/gupter/v15/2-cm9JNmxJqPO1QkYJy-.woff2"
   },
   {
     "family": "Lemonada",
@@ -31104,19 +31104,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiP4.woff2"
   },
   {
-    "family": "Noto Sans Newa",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "newa"],
-    "version": "v16",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg8n6qN4R5lNU.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-ot8.woff2"
-  },
-  {
     "family": "Jacquard 24 Charted",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -31128,6 +31115,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/jacquard24charted/v3/mtGm4-dNK6HaudrE9VVKhENTsEXEYish4iVhMA.woff2"
+  },
+  {
+    "family": "Noto Sans Newa",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "newa"],
+    "version": "v16",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg8n6qN4R5lNU.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-ot8.woff2"
   },
   {
     "family": "Noto Sans Runic",
