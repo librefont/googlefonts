@@ -28189,19 +28189,6 @@
     ]
   },
   {
-    "family": "Noto Serif Grantha",
-    "variants": ["regular"],
-    "subsets": ["grantha", "latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2024-06-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiqFENLR7fHGw.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlP.ttf"
-  },
-  {
     "family": "Noto Sans Ol Chiki",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "ol-chiki"],
@@ -28220,6 +28207,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Serif Grantha",
+    "variants": ["regular"],
+    "subsets": ["grantha", "latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2024-06-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiqFENLR7fHGw.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifgrantha/v21/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlP.ttf"
   },
   {
     "family": "Noto Sans Cuneiform",
