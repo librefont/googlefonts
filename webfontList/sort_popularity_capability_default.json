@@ -26891,19 +26891,6 @@
     "menu": "https://fonts.gstatic.com/s/dhurjati/v24/_6_8ED3gSeatXfFiFU3zQqA.ttf"
   },
   {
-    "family": "Diphylleia",
-    "variants": ["regular"],
-    "subsets": ["korean", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/diphylleia/v1/DtVmJxCtRKMixK4_HXsIulwm6gDXvwE.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/diphylleia/v1/DtVmJxCtRKMixK4_HXsIil0s7g.ttf"
-  },
-  {
     "family": "Vibes",
     "variants": ["regular"],
     "subsets": ["arabic", "latin"],
@@ -26915,6 +26902,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/vibes/v14/QdVYSTsmIB6tmYd2FJI.ttf"
+  },
+  {
+    "family": "Diphylleia",
+    "variants": ["regular"],
+    "subsets": ["korean", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/diphylleia/v1/DtVmJxCtRKMixK4_HXsIulwm6gDXvwE.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/diphylleia/v1/DtVmJxCtRKMixK4_HXsIil0s7g.ttf"
   },
   {
     "family": "Noto Serif Lao",
@@ -30846,6 +30846,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
   },
   {
+    "family": "Noto Sans Old Permic",
+    "variants": ["regular"],
+    "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
+    "version": "v17",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdXgv_dKYB5.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf"
+  },
+  {
     "family": "Playwrite TZ",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -30860,19 +30873,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritetz/v4/RLptK5rs6au7bzABmVQAOwnUbvHMbzSUU27JDWwTiexIPw.ttf"
-  },
-  {
-    "family": "Noto Sans Old Permic",
-    "variants": ["regular"],
-    "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
-    "version": "v17",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdXgv_dKYB5.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf"
   },
   {
     "family": "Playwrite BR",
