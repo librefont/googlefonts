@@ -23462,19 +23462,6 @@
     "menu": "https://fonts.gstatic.com/s/yaldevi/v12/cY9afj6VW0NMrDWtDNzCOwlPMq9SLpdxJwvpZRM.woff2"
   },
   {
-    "family": "Bungee Hairline",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v23",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bungeehairline/v23/snfys0G548t04270a_ljTLUVrv-7ZR2dQ5ZPqQ.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bungeehairline/v23/snfys0G548t04270a_ljTLUVrv-LYRec.woff2"
-  },
-  {
     "family": "Gentium Plus",
     "variants": ["regular", "italic", "700", "700italic"],
     "subsets": [
@@ -23497,6 +23484,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/gentiumplus/v2/Iurd6Ytw-oSPaZ00r2bNe8VZjZFN.woff2"
+  },
+  {
+    "family": "Bungee Hairline",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v23",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bungeehairline/v23/snfys0G548t04270a_ljTLUVrv-7ZR2dQ5ZPqQ.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bungeehairline/v23/snfys0G548t04270a_ljTLUVrv-LYRec.woff2"
   },
   {
     "family": "IBM Plex Sans Thai Looped",
@@ -29909,22 +29909,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansadlamunjoined/v26/P5sszY2MYsLRsB5_ildkzPPDsLQXcOEmaFOqOGcaYrzFTIjsPam_Ye35DMAU-Q.woff2"
   },
   {
-    "family": "Playwrite BE WAL",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-08-12",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGfulHxwiSZp8.woff2",
-      "200": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsUCGPulHxwiSZp8.woff2",
-      "300": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsXcGPulHxwiSZp8.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGPulHxwiSZp8.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGMuhFR0.woff2"
-  },
-  {
     "family": "Playwrite ES Deco",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -29939,6 +29923,22 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteesdeco/v4/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrdBOAVo.woff2"
+  },
+  {
+    "family": "Playwrite BE WAL",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-08-12",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGfulHxwiSZp8.woff2",
+      "200": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsUCGPulHxwiSZp8.woff2",
+      "300": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsXcGPulHxwiSZp8.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGPulHxwiSZp8.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGMuhFR0.woff2"
   },
   {
     "family": "Chokokutai",
