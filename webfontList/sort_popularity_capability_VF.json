@@ -24562,19 +24562,6 @@
     ]
   },
   {
-    "family": "Grey Qo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNDOtQ9Wf0QcE.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNPOpa8Q.ttf"
-  },
-  {
     "family": "Fleur De Leah",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -24586,6 +24573,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/fleurdeleah/v9/AYCNpXX7ftYZWLhv9UmPJTMC1ven5A.ttf"
+  },
+  {
+    "family": "Grey Qo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v9",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNDOtQ9Wf0QcE.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/greyqo/v9/BXRrvF_Nmv_TyXxNPOpa8Q.ttf"
   },
   {
     "family": "Taprom",
@@ -27241,6 +27241,19 @@
     ]
   },
   {
+    "family": "Noto Sans Vai",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vai"],
+    "version": "v17",
+    "lastModified": "2022-09-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrURMTsDIRSfr0.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrUdMXmCA.ttf"
+  },
+  {
     "family": "Playwrite BE WAL",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -27259,19 +27272,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Noto Sans Vai",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vai"],
-    "version": "v17",
-    "lastModified": "2022-09-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrURMTsDIRSfr0.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrUdMXmCA.ttf"
   },
   {
     "family": "Rubik Maps",
@@ -28400,19 +28400,6 @@
     ]
   },
   {
-    "family": "Noto Sans Brahmi",
-    "variants": ["regular"],
-    "subsets": ["brahmi", "latin", "latin-ext", "math", "symbols"],
-    "version": "v19",
-    "lastModified": "2024-02-29",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV18tK1W77HtMo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
-  },
-  {
     "family": "Playwrite GB J",
     "variants": ["regular", "italic"],
     "subsets": ["latin"],
@@ -28432,6 +28419,19 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Noto Sans Brahmi",
+    "variants": ["regular"],
+    "subsets": ["brahmi", "latin", "latin-ext", "math", "symbols"],
+    "version": "v19",
+    "lastModified": "2024-02-29",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV18tK1W77HtMo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
   },
   {
     "family": "Noto Sans Siddham",
