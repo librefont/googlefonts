@@ -29699,22 +29699,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansolchiki/v29/N0b92TJNOPt-eHmFZCdQbrL32r-4CvhzDzRwlxOQYuVALWk227MwhQ.ttf"
   },
   {
-    "family": "Playwrite SK",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v3",
-    "lastModified": "2024-08-12",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritesk/v3/9XU3lJp0klrZDw3AZHcsJTByz7latrF9yDIlf-2dvsOzdK9OF68.ttf",
-      "200": "https://fonts.gstatic.com/s/playwritesk/v3/9XU3lJp0klrZDw3AZHcsJTByz7latrF9yDIlf22cvsOzdK9OF68.ttf",
-      "300": "https://fonts.gstatic.com/s/playwritesk/v3/9XU3lJp0klrZDw3AZHcsJTByz7latrF9yDIlf7OcvsOzdK9OF68.ttf",
-      "regular": "https://fonts.gstatic.com/s/playwritesk/v3/9XU3lJp0klrZDw3AZHcsJTByz7latrF9yDIlf-2cvsOzdK9OF68.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritesk/v3/9XU3lJp0klrZDw3AZHcsJTByz7latrF9yDIlf-2cjsK5cA.ttf"
-  },
-  {
     "family": "Noto Sans Adlam Unjoined",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["adlam", "latin", "latin-ext"],
@@ -29729,6 +29713,22 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansadlamunjoined/v26/P5sszY2MYsLRsB5_ildkzPPDsLQXcOEmaFOqOGcaYrzFTIjsPam_Ye35DMAU_A.ttf"
+  },
+  {
+    "family": "Playwrite SK",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v3",
+    "lastModified": "2024-08-12",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritesk/v3/9XU3lJp0klrZDw3AZHcsJTByz7latrF9yDIlf-2dvsOzdK9OF68.ttf",
+      "200": "https://fonts.gstatic.com/s/playwritesk/v3/9XU3lJp0klrZDw3AZHcsJTByz7latrF9yDIlf22cvsOzdK9OF68.ttf",
+      "300": "https://fonts.gstatic.com/s/playwritesk/v3/9XU3lJp0klrZDw3AZHcsJTByz7latrF9yDIlf7OcvsOzdK9OF68.ttf",
+      "regular": "https://fonts.gstatic.com/s/playwritesk/v3/9XU3lJp0klrZDw3AZHcsJTByz7latrF9yDIlf-2cvsOzdK9OF68.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritesk/v3/9XU3lJp0klrZDw3AZHcsJTByz7latrF9yDIlf-2cjsK5cA.ttf"
   },
   {
     "family": "Rubik Storm",
@@ -31664,6 +31664,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanstirhuta/v16/t5t6IQYRNJ6TWjahPR6X-M-apUyby4uHWh8.ttf"
   },
   {
+    "family": "Noto Sans Masaram Gondi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "masaram-gondi"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGe7RI9WSWX.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf"
+  },
+  {
     "family": "Noto Sans Meroitic",
     "variants": ["regular"],
     "subsets": [
@@ -31681,19 +31694,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzgTJX.ttf"
-  },
-  {
-    "family": "Noto Sans Masaram Gondi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "masaram-gondi"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGe7RI9WSWX.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf"
   },
   {
     "family": "Noto Sans Bhaiksuki",
