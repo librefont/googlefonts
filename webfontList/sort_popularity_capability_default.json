@@ -27088,6 +27088,19 @@
     "menu": "https://fonts.gstatic.com/s/taprom/v27/UcCn3F82JHycULb1QiMz.ttf"
   },
   {
+    "family": "Orbit",
+    "variants": ["regular"],
+    "subsets": ["korean", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/orbit/v1/_LOCmz7I-uHd2mjEeqciRwRm.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/orbit/v1/_LOCmz7I-uHd2ljFcKM.ttf"
+  },
+  {
     "family": "Noto Serif Sinhala",
     "variants": [
       "100",
@@ -27117,19 +27130,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifsinhala/v26/DtVEJwinQqclnZE2CnsPug9lgGC3y2F2nehQ7Eg4EdBKWxPiDxMivFLgRXs_-pGxR2Mtz6Y.ttf"
-  },
-  {
-    "family": "Orbit",
-    "variants": ["regular"],
-    "subsets": ["korean", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/orbit/v1/_LOCmz7I-uHd2mjEeqciRwRm.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/orbit/v1/_LOCmz7I-uHd2ljFcKM.ttf"
   },
   {
     "family": "Devonshire",
@@ -29681,6 +29681,19 @@
     "menu": "https://fonts.gstatic.com/s/lisubosa/v2/3XFoErkv240fsdmJRJQflkHm.ttf"
   },
   {
+    "family": "Noto Sans Marchen",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "marchen"],
+    "version": "v20",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmarchen/v20/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMHhPk652ZaHk.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmarchen/v20/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMEhOmao.ttf"
+  },
+  {
     "family": "Playwrite HR",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -29695,19 +29708,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoBxYDdBA.ttf"
-  },
-  {
-    "family": "Noto Sans Marchen",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "marchen"],
-    "version": "v20",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmarchen/v20/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMHhPk652ZaHk.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmarchen/v20/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMEhOmao.ttf"
   },
   {
     "family": "Ubuntu Sans Mono",
@@ -31033,19 +31033,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgt6kQSE.ttf"
   },
   {
-    "family": "Padyakke Expanded One",
-    "variants": ["regular"],
-    "subsets": ["kannada", "latin", "latin-ext"],
-    "version": "v6",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/padyakkeexpandedone/v6/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYOKRkpDjeoQ.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/padyakkeexpandedone/v6/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoOa5g.ttf"
-  },
-  {
     "family": "Noto Sans Wancho",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "wancho"],
@@ -31057,6 +31044,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALiog.ttf"
+  },
+  {
+    "family": "Padyakke Expanded One",
+    "variants": ["regular"],
+    "subsets": ["kannada", "latin", "latin-ext"],
+    "version": "v6",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/padyakkeexpandedone/v6/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYOKRkpDjeoQ.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/padyakkeexpandedone/v6/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoOa5g.ttf"
   },
   {
     "family": "Jersey 10 Charted",
