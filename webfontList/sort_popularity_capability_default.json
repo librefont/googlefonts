@@ -21882,19 +21882,6 @@
     "menu": "https://fonts.gstatic.com/s/imfelldoublepicasc/v21/neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YwOfg.ttf"
   },
   {
-    "family": "Kite One",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v22",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/kiteone/v22/70lQu7shLnA_E02vyq1b6HnGO4uA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/kiteone/v22/70lQu7shLnA_E02vyp1a4n0.ttf"
-  },
-  {
     "family": "Braah One",
     "variants": ["regular"],
     "subsets": ["gurmukhi", "latin", "latin-ext", "vietnamese"],
@@ -21906,6 +21893,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/braahone/v6/KFOlCnWUpt6LsxxxiylfAhc9.ttf"
+  },
+  {
+    "family": "Kite One",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v22",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/kiteone/v22/70lQu7shLnA_E02vyq1b6HnGO4uA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/kiteone/v22/70lQu7shLnA_E02vyp1a4n0.ttf"
   },
   {
     "family": "Birthstone Bounce",
@@ -28529,19 +28529,6 @@
     "menu": "https://fonts.gstatic.com/s/grechenfuemen/v9/vEFI2_tHEQ4d5ObgKxBzZh0MAVgd8tI.ttf"
   },
   {
-    "family": "Noto Sans Khojki",
-    "variants": ["regular"],
-    "subsets": ["khojki", "latin", "latin-ext"],
-    "version": "v19",
-    "lastModified": "2024-02-16",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanskhojki/v19/-nFnOHM29Oofr2wohFbTuPPKVWpmK_d709jy92k.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanskhojki/v19/-nFnOHM29Oofr2wohFbTuPPKVWpmG_Zx1w.ttf"
-  },
-  {
     "family": "Are You Serious",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -28553,6 +28540,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/areyouserious/v12/ll8kK2GVSSr-PtjQ5nONVcNn430KhDVj.ttf"
+  },
+  {
+    "family": "Noto Sans Khojki",
+    "variants": ["regular"],
+    "subsets": ["khojki", "latin", "latin-ext"],
+    "version": "v19",
+    "lastModified": "2024-02-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanskhojki/v19/-nFnOHM29Oofr2wohFbTuPPKVWpmK_d709jy92k.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanskhojki/v19/-nFnOHM29Oofr2wohFbTuPPKVWpmG_Zx1w.ttf"
   },
   {
     "family": "Playwrite BE VLG",
@@ -29979,6 +29979,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansoldpersian/v16/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_dqeNU.ttf"
   },
   {
+    "family": "Noto Sans Marchen",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "marchen"],
+    "version": "v20",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmarchen/v20/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMHhPk652ZaHk.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmarchen/v20/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMEhOmao.ttf"
+  },
+  {
     "family": "Noto Serif Yezidi",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "yezidi"],
@@ -29993,19 +30006,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifyezidi/v21/XLYPIYr5bJNDGYxLBibeHZAn3B5KJENnQjbfhMSVZspD2yEUr1uN.ttf"
-  },
-  {
-    "family": "Noto Sans Marchen",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "marchen"],
-    "version": "v20",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmarchen/v20/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMHhPk652ZaHk.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmarchen/v20/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMEhOmao.ttf"
   },
   {
     "family": "Noto Sans Kaithi",
