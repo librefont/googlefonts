@@ -27140,19 +27140,6 @@
     "menu": "https://fonts.gstatic.com/s/rubikmicrobe/v2/UqyWK8oPP3hjw6ANS9rM3PsZQs4QbA.ttf"
   },
   {
-    "family": "Noto Serif Ottoman Siyaq",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "ottoman-siyaq-numbers"],
-    "version": "v2",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoHLJrgA00kAdA.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoH7J7IE.ttf"
-  },
-  {
     "family": "Ubuntu Sans Mono",
     "variants": ["regular", "italic"],
     "subsets": [
@@ -27179,6 +27166,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Serif Ottoman Siyaq",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "ottoman-siyaq-numbers"],
+    "version": "v2",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoHLJrgA00kAdA.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoH7J7IE.ttf"
   },
   {
     "family": "Rubik Maps",
@@ -27593,26 +27593,6 @@
     ]
   },
   {
-    "family": "Noto Sans Bamum",
-    "variants": ["regular"],
-    "subsets": ["bamum", "latin", "latin-ext"],
-    "version": "v27",
-    "lastModified": "2023-09-14",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbamum/v27/uk-7EGK3o6EruUbnwovcbBTkkklQ9qRP5I18Mg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbamum/v27/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPEddOy_kBzg.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
-      }
-    ]
-  },
-  {
     "family": "Playwrite BE WAL",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -27629,6 +27609,26 @@
         "tag": "wght",
         "start": 100,
         "end": 400
+      }
+    ]
+  },
+  {
+    "family": "Noto Sans Bamum",
+    "variants": ["regular"],
+    "subsets": ["bamum", "latin", "latin-ext"],
+    "version": "v27",
+    "lastModified": "2023-09-14",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbamum/v27/uk-7EGK3o6EruUbnwovcbBTkkklQ9qRP5I18Mg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbamum/v27/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPEddOy_kBzg.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
       }
     ]
   },
