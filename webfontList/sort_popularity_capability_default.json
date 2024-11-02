@@ -23388,19 +23388,6 @@
     "menu": "https://fonts.gstatic.com/s/griffy/v22/FwZa7-ox2FQh9kfASd6A.ttf"
   },
   {
-    "family": "Waterfall",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v6",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/waterfall/v6/MCoRzAfo293fACdFKcwY2rH8D_EZwA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/waterfall/v6/MCoRzAfo293fACdFKcwo27v4.ttf"
-  },
-  {
     "family": "Koh Santepheap",
     "variants": ["100", "300", "regular", "700", "900"],
     "subsets": ["khmer", "latin"],
@@ -23416,6 +23403,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/kohsantepheap/v11/gNMdW3p6SJbwyGj2rBZyeOrTjNPgHVw.ttf"
+  },
+  {
+    "family": "Waterfall",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v6",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/waterfall/v6/MCoRzAfo293fACdFKcwY2rH8D_EZwA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/waterfall/v6/MCoRzAfo293fACdFKcwo27v4.ttf"
   },
   {
     "family": "Imperial Script",
@@ -31457,19 +31457,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHspQ.ttf"
   },
   {
-    "family": "Noto Sans Saurashtra",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "saurashtra"],
-    "version": "v23",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9ndjhPTSIx9.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBc.ttf"
-  },
-  {
     "family": "Noto Sans Shavian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "shavian"],
@@ -31481,6 +31468,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4HFRQJ0.ttf"
+  },
+  {
+    "family": "Noto Sans Saurashtra",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "saurashtra"],
+    "version": "v23",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9ndjhPTSIx9.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBc.ttf"
   },
   {
     "family": "Noto Sans Sogdian",
