@@ -30934,19 +30934,6 @@
     "menu": "https://fonts.gstatic.com/s/jersey25charted/v2/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGs2vWmA.ttf"
   },
   {
-    "family": "Noto Sans Psalter Pahlavi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "psalter-pahlavi"],
-    "version": "v17",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspsalterpahlavi/v17/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w1G3KsUQBct4.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspsalterpahlavi/v17/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w5GzAtQ.ttf"
-  },
-  {
     "family": "Playwrite BR",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -30963,6 +30950,19 @@
     "menu": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOPJsbpBA.ttf"
   },
   {
+    "family": "Noto Sans Psalter Pahlavi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "psalter-pahlavi"],
+    "version": "v17",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspsalterpahlavi/v17/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w1G3KsUQBct4.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspsalterpahlavi/v17/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w5GzAtQ.ttf"
+  },
+  {
     "family": "Playwrite DE SAS",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -30977,22 +30977,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgt6kQSE.ttf"
-  },
-  {
-    "family": "Noto Sans Bassa Vah",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["bassa-vah", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MoAc6p34gH-GD7.ttf",
-      "600": "https://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4PEBs6p34gH-GD7.ttf",
-      "700": "https://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4P9Bs6p34gH-GD7.ttf",
-      "regular": "https://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAc6p34gH-GD7.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAf6o1Yw.ttf"
   },
   {
     "family": "Wavefont",
@@ -31024,6 +31008,22 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/wavefont/v10/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V04DGVq8.ttf"
+  },
+  {
+    "family": "Noto Sans Bassa Vah",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["bassa-vah", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MoAc6p34gH-GD7.ttf",
+      "600": "https://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4PEBs6p34gH-GD7.ttf",
+      "700": "https://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4P9Bs6p34gH-GD7.ttf",
+      "regular": "https://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAc6p34gH-GD7.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAf6o1Yw.ttf"
   },
   {
     "family": "Noto Sans Inscriptional Parthian",
@@ -31400,19 +31400,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBc.ttf"
   },
   {
-    "family": "Noto Sans Caucasian Albanian",
-    "variants": ["regular"],
-    "subsets": ["caucasian-albanian", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXrYDmoVmRSZo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHspQ.ttf"
-  },
-  {
     "family": "Noto Sans Linear B",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "linear-b"],
@@ -31424,6 +31411,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RMB.ttf"
+  },
+  {
+    "family": "Noto Sans Caucasian Albanian",
+    "variants": ["regular"],
+    "subsets": ["caucasian-albanian", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXrYDmoVmRSZo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHspQ.ttf"
   },
   {
     "family": "Noto Sans Syriac",
