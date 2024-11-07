@@ -20153,19 +20153,6 @@
     "menu": "https://fonts.gstatic.com/s/underdog/v23/CHygV-jCElj7diMroWSjWVo.ttf"
   },
   {
-    "family": "Gulzar",
-    "variants": ["regular"],
-    "subsets": ["arabic", "latin", "latin-ext"],
-    "version": "v12",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/gulzar/v12/Wnz6HAc9eB3HB2ILYTwZqg_MPQ.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gulzar/v12/Wnz6HAc9eB3HB2I7YDYd.ttf"
-  },
-  {
     "family": "Genos",
     "variants": ["regular", "italic"],
     "subsets": ["cherokee", "latin", "latin-ext", "vietnamese"],
@@ -20185,6 +20172,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Gulzar",
+    "variants": ["regular"],
+    "subsets": ["arabic", "latin", "latin-ext"],
+    "version": "v12",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/gulzar/v12/Wnz6HAc9eB3HB2ILYTwZqg_MPQ.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/gulzar/v12/Wnz6HAc9eB3HB2I7YDYd.ttf"
   },
   {
     "family": "Nova Slim",
@@ -23763,19 +23763,6 @@
     "menu": "https://fonts.gstatic.com/s/missfajardose/v22/E21-_dn5gvrawDdPFVl-N0Ajb_quUvI.ttf"
   },
   {
-    "family": "Flavors",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v26",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/flavors/v26/FBV2dDrhxqmveJTpbkzlNqkG9UY.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/flavors/v26/FBV2dDrhxqmveJTpXk3vMg.ttf"
-  },
-  {
     "family": "Noto Serif Hebrew",
     "variants": ["regular"],
     "subsets": ["hebrew", "latin", "latin-ext"],
@@ -23799,6 +23786,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Flavors",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v26",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/flavors/v26/FBV2dDrhxqmveJTpbkzlNqkG9UY.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/flavors/v26/FBV2dDrhxqmveJTpXk3vMg.ttf"
   },
   {
     "family": "Luxurious Roman",
@@ -29739,6 +29739,19 @@
     ]
   },
   {
+    "family": "Faculty Glyphic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-11-07",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/facultyglyphic/v1/RrQIbot2-iBvI2mYSyKIrcgoBuQIG-eFNVmULg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/facultyglyphic/v1/RrQIbot2-iBvI2mYSyKIrcgoBuQ4Gu2B.ttf"
+  },
+  {
     "family": "Funnel Sans",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -29778,18 +29791,5 @@
         "end": 800
       }
     ]
-  },
-  {
-    "family": "Faculty Glyphic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2024-11-07",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/facultyglyphic/v1/RrQIbot2-iBvI2mYSyKIrcgoBuQIG-eFNVmULg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/facultyglyphic/v1/RrQIbot2-iBvI2mYSyKIrcgoBuQ4Gu2B.ttf"
   }
 ]
