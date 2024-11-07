@@ -23763,6 +23763,19 @@
     "menu": "https://fonts.gstatic.com/s/missfajardose/v22/E21-_dn5gvrawDdPFVl-N0Ajb_quUvI.ttf"
   },
   {
+    "family": "Flavors",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v26",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/flavors/v26/FBV2dDrhxqmveJTpbkzlNqkG9UY.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/flavors/v26/FBV2dDrhxqmveJTpXk3vMg.ttf"
+  },
+  {
     "family": "Noto Serif Hebrew",
     "variants": ["regular"],
     "subsets": ["hebrew", "latin", "latin-ext"],
@@ -23786,19 +23799,6 @@
         "end": 900
       }
     ]
-  },
-  {
-    "family": "Flavors",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v26",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/flavors/v26/FBV2dDrhxqmveJTpbkzlNqkG9UY.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/flavors/v26/FBV2dDrhxqmveJTpXk3vMg.ttf"
   },
   {
     "family": "Luxurious Roman",
@@ -28844,19 +28844,6 @@
     "menu": "https://fonts.gstatic.com/s/jainipurva/v1/CHynV-vdHVXwbWcUswbUGEoPFno.ttf"
   },
   {
-    "family": "Noto Sans Cuneiform",
-    "variants": ["regular"],
-    "subsets": ["cuneiform", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWgb9JlRQueeQ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DkQ.ttf"
-  },
-  {
     "family": "Noto Sans Old South Arabian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "old-south-arabian"],
@@ -28868,6 +28855,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansoldsoutharabian/v16/3qT5oiOhnSyU8TNFIdhZTice3hB_HWKsEnF--0XCHiKB1eFH.ttf"
+  },
+  {
+    "family": "Noto Sans Cuneiform",
+    "variants": ["regular"],
+    "subsets": ["cuneiform", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWgb9JlRQueeQ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DkQ.ttf"
   },
   {
     "family": "Noto Sans Inscriptional Parthian",
@@ -29739,19 +29739,6 @@
     ]
   },
   {
-    "family": "Faculty Glyphic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2024-11-07",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/facultyglyphic/v1/RrQIbot2-iBvI2mYSyKIrcgoBuQIG-eFNVmULg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/facultyglyphic/v1/RrQIbot2-iBvI2mYSyKIrcgoBuQ4Gu2B.ttf"
-  },
-  {
     "family": "Funnel Sans",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -29771,6 +29758,19 @@
         "end": 800
       }
     ]
+  },
+  {
+    "family": "Faculty Glyphic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-11-07",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/facultyglyphic/v1/RrQIbot2-iBvI2mYSyKIrcgoBuQIG-eFNVmULg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/facultyglyphic/v1/RrQIbot2-iBvI2mYSyKIrcgoBuQ4Gu2B.ttf"
   },
   {
     "family": "Funnel Display",
