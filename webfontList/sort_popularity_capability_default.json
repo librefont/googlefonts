@@ -14880,19 +14880,6 @@
     "menu": "https://fonts.gstatic.com/s/buenard/v17/OD5DuM6Cyma8FnnsDzb3rA.ttf"
   },
   {
-    "family": "Gotu",
-    "variants": ["regular"],
-    "subsets": ["devanagari", "latin", "latin-ext", "vietnamese"],
-    "version": "v16",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/gotu/v16/o-0FIpksx3QOlH0Lioh6-hU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gotu/v16/o-0FIpksx3QOpHwBjg.ttf"
-  },
-  {
     "family": "Trocchi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -14904,6 +14891,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/trocchi/v17/qWcqB6WkuIDxDZLcPrpeuA.ttf"
+  },
+  {
+    "family": "Gotu",
+    "variants": ["regular"],
+    "subsets": ["devanagari", "latin", "latin-ext", "vietnamese"],
+    "version": "v16",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/gotu/v16/o-0FIpksx3QOlH0Lioh6-hU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/gotu/v16/o-0FIpksx3QOpHwBjg.ttf"
   },
   {
     "family": "RocknRoll One",
@@ -30017,22 +30017,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritept/v3/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDiffNnug.ttf"
   },
   {
-    "family": "Noto Sans New Tai Lue",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext", "new-tai-lue"],
-    "version": "v22",
-    "lastModified": "2023-09-27",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pddfAYUbghFPKzeY.ttf",
-      "600": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdTvHYUbghFPKzeY.ttf",
-      "700": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdQLHYUbghFPKzeY.ttf",
-      "regular": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAYUbghFPKzeY.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAUUfqgA.ttf"
-  },
-  {
     "family": "Playwrite IT Moderna",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -30047,6 +30031,22 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteitmoderna/v4/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5WihMuLzb.ttf"
+  },
+  {
+    "family": "Noto Sans New Tai Lue",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext", "new-tai-lue"],
+    "version": "v22",
+    "lastModified": "2023-09-27",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pddfAYUbghFPKzeY.ttf",
+      "600": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdTvHYUbghFPKzeY.ttf",
+      "700": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdQLHYUbghFPKzeY.ttf",
+      "regular": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAYUbghFPKzeY.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAUUfqgA.ttf"
   },
   {
     "family": "Noto Serif Dogra",
