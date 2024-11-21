@@ -31193,22 +31193,6 @@
     "colorCapabilities": ["COLRv0"]
   },
   {
-    "family": "Playwrite DE SAS",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v4",
-    "lastModified": "2024-08-12",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVg-6gSyVPgRkJ.woff2",
-      "200": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTcVgu6gSyVPgRkJ.woff2",
-      "300": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTfLgu6gSyVPgRkJ.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgu6gSyVPgRkJ.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgt6kQSQ.woff2"
-  },
-  {
     "family": "Playwrite DE LA",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31223,6 +31207,22 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritedela/v4/oY1J8e3fprboJ2HN4ogXTpFVJ8QjJV9p0P4yukst2FnqDgYogQ.woff2"
+  },
+  {
+    "family": "Playwrite DE SAS",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v4",
+    "lastModified": "2024-08-12",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVg-6gSyVPgRkJ.woff2",
+      "200": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTcVgu6gSyVPgRkJ.woff2",
+      "300": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTfLgu6gSyVPgRkJ.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgu6gSyVPgRkJ.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgt6kQSQ.woff2"
   },
   {
     "family": "Playwrite IN",
@@ -31918,19 +31918,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskayahli/v21/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3OZDyEA.woff2"
   },
   {
-    "family": "Noto Sans Mende Kikakui",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mende-kikakui"],
-    "version": "v28",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx6aDJLAHer.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjM.woff2"
-  },
-  {
     "family": "Noto Sans Gunjala Gondi",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["gunjala-gondi", "latin", "latin-ext"],
@@ -31945,6 +31932,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansgunjalagondi/v19/bWtX7e7KfBziStx7lIzKPrcSMwcEnCv6DW7n5g0ef3PLtymzNxYL4YD04ZQu.woff2"
+  },
+  {
+    "family": "Noto Sans Mende Kikakui",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mende-kikakui"],
+    "version": "v28",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx6aDJLAHer.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjM.woff2"
   },
   {
     "family": "Noto Sans Soyombo",
