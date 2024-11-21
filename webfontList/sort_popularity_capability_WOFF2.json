@@ -21430,19 +21430,6 @@
     "menu": "https://fonts.gstatic.com/s/novaflat/v25/QdVUSTc-JgqpytEbVeb0uCFl.woff2"
   },
   {
-    "family": "Ranchers",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/ranchers/v17/zrfm0H3Lx-P2Xvs2AoDdDC79XTHv.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/ranchers/v17/zrfm0H3Lx-P2Xvs2ArDZBi8.woff2"
-  },
-  {
     "family": "Ribeye",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -21454,6 +21441,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/ribeye/v25/L0x8DFMxk1MP9R3hvfqn.woff2"
+  },
+  {
+    "family": "Ranchers",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/ranchers/v17/zrfm0H3Lx-P2Xvs2AoDdDC79XTHv.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/ranchers/v17/zrfm0H3Lx-P2Xvs2ArDZBi8.woff2"
   },
   {
     "family": "Tiro Devanagari Hindi",
@@ -31918,6 +31918,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanskayahli/v21/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3OZDyEA.woff2"
   },
   {
+    "family": "Noto Sans Mende Kikakui",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mende-kikakui"],
+    "version": "v28",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx6aDJLAHer.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjM.woff2"
+  },
+  {
     "family": "Noto Sans Gunjala Gondi",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["gunjala-gondi", "latin", "latin-ext"],
@@ -31932,19 +31945,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansgunjalagondi/v19/bWtX7e7KfBziStx7lIzKPrcSMwcEnCv6DW7n5g0ef3PLtymzNxYL4YD04ZQu.woff2"
-  },
-  {
-    "family": "Noto Sans Mende Kikakui",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mende-kikakui"],
-    "version": "v28",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx6aDJLAHer.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjM.woff2"
   },
   {
     "family": "Noto Sans Soyombo",

@@ -19254,19 +19254,6 @@
     "menu": "https://fonts.gstatic.com/s/novaflat/v25/QdVUSTc-JgqpytEbVeb0uCFg.ttf"
   },
   {
-    "family": "Ranchers",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/ranchers/v17/zrfm0H3Lx-P2Xvs2AoDYDC79XTHv.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/ranchers/v17/zrfm0H3Lx-P2Xvs2ArDZBio.ttf"
-  },
-  {
     "family": "Ribeye",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -19278,6 +19265,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/ribeye/v25/L0x8DFMxk1MP9R3hvfqi.ttf"
+  },
+  {
+    "family": "Ranchers",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/ranchers/v17/zrfm0H3Lx-P2Xvs2AoDYDC79XTHv.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/ranchers/v17/zrfm0H3Lx-P2Xvs2ArDZBio.ttf"
   },
   {
     "family": "Tiro Devanagari Hindi",
@@ -29556,6 +29556,19 @@
     ]
   },
   {
+    "family": "Noto Sans Mende Kikakui",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mende-kikakui"],
+    "version": "v28",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx_aDJLAHer.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjY.ttf"
+  },
+  {
     "family": "Noto Sans Gunjala Gondi",
     "variants": ["regular"],
     "subsets": ["gunjala-gondi", "latin", "latin-ext"],
@@ -29574,19 +29587,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Noto Sans Mende Kikakui",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mende-kikakui"],
-    "version": "v28",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx_aDJLAHer.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjY.ttf"
   },
   {
     "family": "Noto Sans Soyombo",
