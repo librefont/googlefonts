@@ -31332,6 +31332,19 @@
     "menu": "https://fonts.gstatic.com/s/playwritedela/v4/oY1J8e3fprboJ2HN4ogXTpFVJ8QjJV9p0P4yukst2FnqDgYogQ.woff2"
   },
   {
+    "family": "Noto Sans Takri",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "takri"],
+    "version": "v24",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwQMe_W3khJXg.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXX.woff2"
+  },
+  {
     "family": "Noto Sans Bassa Vah",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["bassa-vah", "latin", "latin-ext"],
@@ -31346,19 +31359,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAf6o1Yk.woff2"
-  },
-  {
-    "family": "Noto Sans Takri",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "takri"],
-    "version": "v24",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwQMe_W3khJXg.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXX.woff2"
   },
   {
     "family": "Noto Sans Palmyrene",
@@ -31442,19 +31442,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DlA.woff2"
   },
   {
-    "family": "Noto Serif Makasar",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "makasar"],
-    "version": "v1",
-    "lastModified": "2023-06-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9S7ioHTVSmevw.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9SLjovS.woff2"
-  },
-  {
     "family": "Playwrite TZ",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31469,6 +31456,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritetz/v4/RLptK5rs6au7bzABmVQAOwnUbvHMbzSUU27JDWwTiexIOg.woff2"
+  },
+  {
+    "family": "Noto Serif Makasar",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "makasar"],
+    "version": "v1",
+    "lastModified": "2023-06-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9S7ioHTVSmevw.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9SLjovS.woff2"
   },
   {
     "family": "Noto Sans Psalter Pahlavi",
