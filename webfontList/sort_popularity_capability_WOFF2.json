@@ -27768,6 +27768,20 @@
     "menu": "https://fonts.gstatic.com/s/oi/v20/w8gXH2EuRptbsN8.woff2"
   },
   {
+    "family": "Sedan",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-eOXiTpovf5b.woff2",
+      "italic": "https://fonts.gstatic.com/s/sedan/v1/Yq6U-L-VVyD6-dOQgztKuO5bjxE.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-dOTgzs.woff2"
+  },
+  {
     "family": "Rubik Doodle Triangles",
     "variants": ["regular"],
     "subsets": [
@@ -27787,20 +27801,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikdoodletriangles/v1/esDA301BLOmMKxKspb3g-domRuLPeaSn2bTzRLm1sw.woff2"
-  },
-  {
-    "family": "Sedan",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-eOXiTpovf5b.woff2",
-      "italic": "https://fonts.gstatic.com/s/sedan/v1/Yq6U-L-VVyD6-dOQgztKuO5bjxE.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-dOTgzs.woff2"
   },
   {
     "family": "Yuji Mai",
@@ -31332,19 +31332,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritedela/v4/oY1J8e3fprboJ2HN4ogXTpFVJ8QjJV9p0P4yukst2FnqDgYogQ.woff2"
   },
   {
-    "family": "Noto Sans Takri",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "takri"],
-    "version": "v24",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwQMe_W3khJXg.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXX.woff2"
-  },
-  {
     "family": "Noto Sans Bassa Vah",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["bassa-vah", "latin", "latin-ext"],
@@ -31359,6 +31346,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAf6o1Yk.woff2"
+  },
+  {
+    "family": "Noto Sans Takri",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "takri"],
+    "version": "v24",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwQMe_W3khJXg.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXX.woff2"
   },
   {
     "family": "Noto Sans Palmyrene",
@@ -31840,19 +31840,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskayahli/v21/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3OZDyEA.woff2"
   },
   {
-    "family": "Yuji Hentaigana Akebono",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin", "latin-ext"],
-    "version": "v13",
-    "lastModified": "2024-08-07",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/yujihentaiganaakebono/v13/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wQy4NKXRzrrF.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/yujihentaiganaakebono/v13/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wTy8PqQ.woff2"
-  },
-  {
     "family": "Noto Sans Cypriot",
     "variants": ["regular"],
     "subsets": ["cypriot", "latin", "latin-ext"],
@@ -31864,6 +31851,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZI.woff2"
+  },
+  {
+    "family": "Yuji Hentaigana Akebono",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin", "latin-ext"],
+    "version": "v13",
+    "lastModified": "2024-08-07",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/yujihentaiganaakebono/v13/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wQy4NKXRzrrF.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/yujihentaiganaakebono/v13/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wTy8PqQ.woff2"
   },
   {
     "family": "Noto Sans Caucasian Albanian",
