@@ -24673,19 +24673,6 @@
     "menu": "https://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZCwWnTQ.ttf"
   },
   {
-    "family": "Aubrey",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v28",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/aubrey/v28/q5uGsou7NPBw-p7vugNsCxVEgA.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/aubrey/v28/q5uGsou7NPBw-p7fuwlo.ttf"
-  },
-  {
     "family": "Yuji Boku",
     "variants": ["regular"],
     "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
@@ -24697,6 +24684,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/yujiboku/v6/P5sAzZybeNzXsA9xj1FUjLev.ttf"
+  },
+  {
+    "family": "Aubrey",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v28",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/aubrey/v28/q5uGsou7NPBw-p7vugNsCxVEgA.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/aubrey/v28/q5uGsou7NPBw-p7fuwlo.ttf"
   },
   {
     "family": "Grey Qo",
@@ -26081,6 +26081,22 @@
     "colorCapabilities": ["COLRv0"]
   },
   {
+    "family": "Ruwudu",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["arabic", "latin", "latin-ext"],
+    "version": "v4",
+    "lastModified": "2024-09-04",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/ruwudu/v4/sykx-y1tj6UzRKf1YSm3_vjBrlSILg.ttf",
+      "600": "https://fonts.gstatic.com/s/ruwudu/v4/sykx-y1tj6UzRKf1TS63_vjBrlSILg.ttf",
+      "700": "https://fonts.gstatic.com/s/ruwudu/v4/sykx-y1tj6UzRKf1KS-3_vjBrlSILg.ttf",
+      "regular": "https://fonts.gstatic.com/s/ruwudu/v4/syky-y1tj6UzRKfNlQCT9tPdpw.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/ruwudu/v4/syky-y1tj6UzRKf9lAqX.ttf"
+  },
+  {
     "family": "Playwrite AU NSW",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -26099,22 +26115,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Ruwudu",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["arabic", "latin", "latin-ext"],
-    "version": "v4",
-    "lastModified": "2024-09-04",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/ruwudu/v4/sykx-y1tj6UzRKf1YSm3_vjBrlSILg.ttf",
-      "600": "https://fonts.gstatic.com/s/ruwudu/v4/sykx-y1tj6UzRKf1TS63_vjBrlSILg.ttf",
-      "700": "https://fonts.gstatic.com/s/ruwudu/v4/sykx-y1tj6UzRKf1KS-3_vjBrlSILg.ttf",
-      "regular": "https://fonts.gstatic.com/s/ruwudu/v4/syky-y1tj6UzRKfNlQCT9tPdpw.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/ruwudu/v4/syky-y1tj6UzRKf9lAqX.ttf"
   },
   {
     "family": "Rubik Spray Paint",

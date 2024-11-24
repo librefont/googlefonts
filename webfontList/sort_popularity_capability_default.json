@@ -27165,19 +27165,6 @@
     "menu": "https://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZCwWnTQ.ttf"
   },
   {
-    "family": "Yuji Boku",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
-    "version": "v6",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/yujiboku/v6/P5sAzZybeNzXsA9xj1Fkjb2r2dgvJA.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/yujiboku/v6/P5sAzZybeNzXsA9xj1FUjLev.ttf"
-  },
-  {
     "family": "Aubrey",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -27189,6 +27176,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/aubrey/v28/q5uGsou7NPBw-p7fuwlo.ttf"
+  },
+  {
+    "family": "Yuji Boku",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
+    "version": "v6",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/yujiboku/v6/P5sAzZybeNzXsA9xj1Fkjb2r2dgvJA.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/yujiboku/v6/P5sAzZybeNzXsA9xj1FUjLev.ttf"
   },
   {
     "family": "Grey Qo",
@@ -28607,22 +28607,6 @@
     "colorCapabilities": ["COLRv0"]
   },
   {
-    "family": "Playwrite AU NSW",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v4",
-    "lastModified": "2024-08-12",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwriteaunsw/v4/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjML96TD2dC1gS.ttf",
-      "200": "https://fonts.gstatic.com/s/playwriteaunsw/v4/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xbjMb96TD2dC1gS.ttf",
-      "300": "https://fonts.gstatic.com/s/playwriteaunsw/v4/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xY9Mb96TD2dC1gS.ttf",
-      "regular": "https://fonts.gstatic.com/s/playwriteaunsw/v4/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjMb96TD2dC1gS.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteaunsw/v4/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjMY97Rjk.ttf"
-  },
-  {
     "family": "Ruwudu",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["arabic", "latin", "latin-ext"],
@@ -28637,6 +28621,22 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/ruwudu/v4/syky-y1tj6UzRKf9lAqX.ttf"
+  },
+  {
+    "family": "Playwrite AU NSW",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v4",
+    "lastModified": "2024-08-12",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwriteaunsw/v4/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjML96TD2dC1gS.ttf",
+      "200": "https://fonts.gstatic.com/s/playwriteaunsw/v4/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xbjMb96TD2dC1gS.ttf",
+      "300": "https://fonts.gstatic.com/s/playwriteaunsw/v4/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xY9Mb96TD2dC1gS.ttf",
+      "regular": "https://fonts.gstatic.com/s/playwriteaunsw/v4/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjMb96TD2dC1gS.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteaunsw/v4/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjMY97Rjk.ttf"
   },
   {
     "family": "Rubik Spray Paint",
