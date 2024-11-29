@@ -28847,19 +28847,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteaunsw/v4/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjMY97Rjk.ttf"
   },
   {
-    "family": "Geostar Fill",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v26",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/geostarfill/v26/AMOWz4SWuWiXFfjEohxQ9os0U1K2w9lb4g.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/geostarfill/v26/AMOWz4SWuWiXFfjEohxQ9osEUliy.ttf"
-  },
-  {
     "family": "Moo Lah Lah",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -28871,6 +28858,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/moolahlah/v6/dg4h_p_opKZOA0w1AYcm56wsawI.ttf"
+  },
+  {
+    "family": "Geostar Fill",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v26",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/geostarfill/v26/AMOWz4SWuWiXFfjEohxQ9os0U1K2w9lb4g.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/geostarfill/v26/AMOWz4SWuWiXFfjEohxQ9osEUliy.ttf"
   },
   {
     "family": "Kings",
@@ -30920,6 +30920,22 @@
     "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-c.ttf"
   },
   {
+    "family": "Noto Sans Kawi",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["kawi", "latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2023-10-25",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/notosanskawi/v3/92zBtBJLNqsg7tCciW0EPHNNh1ZgbtGWiTYDjvnK0ghmCpRyMjXVsQ.ttf",
+      "600": "https://fonts.gstatic.com/s/notosanskawi/v3/92zBtBJLNqsg7tCciW0EPHNNh1ZgbtGWiTYDjvnKPg9mCpRyMjXVsQ.ttf",
+      "700": "https://fonts.gstatic.com/s/notosanskawi/v3/92zBtBJLNqsg7tCciW0EPHNNh1ZgbtGWiTYDjvnKBw9mCpRyMjXVsQ.ttf",
+      "regular": "https://fonts.gstatic.com/s/notosanskawi/v3/92zBtBJLNqsg7tCciW0EPHNNh1ZgbtGWiTYDjvnK4AhmCpRyMjXVsQ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanskawi/v3/92zBtBJLNqsg7tCciW0EPHNNh1ZgbtGWiTYDjvnK4AhWC552.ttf"
+  },
+  {
     "family": "Wavefont",
     "variants": [
       "100",
@@ -30949,22 +30965,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/wavefont/v12/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V04DGVq8.ttf"
-  },
-  {
-    "family": "Noto Sans Kawi",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["kawi", "latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2023-10-25",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/notosanskawi/v3/92zBtBJLNqsg7tCciW0EPHNNh1ZgbtGWiTYDjvnK0ghmCpRyMjXVsQ.ttf",
-      "600": "https://fonts.gstatic.com/s/notosanskawi/v3/92zBtBJLNqsg7tCciW0EPHNNh1ZgbtGWiTYDjvnKPg9mCpRyMjXVsQ.ttf",
-      "700": "https://fonts.gstatic.com/s/notosanskawi/v3/92zBtBJLNqsg7tCciW0EPHNNh1ZgbtGWiTYDjvnKBw9mCpRyMjXVsQ.ttf",
-      "regular": "https://fonts.gstatic.com/s/notosanskawi/v3/92zBtBJLNqsg7tCciW0EPHNNh1ZgbtGWiTYDjvnK4AhmCpRyMjXVsQ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanskawi/v3/92zBtBJLNqsg7tCciW0EPHNNh1ZgbtGWiTYDjvnK4AhWC552.ttf"
   },
   {
     "family": "Noto Sans Tagbanwa",
