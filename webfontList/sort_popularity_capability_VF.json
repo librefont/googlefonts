@@ -28558,6 +28558,19 @@
     ]
   },
   {
+    "family": "Jersey 15 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey15charted/v2/nuFjD-rCQIjoVp1Sva2ToCTudGbLeRv4r2024gxi.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey15charted/v2/nuFjD-rCQIjoVp1Sva2ToCTudGbLeSv5pWk.ttf"
+  },
+  {
     "family": "Noto Sans Kawi",
     "variants": ["regular"],
     "subsets": ["kawi", "latin", "latin-ext"],
@@ -28576,19 +28589,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Jersey 15 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey15charted/v2/nuFjD-rCQIjoVp1Sva2ToCTudGbLeRv4r2024gxi.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey15charted/v2/nuFjD-rCQIjoVp1Sva2ToCTudGbLeSv5pWk.ttf"
   },
   {
     "family": "Rubik Lines",
@@ -29025,19 +29025,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansphagspa/v15/pxiZyoo6v8ZYyWh5WuPeJzMkd4SrGChUq06o.ttf"
   },
   {
-    "family": "Noto Sans Brahmi",
-    "variants": ["regular"],
-    "subsets": ["brahmi", "latin", "latin-ext", "math", "symbols"],
-    "version": "v19",
-    "lastModified": "2024-02-29",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV18tK1W77HtMo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
-  },
-  {
     "family": "Noto Sans Cuneiform",
     "variants": ["regular"],
     "subsets": ["cuneiform", "latin", "latin-ext"],
@@ -29049,6 +29036,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DkQ.ttf"
+  },
+  {
+    "family": "Noto Sans Brahmi",
+    "variants": ["regular"],
+    "subsets": ["brahmi", "latin", "latin-ext", "math", "symbols"],
+    "version": "v19",
+    "lastModified": "2024-02-29",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV18tK1W77HtMo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
   },
   {
     "family": "Noto Sans Chorasmian",
