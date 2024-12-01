@@ -27711,19 +27711,6 @@
     "menu": "https://fonts.gstatic.com/s/tsukimirounded/v11/sJoc3LJNksWZO0LvnZwkF3HtoB7dPHkP.woff2"
   },
   {
-    "family": "Noto Sans Coptic",
-    "variants": ["regular"],
-    "subsets": ["coptic", "latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2023-12-14",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscoptic/v21/iJWfBWmUZi_OHPqn4wq6kgqumOEd786_VG0xR4Y.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscoptic/v21/iJWfBWmUZi_OHPqn4wq6kgqumOEd38q1VQ.woff2"
-  },
-  {
     "family": "Moderustic",
     "variants": ["300", "regular", "500", "600", "700", "800"],
     "subsets": ["cyrillic", "cyrillic-ext", "greek", "latin", "latin-ext"],
@@ -27740,6 +27727,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/moderustic/v1/2-c39J9s3o6eLFNHFdXYaOX1UUnf3GLnYjALsQNf7Zc.woff2"
+  },
+  {
+    "family": "Noto Sans Coptic",
+    "variants": ["regular"],
+    "subsets": ["coptic", "latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2023-12-14",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscoptic/v21/iJWfBWmUZi_OHPqn4wq6kgqumOEd786_VG0xR4Y.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscoptic/v21/iJWfBWmUZi_OHPqn4wq6kgqumOEd38q1VQ.woff2"
   },
   {
     "family": "My Soul",
@@ -29232,6 +29232,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansnagmundari/v2/3qTAoi2hnSyU8TNFIdhZTyod3g5lBnKlQFk2kS9fr9Eq09RHRxirXUCK0g.woff2"
   },
   {
+    "family": "Noto Serif Dogra",
+    "variants": ["regular"],
+    "subsets": ["dogra", "latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2023-11-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fGyu3IbPzkns.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fKy-9IA.woff2"
+  },
+  {
     "family": "Playwrite HR",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -29246,19 +29259,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoBxYDdAQ.woff2"
-  },
-  {
-    "family": "Noto Serif Dogra",
-    "variants": ["regular"],
-    "subsets": ["dogra", "latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2023-11-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fGyu3IbPzkns.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fKy-9IA.woff2"
   },
   {
     "family": "Estonia",
