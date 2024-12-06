@@ -19807,19 +19807,6 @@
     "menu": "https://fonts.gstatic.com/s/fenix/v20/XoHo2YL_S7-g5rssITE.woff2"
   },
   {
-    "family": "Scope One",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v14",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/scopeone/v14/WBLnrEXKYFlGHrOKmGD1Xk_MJMGxiQ.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/scopeone/v14/WBLnrEXKYFlGHrOKmGDFWkXN.woff2"
-  },
-  {
     "family": "Vujahday Script",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -19831,6 +19818,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/vujahdayscript/v8/RWmQoKGA8fEkrIPtSZ3_J7er2dUSDUFu.woff2"
+  },
+  {
+    "family": "Scope One",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v14",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/scopeone/v14/WBLnrEXKYFlGHrOKmGD1Xk_MJMGxiQ.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/scopeone/v14/WBLnrEXKYFlGHrOKmGDFWkXN.woff2"
   },
   {
     "family": "Ceviche One",
@@ -30298,22 +30298,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteca/v4/z7NGdR_4cT0NOrEAIElil93uR_VhfhYaYOijHiqvUpyw1Q.woff2"
   },
   {
-    "family": "Playwrite PE",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-08-12",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesO2lsTPTFdtSgb_A.woff2",
-      "200": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesO-ltTPTFdtSgb_A.woff2",
-      "300": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesOzdtTPTFdtSgb_A.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesO2ltTPTFdtSgb_A.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesO2ltfPDPdw.woff2"
-  },
-  {
     "family": "Kay Pho Du",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["kayah-li", "latin", "latin-ext"],
@@ -30328,6 +30312,22 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR0OitLQ.woff2"
+  },
+  {
+    "family": "Playwrite PE",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-08-12",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesO2lsTPTFdtSgb_A.woff2",
+      "200": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesO-ltTPTFdtSgb_A.woff2",
+      "300": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesOzdtTPTFdtSgb_A.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesO2ltTPTFdtSgb_A.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesO2ltfPDPdw.woff2"
   },
   {
     "family": "Noto Sans Old North Arabian",
@@ -32023,19 +32023,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBI.woff2"
   },
   {
-    "family": "Noto Sans SignWriting",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "signwriting"],
-    "version": "v4",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUFFCARYQemg.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqB.woff2"
-  },
-  {
     "family": "Noto Sans Nabataean",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "nabataean"],
@@ -32047,6 +32034,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3hQ.woff2"
+  },
+  {
+    "family": "Noto Sans SignWriting",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "signwriting"],
+    "version": "v4",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUFFCARYQemg.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqB.woff2"
   },
   {
     "family": "Jacquarda Bastarda 9 Charted",

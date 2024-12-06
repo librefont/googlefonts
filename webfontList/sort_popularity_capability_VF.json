@@ -17726,19 +17726,6 @@
     "menu": "https://fonts.gstatic.com/s/fenix/v20/XoHo2YL_S7-g5rssITQ.ttf"
   },
   {
-    "family": "Scope One",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v14",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/scopeone/v14/WBLnrEXKYFlGHrOKmGD1W0_MJMGxiQ.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/scopeone/v14/WBLnrEXKYFlGHrOKmGDFWkXI.ttf"
-  },
-  {
     "family": "Vujahday Script",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -17750,6 +17737,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/vujahdayscript/v8/RWmQoKGA8fEkrIPtSZ3_J7er2dUSDUFr.ttf"
+  },
+  {
+    "family": "Scope One",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v14",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/scopeone/v14/WBLnrEXKYFlGHrOKmGD1W0_MJMGxiQ.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/scopeone/v14/WBLnrEXKYFlGHrOKmGDFWkXI.ttf"
   },
   {
     "family": "Ceviche One",
@@ -27820,6 +27820,22 @@
     ]
   },
   {
+    "family": "Kay Pho Du",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["kayah-li", "latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2024-09-04",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2B2OCDUy_zoyk18.ttf",
+      "600": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2DGJCDUy_zoyk18.ttf",
+      "700": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2FWICDUy_zoyk18.ttf",
+      "regular": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR4OmnLD0Z4zM.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR0OitKA.ttf"
+  },
+  {
     "family": "Playwrite PE",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -27838,22 +27854,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Kay Pho Du",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["kayah-li", "latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2024-09-04",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2B2OCDUy_zoyk18.ttf",
-      "600": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2DGJCDUy_zoyk18.ttf",
-      "700": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2FWICDUy_zoyk18.ttf",
-      "regular": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR4OmnLD0Z4zM.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR0OitKA.ttf"
   },
   {
     "family": "Noto Sans Old North Arabian",
@@ -29633,19 +29633,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBc.ttf"
   },
   {
-    "family": "Noto Sans SignWriting",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "signwriting"],
-    "version": "v4",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUEVCARYQemg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqE.ttf"
-  },
-  {
     "family": "Noto Sans Nabataean",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "nabataean"],
@@ -29657,6 +29644,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3gA.ttf"
+  },
+  {
+    "family": "Noto Sans SignWriting",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "signwriting"],
+    "version": "v4",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUEVCARYQemg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqE.ttf"
   },
   {
     "family": "Jacquarda Bastarda 9 Charted",
