@@ -28904,26 +28904,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
   },
   {
-    "family": "Playwrite RO",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v3",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritero/v3/gokpH6fuA1J7QPJ04HFTGSWHmNZEq6TTFw.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritero/v3/gok8H6fuA1J7QPJ04HFTGSWdk_S0czhwEf0j4a9YrZSGIg.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 400
-      }
-    ]
-  },
-  {
     "family": "Playwrite FR Trad",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -28935,6 +28915,26 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritefrtrad/v6/sJot3KxJjdGLJV3vyatrJE2pkQisWWMBP23HSIVI5tvAogv9d9Wb.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 400
+      }
+    ]
+  },
+  {
+    "family": "Playwrite RO",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v3",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritero/v3/gokpH6fuA1J7QPJ04HFTGSWHmNZEq6TTFw.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritero/v3/gok8H6fuA1J7QPJ04HFTGSWdk_S0czhwEf0j4a9YrZSGIg.ttf",
     "axes": [
       {
         "tag": "wght",
@@ -29588,19 +29588,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoV.ttf"
   },
   {
-    "family": "Noto Sans Phags Pa",
-    "variants": ["regular"],
-    "subsets": ["phags-pa"],
-    "version": "v15",
-    "lastModified": "2022-05-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansphagspa/v15/pxiZyoo6v8ZYyWh5WuPeJzMkd4SrGChkqkSsrvNXiA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansphagspa/v15/pxiZyoo6v8ZYyWh5WuPeJzMkd4SrGChUq06o.ttf"
-  },
-  {
     "family": "Noto Sans Nabataean",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "nabataean"],
@@ -29612,6 +29599,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3gA.ttf"
+  },
+  {
+    "family": "Noto Sans Phags Pa",
+    "variants": ["regular"],
+    "subsets": ["phags-pa"],
+    "version": "v15",
+    "lastModified": "2022-05-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansphagspa/v15/pxiZyoo6v8ZYyWh5WuPeJzMkd4SrGChkqkSsrvNXiA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansphagspa/v15/pxiZyoo6v8ZYyWh5WuPeJzMkd4SrGChUq06o.ttf"
   },
   {
     "family": "Noto Sans Buginese",
