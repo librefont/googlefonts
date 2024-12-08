@@ -22671,6 +22671,19 @@
     "menu": "https://fonts.gstatic.com/s/brunoace/v5/WwkcxPa2E06x4trkOj_UMaAI.ttf"
   },
   {
+    "family": "New Tegomin",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin", "latin-ext"],
+    "version": "v12",
+    "lastModified": "2024-12-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/newtegomin/v12/SLXMc1fV7Gd9USdBAfPlqfN0Q3ptkDMN.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/newtegomin/v12/SLXMc1fV7Gd9USdBAfPlqcN1SX4.ttf"
+  },
+  {
     "family": "Noto Sans Glagolitic",
     "variants": ["regular"],
     "subsets": [
@@ -22689,19 +22702,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansglagolitic/v18/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRL6g0.ttf"
-  },
-  {
-    "family": "New Tegomin",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin", "latin-ext"],
-    "version": "v12",
-    "lastModified": "2024-12-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/newtegomin/v12/SLXMc1fV7Gd9USdBAfPlqfN0Q3ptkDMN.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/newtegomin/v12/SLXMc1fV7Gd9USdBAfPlqcN1SX4.ttf"
   },
   {
     "family": "Romanesco",
@@ -23086,19 +23086,6 @@
     "colorCapabilities": ["COLRv0"]
   },
   {
-    "family": "Bungee Outline",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v21",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bungeeoutline/v21/_6_mEDvmVP24UvU2MyiGDslL3Qg3YhJqPXxo.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bungeeoutline/v21/_6_mEDvmVP24UvU2MyiGDslL3Tg2aBY.ttf"
-  },
-  {
     "family": "Chilanka",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "malayalam"],
@@ -23110,6 +23097,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/chilanka/v22/WWXRlj2DZQiMJYaYRoJRKdU.ttf"
+  },
+  {
+    "family": "Bungee Outline",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v21",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bungeeoutline/v21/_6_mEDvmVP24UvU2MyiGDslL3Qg3YhJqPXxo.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bungeeoutline/v21/_6_mEDvmVP24UvU2MyiGDslL3Tg2aBY.ttf"
   },
   {
     "family": "Trochut",
@@ -25585,6 +25585,26 @@
     "menu": "https://fonts.gstatic.com/s/islandmoments/v6/NaPBcZfVGvBdxIt7Ar0qzkXJF9THKIw.ttf"
   },
   {
+    "family": "Noto Serif Gujarati",
+    "variants": ["regular"],
+    "subsets": ["gujarati", "latin", "latin-ext", "math", "symbols"],
+    "version": "v27",
+    "lastModified": "2023-11-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifgujarati/v27/hESt6WBlOixO-3OJ1FTmTsmqlBRUJBVkaAhpVQOwBDU.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifgujarati/v27/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycLzvOVY.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ]
+  },
+  {
     "family": "M PLUS Code Latin",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -25606,26 +25626,6 @@
         "tag": "wght",
         "start": 100,
         "end": 700
-      }
-    ]
-  },
-  {
-    "family": "Noto Serif Gujarati",
-    "variants": ["regular"],
-    "subsets": ["gujarati", "latin", "latin-ext", "math", "symbols"],
-    "version": "v27",
-    "lastModified": "2023-11-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifgujarati/v27/hESt6WBlOixO-3OJ1FTmTsmqlBRUJBVkaAhpVQOwBDU.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifgujarati/v27/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycLzvOVY.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
       }
     ]
   },
@@ -29286,6 +29286,19 @@
     ]
   },
   {
+    "family": "Noto Sans Sogdian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "sogdian"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo--Pm6KHidM.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
+  },
+  {
     "family": "Playwrite ID",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -29304,19 +29317,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Noto Sans Sogdian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "sogdian"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo--Pm6KHidM.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
   },
   {
     "family": "Noto Sans Mayan Numerals",
