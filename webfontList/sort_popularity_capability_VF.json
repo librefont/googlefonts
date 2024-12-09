@@ -29516,19 +29516,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
   },
   {
-    "family": "Noto Sans Limbu",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "limbu"],
-    "version": "v24",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslimbu/v24/3JnlSDv90Gmq2mrzckOBBRRoNJVj0MF3OHRDnA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslimbu/v24/3JnlSDv90Gmq2mrzckOBBRRoNJVT0ctz.ttf"
-  },
-  {
     "family": "Noto Sans Kayah Li",
     "variants": ["regular"],
     "subsets": ["kayah-li", "latin", "latin-ext"],
@@ -29547,6 +29534,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Sans Limbu",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "limbu"],
+    "version": "v24",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslimbu/v24/3JnlSDv90Gmq2mrzckOBBRRoNJVj0MF3OHRDnA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslimbu/v24/3JnlSDv90Gmq2mrzckOBBRRoNJVT0ctz.ttf"
   },
   {
     "family": "Noto Sans Nushu",
