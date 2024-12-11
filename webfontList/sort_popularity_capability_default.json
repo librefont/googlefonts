@@ -26381,19 +26381,6 @@
     "menu": "https://fonts.gstatic.com/s/hanaleifill/v22/fC1mPYtObGbfyQznIaQzPQi8VgjF.ttf"
   },
   {
-    "family": "Noto Sans Tai Viet",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tai-viet"],
-    "version": "v19",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstaiviet/v19/8QIUdj3HhN_lv4jf9vsE-9GMOLsaSPZr644fWsRO9w.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstaiviet/v19/8QIUdj3HhN_lv4jf9vsE-9GMOLsaSPZb6oQb.ttf"
-  },
-  {
     "family": "Revalia",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -26405,6 +26392,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/revalia/v22/WwkexPimBE2-4ZPESVvkMA.ttf"
+  },
+  {
+    "family": "Noto Sans Tai Viet",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tai-viet"],
+    "version": "v19",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstaiviet/v19/8QIUdj3HhN_lv4jf9vsE-9GMOLsaSPZr644fWsRO9w.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstaiviet/v19/8QIUdj3HhN_lv4jf9vsE-9GMOLsaSPZb6oQb.ttf"
   },
   {
     "family": "Fruktur",
@@ -27780,6 +27780,20 @@
     "menu": "https://fonts.gstatic.com/s/lovelight/v6/t5tlIR0TNJyZWimpNAXDvKfIzQ.ttf"
   },
   {
+    "family": "Sedan",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-eOSiTpovf5b.ttf",
+      "italic": "https://fonts.gstatic.com/s/sedan/v1/Yq6U-L-VVyD6-dOQgz5KuO5bjxE.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-dOTgz4.ttf"
+  },
+  {
     "family": "Hubot Sans",
     "variants": [
       "200",
@@ -27823,20 +27837,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZtgbrR.ttf"
-  },
-  {
-    "family": "Sedan",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-eOSiTpovf5b.ttf",
-      "italic": "https://fonts.gstatic.com/s/sedan/v1/Yq6U-L-VVyD6-dOQgz5KuO5bjxE.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-dOTgz4.ttf"
   },
   {
     "family": "Vibes",

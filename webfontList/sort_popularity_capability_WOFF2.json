@@ -27780,6 +27780,20 @@
     "menu": "https://fonts.gstatic.com/s/lovelight/v6/t5tlIR0TNJyZWimpNAXDvKfIyA.woff2"
   },
   {
+    "family": "Sedan",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-eOXiTpovf5b.woff2",
+      "italic": "https://fonts.gstatic.com/s/sedan/v1/Yq6U-L-VVyD6-dOQgztKuO5bjxE.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-dOTgzs.woff2"
+  },
+  {
     "family": "Hubot Sans",
     "variants": [
       "200",
@@ -27823,20 +27837,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZtgbrU.woff2"
-  },
-  {
-    "family": "Sedan",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-eOXiTpovf5b.woff2",
-      "italic": "https://fonts.gstatic.com/s/sedan/v1/Yq6U-L-VVyD6-dOQgztKuO5bjxE.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-dOTgzs.woff2"
   },
   {
     "family": "Vibes",
@@ -31774,6 +31774,19 @@
     "menu": "https://fonts.gstatic.com/s/playwritehuguides/v1/AYCXpWvtftIVXepC5AzjCAdKgYPugOK0fq1ZJg.woff2"
   },
   {
+    "family": "Jacquard 24 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jacquard24charted/v3/mtGm4-dNK6HaudrE9VVKhENTsEXEYish0iFrMYJ_K-4.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jacquard24charted/v3/mtGm4-dNK6HaudrE9VVKhENTsEXEYish4iVhMA.woff2"
+  },
+  {
     "family": "Noto Sans Bassa Vah",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["bassa-vah", "latin", "latin-ext"],
@@ -31788,19 +31801,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansbassavah/v17/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAf6o1Yk.woff2"
-  },
-  {
-    "family": "Jacquard 24 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jacquard24charted/v3/mtGm4-dNK6HaudrE9VVKhENTsEXEYish0iFrMYJ_K-4.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jacquard24charted/v3/mtGm4-dNK6HaudrE9VVKhENTsEXEYish4iVhMA.woff2"
   },
   {
     "family": "Noto Sans Lydian",
@@ -31901,19 +31901,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritearguides/v2/iJWYBWqKZTrYS9uv-Ry6kDf-q_0Xq67mQGQQWg.woff2"
   },
   {
-    "family": "Playwrite NZ Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71Whoxq25PL5k.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71ah47qg.woff2"
-  },
-  {
     "family": "Noto Sans Tamil Supplement",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tamil-supplement"],
@@ -31925,6 +31912,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-I.woff2"
+  },
+  {
+    "family": "Playwrite NZ Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71Whoxq25PL5k.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71ah47qg.woff2"
   },
   {
     "family": "Playwrite AU TAS Guides",
