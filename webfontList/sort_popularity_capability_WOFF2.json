@@ -27780,20 +27780,6 @@
     "menu": "https://fonts.gstatic.com/s/lovelight/v6/t5tlIR0TNJyZWimpNAXDvKfIyA.woff2"
   },
   {
-    "family": "Sedan",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-eOXiTpovf5b.woff2",
-      "italic": "https://fonts.gstatic.com/s/sedan/v1/Yq6U-L-VVyD6-dOQgztKuO5bjxE.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-dOTgzs.woff2"
-  },
-  {
     "family": "Hubot Sans",
     "variants": [
       "200",
@@ -27837,6 +27823,20 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZtgbrU.woff2"
+  },
+  {
+    "family": "Sedan",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-eOXiTpovf5b.woff2",
+      "italic": "https://fonts.gstatic.com/s/sedan/v1/Yq6U-L-VVyD6-dOQgztKuO5bjxE.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-dOTgzs.woff2"
   },
   {
     "family": "Vibes",
