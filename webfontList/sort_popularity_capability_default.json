@@ -31272,17 +31272,17 @@
     "menu": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JajLu9Cw.ttf"
   },
   {
-    "family": "Noto Sans Inscriptional Parthian",
+    "family": "Noto Serif Old Uyghur",
     "variants": ["regular"],
-    "subsets": ["inscriptional-parthian", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2024-07-01",
+    "subsets": ["latin", "latin-ext", "old-uyghur"],
+    "version": "v4",
+    "lastModified": "2024-09-23",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansinscriptionalparthian/v17/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2yklBJ2jNkLlLr.ttf"
+      "regular": "https://fonts.gstatic.com/s/notoserifolduyghur/v4/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwnKumeF2yVgA.ttf"
     },
-    "category": "sans-serif",
+    "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansinscriptionalparthian/v17/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2ykmBI0Dc.ttf"
+    "menu": "https://fonts.gstatic.com/s/notoserifolduyghur/v4/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Oa.ttf"
   },
   {
     "family": "Noto Sans Tai Le",
@@ -31298,17 +31298,17 @@
     "menu": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Xw.ttf"
   },
   {
-    "family": "Noto Serif Old Uyghur",
+    "family": "Noto Sans Inscriptional Parthian",
     "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-uyghur"],
-    "version": "v4",
-    "lastModified": "2024-09-23",
+    "subsets": ["inscriptional-parthian", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2024-07-01",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifolduyghur/v4/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwnKumeF2yVgA.ttf"
+      "regular": "https://fonts.gstatic.com/s/notosansinscriptionalparthian/v17/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2yklBJ2jNkLlLr.ttf"
     },
-    "category": "serif",
+    "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifolduyghur/v4/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Oa.ttf"
+    "menu": "https://fonts.gstatic.com/s/notosansinscriptionalparthian/v17/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2ykmBI0Dc.ttf"
   },
   {
     "family": "Noto Sans Sundanese",
@@ -32275,19 +32275,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritero/v3/gok8H6fuA1J7QPJ04HFTGSWdk_S0czhwEf0j4a9YrZSGIg.ttf"
   },
   {
-    "family": "Noto Sans Linear B",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "linear-b"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737IV3BkFTq4EPw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RMB.ttf"
-  },
-  {
     "family": "Playwrite DE SAS",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -32302,6 +32289,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritedesas/v4/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgt6kQSE.ttf"
+  },
+  {
+    "family": "Noto Sans Linear B",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "linear-b"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737IV3BkFTq4EPw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RMB.ttf"
   },
   {
     "family": "Noto Sans Chorasmian",
