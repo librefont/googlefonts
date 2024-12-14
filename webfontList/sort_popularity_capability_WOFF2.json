@@ -26877,20 +26877,6 @@
     "menu": "https://fonts.gstatic.com/s/brunoace/v5/WwkcxPa2E06x4trkOj_UMaAN.woff2"
   },
   {
-    "family": "Inclusive Sans",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/inclusivesans/v1/0nkxC9biPuwflXcJ46P4PGWE097wowa2LB4i.woff2",
-      "italic": "https://fonts.gstatic.com/s/inclusivesans/v1/0nkzC9biPuwflXcJ46P4PGWE0-73qQeUKQ4iT6o.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/inclusivesans/v1/0nkxC9biPuwflXcJ46P4PGWE0-70qQc.woff2"
-  },
-  {
     "family": "Alumni Sans Pinstripe",
     "variants": ["regular", "italic"],
     "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
@@ -26903,6 +26889,20 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/alumnisanspinstripe/v6/ZgNNjOFFPq_AUJD1umyS30W-Xub8zD1ObheDY79J.woff2"
+  },
+  {
+    "family": "Inclusive Sans",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/inclusivesans/v1/0nkxC9biPuwflXcJ46P4PGWE097wowa2LB4i.woff2",
+      "italic": "https://fonts.gstatic.com/s/inclusivesans/v1/0nkzC9biPuwflXcJ46P4PGWE0-73qQeUKQ4iT6o.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/inclusivesans/v1/0nkxC9biPuwflXcJ46P4PGWE0-70qQc.woff2"
   },
   {
     "family": "Miss Fajardose",
@@ -32375,19 +32375,6 @@
     "menu": "https://fonts.gstatic.com/s/micro5charted/v1/hESp6XxmPDtTtADZhn7oD_yrmxE2REEI.woff2"
   },
   {
-    "family": "Noto Sans Mayan Numerals",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mayan-numerals"],
-    "version": "v16",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmayannumerals/v16/PlIuFk25O6RzLfvNNVSivR09_KqYMwvvDKYjfIiE7soo6eepYQ.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmayannumerals/v16/PlIuFk25O6RzLfvNNVSivR09_KqYMwvvDKYjfIi06sAp.woff2"
-  },
-  {
     "family": "Noto Sans Duployan",
     "variants": ["regular", "700"],
     "subsets": ["duployan", "latin", "latin-ext"],
@@ -32400,6 +32387,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gm.woff2"
+  },
+  {
+    "family": "Noto Sans Mayan Numerals",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mayan-numerals"],
+    "version": "v16",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmayannumerals/v16/PlIuFk25O6RzLfvNNVSivR09_KqYMwvvDKYjfIiE7soo6eepYQ.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmayannumerals/v16/PlIuFk25O6RzLfvNNVSivR09_KqYMwvvDKYjfIi06sAp.woff2"
   },
   {
     "family": "Noto Sans Siddham",
