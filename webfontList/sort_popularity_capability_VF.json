@@ -15255,6 +15255,19 @@
     "menu": "https://fonts.gstatic.com/s/muktamahee/v16/XRXQ3IOIi0hcP8iVU67hA9vMUTo.ttf"
   },
   {
+    "family": "Vast Shadow",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v19",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/vastshadow/v19/pe0qMImKOZ1V62ZwbVY9dfe6Kdpickwp.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/vastshadow/v19/pe0qMImKOZ1V62ZwbVY9dce7I94.ttf"
+  },
+  {
     "family": "Vesper Libre",
     "variants": ["regular", "500", "700", "900"],
     "subsets": ["devanagari", "latin", "latin-ext"],
@@ -15269,19 +15282,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/vesperlibre/v19/bx6CNxyWnf-uxPdXDHUD_RdIDkWJ.ttf"
-  },
-  {
-    "family": "Vast Shadow",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v19",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/vastshadow/v19/pe0qMImKOZ1V62ZwbVY9dfe6Kdpickwp.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/vastshadow/v19/pe0qMImKOZ1V62ZwbVY9dce7I94.ttf"
   },
   {
     "family": "Hi Melody",
@@ -29073,19 +29073,6 @@
     ]
   },
   {
-    "family": "Maname",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "sinhala", "vietnamese"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/maname/v1/gNMFW3J8RpCx9my42FkGGI6q_Q.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/maname/v1/gNMFW3J8RpCx9myI2VMC.ttf"
-  },
-  {
     "family": "Noto Sans Old Permic",
     "variants": ["regular"],
     "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
@@ -29097,6 +29084,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf"
+  },
+  {
+    "family": "Maname",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "sinhala", "vietnamese"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/maname/v1/gNMFW3J8RpCx9my42FkGGI6q_Q.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/maname/v1/gNMFW3J8RpCx9myI2VMC.ttf"
   },
   {
     "family": "Playwrite VN",
