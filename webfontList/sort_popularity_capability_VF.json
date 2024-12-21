@@ -29209,19 +29209,6 @@
     "menu": "https://fonts.gstatic.com/s/maname/v1/gNMFW3J8RpCx9myI2VMC.ttf"
   },
   {
-    "family": "Noto Sans Brahmi",
-    "variants": ["regular"],
-    "subsets": ["brahmi", "latin", "latin-ext", "math", "symbols"],
-    "version": "v19",
-    "lastModified": "2024-02-29",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV18tK1W77HtMo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
-  },
-  {
     "family": "Noto Sans Osage",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "osage"],
@@ -29233,6 +29220,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtnR1yW.ttf"
+  },
+  {
+    "family": "Noto Sans Brahmi",
+    "variants": ["regular"],
+    "subsets": ["brahmi", "latin", "latin-ext", "math", "symbols"],
+    "version": "v19",
+    "lastModified": "2024-02-29",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV18tK1W77HtMo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
   },
   {
     "family": "Noto Sans Newa",
@@ -29847,19 +29847,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gj.ttf"
   },
   {
-    "family": "Noto Sans Mandaic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mandaic"],
-    "version": "v17",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI5_A_gMk0izH.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
-  },
-  {
     "family": "Playwrite IN",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -29878,6 +29865,19 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Noto Sans Mandaic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mandaic"],
+    "version": "v17",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI5_A_gMk0izH.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
   },
   {
     "family": "Noto Sans Buginese",
