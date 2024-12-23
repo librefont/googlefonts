@@ -26449,6 +26449,19 @@
     "menu": "https://fonts.gstatic.com/s/fruktur/v27/SZc53FHsOru5QYsMTzzMlQ.ttf"
   },
   {
+    "family": "Siemreap",
+    "variants": ["regular"],
+    "subsets": ["khmer"],
+    "version": "v28",
+    "lastModified": "2023-08-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/siemreap/v28/Gg82N5oFbgLvHAfNl2YbnA8DLXpe.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/siemreap/v28/Gg82N5oFbgLvHAfNl1Yalgs.ttf"
+  },
+  {
     "family": "Noto Serif Sinhala",
     "variants": [
       "100",
@@ -26478,19 +26491,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifsinhala/v26/DtVEJwinQqclnZE2CnsPug9lgGC3y2F2nehQ7Eg4EdBKWxPiDxMivFLgRXs_-pGxR2Mtz6Y.ttf"
-  },
-  {
-    "family": "Siemreap",
-    "variants": ["regular"],
-    "subsets": ["khmer"],
-    "version": "v28",
-    "lastModified": "2023-08-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/siemreap/v28/Gg82N5oFbgLvHAfNl2YbnA8DLXpe.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/siemreap/v28/Gg82N5oFbgLvHAfNl1Yalgs.ttf"
   },
   {
     "family": "Moderustic",
@@ -30360,19 +30360,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritehuguides/v1/AYCXpWvtftIVXepC5AzjCAdKgYPugOK0fq1ZIw.ttf"
   },
   {
-    "family": "Jaini Purva",
-    "variants": ["regular"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jainipurva/v1/CHynV-vdHVXwbWcUswbUGHoOHH4sj3lR.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jainipurva/v1/CHynV-vdHVXwbWcUswbUGEoPFno.ttf"
-  },
-  {
     "family": "Noto Sans Imperial Aramaic",
     "variants": ["regular"],
     "subsets": ["imperial-aramaic", "latin", "latin-ext"],
@@ -30384,6 +30371,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansimperialaramaic/v17/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXI.ttf"
+  },
+  {
+    "family": "Jaini Purva",
+    "variants": ["regular"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jainipurva/v1/CHynV-vdHVXwbWcUswbUGHoOHH4sj3lR.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jainipurva/v1/CHynV-vdHVXwbWcUswbUGEoPFno.ttf"
   },
   {
     "family": "Playwrite AU NSW Guides",
