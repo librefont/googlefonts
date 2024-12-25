@@ -27656,19 +27656,6 @@
     ]
   },
   {
-    "family": "Playwrite CL Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hrNpVuw5_BAM.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf"
-  },
-  {
     "family": "Jaini Purva",
     "variants": ["regular"],
     "subsets": ["devanagari", "latin", "latin-ext"],
@@ -27680,6 +27667,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/jainipurva/v1/CHynV-vdHVXwbWcUswbUGEoPFno.ttf"
+  },
+  {
+    "family": "Playwrite CL Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hrNpVuw5_BAM.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf"
   },
   {
     "family": "Namdhinggo",
@@ -30364,19 +30364,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBc.ttf"
   },
   {
-    "family": "Noto Sans Hatran",
-    "variants": ["regular"],
-    "subsets": ["hatran", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_mM83r1nwzDs.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf"
-  },
-  {
     "family": "Noto Sans Kayah Li",
     "variants": ["regular"],
     "subsets": ["kayah-li", "latin", "latin-ext"],
@@ -30395,6 +30382,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Sans Hatran",
+    "variants": ["regular"],
+    "subsets": ["hatran", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_mM83r1nwzDs.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf"
   },
   {
     "family": "Noto Sans Mro",
