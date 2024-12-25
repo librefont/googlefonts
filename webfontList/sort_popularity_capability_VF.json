@@ -27656,19 +27656,6 @@
     ]
   },
   {
-    "family": "Jaini Purva",
-    "variants": ["regular"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jainipurva/v1/CHynV-vdHVXwbWcUswbUGHoOHH4sj3lR.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jainipurva/v1/CHynV-vdHVXwbWcUswbUGEoPFno.ttf"
-  },
-  {
     "family": "Playwrite CL Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -27680,6 +27667,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf"
+  },
+  {
+    "family": "Jaini Purva",
+    "variants": ["regular"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jainipurva/v1/CHynV-vdHVXwbWcUswbUGHoOHH4sj3lR.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jainipurva/v1/CHynV-vdHVXwbWcUswbUGEoPFno.ttf"
   },
   {
     "family": "Namdhinggo",
@@ -29688,19 +29688,6 @@
     ]
   },
   {
-    "family": "Noto Sans Cypriot",
-    "variants": ["regular"],
-    "subsets": ["cypriot", "latin", "latin-ext"],
-    "version": "v19",
-    "lastModified": "2023-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cxIsK5MPpahF.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZc.ttf"
-  },
-  {
     "family": "Playwrite IN",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -29719,6 +29706,19 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Noto Sans Cypriot",
+    "variants": ["regular"],
+    "subsets": ["cypriot", "latin", "latin-ext"],
+    "version": "v19",
+    "lastModified": "2023-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cxIsK5MPpahF.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZc.ttf"
   },
   {
     "family": "Jacquard 24 Charted",
