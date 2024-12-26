@@ -24685,19 +24685,6 @@
     "menu": "https://fonts.gstatic.com/s/micro5/v1/H4cnBX2MkcfEngTr4gca6A.ttf"
   },
   {
-    "family": "Jim Nightshade",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v20",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jimnightshade/v20/PlIkFlu9Pb08Q8HLM1PxmB0g-OS4V3qKaMxD.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jimnightshade/v20/PlIkFlu9Pb08Q8HLM1PxmB0g-NS5XX4.ttf"
-  },
-  {
     "family": "Love Light",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -24709,6 +24696,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/lovelight/v6/t5tlIR0TNJyZWimpNAXDvKfIzQ.ttf"
+  },
+  {
+    "family": "Jim Nightshade",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v20",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jimnightshade/v20/PlIkFlu9Pb08Q8HLM1PxmB0g-OS4V3qKaMxD.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jimnightshade/v20/PlIkFlu9Pb08Q8HLM1PxmB0g-NS5XX4.ttf"
   },
   {
     "family": "Plaster",
@@ -29688,6 +29688,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gj.ttf"
   },
   {
+    "family": "Noto Sans Chakma",
+    "variants": ["regular"],
+    "subsets": ["chakma", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi4JjTQhYBeYo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
+  },
+  {
     "family": "Noto Sans Hanifi Rohingya",
     "variants": ["regular"],
     "subsets": ["hanifi-rohingya", "latin", "latin-ext"],
@@ -29706,19 +29719,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Noto Sans Chakma",
-    "variants": ["regular"],
-    "subsets": ["chakma", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi4JjTQhYBeYo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
   },
   {
     "family": "Noto Sans Mandaic",
