@@ -29217,6 +29217,19 @@
     "menu": "https://fonts.gstatic.com/s/geostarfill/v26/AMOWz4SWuWiXFfjEohxQ9osEUliy.ttf"
   },
   {
+    "family": "Danfo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v3",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/danfo/v3/snf3s0u_98t16THfK1Csj3N41ZqbYDe5S71ToPrNKQ.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/danfo/v3/snf3s0u_98t16THfK1Csj3N41ZqbYDeJSrdX.ttf"
+  },
+  {
     "family": "Noto Serif Ethiopic",
     "variants": [
       "100",
@@ -29246,19 +29259,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifethiopic/v30/V8mjoR7-XjwJ8_Au3Ti5tXj5Rd83frpWLK4d-taxqWw2HMWjDxBAg5S_0QsrggxCzSUTkKm5.ttf"
-  },
-  {
-    "family": "Danfo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v3",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/danfo/v3/snf3s0u_98t16THfK1Csj3N41ZqbYDe5S71ToPrNKQ.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/danfo/v3/snf3s0u_98t16THfK1Csj3N41ZqbYDeJSrdX.ttf"
   },
   {
     "family": "Playwrite NL",
@@ -30521,19 +30521,6 @@
     "colorCapabilities": ["COLRv1", "SVG"]
   },
   {
-    "family": "Playwrite BE WAL Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUzHlVJabaOSA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUwHkXpI.ttf"
-  },
-  {
     "family": "Noto Sans Thaana",
     "variants": [
       "100",
@@ -30565,6 +30552,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansthaana/v24/C8c14dM-vnz-s-3jaEsxlxHkBH-WZOETXfoQrfQ9Y4XrbiLglOo.ttf"
   },
   {
+    "family": "Playwrite BE WAL Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUzHlVJabaOSA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUwHkXpI.ttf"
+  },
+  {
     "family": "Noto Sans Batak",
     "variants": ["regular"],
     "subsets": ["batak", "latin", "latin-ext"],
@@ -30591,19 +30591,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mtDHMeQ.ttf"
   },
   {
-    "family": "Noto Sans Linear A",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "linear-a"],
-    "version": "v18",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslineara/v18/oPWS_l16kP4jCuhpgEGmwJOiA18FZj22zmHQAGQicw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslineara/v18/oPWS_l16kP4jCuhpgEGmwJOiA18FZj2Gz2vU.ttf"
-  },
-  {
     "family": "Playwrite CZ Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30615,6 +30602,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteczguides/v1/6qLcKY0NtxD-qVlIPUIPeH4lUQa6B3ZZckoUvg.ttf"
+  },
+  {
+    "family": "Noto Sans Linear A",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "linear-a"],
+    "version": "v18",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslineara/v18/oPWS_l16kP4jCuhpgEGmwJOiA18FZj22zmHQAGQicw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslineara/v18/oPWS_l16kP4jCuhpgEGmwJOiA18FZj2Gz2vU.ttf"
   },
   {
     "family": "Yuji Hentaigana Akari",

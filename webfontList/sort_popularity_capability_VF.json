@@ -18878,19 +18878,6 @@
     "menu": "https://fonts.gstatic.com/s/ramaraja/v16/SlGTmQearpYAYG1CACIloHQ.ttf"
   },
   {
-    "family": "Miniver",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v25",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/miniver/v25/eLGcP-PxIg-5H0vC770Cy8r8fWA.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/miniver/v25/eLGcP-PxIg-5H0vC37wIzw.ttf"
-  },
-  {
     "family": "Diphylleia",
     "variants": ["regular"],
     "subsets": ["korean", "latin", "latin-ext"],
@@ -18902,6 +18889,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/diphylleia/v1/DtVmJxCtRKMixK4_HXsIil0s7g.ttf"
+  },
+  {
+    "family": "Miniver",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v25",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/miniver/v25/eLGcP-PxIg-5H0vC770Cy8r8fWA.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/miniver/v25/eLGcP-PxIg-5H0vC37wIzw.ttf"
   },
   {
     "family": "Bungee Spice",
@@ -24685,19 +24685,6 @@
     "menu": "https://fonts.gstatic.com/s/micro5/v1/H4cnBX2MkcfEngTr4gca6A.ttf"
   },
   {
-    "family": "Love Light",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v6",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/lovelight/v6/t5tlIR0TNJyZWimpNAXDjKbCyTHuspo.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/lovelight/v6/t5tlIR0TNJyZWimpNAXDvKfIzQ.ttf"
-  },
-  {
     "family": "Jim Nightshade",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -24709,6 +24696,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/jimnightshade/v20/PlIkFlu9Pb08Q8HLM1PxmB0g-NS5XX4.ttf"
+  },
+  {
+    "family": "Love Light",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v6",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/lovelight/v6/t5tlIR0TNJyZWimpNAXDjKbCyTHuspo.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/lovelight/v6/t5tlIR0TNJyZWimpNAXDvKfIzQ.ttf"
   },
   {
     "family": "Plaster",
@@ -26688,26 +26688,6 @@
     "menu": "https://fonts.gstatic.com/s/geostarfill/v26/AMOWz4SWuWiXFfjEohxQ9osEUliy.ttf"
   },
   {
-    "family": "Danfo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v3",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/danfo/v3/snfks0u_98t16SvUCZwCP8F9.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/danfo/v3/snf3s0u_98t16THfK1Csj3N41ZqbYDeJSrdX.ttf",
-    "axes": [
-      {
-        "tag": "ELSH",
-        "start": 0,
-        "end": 100
-      }
-    ]
-  },
-  {
     "family": "Noto Serif Ethiopic",
     "variants": ["regular"],
     "subsets": ["ethiopic", "latin", "latin-ext"],
@@ -26729,6 +26709,26 @@
         "tag": "wght",
         "start": 100,
         "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Danfo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v3",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/danfo/v3/snfks0u_98t16SvUCZwCP8F9.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/danfo/v3/snf3s0u_98t16THfK1Csj3N41ZqbYDeJSrdX.ttf",
+    "axes": [
+      {
+        "tag": "ELSH",
+        "start": 0,
+        "end": 100
       }
     ]
   },
@@ -28097,19 +28097,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mtDHMeQ.ttf"
   },
   {
-    "family": "Noto Sans Linear A",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "linear-a"],
-    "version": "v18",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslineara/v18/oPWS_l16kP4jCuhpgEGmwJOiA18FZj22zmHQAGQicw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslineara/v18/oPWS_l16kP4jCuhpgEGmwJOiA18FZj2Gz2vU.ttf"
-  },
-  {
     "family": "Playwrite CZ Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -28121,6 +28108,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteczguides/v1/6qLcKY0NtxD-qVlIPUIPeH4lUQa6B3ZZckoUvg.ttf"
+  },
+  {
+    "family": "Noto Sans Linear A",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "linear-a"],
+    "version": "v18",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslineara/v18/oPWS_l16kP4jCuhpgEGmwJOiA18FZj22zmHQAGQicw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslineara/v18/oPWS_l16kP4jCuhpgEGmwJOiA18FZj2Gz2vU.ttf"
   },
   {
     "family": "Yuji Hentaigana Akari",
@@ -29688,19 +29688,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gj.ttf"
   },
   {
-    "family": "Noto Sans Chakma",
-    "variants": ["regular"],
-    "subsets": ["chakma", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi4JjTQhYBeYo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
-  },
-  {
     "family": "Noto Sans Hanifi Rohingya",
     "variants": ["regular"],
     "subsets": ["hanifi-rohingya", "latin", "latin-ext"],
@@ -29719,6 +29706,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Sans Chakma",
+    "variants": ["regular"],
+    "subsets": ["chakma", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi4JjTQhYBeYo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
   },
   {
     "family": "Noto Sans Mandaic",
