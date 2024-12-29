@@ -16868,19 +16868,6 @@
     "menu": "https://fonts.gstatic.com/s/megrim/v17/46kulbz5WjvLqJZVbG_h.woff2"
   },
   {
-    "family": "Supermercado One",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v27",
-    "lastModified": "2024-11-20",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/supermercadoone/v27/OpNXnpQWg8jc_xps_Gi14kVVEXOn60P3MClBRTs.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/supermercadoone/v27/OpNXnpQWg8jc_xps_Gi14kVVEXOn20f9MQ.woff2"
-  },
-  {
     "family": "Fondamento",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -16893,6 +16880,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/fondamento/v20/4UaHrEJGsxNmFTPDnkaJ96zp5w.woff2"
+  },
+  {
+    "family": "Supermercado One",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v27",
+    "lastModified": "2024-11-20",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/supermercadoone/v27/OpNXnpQWg8jc_xps_Gi14kVVEXOn60P3MClBRTs.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/supermercadoone/v27/OpNXnpQWg8jc_xps_Gi14kVVEXOn20f9MQ.woff2"
   },
   {
     "family": "Cutive",
@@ -32219,6 +32219,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanskaithi/v22/buEtppS9f8_vkXadMBJJu0tWjLwjciwAdw.woff2"
   },
   {
+    "family": "Noto Sans Runic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "runic"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansrunic/v17/H4c_BXWPl9DZ0Xe_nHUaus7W68WWbhpvHtgIYg.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansrunic/v17/H4c_BXWPl9DZ0Xe_nHUaus7W68WmahBu.woff2"
+  },
+  {
     "family": "Noto Sans Hanifi Rohingya",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["hanifi-rohingya", "latin", "latin-ext"],
@@ -32233,19 +32246,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanshanifirohingya/v28/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4g6ut8o.woff2"
-  },
-  {
-    "family": "Noto Sans Runic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "runic"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansrunic/v17/H4c_BXWPl9DZ0Xe_nHUaus7W68WWbhpvHtgIYg.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansrunic/v17/H4c_BXWPl9DZ0Xe_nHUaus7W68WmahBu.woff2"
   },
   {
     "family": "Noto Sans Old Sogdian",
@@ -32767,20 +32767,17 @@
     "menu": "https://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeas5rU1E.woff2"
   },
   {
-    "family": "Playwrite BR",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v4",
-    "lastModified": "2024-08-12",
+    "family": "Noto Sans Mahajani",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mahajani"],
+    "version": "v19",
+    "lastModified": "2023-09-13",
     "files": {
-      "100": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOOFsLjAOVZBgs.woff2",
-      "200": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmNOPFsLjAOVZBgs.woff2",
-      "300": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmA2PFsLjAOVZBgs.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOPFsLjAOVZBgs.woff2"
+      "regular": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5FgsARHNh4zg.woff2"
     },
-    "category": "handwriting",
+    "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOPJsbpAQ.woff2"
+    "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoQ.woff2"
   },
   {
     "family": "Noto Sans Siddham",
@@ -32796,17 +32793,20 @@
     "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXM.woff2"
   },
   {
-    "family": "Noto Sans Mahajani",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mahajani"],
-    "version": "v19",
-    "lastModified": "2023-09-13",
+    "family": "Playwrite BR",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v4",
+    "lastModified": "2024-08-12",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5FgsARHNh4zg.woff2"
+      "100": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOOFsLjAOVZBgs.woff2",
+      "200": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmNOPFsLjAOVZBgs.woff2",
+      "300": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmA2PFsLjAOVZBgs.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOPFsLjAOVZBgs.woff2"
     },
-    "category": "sans-serif",
+    "category": "handwriting",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoQ.woff2"
+    "menu": "https://fonts.gstatic.com/s/playwritebr/v4/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOPJsbpAQ.woff2"
   },
   {
     "family": "Noto Sans Manichaean",
