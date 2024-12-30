@@ -23290,20 +23290,6 @@
     "menu": "https://fonts.gstatic.com/s/fascinateinline/v23/jVyR7mzzB3zc-jp6QCAu60poNqIy5gzIfA.woff2"
   },
   {
-    "family": "Honk",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/honk/v1/m8J7jftUea-XwTaemClumrBQbmvynOmXBji9zFhHRr8WFgVLprtNepQKvg.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/honk/v1/m8J7jftUea-XwTaemClumrBQbmvynOmXBji9zFhHRr8WFgV7orFM.woff2",
-    "colorCapabilities": ["COLRv1"]
-  },
-  {
     "family": "Edu TAS Beginner",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin"],
@@ -23318,6 +23304,20 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/edutasbeginner/v3/ZXuwe04WubHfGVY-1TcNg7AFUmshg8jIUTzK3r34f_HwelkqD2U.woff2"
+  },
+  {
+    "family": "Honk",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/honk/v1/m8J7jftUea-XwTaemClumrBQbmvynOmXBji9zFhHRr8WFgVLprtNepQKvg.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/honk/v1/m8J7jftUea-XwTaemClumrBQbmvynOmXBji9zFhHRr8WFgV7orFM.woff2",
+    "colorCapabilities": ["COLRv1"]
   },
   {
     "family": "Playwrite DE Grund",
@@ -24623,19 +24623,6 @@
     "menu": "https://fonts.gstatic.com/s/jacquesfrancois/v24/ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcLgoA.woff2"
   },
   {
-    "family": "Mrs Sheppards",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/mrssheppards/v23/PN_2Rfm9snC0XUGoEZhb91ig3v3xynMix4Y.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/mrssheppards/v23/PN_2Rfm9snC0XUGoEZhb91ig7vn7yw.woff2"
-  },
-  {
     "family": "Yeon Sung",
     "variants": ["regular"],
     "subsets": ["korean", "latin"],
@@ -24647,6 +24634,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/yeonsung/v21/QldMNTpbohAGtsJvUn6BSFlb.woff2"
+  },
+  {
+    "family": "Mrs Sheppards",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/mrssheppards/v23/PN_2Rfm9snC0XUGoEZhb91ig3v3xynMix4Y.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/mrssheppards/v23/PN_2Rfm9snC0XUGoEZhb91ig7vn7yw.woff2"
   },
   {
     "family": "Truculenta",
