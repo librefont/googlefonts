@@ -24488,19 +24488,6 @@
     "menu": "https://fonts.gstatic.com/s/lunasima/v1/wEO-EBvPh9RSOj7JFDwkcdo.ttf"
   },
   {
-    "family": "Gasoek One",
-    "variants": ["regular"],
-    "subsets": ["korean", "latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/gasoekone/v3/EJRTQgQ_UMUKvDgnlX80zrq_cyb-vco.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gasoekone/v3/EJRTQgQ_UMUKvDgnlX80_ru1dw.ttf"
-  },
-  {
     "family": "Hanalei Fill",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -24512,6 +24499,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/hanaleifill/v22/fC1mPYtObGbfyQznIaQzPQi8VgjF.ttf"
+  },
+  {
+    "family": "Gasoek One",
+    "variants": ["regular"],
+    "subsets": ["korean", "latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/gasoekone/v3/EJRTQgQ_UMUKvDgnlX80zrq_cyb-vco.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/gasoekone/v3/EJRTQgQ_UMUKvDgnlX80_ru1dw.ttf"
   },
   {
     "family": "Send Flowers",
@@ -27527,6 +27527,19 @@
     ]
   },
   {
+    "family": "Playwrite PL Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteplguides/v1/jVyW7m_lCm7G5CZyQCAu8mgkGLk-kmibWR3aRZ2Kw7A.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteplguides/v1/jVyW7m_lCm7G5CZyQCAu8mgkGLk-kmibaRzQQQ.ttf"
+  },
+  {
     "family": "Playwrite ZA",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -27545,19 +27558,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Playwrite PL Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteplguides/v1/jVyW7m_lCm7G5CZyQCAu8mgkGLk-kmibWR3aRZ2Kw7A.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteplguides/v1/jVyW7m_lCm7G5CZyQCAu8mgkGLk-kmibaRzQQQ.ttf"
   },
   {
     "family": "Playwrite NL",
@@ -28796,26 +28796,6 @@
     "menu": "https://fonts.gstatic.com/s/ponnala/v2/w8gaH2QxQOU08bbbnQqn3A.ttf"
   },
   {
-    "family": "Playwrite DK Loopet",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritedkloopet/v1/memiYbuzy2qb3rtJGfM1FvY-GacDcsPvr6v9WSCHpm8.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedkloopet/v1/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwdgQsw4.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 400
-      }
-    ]
-  },
-  {
     "family": "Playwrite CO",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -28827,6 +28807,26 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteco/v6/0FlGVP2Hl1iH-fv2BH4kJkgb8vH-rbJPTDqqx7ZIk-ZEFg.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 400
+      }
+    ]
+  },
+  {
+    "family": "Playwrite DK Loopet",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritedkloopet/v1/memiYbuzy2qb3rtJGfM1FvY-GacDcsPvr6v9WSCHpm8.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedkloopet/v1/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwdgQsw4.ttf",
     "axes": [
       {
         "tag": "wght",
@@ -29668,19 +29668,6 @@
     ]
   },
   {
-    "family": "Noto Sans Phoenician",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "phoenician"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5X7Jot-p5561.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqNs.ttf"
-  },
-  {
     "family": "Lisu Bosa",
     "variants": [
       "200",
@@ -29724,6 +29711,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/lisubosa/v2/3XFoErkv240fsdmJRJQflkHm.ttf"
+  },
+  {
+    "family": "Noto Sans Phoenician",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "phoenician"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5X7Jot-p5561.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqNs.ttf"
   },
   {
     "family": "Noto Sans Takri",
