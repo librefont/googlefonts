@@ -16609,19 +16609,6 @@
     "menu": "https://fonts.gstatic.com/s/himelody/v18/46ktlbP8Vnz0pJcqCTb0fmVA.ttf"
   },
   {
-    "family": "Libre Barcode 128 Text",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v28",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/librebarcode128text/v28/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5cV3Y6M90w4k.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/librebarcode128text/v28/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5QVzS7A.ttf"
-  },
-  {
     "family": "Wire One",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -16633,6 +16620,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/wireone/v28/qFdH35Wah5htUhV75VGjU94.ttf"
+  },
+  {
+    "family": "Libre Barcode 128 Text",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v28",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/librebarcode128text/v28/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5cV3Y6M90w4k.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/librebarcode128text/v28/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5QVzS7A.ttf"
   },
   {
     "family": "Fontdiner Swanky",
@@ -28364,6 +28364,22 @@
     "menu": "https://fonts.gstatic.com/s/playwritehuguides/v1/AYCXpWvtftIVXepC5AzjCAdKgYPugOK0fq1ZIw.ttf"
   },
   {
+    "family": "Kay Pho Du",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["kayah-li", "latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2024-09-04",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2B2OCDUy_zoyk18.ttf",
+      "600": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2DGJCDUy_zoyk18.ttf",
+      "700": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2FWICDUy_zoyk18.ttf",
+      "regular": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR4OmnLD0Z4zM.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR0OitKA.ttf"
+  },
+  {
     "family": "Playwrite SK",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -28382,22 +28398,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Kay Pho Du",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["kayah-li", "latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2024-09-04",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2B2OCDUy_zoyk18.ttf",
-      "600": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2DGJCDUy_zoyk18.ttf",
-      "700": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2FWICDUy_zoyk18.ttf",
-      "regular": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR4OmnLD0Z4zM.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR0OitKA.ttf"
   },
   {
     "family": "Playwrite AT Guides",
