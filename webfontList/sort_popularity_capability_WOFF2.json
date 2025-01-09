@@ -17975,6 +17975,19 @@
     "menu": "https://fonts.gstatic.com/s/slabo13px/v15/11hEGp_azEvXZUdSBzzRQKah2g.woff2"
   },
   {
+    "family": "Germania One",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v20",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/germaniaone/v20/Fh4yPjrqIyv2ucM2qzBjeS3eyQJONau6ew.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/germaniaone/v20/Fh4yPjrqIyv2ucM2qzBjeS3uzQhP.woff2"
+  },
+  {
     "family": "Bellota",
     "variants": ["300", "300italic", "regular", "italic", "700", "700italic"],
     "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
@@ -17991,19 +18004,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/bellota/v16/MwQ2bhXl3_qEpiwAKJNbtQ.woff2"
-  },
-  {
-    "family": "Germania One",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v20",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/germaniaone/v20/Fh4yPjrqIyv2ucM2qzBjeS3eyQJONau6ew.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/germaniaone/v20/Fh4yPjrqIyv2ucM2qzBjeS3uzQhP.woff2"
   },
   {
     "family": "Noto Sans Myanmar",
@@ -32231,19 +32231,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskayahli/v21/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3OZDyEA.woff2"
   },
   {
-    "family": "Noto Sans Bhaiksuki",
-    "variants": ["regular"],
-    "subsets": ["bhaiksuki", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhj8rfUdU4wh9U.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhjwrPedA.woff2"
-  },
-  {
     "family": "Noto Sans Modi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "modi"],
@@ -32255,6 +32242,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeas5rU1E.woff2"
+  },
+  {
+    "family": "Noto Sans Bhaiksuki",
+    "variants": ["regular"],
+    "subsets": ["bhaiksuki", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhj8rfUdU4wh9U.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhjwrPedA.woff2"
   },
   {
     "family": "Noto Sans Chorasmian",
