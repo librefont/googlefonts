@@ -29478,19 +29478,6 @@
     "menu": "https://fonts.gstatic.com/s/notoseriftangut/v16/xn76YGc72GKoTvER4Gn3b4m9Ern7El40d8o.woff2"
   },
   {
-    "family": "Jaini",
-    "variants": ["regular"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jaini/v1/fC1vPYJMbGHQzEmLK-ZSUHyt.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jaini/v1/fC1vPYJMbGHQzHmPIec.woff2"
-  },
-  {
     "family": "Estonia",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -29502,6 +29489,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/estonia/v11/7Au_p_4ijSecA1yHOCP2zw.woff2"
+  },
+  {
+    "family": "Jaini",
+    "variants": ["regular"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jaini/v1/fC1vPYJMbGHQzEmLK-ZSUHyt.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jaini/v1/fC1vPYJMbGHQzHmPIec.woff2"
   },
   {
     "family": "Annapurna SIL",
@@ -31524,22 +31524,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NG8.woff2"
   },
   {
-    "family": "Playwrite CL",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-08-12",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JbvL-3DyPNbus.woff2",
-      "200": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU0JavL-3DyPNbus.woff2",
-      "300": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU5xavL-3DyPNbus.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JavL-3DyPNbus.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JajLu9Dg.woff2"
-  },
-  {
     "family": "Playwrite CO",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31554,6 +31538,22 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteco/v6/0FlGVP2Hl1iH-fv2BH4kJkgb8vH-rbJPTDqqx7ZIk-ZEEw.woff2"
+  },
+  {
+    "family": "Playwrite CL",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-08-12",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JbvL-3DyPNbus.woff2",
+      "200": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU0JavL-3DyPNbus.woff2",
+      "300": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU5xavL-3DyPNbus.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JavL-3DyPNbus.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JajLu9Dg.woff2"
   },
   {
     "family": "Playwrite ES Deco",
