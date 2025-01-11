@@ -27065,19 +27065,6 @@
     ]
   },
   {
-    "family": "Noto Sans Avestan",
-    "variants": ["regular"],
-    "subsets": ["avestan", "latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansavestan/v21/bWti7ejKfBziStx7lIzKOLQZKhIJkyu9SASLji8U.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansavestan/v21/bWti7ejKfBziStx7lIzKOLQZKhIJkxu8QgA.ttf"
-  },
-  {
     "family": "Playwrite DE SAS Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -27089,6 +27076,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi16BFfNQ.ttf"
+  },
+  {
+    "family": "Noto Sans Avestan",
+    "variants": ["regular"],
+    "subsets": ["avestan", "latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansavestan/v21/bWti7ejKfBziStx7lIzKOLQZKhIJkyu9SASLji8U.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansavestan/v21/bWti7ejKfBziStx7lIzKOLQZKhIJkxu8QgA.ttf"
   },
   {
     "family": "Noto Serif Dogra",
@@ -28576,19 +28576,6 @@
     ]
   },
   {
-    "family": "Noto Sans Palmyrene",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "palmyrene"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCPnK5ZpdNtcA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnOzYg.ttf"
-  },
-  {
     "family": "Playwrite PT",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -28607,6 +28594,19 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Noto Sans Palmyrene",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "palmyrene"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCPnK5ZpdNtcA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspalmyrene/v16/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnOzYg.ttf"
   },
   {
     "family": "Noto Sans Mahajani",
