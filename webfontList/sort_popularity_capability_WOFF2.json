@@ -20402,6 +20402,19 @@
     "menu": "https://fonts.gstatic.com/s/lifesavers/v21/ZXuie1UftKKabUQMgxAal8lqHAs.woff2"
   },
   {
+    "family": "Borel",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
+    "version": "v3",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisgskYyMnOjwE.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisjsgaSI.woff2"
+  },
+  {
     "family": "Rosarivo",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -20414,19 +20427,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rosarivo/v22/PlI-Fl2lO6N9f8HaNDeD0Hk.woff2"
-  },
-  {
-    "family": "Borel",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
-    "version": "v3",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisgskYyMnOjwE.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisjsgaSI.woff2"
   },
   {
     "family": "Medula One",
@@ -32446,19 +32446,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskayahli/v21/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3OZDyEA.woff2"
   },
   {
-    "family": "Noto Sans Caucasian Albanian",
-    "variants": ["regular"],
-    "subsets": ["caucasian-albanian", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXrYXmoVmRSZo.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHsoA.woff2"
-  },
-  {
     "family": "Noto Sans Takri",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "takri"],
@@ -32470,6 +32457,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXX.woff2"
+  },
+  {
+    "family": "Noto Sans Caucasian Albanian",
+    "variants": ["regular"],
+    "subsets": ["caucasian-albanian", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXrYXmoVmRSZo.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHsoA.woff2"
   },
   {
     "family": "Noto Sans Elymaic",

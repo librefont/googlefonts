@@ -18263,6 +18263,19 @@
     "menu": "https://fonts.gstatic.com/s/lifesavers/v21/ZXuie1UftKKabUQMgxAal8lqHA4.ttf"
   },
   {
+    "family": "Borel",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
+    "version": "v3",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisgshYyMnOjwE.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisjsgaSc.ttf"
+  },
+  {
     "family": "Rosarivo",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -18275,19 +18288,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rosarivo/v22/PlI-Fl2lO6N9f8HaNDeD0Hw.ttf"
-  },
-  {
-    "family": "Borel",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
-    "version": "v3",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisgshYyMnOjwE.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisjsgaSc.ttf"
   },
   {
     "family": "Medula One",
@@ -29649,19 +29649,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
   },
   {
-    "family": "Noto Sans Sogdian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "sogdian"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo--Pm6KHidM.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
-  },
-  {
     "family": "Playwrite IE",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -29680,6 +29667,19 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Noto Sans Sogdian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "sogdian"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo--Pm6KHidM.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
   },
   {
     "family": "Noto Sans Osage",
