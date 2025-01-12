@@ -18263,6 +18263,19 @@
     "menu": "https://fonts.gstatic.com/s/lifesavers/v21/ZXuie1UftKKabUQMgxAal8lqHA4.ttf"
   },
   {
+    "family": "Borel",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
+    "version": "v3",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisgshYyMnOjwE.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisjsgaSc.ttf"
+  },
+  {
     "family": "Rosarivo",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -18275,19 +18288,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rosarivo/v22/PlI-Fl2lO6N9f8HaNDeD0Hw.ttf"
-  },
-  {
-    "family": "Borel",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
-    "version": "v3",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisgshYyMnOjwE.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/borel/v3/6qLOKZsftAPisjsgaSc.ttf"
   },
   {
     "family": "Medula One",
@@ -27799,19 +27799,6 @@
     "menu": "https://fonts.gstatic.com/s/puppiesplay/v9/wlp2gwHZEV99rG6M3NR9uB9faQhW.ttf"
   },
   {
-    "family": "Noto Sans PhagsPa",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "phags-pa", "symbols"],
-    "version": "v23",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansphagspa/v23/XLY8IYr5bJNDGYxPGjyYbaEjwQR-LFlsYMYHGGeT.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansphagspa/v23/XLY8IYr5bJNDGYxPGjyYbaEjwQR-LGltasI.ttf"
-  },
-  {
     "family": "Blaka Ink",
     "variants": ["regular"],
     "subsets": ["arabic", "latin", "latin-ext"],
@@ -27824,6 +27811,19 @@
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/blakaink/v8/AlZy_zVVtpj22Znag2cRdH38.ttf",
     "colorCapabilities": ["COLRv1", "SVG"]
+  },
+  {
+    "family": "Noto Sans PhagsPa",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "phags-pa", "symbols"],
+    "version": "v23",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansphagspa/v23/XLY8IYr5bJNDGYxPGjyYbaEjwQR-LFlsYMYHGGeT.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansphagspa/v23/XLY8IYr5bJNDGYxPGjyYbaEjwQR-LGltasI.ttf"
   },
   {
     "family": "Playwrite BE WAL Guides",
