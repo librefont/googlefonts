@@ -19895,6 +19895,20 @@
     "menu": "https://fonts.gstatic.com/s/vampiroone/v18/gokqH6DoDl5yXvJytFsdLnqmuPk.woff2"
   },
   {
+    "family": "Birthstone Bounce",
+    "variants": ["regular", "500"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v11",
+    "lastModified": "2024-09-04",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/birthstonebounce/v11/ga6SaxZF43lIvTWrktHOTBJZGH7dEd29MacVJZP1LmD9.woff2",
+      "regular": "https://fonts.gstatic.com/s/birthstonebounce/v11/ga6XaxZF43lIvTWrktHOTBJZGH7dEeVMGIMYDo_8.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/birthstonebounce/v11/ga6XaxZF43lIvTWrktHOTBJZGH7dEdVIEoI.woff2"
+  },
+  {
     "family": "Mohave",
     "variants": [
       "300",
@@ -19926,20 +19940,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/mohave/v9/7cH0v4ksjJunKqMVAOPIMOeSmiojdnn_LvGaow.woff2"
-  },
-  {
-    "family": "Birthstone Bounce",
-    "variants": ["regular", "500"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v11",
-    "lastModified": "2024-09-04",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/birthstonebounce/v11/ga6SaxZF43lIvTWrktHOTBJZGH7dEd29MacVJZP1LmD9.woff2",
-      "regular": "https://fonts.gstatic.com/s/birthstonebounce/v11/ga6XaxZF43lIvTWrktHOTBJZGH7dEeVMGIMYDo_8.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/birthstonebounce/v11/ga6XaxZF43lIvTWrktHOTBJZGH7dEdVIEoI.woff2"
   },
   {
     "family": "Convergence",
@@ -32797,19 +32797,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4HFRQJg.woff2"
   },
   {
-    "family": "Noto Sans Saurashtra",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "saurashtra"],
-    "version": "v23",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9nYjhPTSIx9.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBI.woff2"
-  },
-  {
     "family": "Noto Sans Modi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "modi"],
@@ -32821,6 +32808,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmodi/v23/pe03MIySN5pO62Z5YkFyT7jeas5rU1E.woff2"
+  },
+  {
+    "family": "Noto Sans Saurashtra",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "saurashtra"],
+    "version": "v23",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9nYjhPTSIx9.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBI.woff2"
   },
   {
     "family": "Noto Sans Soyombo",
