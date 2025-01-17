@@ -24345,19 +24345,6 @@
     "menu": "https://fonts.gstatic.com/s/fruktur/v27/SZc53FHsOru5QYsMTzzMlQ.ttf"
   },
   {
-    "family": "Bacasime Antique",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZOwStSUrV_BE.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZCwWnTQ.ttf"
-  },
-  {
     "family": "Aref Ruqaa Ink",
     "variants": ["regular", "700"],
     "subsets": ["arabic", "latin", "latin-ext"],
@@ -24371,6 +24358,19 @@
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/arefruqaaink/v10/1q2fY5WOGUFlt84GTOkP6Kdx71TgXoU.ttf",
     "colorCapabilities": ["COLRv1", "SVG"]
+  },
+  {
+    "family": "Bacasime Antique",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZOwStSUrV_BE.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZCwWnTQ.ttf"
   },
   {
     "family": "GFS Neohellenic",
@@ -30408,19 +30408,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlc.ttf"
   },
   {
-    "family": "Noto Sans Ogham",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "ogham"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hrt5laQxcoCA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf"
-  },
-  {
     "family": "Noto Sans Lycian",
     "variants": ["regular"],
     "subsets": ["lycian"],
@@ -30432,6 +30419,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQDA.ttf"
+  },
+  {
+    "family": "Noto Sans Ogham",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "ogham"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hrt5laQxcoCA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf"
   },
   {
     "family": "Noto Sans Kharoshthi",
