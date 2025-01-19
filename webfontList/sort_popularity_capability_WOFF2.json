@@ -29873,19 +29873,6 @@
     "menu": "https://fonts.gstatic.com/s/phetsarath/v1/N0bQ2SpTP-plK0uWayAYMd_3nA.woff2"
   },
   {
-    "family": "Noto Sans Imperial Aramaic",
-    "variants": ["regular"],
-    "subsets": ["imperial-aramaic", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2024-07-01",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansimperialaramaic/v17/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrtdjl3YfPNno.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansimperialaramaic/v17/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXc.woff2"
-  },
-  {
     "family": "Blaka Ink",
     "variants": ["regular"],
     "subsets": ["arabic", "latin", "latin-ext"],
@@ -29898,6 +29885,19 @@
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/blakaink/v8/AlZy_zVVtpj22Znag2cRdH35.woff2",
     "colorCapabilities": ["COLRv1", "SVG"]
+  },
+  {
+    "family": "Noto Sans Imperial Aramaic",
+    "variants": ["regular"],
+    "subsets": ["imperial-aramaic", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2024-07-01",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansimperialaramaic/v17/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrtdjl3YfPNno.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansimperialaramaic/v17/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXc.woff2"
   },
   {
     "family": "Playwrite CU Guides",
@@ -30808,19 +30808,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhAaqUpo.woff2"
   },
   {
-    "family": "Noto Sans Tamil Supplement",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tamil-supplement"],
-    "version": "v21",
-    "lastModified": "2023-06-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax_vpAeMkeq1x.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-I.woff2"
-  },
-  {
     "family": "Chokokutai",
     "variants": ["regular"],
     "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
@@ -30832,6 +30819,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fwsxy_4pw.woff2"
+  },
+  {
+    "family": "Noto Sans Tamil Supplement",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tamil-supplement"],
+    "version": "v21",
+    "lastModified": "2023-06-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax_vpAeMkeq1x.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-I.woff2"
   },
   {
     "family": "Playwrite US Trad Guides",
@@ -32443,6 +32443,19 @@
     "menu": "https://fonts.gstatic.com/s/micro5charted/v1/hESp6XxmPDtTtADZhn7oD_yrmxE2REEI.woff2"
   },
   {
+    "family": "Noto Sans Takri",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "takri"],
+    "version": "v24",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwQMe_W3khJXg.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXX.woff2"
+  },
+  {
     "family": "Noto Sans Kawi",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["kawi", "latin", "latin-ext"],
@@ -32457,19 +32470,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanskawi/v3/92zBtBJLNqsg7tCciW0EPHNNh1ZgbtGWiTYDjvnK4AhWC55z.woff2"
-  },
-  {
-    "family": "Noto Sans Takri",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "takri"],
-    "version": "v24",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwQMe_W3khJXg.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXX.woff2"
   },
   {
     "family": "Noto Sans Syriac",
