@@ -28093,19 +28093,6 @@
     ]
   },
   {
-    "family": "Noto Sans Tifinagh",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tifinagh"],
-    "version": "v20",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbn6rnEcXfs4Q.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PA.ttf"
-  },
-  {
     "family": "Noto Sans Ol Chiki",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "ol-chiki"],
@@ -28124,6 +28111,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Sans Tifinagh",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tifinagh"],
+    "version": "v20",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbn6rnEcXfs4Q.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PA.ttf"
   },
   {
     "family": "Noto Sans Deseret",
@@ -28152,19 +28152,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrUdMXmCA.ttf"
   },
   {
-    "family": "Playwrite US Modern Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteusmodernguides/v1/0QI1MWNf_4C2VH-yUr5uyqKOvtOynXAoku8j8Lv9pryxZQscrW1V.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteusmodernguides/v1/0QI1MWNf_4C2VH-yUr5uyqKOvtOynXAoku8j8Lv9poywbw8.ttf"
-  },
-  {
     "family": "Playwrite ES Deco Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -28176,6 +28163,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwaYUaH.ttf"
+  },
+  {
+    "family": "Playwrite US Modern Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteusmodernguides/v1/0QI1MWNf_4C2VH-yUr5uyqKOvtOynXAoku8j8Lv9pryxZQscrW1V.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteusmodernguides/v1/0QI1MWNf_4C2VH-yUr5uyqKOvtOynXAoku8j8Lv9poywbw8.ttf"
   },
   {
     "family": "Playwrite IE Guides",
