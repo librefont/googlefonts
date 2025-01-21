@@ -28110,26 +28110,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
   },
   {
-    "family": "Noto Sans Ol Chiki",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "ol-chiki"],
-    "version": "v29",
-    "lastModified": "2023-09-14",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansolchiki/v29/N0bI2TJNOPt-eHmFZCdQbrL32r-4CvhpBBaAT48zZA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansolchiki/v29/N0b92TJNOPt-eHmFZCdQbrL32r-4CvhzDzRwlxOQYuVALWk227MwhQ.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
-      }
-    ]
-  },
-  {
     "family": "Playwrite AU QLD",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -28146,6 +28126,26 @@
         "tag": "wght",
         "start": 100,
         "end": 400
+      }
+    ]
+  },
+  {
+    "family": "Noto Sans Ol Chiki",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "ol-chiki"],
+    "version": "v29",
+    "lastModified": "2023-09-14",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansolchiki/v29/N0bI2TJNOPt-eHmFZCdQbrL32r-4CvhpBBaAT48zZA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansolchiki/v29/N0b92TJNOPt-eHmFZCdQbrL32r-4CvhzDzRwlxOQYuVALWk227MwhQ.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
       }
     ]
   },
