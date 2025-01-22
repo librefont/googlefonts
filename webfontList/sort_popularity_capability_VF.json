@@ -24448,6 +24448,19 @@
     "menu": "https://fonts.gstatic.com/s/librebarcodeean13text/v22/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96_AWsg.ttf"
   },
   {
+    "family": "Hubballi",
+    "variants": ["regular"],
+    "subsets": ["kannada", "latin", "latin-ext"],
+    "version": "v8",
+    "lastModified": "2024-12-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/hubballi/v8/o-0JIpUj3WIZ1RFN56B7yBBNYuSF.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/hubballi/v8/o-0JIpUj3WIZ1RFN55B6whQ.ttf"
+  },
+  {
     "family": "Tiro Devanagari Marathi",
     "variants": ["regular", "italic"],
     "subsets": ["devanagari", "latin", "latin-ext"],
@@ -24460,19 +24473,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tirodevanagarimarathi/v5/fC1xPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkouDqBpI.ttf"
-  },
-  {
-    "family": "Hubballi",
-    "variants": ["regular"],
-    "subsets": ["kannada", "latin", "latin-ext"],
-    "version": "v8",
-    "lastModified": "2024-12-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/hubballi/v8/o-0JIpUj3WIZ1RFN56B7yBBNYuSF.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/hubballi/v8/o-0JIpUj3WIZ1RFN55B6whQ.ttf"
   },
   {
     "family": "Uchen",
@@ -26671,27 +26671,6 @@
     ]
   },
   {
-    "family": "Montserrat Underline",
-    "variants": ["regular", "italic"],
-    "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
-    "version": "v2",
-    "lastModified": "2024-12-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTuWaYfw6zH4dthXcyms01NtC8I_7U5uR4pxoPdAYRC.ttf",
-      "italic": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTgWaYfw6zH4dthXcyms01NtC8I_7U5uS4rzIf_BJRCymA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F5WihMuLzb.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
     "family": "Ubuntu Sans Mono",
     "variants": ["regular", "italic"],
     "subsets": [
@@ -26716,6 +26695,27 @@
         "tag": "wght",
         "start": 400,
         "end": 700
+      }
+    ]
+  },
+  {
+    "family": "Montserrat Underline",
+    "variants": ["regular", "italic"],
+    "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+    "version": "v2",
+    "lastModified": "2024-12-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTuWaYfw6zH4dthXcyms01NtC8I_7U5uR4pxoPdAYRC.ttf",
+      "italic": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTgWaYfw6zH4dthXcyms01NtC8I_7U5uS4rzIf_BJRCymA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F5WihMuLzb.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
       }
     ]
   },
