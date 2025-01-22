@@ -26671,27 +26671,6 @@
     ]
   },
   {
-    "family": "Montserrat Underline",
-    "variants": ["regular", "italic"],
-    "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
-    "version": "v2",
-    "lastModified": "2024-12-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTuWaYfw6zH4dthXcyms01NtC8I_7U5uR4pxoPdAYRC.ttf",
-      "italic": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTgWaYfw6zH4dthXcyms01NtC8I_7U5uS4rzIf_BJRCymA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F5WihMuLzb.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
     "family": "Ubuntu Sans Mono",
     "variants": ["regular", "italic"],
     "subsets": [
@@ -26716,6 +26695,27 @@
         "tag": "wght",
         "start": 400,
         "end": 700
+      }
+    ]
+  },
+  {
+    "family": "Montserrat Underline",
+    "variants": ["regular", "italic"],
+    "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
+    "version": "v2",
+    "lastModified": "2024-12-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTuWaYfw6zH4dthXcyms01NtC8I_7U5uR4pxoPdAYRC.ttf",
+      "italic": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTgWaYfw6zH4dthXcyms01NtC8I_7U5uS4rzIf_BJRCymA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F5WihMuLzb.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
       }
     ]
   },
@@ -27665,19 +27665,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritehrlijevaguides/v1/uU9aCAgH7I63K35cu3bRkqamzjr8EW133LJaXDO-QNbgijw.ttf"
   },
   {
-    "family": "Playwrite ES Deco Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwqYEyDBQWJ7Q.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwaYUaH.ttf"
-  },
-  {
     "family": "Playwrite DE Grund Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -27689,6 +27676,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritedegrundguides/v1/OD5RuNCQ02KrAHnha1L36CWcQ83dtK5BLxqexndub94ZIg.ttf"
+  },
+  {
+    "family": "Playwrite ES Deco Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwqYEyDBQWJ7Q.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwaYUaH.ttf"
   },
   {
     "family": "Noto Sans Thaana",

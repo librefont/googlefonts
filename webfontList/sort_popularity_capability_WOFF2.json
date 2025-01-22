@@ -26934,19 +26934,6 @@
     "menu": "https://fonts.gstatic.com/s/librebarcodeean13text/v22/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96_AWsl.woff2"
   },
   {
-    "family": "Hubballi",
-    "variants": ["regular"],
-    "subsets": ["kannada", "latin", "latin-ext"],
-    "version": "v8",
-    "lastModified": "2024-12-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/hubballi/v8/o-0JIpUj3WIZ1RFN56B-yBBNYuSF.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/hubballi/v8/o-0JIpUj3WIZ1RFN55B6whE.woff2"
-  },
-  {
     "family": "Tiro Devanagari Marathi",
     "variants": ["regular", "italic"],
     "subsets": ["devanagari", "latin", "latin-ext"],
@@ -26959,6 +26946,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tirodevanagarimarathi/v5/fC1xPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkouDqBpc.woff2"
+  },
+  {
+    "family": "Hubballi",
+    "variants": ["regular"],
+    "subsets": ["kannada", "latin", "latin-ext"],
+    "version": "v8",
+    "lastModified": "2024-12-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/hubballi/v8/o-0JIpUj3WIZ1RFN56B-yBBNYuSF.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/hubballi/v8/o-0JIpUj3WIZ1RFN55B6whE.woff2"
   },
   {
     "family": "Uchen",
@@ -29175,6 +29175,42 @@
     "menu": "https://fonts.gstatic.com/s/playwritefrmoderne/v4/3y9L6awucz3w5m4FFTzKolJRXhUk_u1yWtWmFCJcqUBvK5aJuAKfA1T5.woff2"
   },
   {
+    "family": "Ubuntu Sans Mono",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic"
+    ],
+    "subsets": [
+      "cyrillic",
+      "cyrillic-ext",
+      "greek",
+      "greek-ext",
+      "latin",
+      "latin-ext"
+    ],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyc7mzgBHrR5yE7ZyRg0QRJMKI4zAbgjc1t-pKe27Ed_kYUiqcZu3n0.woff2",
+      "600": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyc7mzgBHrR5yE7ZyRg0QRJMKI4zAbgjc1t-pKe27Hx-UYUiqcZu3n0.woff2",
+      "700": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyc7mzgBHrR5yE7ZyRg0QRJMKI4zAbgjc1t-pKe27HI-UYUiqcZu3n0.woff2",
+      "regular": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyc7mzgBHrR5yE7ZyRg0QRJMKI4zAbgjc1t-pKe27Ev_kYUiqcZu3n0.woff2",
+      "italic": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyi7mzgBHrR5yE7ZyRg0QRJMKI45g_SchUEkQgw3KTnva5SgKY7vmn0BLE.woff2",
+      "500italic": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyi7mzgBHrR5yE7ZyRg0QRJMKI45g_SchUEkQgw3KTnvZxSgKY7vmn0BLE.woff2",
+      "600italic": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyi7mzgBHrR5yE7ZyRg0QRJMKI45g_SchUEkQgw3KTnvXBVgKY7vmn0BLE.woff2",
+      "700italic": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyi7mzgBHrR5yE7ZyRg0QRJMKI45g_SchUEkQgw3KTnvUlVgKY7vmn0BLE.woff2"
+    },
+    "category": "monospace",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyc7mzgBHrR5yE7ZyRg0QRJMKI4zAbgjc1t-pKe27Ev_nYQgKY.woff2"
+  },
+  {
     "family": "Montserrat Underline",
     "variants": [
       "100",
@@ -29222,42 +29258,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F5WihMuLze.woff2"
-  },
-  {
-    "family": "Ubuntu Sans Mono",
-    "variants": [
-      "regular",
-      "500",
-      "600",
-      "700",
-      "italic",
-      "500italic",
-      "600italic",
-      "700italic"
-    ],
-    "subsets": [
-      "cyrillic",
-      "cyrillic-ext",
-      "greek",
-      "greek-ext",
-      "latin",
-      "latin-ext"
-    ],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyc7mzgBHrR5yE7ZyRg0QRJMKI4zAbgjc1t-pKe27Ed_kYUiqcZu3n0.woff2",
-      "600": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyc7mzgBHrR5yE7ZyRg0QRJMKI4zAbgjc1t-pKe27Hx-UYUiqcZu3n0.woff2",
-      "700": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyc7mzgBHrR5yE7ZyRg0QRJMKI4zAbgjc1t-pKe27HI-UYUiqcZu3n0.woff2",
-      "regular": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyc7mzgBHrR5yE7ZyRg0QRJMKI4zAbgjc1t-pKe27Ev_kYUiqcZu3n0.woff2",
-      "italic": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyi7mzgBHrR5yE7ZyRg0QRJMKI45g_SchUEkQgw3KTnva5SgKY7vmn0BLE.woff2",
-      "500italic": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyi7mzgBHrR5yE7ZyRg0QRJMKI45g_SchUEkQgw3KTnvZxSgKY7vmn0BLE.woff2",
-      "600italic": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyi7mzgBHrR5yE7ZyRg0QRJMKI45g_SchUEkQgw3KTnvXBVgKY7vmn0BLE.woff2",
-      "700italic": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyi7mzgBHrR5yE7ZyRg0QRJMKI45g_SchUEkQgw3KTnvUlVgKY7vmn0BLE.woff2"
-    },
-    "category": "monospace",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/ubuntusansmono/v1/jVyc7mzgBHrR5yE7ZyRg0QRJMKI4zAbgjc1t-pKe27Ev_nYQgKY.woff2"
   },
   {
     "family": "Annapurna SIL",
@@ -32552,6 +32552,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuU.woff2"
   },
   {
+    "family": "Jacquarda Bastarda 9 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "version": "v2",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v2/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuf0IPaL8pmQg.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v2/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0YFaQ.woff2"
+  },
+  {
     "family": "Noto Sans Syriac",
     "variants": [
       "100",
@@ -32581,19 +32594,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssyriac/v16/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5Y.woff2"
-  },
-  {
-    "family": "Jacquarda Bastarda 9 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols"],
-    "version": "v2",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v2/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuf0IPaL8pmQg.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v2/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0YFaQ.woff2"
   },
   {
     "family": "Noto Sans Modi",
