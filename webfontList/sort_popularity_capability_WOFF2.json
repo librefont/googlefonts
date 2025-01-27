@@ -19785,6 +19785,19 @@
     "menu": "https://fonts.gstatic.com/s/shojumaru/v15/rax_HiWfutkLLnaKCtl8BRhf.woff2"
   },
   {
+    "family": "Dekko",
+    "variants": ["regular"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/dekko/v21/46khlb_wWjfSrttAR0vsfl1B.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/dekko/v21/46khlb_wWjfSrutETUo.woff2"
+  },
+  {
     "family": "Baloo Tammudu 2",
     "variants": ["regular", "500", "600", "700", "800"],
     "subsets": ["latin", "latin-ext", "telugu", "vietnamese"],
@@ -19800,19 +19813,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/balootammudu2/v23/1Pt5g8TIS_SAmkLguUdFP8UaJcKkzlPmMT00GaE_Jf8e0c-FZA.woff2"
-  },
-  {
-    "family": "Dekko",
-    "variants": ["regular"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/dekko/v21/46khlb_wWjfSrttAR0vsfl1B.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/dekko/v21/46khlb_wWjfSrutETUo.woff2"
   },
   {
     "family": "Charmonman",
@@ -21499,23 +21499,6 @@
     "menu": "https://fonts.gstatic.com/s/gentiumplus/v2/Iurd6Ytw-oSPaZ00r2bNe8VZjZFN.woff2"
   },
   {
-    "family": "Tillana",
-    "variants": ["regular", "500", "600", "700", "800"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v13",
-    "lastModified": "2024-09-04",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQFL-HIxMZRNcp0o.woff2",
-      "600": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQH75HIxMZRNcp0o.woff2",
-      "700": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQBr4HIxMZRNcp0o.woff2",
-      "800": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQAb7HIxMZRNcp0o.woff2",
-      "regular": "https://fonts.gstatic.com/s/tillana/v13/VuJxdNvf35P4qJ1OeKPXOIFneRo.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/tillana/v13/VuJxdNvf35P4qJ1OSKfdOQ.woff2"
-  },
-  {
     "family": "Texturina",
     "variants": [
       "100",
@@ -21563,6 +21546,23 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/texturina/v28/c4mM1nxpEtL3pXiAulRTkY-HGmNEX1b9NspjMwhAgliHhVrXy2eYGsUh0Zs.woff2"
+  },
+  {
+    "family": "Tillana",
+    "variants": ["regular", "500", "600", "700", "800"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v13",
+    "lastModified": "2024-09-04",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQFL-HIxMZRNcp0o.woff2",
+      "600": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQH75HIxMZRNcp0o.woff2",
+      "700": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQBr4HIxMZRNcp0o.woff2",
+      "800": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQAb7HIxMZRNcp0o.woff2",
+      "regular": "https://fonts.gstatic.com/s/tillana/v13/VuJxdNvf35P4qJ1OeKPXOIFneRo.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/tillana/v13/VuJxdNvf35P4qJ1OSKfdOQ.woff2"
   },
   {
     "family": "Scheherazade New",
@@ -30904,19 +30904,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpApGGHQ.woff2"
   },
   {
-    "family": "Noto Sans Elbasan",
-    "variants": ["regular"],
-    "subsets": ["elbasan", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvHdgre4dFcFh.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvEdkp-8.woff2"
-  },
-  {
     "family": "Playwrite PL",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -30931,6 +30918,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritepl/v3/0QIyMXVf_4C2VH-yUr5uz72U-LQiKJ_9tb1WmRfbxZ2RSg.woff2"
+  },
+  {
+    "family": "Noto Sans Elbasan",
+    "variants": ["regular"],
+    "subsets": ["elbasan", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvHdgre4dFcFh.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvEdkp-8.woff2"
   },
   {
     "family": "Noto Sans Tai Le",
