@@ -17656,19 +17656,6 @@
     "menu": "https://fonts.gstatic.com/s/shojumaru/v15/rax_HiWfutkLLnaKCtl8BRha.ttf"
   },
   {
-    "family": "Dekko",
-    "variants": ["regular"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/dekko/v21/46khlb_wWjfSrttFR0vsfl1B.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/dekko/v21/46khlb_wWjfSrutETU8.ttf"
-  },
-  {
     "family": "Baloo Tammudu 2",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "telugu", "vietnamese"],
@@ -17687,6 +17674,19 @@
         "end": 800
       }
     ]
+  },
+  {
+    "family": "Dekko",
+    "variants": ["regular"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/dekko/v21/46khlb_wWjfSrttFR0vsfl1B.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/dekko/v21/46khlb_wWjfSrutETU8.ttf"
   },
   {
     "family": "Charmonman",
@@ -19246,6 +19246,23 @@
     "menu": "https://fonts.gstatic.com/s/gentiumplus/v2/Iurd6Ytw-oSPaZ00r2bNe8VZjZFI.ttf"
   },
   {
+    "family": "Tillana",
+    "variants": ["regular", "500", "600", "700", "800"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v13",
+    "lastModified": "2024-09-04",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQFL-HIlMZRNcp0o.ttf",
+      "600": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQH75HIlMZRNcp0o.ttf",
+      "700": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQBr4HIlMZRNcp0o.ttf",
+      "800": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQAb7HIlMZRNcp0o.ttf",
+      "regular": "https://fonts.gstatic.com/s/tillana/v13/VuJxdNvf35P4qJ1OeKbXOIFneRo.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/tillana/v13/VuJxdNvf35P4qJ1OSKfdPA.ttf"
+  },
+  {
     "family": "Texturina",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -19270,23 +19287,6 @@
         "end": 900
       }
     ]
-  },
-  {
-    "family": "Tillana",
-    "variants": ["regular", "500", "600", "700", "800"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v13",
-    "lastModified": "2024-09-04",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQFL-HIlMZRNcp0o.ttf",
-      "600": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQH75HIlMZRNcp0o.ttf",
-      "700": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQBr4HIlMZRNcp0o.ttf",
-      "800": "https://fonts.gstatic.com/s/tillana/v13/VuJ0dNvf35P4qJ1OQAb7HIlMZRNcp0o.ttf",
-      "regular": "https://fonts.gstatic.com/s/tillana/v13/VuJxdNvf35P4qJ1OeKbXOIFneRo.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/tillana/v13/VuJxdNvf35P4qJ1OSKfdPA.ttf"
   },
   {
     "family": "Scheherazade New",
@@ -23894,19 +23894,6 @@
     "menu": "https://fonts.gstatic.com/s/lunasima/v1/wEO-EBvPh9RSOj7JFDwkcdo.ttf"
   },
   {
-    "family": "Arbutus",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v28",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/arbutus/v28/NaPYcZ7dG_5J3poob9JtryO8fMU.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/arbutus/v28/NaPYcZ7dG_5J3pooX9Nnqw.ttf"
-  },
-  {
     "family": "Alumni Sans Pinstripe",
     "variants": ["regular", "italic"],
     "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
@@ -23919,6 +23906,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/alumnisanspinstripe/v6/ZgNNjOFFPq_AUJD1umyS30W-Xub8zD1ObheDY79M.ttf"
+  },
+  {
+    "family": "Arbutus",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v28",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/arbutus/v28/NaPYcZ7dG_5J3poob9JtryO8fMU.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/arbutus/v28/NaPYcZ7dG_5J3pooX9Nnqw.ttf"
   },
   {
     "family": "Diplomata SC",
