@@ -22858,19 +22858,6 @@
     ]
   },
   {
-    "family": "Poor Story",
-    "variants": ["regular"],
-    "subsets": ["korean", "latin"],
-    "version": "v23",
-    "lastModified": "2024-11-20",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/poorstory/v23/jizfREFUsnUct9P6cDfd4OmnLD0Z4zM.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/poorstory/v23/jizfREFUsnUct9P6cDfd0OitKA.ttf"
-  },
-  {
     "family": "Playwrite AU SA",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -22889,6 +22876,19 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Poor Story",
+    "variants": ["regular"],
+    "subsets": ["korean", "latin"],
+    "version": "v23",
+    "lastModified": "2024-11-20",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/poorstory/v23/jizfREFUsnUct9P6cDfd4OmnLD0Z4zM.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/poorstory/v23/jizfREFUsnUct9P6cDfd0OitKA.ttf"
   },
   {
     "family": "Rubik Distressed",
@@ -27869,19 +27869,6 @@
     ]
   },
   {
-    "family": "Jersey 20 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey20charted/v2/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn_Z1ji-rqnQ_.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey20charted/v2/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn8Z0hCs.ttf"
-  },
-  {
     "family": "Noto Sans Old North Arabian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "old-north-arabian"],
@@ -27893,6 +27880,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansoldnortharabian/v16/esDF30BdNv-KYGGJpKGk2tNiMt7Jar6olZDyNdr81zBgmEA7.ttf"
+  },
+  {
+    "family": "Jersey 20 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey20charted/v2/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn_Z1ji-rqnQ_.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey20charted/v2/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn8Z0hCs.ttf"
   },
   {
     "family": "Playwrite IS Guides",
