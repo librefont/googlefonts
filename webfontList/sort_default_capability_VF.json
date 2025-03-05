@@ -3373,26 +3373,6 @@
     ]
   },
   {
-    "family": "Big Shoulders Display",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v21",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1_PZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1sy9rvLpMc2g.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1MPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx12wPgf9g-_3F0YdY87FF8wTQ.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
     "family": "Big Shoulders Inline",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -3418,46 +3398,6 @@
     ]
   },
   {
-    "family": "Big Shoulders Inline Display",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v27",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bigshouldersinlinedisplay/v27/_LObmyfF4eSU_SCrJc9OI24U7siGvBGcZqmqV9-ZZ85CAtiniAptAoU.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bigshouldersinlinedisplay/v27/_LOumyfF4eSU_SCrJc9OI24U7siGvBGcZqmqV9-ZZ85CGNOFeNLxoYMPJ0nBE0R4wvM.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
-    "family": "Big Shoulders Inline Text",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v26",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bigshouldersinlinetext/v26/vm8kdQDmVECV5-vm5dJ-Tp-6WDeRjL4RV7dP8u-NKSr6H1I1A9U.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bigshouldersinlinetext/v26/vm8XdQDmVECV5-vm5dJ-Tp-6WDeRjL4RV7dP8u-NMyHY74qpoNNcwga0y5GM54o.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
     "family": "Big Shoulders Stencil",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -3475,66 +3415,6 @@
         "start": 10,
         "end": 72
       },
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
-    "family": "Big Shoulders Stencil Display",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v28",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeq4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPysiQ2HMJz0ji.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_O0j_KXbj.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
-    "family": "Big Shoulders Stencil Text",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v26",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bigshouldersstenciltext/v26/5aUg9-i2oxDMNwY3dHfW7UAt3Q453SM15wNj53bCcbz9ambTsehi.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bigshouldersstenciltext/v26/5aUV9-i2oxDMNwY3dHfW7UAt3Q453SM15wNj53bCcab2SJYLLUtk1OGR04T4GCXL.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
-    "family": "Big Shoulders Text",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v24",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xxezRtP9G3CGPIf49hxc8P0eytUxBsnIx7QMISdQ.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TMFMg.ttf",
-    "axes": [
       {
         "tag": "wght",
         "start": 100,
@@ -10587,6 +10467,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/imfellgreatprimersc/v21/ga6daxBOxyt6sCqz3fjZCTFCTUDMHagsQKdDTIf8D3g.ttf"
+  },
+  {
+    "family": "Iansui",
+    "variants": ["regular"],
+    "subsets": ["chinese-hongkong", "latin", "latin-ext", "symbols2"],
+    "version": "v2",
+    "lastModified": "2025-03-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/iansui/v2/w8gbH2UoTuUp5bOajSGD1FcXoQ.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/iansui/v2/w8gbH2UoTuUp5bOqjCuH.ttf"
   },
   {
     "family": "Ibarra Real Nova",
