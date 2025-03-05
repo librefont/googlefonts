@@ -14587,32 +14587,34 @@
   },
   {
     "family": "Merriweather",
-    "variants": [
-      "300",
-      "300italic",
-      "regular",
-      "italic",
-      "700",
-      "700italic",
-      "900",
-      "900italic"
-    ],
+    "variants": ["regular", "italic"],
     "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
-    "version": "v30",
-    "lastModified": "2024-09-04",
+    "version": "v31",
+    "lastModified": "2025-03-05",
     "files": {
-      "300": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRpX837pvjxPA.ttf",
-      "700": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNpX837pvjxPA.ttf",
-      "900": "https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFpX837pvjxPA.ttf",
-      "300italic": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7lXcf_hP3hPGWH.ttf",
-      "regular": "https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5OeyxNV-bnrw.ttf",
-      "italic": "https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eSZJdeP3r-Ho.ttf",
-      "700italic": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR71Wsf_hP3hPGWH.ttf",
-      "900italic": "https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7NWMf_hP3hPGWH.ttf"
+      "regular": "https://fonts.gstatic.com/s/merriweather/v31/u-440qyriQwlOrhSvowK_l5OeyxNV-bnrw.ttf",
+      "italic": "https://fonts.gstatic.com/s/merriweather/v31/u-4m0qyriQwlOrhSvowK_l5-eSZJdeP3r-Ho.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-eiZJ.ttf"
+    "menu": "https://fonts.gstatic.com/s/merriweather/v31/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icaEl3w.ttf",
+    "axes": [
+      {
+        "tag": "opsz",
+        "start": 18,
+        "end": 144
+      },
+      {
+        "tag": "wdth",
+        "start": 87,
+        "end": 112
+      },
+      {
+        "tag": "wght",
+        "start": 300,
+        "end": 900
+      }
+    ]
   },
   {
     "family": "Notable",
@@ -19757,36 +19759,24 @@
   },
   {
     "family": "Cormorant Infant",
-    "variants": [
-      "300",
-      "300italic",
-      "regular",
-      "italic",
-      "500",
-      "500italic",
-      "600",
-      "600italic",
-      "700",
-      "700italic"
-    ],
+    "variants": ["regular", "italic"],
     "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
-    "version": "v17",
-    "lastModified": "2024-09-04",
+    "version": "v20",
+    "lastModified": "2025-03-05",
     "files": {
-      "300": "https://fonts.gstatic.com/s/cormorantinfant/v17/HhyIU44g9vKiM1sORYSiWeAsLN9951w3_DMrQqcdJrk.ttf",
-      "500": "https://fonts.gstatic.com/s/cormorantinfant/v17/HhyIU44g9vKiM1sORYSiWeAsLN995wQ2_DMrQqcdJrk.ttf",
-      "600": "https://fonts.gstatic.com/s/cormorantinfant/v17/HhyIU44g9vKiM1sORYSiWeAsLN995ygx_DMrQqcdJrk.ttf",
-      "700": "https://fonts.gstatic.com/s/cormorantinfant/v17/HhyIU44g9vKiM1sORYSiWeAsLN9950ww_DMrQqcdJrk.ttf",
-      "300italic": "https://fonts.gstatic.com/s/cormorantinfant/v17/HhyKU44g9vKiM1sORYSiWeAsLN997_ItcDEhRoUYNrn_Ig.ttf",
-      "regular": "https://fonts.gstatic.com/s/cormorantinfant/v17/HhyPU44g9vKiM1sORYSiWeAsLN993_Af2DsAXq4.ttf",
-      "italic": "https://fonts.gstatic.com/s/cormorantinfant/v17/HhyJU44g9vKiM1sORYSiWeAsLN997_IV3BkFTq4EPw.ttf",
-      "500italic": "https://fonts.gstatic.com/s/cormorantinfant/v17/HhyKU44g9vKiM1sORYSiWeAsLN997_ItKDAhRoUYNrn_Ig.ttf",
-      "600italic": "https://fonts.gstatic.com/s/cormorantinfant/v17/HhyKU44g9vKiM1sORYSiWeAsLN997_ItBDchRoUYNrn_Ig.ttf",
-      "700italic": "https://fonts.gstatic.com/s/cormorantinfant/v17/HhyKU44g9vKiM1sORYSiWeAsLN997_ItYDYhRoUYNrn_Ig.ttf"
+      "regular": "https://fonts.gstatic.com/s/cormorantinfant/v20/HhyPU44g9vKiM1sORYSiWeAsLN993_Af2DsAXq4.ttf",
+      "italic": "https://fonts.gstatic.com/s/cormorantinfant/v20/HhyJU44g9vKiM1sORYSiWeAsLN997_IV3BkFTq4EPw.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/cormorantinfant/v17/HhyPU44g9vKiM1sORYSiWeAsLN997_EV3A.ttf"
+    "menu": "https://fonts.gstatic.com/s/cormorantinfant/v20/HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrgvYNWSjj0.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 300,
+        "end": 700
+      }
+    ]
   },
   {
     "family": "Archivo Black",
@@ -20118,36 +20108,24 @@
   },
   {
     "family": "Cormorant Garamond",
-    "variants": [
-      "300",
-      "300italic",
-      "regular",
-      "italic",
-      "500",
-      "500italic",
-      "600",
-      "600italic",
-      "700",
-      "700italic"
-    ],
+    "variants": ["regular", "italic"],
     "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
-    "version": "v16",
-    "lastModified": "2024-09-04",
+    "version": "v19",
+    "lastModified": "2025-03-05",
     "files": {
-      "300": "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllvuQWJ5heb_w.ttf",
-      "500": "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhvuQWJ5heb_w.ttf",
-      "600": "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9vuQWJ5heb_w.ttf",
-      "700": "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5vuQWJ5heb_w.ttf",
-      "300italic": "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuw-NxBKL_y94.ttf",
-      "regular": "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3bmX5slCNuHLi8bLeY9MK7whWMhyjornFLsS6V7w.ttf",
-      "italic": "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrHtPkyuF7w6C.ttf",
-      "500italic": "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7ug-NxBKL_y94.ttf",
-      "600italic": "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvQ-NxBKL_y94.ttf",
-      "700italic": "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvA-NxBKL_y94.ttf"
+      "regular": "https://fonts.gstatic.com/s/cormorantgaramond/v19/co3bmX5slCNuHLi8bLeY9MK7whWMhyjornFLsS6V7w.ttf",
+      "italic": "https://fonts.gstatic.com/s/cormorantgaramond/v19/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrHtPkyuF7w6C.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYr3tP.ttf"
+    "menu": "https://fonts.gstatic.com/s/cormorantgaramond/v19/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86KnLOjw.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 300,
+        "end": 700
+      }
+    ]
   },
   {
     "family": "Qahiri",
@@ -23495,17 +23473,23 @@
   },
   {
     "family": "Buenard",
-    "variants": ["regular", "700"],
+    "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2024-09-04",
+    "version": "v20",
+    "lastModified": "2025-03-05",
     "files": {
-      "700": "https://fonts.gstatic.com/s/buenard/v17/OD5GuM6Cyma8FnnsB4vSjGCWALepwss.ttf",
-      "regular": "https://fonts.gstatic.com/s/buenard/v17/OD5DuM6Cyma8FnnsPzf9qGi9HL4.ttf"
+      "regular": "https://fonts.gstatic.com/s/buenard/v20/OD5DuM6Cyma8FnnsPzf9qGi9HL4.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/buenard/v17/OD5DuM6Cyma8FnnsDzb3rA.ttf"
+    "menu": "https://fonts.gstatic.com/s/buenard/v20/OD5cuM6Cyma8FnnsJTzfWLAhv7i92sqpK3_2ghI.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
+      }
+    ]
   },
   {
     "family": "Rationale",
