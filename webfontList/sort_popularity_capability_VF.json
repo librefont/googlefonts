@@ -27141,19 +27141,6 @@
     "menu": "https://fonts.gstatic.com/s/notoserifmyanmar/v13/VuJsdM7F2Yv76aBKKs-bHMQfAHUw3jnFpRDs.ttf"
   },
   {
-    "family": "Blaka Hollow",
-    "variants": ["regular"],
-    "subsets": ["arabic", "latin", "latin-ext"],
-    "version": "v7",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/blakahollow/v7/MCoUzAL91sjRE2FsKsxUtezYB9oFyW_-oA.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/blakahollow/v7/MCoUzAL91sjRE2FsKsxUtezoBtAB.ttf"
-  },
-  {
     "family": "Warnes",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -27165,6 +27152,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/warnes/v27/pONn1hc0GsW6sW5-pyqy.ttf"
+  },
+  {
+    "family": "Blaka Hollow",
+    "variants": ["regular"],
+    "subsets": ["arabic", "latin", "latin-ext"],
+    "version": "v7",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/blakahollow/v7/MCoUzAL91sjRE2FsKsxUtezYB9oFyW_-oA.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/blakahollow/v7/MCoUzAL91sjRE2FsKsxUtezoBtAB.ttf"
   },
   {
     "family": "Playwrite FR Moderne",
@@ -29665,6 +29665,19 @@
     ]
   },
   {
+    "family": "Playwrite DE VA Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritedevaguides/v1/WwkPxOmkDVqm-ojMLT_kdMUoBpMYm6KTeb28UB9SNQIUdqQ.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedevaguides/v1/WwkPxOmkDVqm-ojMLT_kdMUoBpMYm6KTeb28YB5YMQ.ttf"
+  },
+  {
     "family": "Playwrite IT Trad",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -29683,19 +29696,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Playwrite DE VA Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritedevaguides/v1/WwkPxOmkDVqm-ojMLT_kdMUoBpMYm6KTeb28UB9SNQIUdqQ.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedevaguides/v1/WwkPxOmkDVqm-ojMLT_kdMUoBpMYm6KTeb28YB5YMQ.ttf"
   },
   {
     "family": "Playwrite NG Modern Guides",
