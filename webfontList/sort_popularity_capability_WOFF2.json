@@ -29779,6 +29779,19 @@
     "menu": "https://fonts.gstatic.com/s/notoserifhentaigana/v14/uk-OEHi3o6EruUbj3pGaDj3siVARn-kqgu1eOHk7wYK23O0hzowGmxATWQ.woff2"
   },
   {
+    "family": "Blaka Hollow",
+    "variants": ["regular"],
+    "subsets": ["arabic", "latin", "latin-ext"],
+    "version": "v7",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/blakahollow/v7/MCoUzAL91sjRE2FsKsxUtezYAtoFyW_-oA.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/blakahollow/v7/MCoUzAL91sjRE2FsKsxUtezoBtAE.woff2"
+  },
+  {
     "family": "Playwrite GB J",
     "variants": [
       "100",
@@ -29806,19 +29819,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritegbj/v10/k3kEo8wSPe9dzQ1UGbvobAPhY5iG-fsubxedDheGdc93adTW.woff2"
-  },
-  {
-    "family": "Blaka Hollow",
-    "variants": ["regular"],
-    "subsets": ["arabic", "latin", "latin-ext"],
-    "version": "v7",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/blakahollow/v7/MCoUzAL91sjRE2FsKsxUtezYAtoFyW_-oA.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/blakahollow/v7/MCoUzAL91sjRE2FsKsxUtezoBtAE.woff2"
   },
   {
     "family": "Playwrite DK Loopet",
@@ -32497,19 +32497,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqN4.woff2"
   },
   {
-    "family": "Noto Sans Masaram Gondi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "masaram-gondi"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGb7RI9WSWX.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xM.woff2"
-  },
-  {
     "family": "Playwrite GB J Guides",
     "variants": ["regular", "italic"],
     "subsets": ["latin"],
@@ -32522,6 +32509,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRh4yJOn-mMWCgLPl16K6UKAvM5yY1Bdhm4KhAp.woff2"
+  },
+  {
+    "family": "Noto Sans Masaram Gondi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "masaram-gondi"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGb7RI9WSWX.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xM.woff2"
   },
   {
     "family": "Playwrite AU NSW Guides",
