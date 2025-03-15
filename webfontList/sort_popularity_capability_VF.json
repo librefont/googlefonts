@@ -24919,19 +24919,6 @@
     "menu": "https://fonts.gstatic.com/s/diplomata/v31/Cn-0JtiMXwhNwp-wKxyvYWZc.ttf"
   },
   {
-    "family": "Sevillana",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/sevillana/v23/KFOlCnWFscmDt1Bfiy1vAx05IsDqlA.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/sevillana/v23/KFOlCnWFscmDt1Bfiy1fAhc9.ttf"
-  },
-  {
     "family": "Dhurjati",
     "variants": ["regular"],
     "subsets": ["latin", "telugu"],
@@ -24943,6 +24930,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/dhurjati/v25/_6_8ED3gSeatXfFiFU3zQqA.ttf"
+  },
+  {
+    "family": "Sevillana",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/sevillana/v23/KFOlCnWFscmDt1Bfiy1vAx05IsDqlA.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/sevillana/v23/KFOlCnWFscmDt1Bfiy1fAhc9.ttf"
   },
   {
     "family": "Cactus Classical Serif",
@@ -29723,6 +29723,19 @@
     "menu": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LAxkKTY.ttf"
   },
   {
+    "family": "Playwrite IS Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteisguides/v1/5aUp9-GkphaVExwxdX6SwWF-uigk3Cglrm9ptxu7HZ0.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteisguides/v1/5aUp9-GkphaVExwxdX6SwWF-uigk3Cglnm5jsw.ttf"
+  },
+  {
     "family": "Playwrite BR",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -29741,19 +29754,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Playwrite IS Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteisguides/v1/5aUp9-GkphaVExwxdX6SwWF-uigk3Cglrm9ptxu7HZ0.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteisguides/v1/5aUp9-GkphaVExwxdX6SwWF-uigk3Cglnm5jsw.ttf"
   },
   {
     "family": "Noto Sans Old South Arabian",
@@ -29780,6 +29780,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteinguides/v1/GFD2WBRug3mQSvrAT9AL4vx4d3lQNQV4ftxgcA.ttf"
+  },
+  {
+    "family": "Noto Sans Rejang",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "rejang"],
+    "version": "v21",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwN4O3WYZB_sU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9XQ.ttf"
   },
   {
     "family": "Wavefont",
@@ -29810,19 +29823,6 @@
         "end": 1000
       }
     ]
-  },
-  {
-    "family": "Noto Sans Rejang",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "rejang"],
-    "version": "v21",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwN4O3WYZB_sU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9XQ.ttf"
   },
   {
     "family": "Playwrite DE VA Guides",
@@ -30570,19 +30570,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuA.ttf"
   },
   {
-    "family": "Noto Sans Modi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "modi"],
-    "version": "v24",
-    "lastModified": "2025-03-11",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmodi/v24/pe03MIySN5pO62Z5YkFyT7jeav5qWVAgVol-.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmodi/v24/pe03MIySN5pO62Z5YkFyT7jeas5rU1Q.ttf"
-  },
-  {
     "family": "Playwrite DE SAS Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30596,17 +30583,17 @@
     "menu": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi16BFfNQ.ttf"
   },
   {
-    "family": "Noto Sans Siddham",
+    "family": "Noto Sans Modi",
     "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "siddham"],
-    "version": "v20",
-    "lastModified": "2023-09-27",
+    "subsets": ["latin", "latin-ext", "modi"],
+    "version": "v24",
+    "lastModified": "2025-03-11",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGqndk3Ic92ZH.ttf"
+      "regular": "https://fonts.gstatic.com/s/notosansmodi/v24/pe03MIySN5pO62Z5YkFyT7jeav5qWVAgVol-.ttf"
     },
     "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf"
+    "menu": "https://fonts.gstatic.com/s/notosansmodi/v24/pe03MIySN5pO62Z5YkFyT7jeas5rU1Q.ttf"
   },
   {
     "family": "Playwrite NO Guides",
@@ -30620,6 +30607,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
+  },
+  {
+    "family": "Noto Sans Siddham",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "siddham"],
+    "version": "v20",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGqndk3Ic92ZH.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf"
   },
   {
     "family": "Playwrite HU Guides",
