@@ -24919,19 +24919,6 @@
     "menu": "https://fonts.gstatic.com/s/diplomata/v31/Cn-0JtiMXwhNwp-wKxyvYWZc.ttf"
   },
   {
-    "family": "Dhurjati",
-    "variants": ["regular"],
-    "subsets": ["latin", "telugu"],
-    "version": "v25",
-    "lastModified": "2024-12-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/dhurjati/v25/_6_8ED3gSeatXfFiFX3ySKQtuTA2.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/dhurjati/v25/_6_8ED3gSeatXfFiFU3zQqA.ttf"
-  },
-  {
     "family": "Sevillana",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -24943,6 +24930,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/sevillana/v23/KFOlCnWFscmDt1Bfiy1fAhc9.ttf"
+  },
+  {
+    "family": "Dhurjati",
+    "variants": ["regular"],
+    "subsets": ["latin", "telugu"],
+    "version": "v25",
+    "lastModified": "2024-12-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/dhurjati/v25/_6_8ED3gSeatXfFiFX3ySKQtuTA2.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/dhurjati/v25/_6_8ED3gSeatXfFiFU3zQqA.ttf"
   },
   {
     "family": "Cactus Classical Serif",
@@ -29697,19 +29697,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf"
   },
   {
-    "family": "Playwrite AU QLD Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LDxlIzIU5RwD.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LAxkKTY.ttf"
-  },
-  {
     "family": "Noto Sans Masaram Gondi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "masaram-gondi"],
@@ -29721,6 +29708,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmasaramgondi/v17/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf"
+  },
+  {
+    "family": "Playwrite AU QLD Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LDxlIzIU5RwD.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LAxkKTY.ttf"
   },
   {
     "family": "Playwrite BR",
@@ -30596,19 +30596,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi16BFfNQ.ttf"
   },
   {
-    "family": "Playwrite NO Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2-Z2vnLeAs.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
-  },
-  {
     "family": "Noto Sans Siddham",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "siddham"],
@@ -30620,6 +30607,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf"
+  },
+  {
+    "family": "Playwrite NO Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2-Z2vnLeAs.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
   },
   {
     "family": "Playwrite HU Guides",
