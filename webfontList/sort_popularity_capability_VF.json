@@ -18415,6 +18415,19 @@
     "menu": "https://fonts.gstatic.com/s/uncialantiqua/v21/N0bM2S5WOex4OUbESzoESK-i-MfQQZE.ttf"
   },
   {
+    "family": "Song Myung",
+    "variants": ["regular"],
+    "subsets": ["korean"],
+    "version": "v21",
+    "lastModified": "2025-01-06",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/songmyung/v21/1cX2aUDWAJH5-EIC7DIhr1GqhcitzeM.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/songmyung/v21/1cX2aUDWAJH5-EIC7DIhn1CggQ.ttf"
+  },
+  {
     "family": "Scheherazade New",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["arabic", "latin", "latin-ext"],
@@ -18429,19 +18442,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/scheherazadenew/v17/4UaZrFhTvxVnHDvUkUiHg8jprP4DOwJmPg.ttf"
-  },
-  {
-    "family": "Song Myung",
-    "variants": ["regular"],
-    "subsets": ["korean"],
-    "version": "v21",
-    "lastModified": "2025-01-06",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/songmyung/v21/1cX2aUDWAJH5-EIC7DIhr1GqhcitzeM.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/songmyung/v21/1cX2aUDWAJH5-EIC7DIhn1CggQ.ttf"
   },
   {
     "family": "Chicle",
@@ -29321,19 +29321,6 @@
     ]
   },
   {
-    "family": "Playwrite NL Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritenlguides/v1/FwZH7_8mxlw-50y5PJughoCL4jbXkMqwsWKGP6kvdPA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritenlguides/v1/FwZH7_8mxlw-50y5PJughoCL4jbXkMqwgWOMOw.ttf"
-  },
-  {
     "family": "Triodion",
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "latin"],
@@ -29345,6 +29332,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5lr4seE.ttf"
+  },
+  {
+    "family": "Playwrite NL Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritenlguides/v1/FwZH7_8mxlw-50y5PJughoCL4jbXkMqwsWKGP6kvdPA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritenlguides/v1/FwZH7_8mxlw-50y5PJughoCL4jbXkMqwgWOMOw.ttf"
   },
   {
     "family": "Playwrite AU SA Guides",
