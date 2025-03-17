@@ -22561,19 +22561,6 @@
     "menu": "https://fonts.gstatic.com/s/bungeehairline/v24/snfys0G548t04270a_ljTLUVrv-LYReZ.ttf"
   },
   {
-    "family": "Fascinate",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v22",
-    "lastModified": "2024-11-20",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/fascinate/v22/z7NWdRrufC8XJK0IIEli1LbQRPyNrw.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/fascinate/v22/z7NWdRrufC8XJK0IIElS1bzU.ttf"
-  },
-  {
     "family": "Poor Story",
     "variants": ["regular"],
     "subsets": ["korean", "latin"],
@@ -22585,6 +22572,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/poorstory/v23/jizfREFUsnUct9P6cDfd0OitKA.ttf"
+  },
+  {
+    "family": "Fascinate",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v22",
+    "lastModified": "2024-11-20",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/fascinate/v22/z7NWdRrufC8XJK0IIEli1LbQRPyNrw.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/fascinate/v22/z7NWdRrufC8XJK0IIElS1bzU.ttf"
   },
   {
     "family": "Tulpen One",
@@ -30125,6 +30125,19 @@
     "menu": "https://fonts.gstatic.com/s/playwritedkuloopetguides/v1/WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHkFb4Vf.ttf"
   },
   {
+    "family": "Playwrite IT Trad Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRUA4V-e6yHgQ.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRkAo96.ttf"
+  },
+  {
     "family": "Playwrite GB J Guides",
     "variants": ["regular", "italic"],
     "subsets": ["latin"],
@@ -30137,19 +30150,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRh4yJOn-mMWCgLPl16K6UKAvM5yY1Bdhm4KhAs.ttf"
-  },
-  {
-    "family": "Playwrite IT Trad Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRUA4V-e6yHgQ.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRkAo96.ttf"
   },
   {
     "family": "Noto Sans Shavian",
@@ -30302,19 +30302,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf"
   },
   {
-    "family": "Jacquarda Bastarda 9 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols"],
-    "version": "v3",
-    "lastModified": "2025-01-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v3/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuf0cPaL8pmQg.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v3/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0YFbA.ttf"
-  },
-  {
     "family": "Noto Sans Old Sogdian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "old-sogdian"],
@@ -30326,6 +30313,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgu.ttf"
+  },
+  {
+    "family": "Jacquarda Bastarda 9 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "version": "v3",
+    "lastModified": "2025-01-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v3/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuf0cPaL8pmQg.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v3/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0YFbA.ttf"
   },
   {
     "family": "Playwrite FR Moderne Guides",
@@ -30400,19 +30400,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf"
   },
   {
-    "family": "Playwrite AU NSW Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteaunswguides/v1/LDIiao-QNRMmVPcU8-sgUraMF7GZs_1Emk3v8tPbZeQ3YBXs.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteaunswguides/v1/LDIiao-QNRMmVPcU8-sgUraMF7GZs_1Emk3v8uPab-A.ttf"
-  },
-  {
     "family": "Noto Sans Elymaic",
     "variants": ["regular"],
     "subsets": ["elymaic", "latin", "latin-ext"],
@@ -30424,6 +30411,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuA.ttf"
+  },
+  {
+    "family": "Playwrite AU NSW Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteaunswguides/v1/LDIiao-QNRMmVPcU8-sgUraMF7GZs_1Emk3v8tPbZeQ3YBXs.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteaunswguides/v1/LDIiao-QNRMmVPcU8-sgUraMF7GZs_1Emk3v8uPab-A.ttf"
   },
   {
     "family": "Noto Sans Cypriot",
