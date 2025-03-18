@@ -11754,19 +11754,6 @@
     "menu": "https://fonts.gstatic.com/s/candal/v15/XoHn2YH6T7-t_8c9ABQI.woff2"
   },
   {
-    "family": "Shadows Into Light Two",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/shadowsintolighttwo/v17/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmlA7NGLNnIF0.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/shadowsintolighttwo/v17/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpArHGQ.woff2"
-  },
-  {
     "family": "Corben",
     "variants": ["regular", "700"],
     "subsets": ["latin", "latin-ext"],
@@ -11779,6 +11766,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/corben/v21/LYjDdGzzklQtCMpNoQNF.woff2"
+  },
+  {
+    "family": "Shadows Into Light Two",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/shadowsintolighttwo/v17/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmlA7NGLNnIF0.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/shadowsintolighttwo/v17/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpArHGQ.woff2"
   },
   {
     "family": "Coming Soon",
@@ -22615,19 +22615,6 @@
     "menu": "https://fonts.gstatic.com/s/ewert/v25/va9I4kzO2tFODbBuQeM.woff2"
   },
   {
-    "family": "Sree Krushnadevaraya",
-    "variants": ["regular"],
-    "subsets": ["latin", "telugu"],
-    "version": "v21",
-    "lastModified": "2024-08-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v21/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_EWe2FhQuXir.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v21/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWa0lk.woff2"
-  },
-  {
     "family": "Cantora One",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -22639,6 +22626,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/cantoraone/v19/gyB4hws1JdgnKy56GB_JX5zcbYo.woff2"
+  },
+  {
+    "family": "Sree Krushnadevaraya",
+    "variants": ["regular"],
+    "subsets": ["latin", "telugu"],
+    "version": "v21",
+    "lastModified": "2024-08-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v21/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_EWe2FhQuXir.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v21/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWa0lk.woff2"
   },
   {
     "family": "Timmana",
@@ -32337,6 +32337,19 @@
     "menu": "https://fonts.gstatic.com/s/wavefont/v12/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V04DGVqo.woff2"
   },
   {
+    "family": "Noto Sans Deseret",
+    "variants": ["regular"],
+    "subsets": ["deseret", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansdeseret/v17/MwQsbgPp1eKH6QsAVuFb9AZM6MMr2Vq4ZnJSZtQG.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansdeseret/v17/MwQsbgPp1eKH6QsAVuFb9AZM6MMr2Wq8bHM.woff2"
+  },
+  {
     "family": "Noto Sans Duployan",
     "variants": ["regular", "700"],
     "subsets": ["duployan", "latin", "latin-ext"],
@@ -32349,19 +32362,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gm.woff2"
-  },
-  {
-    "family": "Noto Sans Deseret",
-    "variants": ["regular"],
-    "subsets": ["deseret", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansdeseret/v17/MwQsbgPp1eKH6QsAVuFb9AZM6MMr2Vq4ZnJSZtQG.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansdeseret/v17/MwQsbgPp1eKH6QsAVuFb9AZM6MMr2Wq8bHM.woff2"
   },
   {
     "family": "Playwrite BR",
