@@ -25730,26 +25730,6 @@
     "menu": "https://fonts.gstatic.com/s/notoserifbalinese/v20/QdVKSS0-JginysQSRvuCmUMB_wVeQAxXdbkDcg.ttf"
   },
   {
-    "family": "Noto Rashi Hebrew",
-    "variants": ["regular"],
-    "subsets": ["greek-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v26",
-    "lastModified": "2024-06-05",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notorashihebrew/v26/EJRMQh82XsIK-QFmqXk4zvLwFVya0utA2omSrzS8.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notorashihebrew/v26/EJR_Qh82XsIK-QFmqXk4zvLwFVya0vFL-HlKM5e6C6HZB-HURiC-.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
     "family": "Anek Odia",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "oriya"],
@@ -25771,6 +25751,26 @@
         "tag": "wght",
         "start": 100,
         "end": 800
+      }
+    ]
+  },
+  {
+    "family": "Noto Rashi Hebrew",
+    "variants": ["regular"],
+    "subsets": ["greek-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v26",
+    "lastModified": "2024-06-05",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notorashihebrew/v26/EJRMQh82XsIK-QFmqXk4zvLwFVya0utA2omSrzS8.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notorashihebrew/v26/EJR_Qh82XsIK-QFmqXk4zvLwFVya0vFL-HlKM5e6C6HZB-HURiC-.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
       }
     ]
   },
@@ -29466,19 +29466,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
   },
   {
-    "family": "Noto Sans Lydian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "lydian"],
-    "version": "v18",
-    "lastModified": "2023-12-14",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslydian/v18/c4m71mVzGN7s8FmIukZJ1v4ZlcPReUPXMoIjEQI.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslydian/v18/c4m71mVzGN7s8FmIukZJ1v4ZlcPRSULdNg.ttf"
-  },
-  {
     "family": "Playwrite DE SAS",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -29497,6 +29484,19 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Noto Sans Lydian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "lydian"],
+    "version": "v18",
+    "lastModified": "2023-12-14",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslydian/v18/c4m71mVzGN7s8FmIukZJ1v4ZlcPReUPXMoIjEQI.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslydian/v18/c4m71mVzGN7s8FmIukZJ1v4ZlcPRSULdNg.ttf"
   },
   {
     "family": "Playwrite AU VIC Guides",
