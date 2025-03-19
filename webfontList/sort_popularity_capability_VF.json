@@ -28834,20 +28834,6 @@
     ]
   },
   {
-    "family": "Karla Tamil Inclined",
-    "variants": ["regular", "700"],
-    "subsets": ["tamil"],
-    "version": "v2",
-    "lastModified": "2024-10-29",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8mdQ3vXFXZ1aPd8dNzR82AFh2TibkaVo-nkrf5Iy7YGkI1.ttf",
-      "regular": "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVrcbvZPxCDLR.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVocat5c.ttf"
-  },
-  {
     "family": "Playwrite ID",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -28866,6 +28852,20 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Karla Tamil Inclined",
+    "variants": ["regular", "700"],
+    "subsets": ["tamil"],
+    "version": "v2",
+    "lastModified": "2024-10-29",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8mdQ3vXFXZ1aPd8dNzR82AFh2TibkaVo-nkrf5Iy7YGkI1.ttf",
+      "regular": "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVrcbvZPxCDLR.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVocat5c.ttf"
   },
   {
     "family": "Noto Sans Old Turkic",
@@ -30533,19 +30533,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
   },
   {
-    "family": "Noto Sans Shavian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "shavian"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4EFQSplv2Cwg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4HFRQJ0.ttf"
-  },
-  {
     "family": "Noto Sans Soyombo",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "soyombo"],
@@ -30557,6 +30544,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlc.ttf"
+  },
+  {
+    "family": "Noto Sans Shavian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "shavian"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4EFQSplv2Cwg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4HFRQJ0.ttf"
   },
   {
     "family": "Playwrite HU Guides",
