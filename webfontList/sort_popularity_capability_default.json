@@ -31819,20 +31819,6 @@
     "menu": "https://fonts.gstatic.com/s/jacquard24charted/v4/mtGm4-dNK6HaudrE9VVKhENTsEXEYish4iVhNQ.ttf"
   },
   {
-    "family": "Karla Tamil Inclined",
-    "variants": ["regular", "700"],
-    "subsets": ["tamil"],
-    "version": "v2",
-    "lastModified": "2024-10-29",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8mdQ3vXFXZ1aPd8dNzR82AFh2TibkaVo-nkrf5Iy7YGkI1.ttf",
-      "regular": "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVrcbvZPxCDLR.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVocat5c.ttf"
-  },
-  {
     "family": "Playwrite TZ",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31847,6 +31833,20 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritetz/v10/RLptK5rs6au7bzABmVQAOwnUbvHMbzSUU27JDWwTiexIPw.ttf"
+  },
+  {
+    "family": "Karla Tamil Inclined",
+    "variants": ["regular", "700"],
+    "subsets": ["tamil"],
+    "version": "v2",
+    "lastModified": "2024-10-29",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8mdQ3vXFXZ1aPd8dNzR82AFh2TibkaVo-nkrf5Iy7YGkI1.ttf",
+      "regular": "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVrcbvZPxCDLR.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVocat5c.ttf"
   },
   {
     "family": "Playwrite PE Guides",
@@ -32517,19 +32517,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRkAo96.ttf"
   },
   {
-    "family": "Noto Sans Tamil Supplement",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tamil-supplement"],
-    "version": "v21",
-    "lastModified": "2023-06-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax_vsAeMkeq1x.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-c.ttf"
-  },
-  {
     "family": "Noto Sans Old Sogdian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "old-sogdian"],
@@ -32541,6 +32528,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgu.ttf"
+  },
+  {
+    "family": "Noto Sans Tamil Supplement",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tamil-supplement"],
+    "version": "v21",
+    "lastModified": "2023-06-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax_vsAeMkeq1x.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-c.ttf"
   },
   {
     "family": "Noto Sans Duployan",
