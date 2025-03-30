@@ -19272,19 +19272,6 @@
     "menu": "https://fonts.gstatic.com/s/nokora/v32/hYkIPuwgTubzaWxgOjAL.ttf"
   },
   {
-    "family": "Reggae One",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/reggaeone/v17/7r3DqX5msMIkeuwJwOJt_a5L5uH-mts.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/reggaeone/v17/7r3DqX5msMIkeuwJwOJtza9B4g.ttf"
-  },
-  {
     "family": "Nova Round",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -19296,6 +19283,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/novaround/v22/flU9Rqquw5UhEnlwTJYTUYbUfQ.ttf"
+  },
+  {
+    "family": "Reggae One",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/reggaeone/v17/7r3DqX5msMIkeuwJwOJt_a5L5uH-mts.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/reggaeone/v17/7r3DqX5msMIkeuwJwOJtza9B4g.ttf"
   },
   {
     "family": "Bigshot One",
@@ -31019,6 +31019,19 @@
     "menu": "https://fonts.gstatic.com/s/playwritengmodern/v10/ijw-s4b2R9Qve5V5lNJb_yRhEfSep5NbFCKmKgoEeCA4V17tPDbj7m8.ttf"
   },
   {
+    "family": "Noto Sans Tai Le",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tai-le"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR58tK1W77HtMo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Xw.ttf"
+  },
+  {
     "family": "Playwrite AU TAS",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31033,19 +31046,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteautas/v10/GftT7u9QuxsdI_QuuctXue3ElxxmcBb3ih0opvWiLLUEH5K7FFs.ttf"
-  },
-  {
-    "family": "Noto Sans Tai Le",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tai-le"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR58tK1W77HtMo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Xw.ttf"
   },
   {
     "family": "Padyakke Expanded One",
@@ -31253,19 +31253,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
   },
   {
-    "family": "Noto Sans Multani",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "multani"],
-    "version": "v20",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO1A0pfCs5Kos.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_Q.ttf"
-  },
-  {
     "family": "Playwrite CO",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31280,6 +31267,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteco/v12/0FlGVP2Hl1iH-fv2BH4kJkgb8vH-rbJPTDqqx7ZIk-ZEFg.ttf"
+  },
+  {
+    "family": "Noto Sans Multani",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "multani"],
+    "version": "v20",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO1A0pfCs5Kos.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_Q.ttf"
   },
   {
     "family": "Noto Serif Grantha",
@@ -32964,19 +32964,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf"
   },
   {
-    "family": "Noto Sans Old Permic",
-    "variants": ["regular"],
-    "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
-    "version": "v17",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdXgv_dKYB5.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf"
-  },
-  {
     "family": "Noto Sans Saurashtra",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "saurashtra"],
@@ -32988,6 +32975,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBc.ttf"
+  },
+  {
+    "family": "Noto Sans Old Permic",
+    "variants": ["regular"],
+    "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
+    "version": "v17",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdXgv_dKYB5.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf"
   },
   {
     "family": "Playwrite DE SAS Guides",
@@ -33156,19 +33156,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mtDHMeQ.ttf"
   },
   {
-    "family": "Playwrite IS Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteisguides/v1/5aUp9-GkphaVExwxdX6SwWF-uigk3Cglrm9ptxu7HZ0.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteisguides/v1/5aUp9-GkphaVExwxdX6SwWF-uigk3Cglnm5jsw.ttf"
-  },
-  {
     "family": "Playwrite AR Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -33180,6 +33167,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritearguides/v5/iJWYBWqKZTrYS9uv-Ry6kDf-q_0Xq67mQGQQXw.ttf"
+  },
+  {
+    "family": "Playwrite IS Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteisguides/v1/5aUp9-GkphaVExwxdX6SwWF-uigk3Cglrm9ptxu7HZ0.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteisguides/v1/5aUp9-GkphaVExwxdX6SwWF-uigk3Cglnm5jsw.ttf"
   },
   {
     "family": "Playwrite HR Guides",
