@@ -28924,19 +28924,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstagalog/v22/J7aFnoNzCnFcV9ZI-sUYuvote1R0wzEBCck.woff2"
   },
   {
-    "family": "Noto Sans Osmanya",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "osmanya"],
-    "version": "v18",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansosmanya/v18/8vIS7xs32H97qzQKnzfeWzUyUpOJmz6hR47NCV5Z.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansosmanya/v18/8vIS7xs32H97qzQKnzfeWzUyUpOJmw6lTY8.woff2"
-  },
-  {
     "family": "Rock 3D",
     "variants": ["regular"],
     "subsets": ["japanese", "latin"],
@@ -28948,6 +28935,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rock3d/v11/yYLp0hrL0PCo651553WtwA.woff2"
+  },
+  {
+    "family": "Noto Sans Osmanya",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "osmanya"],
+    "version": "v18",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansosmanya/v18/8vIS7xs32H97qzQKnzfeWzUyUpOJmz6hR47NCV5Z.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansosmanya/v18/8vIS7xs32H97qzQKnzfeWzUyUpOJmw6lTY8.woff2"
   },
   {
     "family": "Playwrite MX Guides",
@@ -30107,20 +30107,6 @@
     "menu": "https://fonts.gstatic.com/s/notoserifolduyghur/v4/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Of.woff2"
   },
   {
-    "family": "Karla Tamil Upright",
-    "variants": ["regular", "700"],
-    "subsets": ["tamil"],
-    "version": "v2",
-    "lastModified": "2024-10-29",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS1HfVMk95HnY0u6SeQ_cHoozW_3U5XmK5SoKIPLKclE4o.woff2",
-      "regular": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XoBd9hK8kMK4.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XkBN3hQ.woff2"
-  },
-  {
     "family": "Noto Serif Hentaigana",
     "variants": ["200", "300", "regular", "500", "600", "700", "800", "900"],
     "subsets": ["kana-extended", "latin", "latin-ext"],
@@ -30139,6 +30125,20 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifhentaigana/v16/uk-OEHi3o6EruUbj3pGaDj3siVARn-kqgu1eOHk7wYK23O0hzowGmxATWQ.woff2"
+  },
+  {
+    "family": "Karla Tamil Upright",
+    "variants": ["regular", "700"],
+    "subsets": ["tamil"],
+    "version": "v2",
+    "lastModified": "2024-10-29",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS1HfVMk95HnY0u6SeQ_cHoozW_3U5XmK5SoKIPLKclE4o.woff2",
+      "regular": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XoBd9hK8kMK4.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XkBN3hQ.woff2"
   },
   {
     "family": "Noto Sans Sharada",
@@ -31668,19 +31668,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanslimbu/v24/3JnlSDv90Gmq2mrzckOBBRRoNJVT0ct2.woff2"
   },
   {
-    "family": "Playwrite PT Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteptguides/v2/sJoY3K5JjdGLJV3vyatrMkupgg-kWTx5F5w90TZO69o.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteptguides/v2/sJoY3K5JjdGLJV3vyatrMkupgg-kWTx5J5g30A.woff2"
-  },
-  {
     "family": "Noto Sans Lydian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "lydian"],
@@ -31692,6 +31679,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslydian/v18/c4m71mVzGN7s8FmIukZJ1v4ZlcPRSULdMw.woff2"
+  },
+  {
+    "family": "Playwrite PT Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteptguides/v2/sJoY3K5JjdGLJV3vyatrMkupgg-kWTx5F5w90TZO69o.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteptguides/v2/sJoY3K5JjdGLJV3vyatrMkupgg-kWTx5J5g30A.woff2"
   },
   {
     "family": "Noto Serif Todhri",
@@ -32821,19 +32821,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRkAo9_.woff2"
   },
   {
-    "family": "Noto Sans Shavian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "shavian"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4EFVSplv2Cwg.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4HFRQJg.woff2"
-  },
-  {
     "family": "Playwrite NZ Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32845,6 +32832,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71ah47qg.woff2"
+  },
+  {
+    "family": "Noto Sans Shavian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "shavian"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4EFVSplv2Cwg.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansshavian/v17/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4HFRQJg.woff2"
   },
   {
     "family": "Playwrite CU Guides",
