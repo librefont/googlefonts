@@ -22893,19 +22893,6 @@
     "menu": "https://fonts.gstatic.com/s/elsieswashcaps/v24/845DNN8xGZyVX5MVo_upKf7KnjK0TevfLA.ttf"
   },
   {
-    "family": "Jacquard 12",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols"],
-    "version": "v7",
-    "lastModified": "2025-01-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jacquard12/v7/vm8ydRLuXETEweL79J4rGc3JUnr34c9-.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jacquard12/v7/vm8ydRLuXETEweL79J4rGf3IWH4.ttf"
-  },
-  {
     "family": "Lexend Tera",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -22924,6 +22911,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Jacquard 12",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "version": "v7",
+    "lastModified": "2025-01-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jacquard12/v7/vm8ydRLuXETEweL79J4rGc3JUnr34c9-.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jacquard12/v7/vm8ydRLuXETEweL79J4rGf3IWH4.ttf"
   },
   {
     "family": "Yeon Sung",
@@ -30618,19 +30618,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71ah47rw.ttf"
   },
   {
-    "family": "Playwrite CU Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOFooIDQtJbok.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCCQ.ttf"
-  },
-  {
     "family": "Playwrite AU QLD Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30642,6 +30629,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LAxkKTY.ttf"
+  },
+  {
+    "family": "Playwrite CU Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOFooIDQtJbok.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCCQ.ttf"
   },
   {
     "family": "Playwrite DK Loopet Guides",
