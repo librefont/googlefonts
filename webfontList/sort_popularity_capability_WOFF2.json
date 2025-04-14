@@ -24134,6 +24134,19 @@
     "menu": "https://fonts.gstatic.com/s/ericaone/v27/WBLnrEXccV9VGrOKmGDFWkXN.woff2"
   },
   {
+    "family": "Mystery Quest",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v20",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/mysteryquest/v20/-nF6OG414u0E6k0wynSGlujRHwQlD_9Qz9E.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/mysteryquest/v20/-nF6OG414u0E6k0wynSGlujRLwAvDg.woff2"
+  },
+  {
     "family": "Stoke",
     "variants": ["300", "regular"],
     "subsets": ["latin", "latin-ext"],
@@ -24146,19 +24159,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/stoke/v24/z7NadRb7aTMfKNNodCk.woff2"
-  },
-  {
-    "family": "Mystery Quest",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v20",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/mysteryquest/v20/-nF6OG414u0E6k0wynSGlujRHwQlD_9Qz9E.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/mysteryquest/v20/-nF6OG414u0E6k0wynSGlujRLwAvDg.woff2"
   },
   {
     "family": "Jacques Francois",
@@ -32022,19 +32022,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritedesas/v10/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgt6kQSQ.woff2"
   },
   {
-    "family": "Noto Sans Takri",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "takri"],
-    "version": "v24",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwQMe_W3khJXg.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXX.woff2"
-  },
-  {
     "family": "Playwrite PE Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32046,6 +32033,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritepeguides/v1/AMONz5uBsGadFuvf9j8ZyqI0FA3br70w8y2Klw.woff2"
+  },
+  {
+    "family": "Noto Sans Takri",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "takri"],
+    "version": "v24",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwQMe_W3khJXg.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXX.woff2"
   },
   {
     "family": "Playwrite IT Trad",
