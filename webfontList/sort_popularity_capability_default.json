@@ -30643,6 +30643,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAUUfqgA.ttf"
   },
   {
+    "family": "Chokokutai",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
+    "version": "v10",
+    "lastModified": "2024-08-07",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fws9y7ypu1Kr7I.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fwsxy_4og.ttf"
+  },
+  {
     "family": "Edu AU VIC WA NT Guides",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext"],
@@ -30657,19 +30670,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/eduauvicwantguides/v1/TuG-UUJ4V48KZ9Nr3ZV46JQkJxtkFIKnvy00LCZuAcLMeb8FnyPdK1Zqz4tw.ttf"
-  },
-  {
-    "family": "Chokokutai",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
-    "version": "v10",
-    "lastModified": "2024-08-07",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fws9y7ypu1Kr7I.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fwsxy_4og.ttf"
   },
   {
     "family": "Playwrite PL",
@@ -31521,19 +31521,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansvithkuqi/v1/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SsKIxug.ttf"
   },
   {
-    "family": "Maname",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "sinhala", "vietnamese"],
-    "version": "v2",
-    "lastModified": "2025-02-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9my42FkGGI6q_Q.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9myI2VMC.ttf"
-  },
-  {
     "family": "Playwrite ES Deco",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31548,6 +31535,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteesdeco/v10/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrdBOAVt.ttf"
+  },
+  {
+    "family": "Maname",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "sinhala", "vietnamese"],
+    "version": "v2",
+    "lastModified": "2025-02-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9my42FkGGI6q_Q.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9myI2VMC.ttf"
   },
   {
     "family": "Rubik Maze",
@@ -32022,19 +32022,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritedesas/v10/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgt6kQSE.ttf"
   },
   {
-    "family": "Noto Sans Takri",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "takri"],
-    "version": "v24",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwQNO_W3khJXg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXS.ttf"
-  },
-  {
     "family": "Playwrite PE Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32046,6 +32033,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritepeguides/v1/AMONz5uBsGadFuvf9j8ZyqI0FA3br70w8y2Kkg.ttf"
+  },
+  {
+    "family": "Noto Sans Takri",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "takri"],
+    "version": "v24",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwQNO_W3khJXg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXS.ttf"
   },
   {
     "family": "Playwrite IT Trad",
