@@ -21881,19 +21881,6 @@
     "menu": "https://fonts.gstatic.com/s/maidenorange/v30/kJE1BuIX7AUmhi2V4m08kb1XvOdXCA.woff2"
   },
   {
-    "family": "Song Myung",
-    "variants": ["regular"],
-    "subsets": ["korean"],
-    "version": "v21",
-    "lastModified": "2025-01-06",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/songmyung/v21/1cX2aUDWAJH5-EIC7DIhr1SqhcitzeM.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/songmyung/v21/1cX2aUDWAJH5-EIC7DIhn1CghA.woff2"
-  },
-  {
     "family": "Waterfall",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -21905,6 +21892,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/waterfall/v6/MCoRzAfo293fACdFKcwo27v9.woff2"
+  },
+  {
+    "family": "Song Myung",
+    "variants": ["regular"],
+    "subsets": ["korean"],
+    "version": "v21",
+    "lastModified": "2025-01-06",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/songmyung/v21/1cX2aUDWAJH5-EIC7DIhr1SqhcitzeM.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/songmyung/v21/1cX2aUDWAJH5-EIC7DIhn1CghA.woff2"
   },
   {
     "family": "Liu Jian Mao Cao",
@@ -32398,19 +32398,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmodi/v24/pe03MIySN5pO62Z5YkFyT7jeas5rU1E.woff2"
   },
   {
-    "family": "Noto Sans Old Sogdian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-sogdian"],
-    "version": "v17",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURt7mOIqM-9uyg.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgr.woff2"
-  },
-  {
     "family": "Noto Sans Cuneiform",
     "variants": ["regular"],
     "subsets": ["cuneiform", "latin", "latin-ext"],
@@ -32422,6 +32409,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DlA.woff2"
+  },
+  {
+    "family": "Noto Sans Old Sogdian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-sogdian"],
+    "version": "v17",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURt7mOIqM-9uyg.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgr.woff2"
   },
   {
     "family": "Noto Sans Ugaritic",

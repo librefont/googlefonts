@@ -32398,19 +32398,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmodi/v24/pe03MIySN5pO62Z5YkFyT7jeas5rU1Q.ttf"
   },
   {
-    "family": "Noto Sans Old Sogdian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-sogdian"],
-    "version": "v17",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURt7neIqM-9uyg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgu.ttf"
-  },
-  {
     "family": "Noto Sans Cuneiform",
     "variants": ["regular"],
     "subsets": ["cuneiform", "latin", "latin-ext"],
@@ -32422,6 +32409,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DkQ.ttf"
+  },
+  {
+    "family": "Noto Sans Old Sogdian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-sogdian"],
+    "version": "v17",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURt7neIqM-9uyg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgu.ttf"
   },
   {
     "family": "Noto Sans Ugaritic",
