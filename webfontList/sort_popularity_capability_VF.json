@@ -28130,19 +28130,6 @@
     ]
   },
   {
-    "family": "Noto Sans Newa",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "newa"],
-    "version": "v16",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg8n_qN4R5lNU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-oto.ttf"
-  },
-  {
     "family": "Noto Sans Tifinagh",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tifinagh"],
@@ -28154,6 +28141,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PA.ttf"
+  },
+  {
+    "family": "Noto Sans Newa",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "newa"],
+    "version": "v16",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg8n_qN4R5lNU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-oto.ttf"
   },
   {
     "family": "Playwrite DK Loopet",
@@ -30122,19 +30122,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
   },
   {
-    "family": "Noto Sans Soyombo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "soyombo"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY0FrIFOcK25W.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlc.ttf"
-  },
-  {
     "family": "Noto Sans Lycian",
     "variants": ["regular"],
     "subsets": ["lycian"],
@@ -30146,6 +30133,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQDA.ttf"
+  },
+  {
+    "family": "Noto Sans Soyombo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "soyombo"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY0FrIFOcK25W.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlc.ttf"
   },
   {
     "family": "Noto Sans Masaram Gondi",
@@ -30814,19 +30814,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mtDHMeQ.ttf"
   },
   {
-    "family": "Playwrite HR Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritehrguides/v1/6NUK8EedKwOcfRjj8ukv_L4kjqAoGrjdWmA08mCgdfM.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritehrguides/v1/6NUK8EedKwOcfRjj8ukv_L4kjqAoGrjdamE-9g.ttf"
-  },
-  {
     "family": "Playwrite CZ Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30838,6 +30825,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteczguides/v1/6qLcKY0NtxD-qVlIPUIPeH4lUQa6B3ZZckoUvg.ttf"
+  },
+  {
+    "family": "Playwrite HR Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritehrguides/v1/6NUK8EedKwOcfRjj8ukv_L4kjqAoGrjdWmA08mCgdfM.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritehrguides/v1/6NUK8EedKwOcfRjj8ukv_L4kjqAoGrjdamE-9g.ttf"
   },
   {
     "family": "Playwrite AR Guides",
