@@ -19468,19 +19468,6 @@
     "menu": "https://fonts.gstatic.com/s/anektamil/v17/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNQidKqoH5.woff2"
   },
   {
-    "family": "Modak",
-    "variants": ["regular"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v20",
-    "lastModified": "2025-01-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/modak/v20/EJRYQgs1XtIEsnMC8BVZ76KU.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/modak/v20/EJRYQgs1XtIEskMG-hQ.woff2"
-  },
-  {
     "family": "MedievalSharp",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -19492,6 +19479,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/medievalsharp/v26/EvOJzAlL3oU5AQl2mP5KdgptMq5wMg.woff2"
+  },
+  {
+    "family": "Modak",
+    "variants": ["regular"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v20",
+    "lastModified": "2025-01-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/modak/v20/EJRYQgs1XtIEsnMC8BVZ76KU.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/modak/v20/EJRYQgs1XtIEskMG-hQ.woff2"
   },
   {
     "family": "Shanti",
@@ -32171,19 +32171,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gm.woff2"
   },
   {
-    "family": "Jersey 25 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey25charted/v2/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGv2rUGQW93Cg.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey25charted/v2/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGs2vWmU.woff2"
-  },
-  {
     "family": "Jacquarda Bastarda 9 Charted",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
@@ -32195,6 +32182,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v3/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0YFaQ.woff2"
+  },
+  {
+    "family": "Jersey 25 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey25charted/v2/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGv2rUGQW93Cg.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey25charted/v2/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGs2vWmU.woff2"
   },
   {
     "family": "Playwrite BR Guides",
@@ -32589,19 +32589,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T2w.woff2"
   },
   {
-    "family": "Noto Sans Lycian",
-    "variants": ["regular"],
-    "subsets": ["lycian"],
-    "version": "v15",
-    "lastModified": "2022-05-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA5_zaCJwn00E.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQCQ.woff2"
-  },
-  {
     "family": "Noto Sans Soyombo",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "soyombo"],
@@ -32613,6 +32600,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlI.woff2"
+  },
+  {
+    "family": "Noto Sans Lycian",
+    "variants": ["regular"],
+    "subsets": ["lycian"],
+    "version": "v15",
+    "lastModified": "2022-05-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA5_zaCJwn00E.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQCQ.woff2"
   },
   {
     "family": "Noto Sans Masaram Gondi",
