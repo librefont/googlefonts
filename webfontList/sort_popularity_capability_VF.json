@@ -26760,6 +26760,26 @@
     ]
   },
   {
+    "family": "Playwrite FR Moderne",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v10",
+    "lastModified": "2025-02-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritefrmoderne/v10/3y9-6awucz3w5m4FFTzKolJRXhUk_u1yWs-tNtKENeNp.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritefrmoderne/v10/3y9L6awucz3w5m4FFTzKolJRXhUk_u1yWtWmFCJcqUBvK5aJuAKfA1T8.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 400
+      }
+    ]
+  },
+  {
     "family": "Sixtyfour",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
@@ -26781,26 +26801,6 @@
         "tag": "SCAN",
         "start": -53,
         "end": 100
-      }
-    ]
-  },
-  {
-    "family": "Playwrite FR Moderne",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v10",
-    "lastModified": "2025-02-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritefrmoderne/v10/3y9-6awucz3w5m4FFTzKolJRXhUk_u1yWs-tNtKENeNp.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritefrmoderne/v10/3y9L6awucz3w5m4FFTzKolJRXhUk_u1yWtWmFCJcqUBvK5aJuAKfA1T8.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 400
       }
     ]
   },
