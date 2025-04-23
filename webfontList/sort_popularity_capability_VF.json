@@ -29460,19 +29460,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritebrguides/v1/tssxAohQaiQS-wrnJz-F5CqW4dOezRwpy9YIPw.ttf"
   },
   {
-    "family": "Playwrite PE Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritepeguides/v1/AMONz5uBsGadFuvf9j8ZyqI0FA3br70wwyyAlqETME8.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritepeguides/v1/AMONz5uBsGadFuvf9j8ZyqI0FA3br70w8y2Kkg.ttf"
-  },
-  {
     "family": "Playwrite NO",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -29491,6 +29478,19 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Playwrite PE Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritepeguides/v1/AMONz5uBsGadFuvf9j8ZyqI0FA3br70wwyyAlqETME8.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritepeguides/v1/AMONz5uBsGadFuvf9j8ZyqI0FA3br70w8y2Kkg.ttf"
   },
   {
     "family": "Playwrite BR",
@@ -30305,19 +30305,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwaYUaH.ttf"
   },
   {
-    "family": "Noto Sans Elymaic",
-    "variants": ["regular"],
-    "subsets": ["elymaic", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD4AjWOT0zi2V.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuA.ttf"
-  },
-  {
     "family": "Playwrite AT Guides",
     "variants": ["regular", "italic"],
     "subsets": ["latin"],
@@ -30330,6 +30317,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBdbkDcg.ttf"
+  },
+  {
+    "family": "Noto Sans Elymaic",
+    "variants": ["regular"],
+    "subsets": ["elymaic", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD4AjWOT0zi2V.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuA.ttf"
   },
   {
     "family": "Noto Sans Lycian",
