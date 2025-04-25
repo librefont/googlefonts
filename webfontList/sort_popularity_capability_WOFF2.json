@@ -23336,19 +23336,6 @@
     "menu": "https://fonts.gstatic.com/s/bodonimodasc/v2/LYjhdGTykkIgA8197UwkzHp8F-XUUG5UNs2KqliEb-g_DaUdIA6SfiYHbA7ubJ2R9Q.woff2"
   },
   {
-    "family": "Farsan",
-    "variants": ["regular"],
-    "subsets": ["gujarati", "latin", "latin-ext", "vietnamese"],
-    "version": "v23",
-    "lastModified": "2025-04-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/farsan/v23/VEMwRoJ0vY_zsyz636-pxDX9rQ.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/farsan/v23/VEMwRoJ0vY_zsyzK26Wo.woff2"
-  },
-  {
     "family": "Nova Cut",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -23360,6 +23347,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/novacut/v25/KFOkCnSYu8mL-39LkVxOIzI.woff2"
+  },
+  {
+    "family": "Farsan",
+    "variants": ["regular"],
+    "subsets": ["gujarati", "latin", "latin-ext", "vietnamese"],
+    "version": "v23",
+    "lastModified": "2025-04-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/farsan/v23/VEMwRoJ0vY_zsyz636-pxDX9rQ.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/farsan/v23/VEMwRoJ0vY_zsyzK26Wo.woff2"
   },
   {
     "family": "Atomic Age",
@@ -27584,19 +27584,6 @@
     "colorCapabilities": ["COLRv1"]
   },
   {
-    "family": "Bonbon",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v30",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bonbon/v30/0FlVVPeVlFec4ee_dTEAbQY5-A.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bonbon/v30/0FlVVPeVlFec4eePcTsB.woff2"
-  },
-  {
     "family": "Noto Serif Khmer",
     "variants": [
       "100",
@@ -27626,6 +27613,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifkhmer/v28/-F6UfidqLzI2JPCkXAO2hmogq0146FxtbwKEr951z5s6lI40sDRH_AVhUKdN6B8AXUxL.woff2"
+  },
+  {
+    "family": "Bonbon",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v30",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bonbon/v30/0FlVVPeVlFec4ee_dTEAbQY5-A.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bonbon/v30/0FlVVPeVlFec4eePcTsB.woff2"
   },
   {
     "family": "Cal Sans",
