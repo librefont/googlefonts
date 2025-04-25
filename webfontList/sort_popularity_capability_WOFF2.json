@@ -16328,19 +16328,6 @@
     "menu": "https://fonts.gstatic.com/s/synemono/v15/K2FzfZNHj_FHBmRbFvHDI6ql.woff2"
   },
   {
-    "family": "Chelsea Market",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v13",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKBhgLA4uKkWk.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKChkJg8.woff2"
-  },
-  {
     "family": "Noto Sans Math",
     "variants": ["regular"],
     "subsets": ["cyrillic", "latin", "math"],
@@ -16352,6 +16339,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmath/v17/7Aump_cpkSecTWaHRlH2hyV5UEkH81w.woff2"
+  },
+  {
+    "family": "Chelsea Market",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v13",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKBhgLA4uKkWk.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKChkJg8.woff2"
   },
   {
     "family": "Lexend Zetta",
@@ -27584,6 +27584,19 @@
     "colorCapabilities": ["COLRv1"]
   },
   {
+    "family": "Bonbon",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v30",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bonbon/v30/0FlVVPeVlFec4ee_dTEAbQY5-A.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bonbon/v30/0FlVVPeVlFec4eePcTsB.woff2"
+  },
+  {
     "family": "Noto Serif Khmer",
     "variants": [
       "100",
@@ -27613,19 +27626,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifkhmer/v28/-F6UfidqLzI2JPCkXAO2hmogq0146FxtbwKEr951z5s6lI40sDRH_AVhUKdN6B8AXUxL.woff2"
-  },
-  {
-    "family": "Bonbon",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v30",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bonbon/v30/0FlVVPeVlFec4ee_dTEAbQY5-A.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bonbon/v30/0FlVVPeVlFec4eePcTsB.woff2"
   },
   {
     "family": "Cal Sans",
