@@ -20885,19 +20885,6 @@
     ]
   },
   {
-    "family": "Farsan",
-    "variants": ["regular"],
-    "subsets": ["gujarati", "latin", "latin-ext", "vietnamese"],
-    "version": "v23",
-    "lastModified": "2025-04-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/farsan/v23/VEMwRoJ0vY_zsyz62q-pxDX9rQ.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/farsan/v23/VEMwRoJ0vY_zsyzK26Wt.ttf"
-  },
-  {
     "family": "Nova Cut",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -20909,6 +20896,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/novacut/v25/KFOkCnSYu8mL-39LkVxOIzc.ttf"
+  },
+  {
+    "family": "Farsan",
+    "variants": ["regular"],
+    "subsets": ["gujarati", "latin", "latin-ext", "vietnamese"],
+    "version": "v23",
+    "lastModified": "2025-04-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/farsan/v23/VEMwRoJ0vY_zsyz62q-pxDX9rQ.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/farsan/v23/VEMwRoJ0vY_zsyzK26Wt.ttf"
   },
   {
     "family": "Atomic Age",
@@ -24941,6 +24941,19 @@
     "colorCapabilities": ["COLRv1"]
   },
   {
+    "family": "Bonbon",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v30",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bonbon/v30/0FlVVPeVlFec4ee_cDEAbQY5-A.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bonbon/v30/0FlVVPeVlFec4eePcTsE.ttf"
+  },
+  {
     "family": "Noto Serif Khmer",
     "variants": ["regular"],
     "subsets": ["khmer", "latin", "latin-ext"],
@@ -24964,19 +24977,6 @@
         "end": 900
       }
     ]
-  },
-  {
-    "family": "Bonbon",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v30",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bonbon/v30/0FlVVPeVlFec4ee_cDEAbQY5-A.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bonbon/v30/0FlVVPeVlFec4eePcTsE.ttf"
   },
   {
     "family": "Cal Sans",
