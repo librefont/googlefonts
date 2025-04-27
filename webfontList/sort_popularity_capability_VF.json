@@ -23627,19 +23627,6 @@
     ]
   },
   {
-    "family": "Romanesco",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSn3HwLqOqSBg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSX3XYP.ttf"
-  },
-  {
     "family": "Atkinson Hyperlegible Next",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -23659,6 +23646,19 @@
         "end": 800
       }
     ]
+  },
+  {
+    "family": "Romanesco",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSn3HwLqOqSBg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSX3XYP.ttf"
   },
   {
     "family": "Bagel Fat One",
@@ -29729,19 +29729,6 @@
     "menu": "https://fonts.gstatic.com/s/ponnala/v2/w8gaH2QxQOU08bbbnQqn3A.ttf"
   },
   {
-    "family": "Noto Sans Zanabazar Square",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "zanabazar-square"],
-    "version": "v19",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQtJxOCEgN0Gc.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf"
-  },
-  {
     "family": "Micro 5 Charted",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
@@ -29753,6 +29740,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/micro5charted/v2/hESp6XxmPDtTtADZhn7oD_yrmxE2REEN.ttf"
+  },
+  {
+    "family": "Noto Sans Zanabazar Square",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "zanabazar-square"],
+    "version": "v19",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQtJxOCEgN0Gc.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf"
   },
   {
     "family": "Noto Sans Old South Arabian",
@@ -30182,19 +30182,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZc.ttf"
   },
   {
-    "family": "Noto Sans Manichaean",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "manichaean"],
-    "version": "v18",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfekqCNTtFCtdX.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPz8.ttf"
-  },
-  {
     "family": "Noto Sans Lycian",
     "variants": ["regular"],
     "subsets": ["lycian"],
@@ -30206,6 +30193,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQDA.ttf"
+  },
+  {
+    "family": "Noto Sans Manichaean",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "manichaean"],
+    "version": "v18",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfekqCNTtFCtdX.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPz8.ttf"
   },
   {
     "family": "Noto Sans Caucasian Albanian",
