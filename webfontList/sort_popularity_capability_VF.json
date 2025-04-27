@@ -23627,6 +23627,19 @@
     ]
   },
   {
+    "family": "Romanesco",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSn3HwLqOqSBg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSX3XYP.ttf"
+  },
+  {
     "family": "Atkinson Hyperlegible Next",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -23646,19 +23659,6 @@
         "end": 800
       }
     ]
-  },
-  {
-    "family": "Romanesco",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSn3HwLqOqSBg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSX3XYP.ttf"
   },
   {
     "family": "Bagel Fat One",
@@ -28454,26 +28454,6 @@
     ]
   },
   {
-    "family": "Noto Sans NKo Unjoined",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nko"],
-    "version": "v2",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnkounjoined/v2/MCoCzBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szJutjFqMvktM.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnkounjoined/v2/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rvF2jEOz_o.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
-      }
-    ]
-  },
-  {
     "family": "Edu AU VIC WA NT Guides",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -28485,6 +28465,26 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/eduauvicwantguides/v1/TuG-UUJ4V48KZ9Nr3ZV46JQkJxtkFIKnvy00LCZuAcLMeb8FnyPdK1Zqz4tw.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
+      }
+    ]
+  },
+  {
+    "family": "Noto Sans NKo Unjoined",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nko"],
+    "version": "v2",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnkounjoined/v2/MCoCzBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szJutjFqMvktM.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnkounjoined/v2/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rvF2jEOz_o.ttf",
     "axes": [
       {
         "tag": "wght",
