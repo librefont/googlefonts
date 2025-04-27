@@ -23627,6 +23627,19 @@
     ]
   },
   {
+    "family": "Romanesco",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSn3HwLqOqSBg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSX3XYP.ttf"
+  },
+  {
     "family": "Atkinson Hyperlegible Next",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -23646,19 +23659,6 @@
         "end": 800
       }
     ]
-  },
-  {
-    "family": "Romanesco",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSn3HwLqOqSBg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/romanesco/v21/w8gYH2ozQOY7_r_J7mSX3XYP.ttf"
   },
   {
     "family": "Bagel Fat One",
@@ -30182,19 +30182,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZc.ttf"
   },
   {
-    "family": "Noto Sans Lycian",
-    "variants": ["regular"],
-    "subsets": ["lycian"],
-    "version": "v15",
-    "lastModified": "2022-05-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA5_naCJwn00E.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQDA.ttf"
-  },
-  {
     "family": "Noto Sans Manichaean",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "manichaean"],
@@ -30206,6 +30193,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPz8.ttf"
+  },
+  {
+    "family": "Noto Sans Lycian",
+    "variants": ["regular"],
+    "subsets": ["lycian"],
+    "version": "v15",
+    "lastModified": "2022-05-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA5_naCJwn00E.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQDA.ttf"
   },
   {
     "family": "Noto Sans Caucasian Albanian",
