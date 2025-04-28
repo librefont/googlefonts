@@ -25838,19 +25838,6 @@
     "menu": "https://fonts.gstatic.com/s/sendflowers/v5/If2PXTjtZS-0Xqy13uCQSULfxgLn.ttf"
   },
   {
-    "family": "Moulpali",
-    "variants": ["regular"],
-    "subsets": ["khmer", "latin"],
-    "version": "v31",
-    "lastModified": "2024-11-07",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/moulpali/v31/H4ckBXKMl9HagUWymyY6wr-wg763.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/moulpali/v31/H4ckBXKMl9HagUWymxY7yLs.ttf"
-  },
-  {
     "family": "Love Light",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -25862,6 +25849,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/lovelight/v6/t5tlIR0TNJyZWimpNAXDvKfIzQ.ttf"
+  },
+  {
+    "family": "Moulpali",
+    "variants": ["regular"],
+    "subsets": ["khmer", "latin"],
+    "version": "v31",
+    "lastModified": "2024-11-07",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/moulpali/v31/H4ckBXKMl9HagUWymyY6wr-wg763.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/moulpali/v31/H4ckBXKMl9HagUWymxY7yLs.ttf"
   },
   {
     "family": "Nuosu SIL",
@@ -28243,6 +28243,20 @@
     "menu": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XkBN3gA.ttf"
   },
   {
+    "family": "Noto Znamenny Musical Notation",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols", "znamenny"],
+    "version": "v4",
+    "lastModified": "2025-03-03",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v4/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jvtpqqdoWa7g.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v4/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jft5Cu.ttf",
+    "colorCapabilities": ["COLRv0"]
+  },
+  {
     "family": "Playwrite AU QLD",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -28261,20 +28275,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Noto Znamenny Musical Notation",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols", "znamenny"],
-    "version": "v4",
-    "lastModified": "2025-03-03",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v4/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jvtpqqdoWa7g.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v4/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jft5Cu.ttf",
-    "colorCapabilities": ["COLRv0"]
   },
   {
     "family": "Noto Sans Sundanese",
@@ -29032,26 +29032,6 @@
     ]
   },
   {
-    "family": "Playwrite DE LA",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v10",
-    "lastModified": "2025-02-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritedela/v10/oY1G8e3fprboJ2HN4ogXTpFVJ8Q5Ln2ZCGKRvA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedela/v10/oY1J8e3fprboJ2HN4ogXTpFVJ8QjJV9p0P4yukst2FnqDgYohA.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 400
-      }
-    ]
-  },
-  {
     "family": "Noto Sans Kawi",
     "variants": ["regular"],
     "subsets": ["kawi", "latin", "latin-ext"],
@@ -29068,6 +29048,26 @@
         "tag": "wght",
         "start": 400,
         "end": 700
+      }
+    ]
+  },
+  {
+    "family": "Playwrite DE LA",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v10",
+    "lastModified": "2025-02-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritedela/v10/oY1G8e3fprboJ2HN4ogXTpFVJ8Q5Ln2ZCGKRvA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedela/v10/oY1J8e3fprboJ2HN4ogXTpFVJ8QjJV9p0P4yukst2FnqDgYohA.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 400
       }
     ]
   },
@@ -29342,26 +29342,6 @@
     ]
   },
   {
-    "family": "Noto Sans Syriac",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "syriac"],
-    "version": "v16",
-    "lastModified": "2023-04-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssyriac/v16/Ktk2AKuMeZjqPnXgyqribqzQqgW0N4O3WYZB_sU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssyriac/v16/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5M.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
     "family": "Playwrite ID",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -29378,6 +29358,26 @@
         "tag": "wght",
         "start": 100,
         "end": 400
+      }
+    ]
+  },
+  {
+    "family": "Noto Sans Syriac",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "syriac"],
+    "version": "v16",
+    "lastModified": "2023-04-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssyriac/v16/Ktk2AKuMeZjqPnXgyqribqzQqgW0N4O3WYZB_sU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssyriac/v16/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5M.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
       }
     ]
   },
