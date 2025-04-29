@@ -30700,19 +30700,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskhojki/v19/-nFnOHM29Oofr2wohFbTuPPKVWpmG_Zx0g.woff2"
   },
   {
-    "family": "Noto Sans Old Persian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-persian"],
-    "version": "v16",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldpersian/v16/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_trelQfx9CjA.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldpersian/v16/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_dqeNR.woff2"
-  },
-  {
     "family": "Playwrite NZ",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -30727,6 +30714,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritenz/v10/d6lakaOxRsyr_zZDmUYvh2TW3NCQVvjKPjPjngAUSRpzgQ.woff2"
+  },
+  {
+    "family": "Noto Sans Old Persian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-persian"],
+    "version": "v16",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldpersian/v16/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_trelQfx9CjA.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldpersian/v16/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_dqeNR.woff2"
   },
   {
     "family": "Noto Sans Tai Le",
@@ -31708,6 +31708,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansoldturkic/v18/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsH2Qhk0.woff2"
   },
   {
+    "family": "Noto Sans PhagsPa",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "phags-pa", "symbols"],
+    "version": "v23",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansphagspa/v23/XLY8IYr5bJNDGYxPGjyYbaEjwQR-LFlpYMYHGGeT.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansphagspa/v23/XLY8IYr5bJNDGYxPGjyYbaEjwQR-LGltasc.woff2"
+  },
+  {
     "family": "Playwrite TZ",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31722,19 +31735,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritetz/v10/RLptK5rs6au7bzABmVQAOwnUbvHMbzSUU27JDWwTiexIOg.woff2"
-  },
-  {
-    "family": "Noto Sans PhagsPa",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "phags-pa", "symbols"],
-    "version": "v23",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansphagspa/v23/XLY8IYr5bJNDGYxPGjyYbaEjwQR-LFlpYMYHGGeT.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansphagspa/v23/XLY8IYr5bJNDGYxPGjyYbaEjwQR-LGltasc.woff2"
   },
   {
     "family": "Noto Sans Newa",
