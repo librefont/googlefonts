@@ -16905,19 +16905,6 @@
     "menu": "https://fonts.gstatic.com/s/scheherazadenew/v17/4UaZrFhTvxVnHDvUkUiHg8jprP4DOwJmPg.ttf"
   },
   {
-    "family": "The Girl Next Door",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2024-11-20",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/thegirlnextdoor/v23/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCYIV7t7w6bE2A.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/thegirlnextdoor/v23/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4VrF_.ttf"
-  },
-  {
     "family": "Honk",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
@@ -16942,6 +16929,19 @@
       }
     ],
     "colorCapabilities": ["COLRv1"]
+  },
+  {
+    "family": "The Girl Next Door",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2024-11-20",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/thegirlnextdoor/v23/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCYIV7t7w6bE2A.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/thegirlnextdoor/v23/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4VrF_.ttf"
   },
   {
     "family": "Carme",
@@ -28230,19 +28230,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansoldpersian/v16/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_dqeNU.ttf"
   },
   {
-    "family": "Noto Sans Egyptian Hieroglyphs",
-    "variants": ["regular"],
-    "subsets": ["egyptian-hieroglyphs", "latin", "latin-ext"],
-    "version": "v29",
-    "lastModified": "2024-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYindSVK8xRg7iw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYintSFi4.ttf"
-  },
-  {
     "family": "Noto Serif Yezidi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "yezidi"],
@@ -28261,6 +28248,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Noto Sans Egyptian Hieroglyphs",
+    "variants": ["regular"],
+    "subsets": ["egyptian-hieroglyphs", "latin", "latin-ext"],
+    "version": "v29",
+    "lastModified": "2024-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYindSVK8xRg7iw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYintSFi4.ttf"
   },
   {
     "family": "Playwrite DK Loopet",
