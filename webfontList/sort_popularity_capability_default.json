@@ -19145,6 +19145,19 @@
     "menu": "https://fonts.gstatic.com/s/scheherazadenew/v17/4UaZrFhTvxVnHDvUkUiHg8jprP4DOwJmPg.ttf"
   },
   {
+    "family": "The Girl Next Door",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2024-11-20",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/thegirlnextdoor/v23/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCYIV7t7w6bE2A.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/thegirlnextdoor/v23/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4VrF_.ttf"
+  },
+  {
     "family": "Honk",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols", "vietnamese"],
@@ -19157,19 +19170,6 @@
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/honk/v5/m8J7jftUea-XwTaemClumrBQbmvynOmXBji9zFhHRr8WFgV7orFJ.ttf",
     "colorCapabilities": ["COLRv1"]
-  },
-  {
-    "family": "The Girl Next Door",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2024-11-20",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/thegirlnextdoor/v23/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCYIV7t7w6bE2A.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/thegirlnextdoor/v23/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4VrF_.ttf"
   },
   {
     "family": "Carme",
@@ -30830,19 +30830,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansoldpersian/v16/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_dqeNU.ttf"
   },
   {
-    "family": "Noto Sans Egyptian Hieroglyphs",
-    "variants": ["regular"],
-    "subsets": ["egyptian-hieroglyphs", "latin", "latin-ext"],
-    "version": "v29",
-    "lastModified": "2024-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYindSVK8xRg7iw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYintSFi4.ttf"
-  },
-  {
     "family": "Noto Serif Yezidi",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "yezidi"],
@@ -30857,6 +30844,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifyezidi/v21/XLYPIYr5bJNDGYxLBibeHZAn3B5KJENnQjbfhMSVZspD2yEUr1uN.ttf"
+  },
+  {
+    "family": "Noto Sans Egyptian Hieroglyphs",
+    "variants": ["regular"],
+    "subsets": ["egyptian-hieroglyphs", "latin", "latin-ext"],
+    "version": "v29",
+    "lastModified": "2024-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYindSVK8xRg7iw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYintSFi4.ttf"
   },
   {
     "family": "Playwrite DK Loopet",
@@ -31467,19 +31467,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritecl/v5/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JajLu9Cw.ttf"
   },
   {
-    "family": "Noto Sans Marchen",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "marchen"],
-    "version": "v20",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmarchen/v20/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMHhPk652ZaHk.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmarchen/v20/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMEhOmao.ttf"
-  },
-  {
     "family": "Playwrite ES Deco",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31494,6 +31481,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteesdeco/v10/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrdBOAVt.ttf"
+  },
+  {
+    "family": "Noto Sans Marchen",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "marchen"],
+    "version": "v20",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmarchen/v20/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMHhPk652ZaHk.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmarchen/v20/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMEhOmao.ttf"
   },
   {
     "family": "Jersey 20 Charted",
@@ -32473,19 +32473,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssignwriting/v4/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqE.ttf"
   },
   {
-    "family": "Noto Sans Nabataean",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nabataean"],
-    "version": "v16",
-    "lastModified": "2023-06-22",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNoBJ9hK8kMK4.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3gA.ttf"
-  },
-  {
     "family": "Noto Sans Linear B",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "linear-b"],
@@ -32497,6 +32484,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RMB.ttf"
+  },
+  {
+    "family": "Noto Sans Nabataean",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nabataean"],
+    "version": "v16",
+    "lastModified": "2023-06-22",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNoBJ9hK8kMK4.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3gA.ttf"
   },
   {
     "family": "Playwrite NO Guides",
