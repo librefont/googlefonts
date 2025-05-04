@@ -19481,6 +19481,19 @@
     "menu": "https://fonts.gstatic.com/s/ewert/v25/va9I4kzO2tFODbBuQeY.ttf"
   },
   {
+    "family": "Arbutus",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v28",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/arbutus/v28/NaPYcZ7dG_5J3poob9JtryO8fMU.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/arbutus/v28/NaPYcZ7dG_5J3pooX9Nnqw.ttf"
+  },
+  {
     "family": "Baloo Bhaina 2",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "oriya", "vietnamese"],
@@ -19499,19 +19512,6 @@
         "end": 800
       }
     ]
-  },
-  {
-    "family": "Arbutus",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v28",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/arbutus/v28/NaPYcZ7dG_5J3poob9JtryO8fMU.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/arbutus/v28/NaPYcZ7dG_5J3pooX9Nnqw.ttf"
   },
   {
     "family": "Kavivanar",
@@ -20133,23 +20133,6 @@
     "menu": "https://fonts.gstatic.com/s/asset/v29/SLXGc1na-mM4cVInTp4.ttf"
   },
   {
-    "family": "Suwannaphum",
-    "variants": ["100", "300", "regular", "700", "900"],
-    "subsets": ["khmer", "latin"],
-    "version": "v32",
-    "lastModified": "2025-04-23",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnAgHV7GtDvc8jbe8hXXL3B9cSWXx2VZmk.ttf",
-      "300": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnfgHV7GtDvc8jbe8hXXL0J1-S8cRGcf3Ai.ttf",
-      "700": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnfgHV7GtDvc8jbe8hXXL0Z0OS8cRGcf3Ai.ttf",
-      "900": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnfgHV7GtDvc8jbe8hXXL0h0uS8cRGcf3Ai.ttf",
-      "regular": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnCgHV7GtDvc8jbe8hXXIWl_8C0Wg2V.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnCgHV7GtDvc8jbe8hXXLWk9cQ.ttf"
-  },
-  {
     "family": "Akatab",
     "variants": ["regular", "500", "600", "700", "800", "900"],
     "subsets": ["latin", "latin-ext", "tifinagh"],
@@ -20166,6 +20149,23 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/akatab/v7/VuJwdNrK3Z7gqJE_WYb9.ttf"
+  },
+  {
+    "family": "Suwannaphum",
+    "variants": ["100", "300", "regular", "700", "900"],
+    "subsets": ["khmer", "latin"],
+    "version": "v32",
+    "lastModified": "2025-04-23",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnAgHV7GtDvc8jbe8hXXL3B9cSWXx2VZmk.ttf",
+      "300": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnfgHV7GtDvc8jbe8hXXL0J1-S8cRGcf3Ai.ttf",
+      "700": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnfgHV7GtDvc8jbe8hXXL0Z0OS8cRGcf3Ai.ttf",
+      "900": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnfgHV7GtDvc8jbe8hXXL0h0uS8cRGcf3Ai.ttf",
+      "regular": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnCgHV7GtDvc8jbe8hXXIWl_8C0Wg2V.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnCgHV7GtDvc8jbe8hXXLWk9cQ.ttf"
   },
   {
     "family": "Srisakdi",
@@ -21357,19 +21357,6 @@
     ]
   },
   {
-    "family": "Baskervville SC",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/baskervvillesc/v1/X7n94bc_DeKlh6bBbk_WiKnBSUvR71R3tiSx0g.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/baskervvillesc/v1/X7n94bc_DeKlh6bBbk_WiKnBSUvh7l5z.ttf"
-  },
-  {
     "family": "Bruno Ace SC",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -21381,6 +21368,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/brunoacesc/v5/ptROTiycffFLBuiHjdJDl63ILCtv.ttf"
+  },
+  {
+    "family": "Baskervville SC",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/baskervvillesc/v1/X7n94bc_DeKlh6bBbk_WiKnBSUvR71R3tiSx0g.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/baskervvillesc/v1/X7n94bc_DeKlh6bBbk_WiKnBSUvh7l5z.ttf"
   },
   {
     "family": "Almendra SC",
@@ -28861,26 +28861,6 @@
     "menu": "https://fonts.gstatic.com/s/badeendisplay/v1/pxidypY2sdZSjFU4cPmNBzckaeeKaEk.ttf"
   },
   {
-    "family": "Noto Sans Sundanese",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "sundanese"],
-    "version": "v26",
-    "lastModified": "2024-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZH7_84xUkosG2xJo2gm7nFwSLQkdymsWKGP6kvdPA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNOHDgT8.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
-      }
-    ]
-  },
-  {
     "family": "Rubik Broken Fax",
     "variants": ["regular"],
     "subsets": [
@@ -28900,6 +28880,26 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikbrokenfax/v1/NGSvv4rXG042O-GzH9sg1cUgl8w8UW6ccg.ttf"
+  },
+  {
+    "family": "Noto Sans Sundanese",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "sundanese"],
+    "version": "v26",
+    "lastModified": "2024-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZH7_84xUkosG2xJo2gm7nFwSLQkdymsWKGP6kvdPA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNOHDgT8.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
+      }
+    ]
   },
   {
     "family": "Playwrite CL",
