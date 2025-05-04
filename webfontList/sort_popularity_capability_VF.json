@@ -21357,19 +21357,6 @@
     ]
   },
   {
-    "family": "Bruno Ace SC",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v5",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/brunoacesc/v5/ptROTiycffFLBuiHjdJDl634LSFrpe8uZA.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/brunoacesc/v5/ptROTiycffFLBuiHjdJDl63ILCtv.ttf"
-  },
-  {
     "family": "Baskervville SC",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -21381,6 +21368,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/baskervvillesc/v1/X7n94bc_DeKlh6bBbk_WiKnBSUvh7l5z.ttf"
+  },
+  {
+    "family": "Bruno Ace SC",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v5",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/brunoacesc/v5/ptROTiycffFLBuiHjdJDl634LSFrpe8uZA.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/brunoacesc/v5/ptROTiycffFLBuiHjdJDl63ILCtv.ttf"
   },
   {
     "family": "Almendra SC",
@@ -28861,6 +28861,26 @@
     "menu": "https://fonts.gstatic.com/s/badeendisplay/v1/pxidypY2sdZSjFU4cPmNBzckaeeKaEk.ttf"
   },
   {
+    "family": "Noto Sans Sundanese",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "sundanese"],
+    "version": "v26",
+    "lastModified": "2024-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZH7_84xUkosG2xJo2gm7nFwSLQkdymsWKGP6kvdPA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNOHDgT8.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
+      }
+    ]
+  },
+  {
     "family": "Rubik Broken Fax",
     "variants": ["regular"],
     "subsets": [
@@ -28880,26 +28900,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikbrokenfax/v1/NGSvv4rXG042O-GzH9sg1cUgl8w8UW6ccg.ttf"
-  },
-  {
-    "family": "Noto Sans Sundanese",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "sundanese"],
-    "version": "v26",
-    "lastModified": "2024-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZH7_84xUkosG2xJo2gm7nFwSLQkdymsWKGP6kvdPA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNOHDgT8.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
-      }
-    ]
   },
   {
     "family": "Playwrite CL",
@@ -29335,19 +29335,6 @@
     ]
   },
   {
-    "family": "Noto Sans Chakma",
-    "variants": ["regular"],
-    "subsets": ["chakma", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi4JjTQhYBeYo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
-  },
-  {
     "family": "Noto Sans Psalter Pahlavi",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "psalter-pahlavi"],
@@ -29359,6 +29346,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanspsalterpahlavi/v17/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w5GzAtQ.ttf"
+  },
+  {
+    "family": "Noto Sans Chakma",
+    "variants": ["regular"],
+    "subsets": ["chakma", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi4JjTQhYBeYo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
   },
   {
     "family": "Noto Sans Pahawh Hmong",
@@ -31004,19 +31004,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritecaguides/v1/MjQamj1kuP_soQ3o-rysO9Ci_8oJlIUUEnYr2Q.ttf"
   },
   {
-    "family": "Playwrite NO Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2-Z2vnLeAs.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
-  },
-  {
     "family": "Playwrite AR Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -31028,6 +31015,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritearguides/v5/iJWYBWqKZTrYS9uv-Ry6kDf-q_0Xq67mQGQQXw.ttf"
+  },
+  {
+    "family": "Playwrite NO Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2-Z2vnLeAs.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
   },
   {
     "family": "Playwrite HU Guides",

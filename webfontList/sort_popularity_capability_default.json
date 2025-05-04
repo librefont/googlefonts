@@ -9983,20 +9983,6 @@
     "menu": "https://fonts.gstatic.com/s/niramit/v11/I_uuMpWdvgLdNxVLXbValg.ttf"
   },
   {
-    "family": "Pragati Narrow",
-    "variants": ["regular", "700"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v14",
-    "lastModified": "2024-12-04",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/pragatinarrow/v14/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5fd_GJMTlo_4.ttf",
-      "regular": "https://fonts.gstatic.com/s/pragatinarrow/v14/vm8vdRf0T0bS1ffgsPB7WZ-mD17_ytN3M48a.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/pragatinarrow/v14/vm8vdRf0T0bS1ffgsPB7WZ-mD27-wNc.ttf"
-  },
-  {
     "family": "Fira Mono",
     "variants": ["regular", "500", "700"],
     "subsets": [
@@ -10018,6 +10004,20 @@
     "category": "monospace",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/firamono/v15/N0bX2SlFPv1weGeLZDtgIP7X.ttf"
+  },
+  {
+    "family": "Pragati Narrow",
+    "variants": ["regular", "700"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v14",
+    "lastModified": "2024-12-04",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/pragatinarrow/v14/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5fd_GJMTlo_4.ttf",
+      "regular": "https://fonts.gstatic.com/s/pragatinarrow/v14/vm8vdRf0T0bS1ffgsPB7WZ-mD17_ytN3M48a.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/pragatinarrow/v14/vm8vdRf0T0bS1ffgsPB7WZ-mD27-wNc.ttf"
   },
   {
     "family": "Noto Sans Symbols",
@@ -22469,6 +22469,23 @@
     "menu": "https://fonts.gstatic.com/s/asset/v29/SLXGc1na-mM4cVInTp4.ttf"
   },
   {
+    "family": "Suwannaphum",
+    "variants": ["100", "300", "regular", "700", "900"],
+    "subsets": ["khmer", "latin"],
+    "version": "v32",
+    "lastModified": "2025-04-23",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnAgHV7GtDvc8jbe8hXXL3B9cSWXx2VZmk.ttf",
+      "300": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnfgHV7GtDvc8jbe8hXXL0J1-S8cRGcf3Ai.ttf",
+      "700": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnfgHV7GtDvc8jbe8hXXL0Z0OS8cRGcf3Ai.ttf",
+      "900": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnfgHV7GtDvc8jbe8hXXL0h0uS8cRGcf3Ai.ttf",
+      "regular": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnCgHV7GtDvc8jbe8hXXIWl_8C0Wg2V.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnCgHV7GtDvc8jbe8hXXLWk9cQ.ttf"
+  },
+  {
     "family": "Akatab",
     "variants": ["regular", "500", "600", "700", "800", "900"],
     "subsets": ["latin", "latin-ext", "tifinagh"],
@@ -22485,23 +22502,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/akatab/v7/VuJwdNrK3Z7gqJE_WYb9.ttf"
-  },
-  {
-    "family": "Suwannaphum",
-    "variants": ["100", "300", "regular", "700", "900"],
-    "subsets": ["khmer", "latin"],
-    "version": "v32",
-    "lastModified": "2025-04-23",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnAgHV7GtDvc8jbe8hXXL3B9cSWXx2VZmk.ttf",
-      "300": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnfgHV7GtDvc8jbe8hXXL0J1-S8cRGcf3Ai.ttf",
-      "700": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnfgHV7GtDvc8jbe8hXXL0Z0OS8cRGcf3Ai.ttf",
-      "900": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnfgHV7GtDvc8jbe8hXXL0h0uS8cRGcf3Ai.ttf",
-      "regular": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnCgHV7GtDvc8jbe8hXXIWl_8C0Wg2V.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnCgHV7GtDvc8jbe8hXXLWk9cQ.ttf"
   },
   {
     "family": "Srisakdi",
@@ -31426,22 +31426,6 @@
     "menu": "https://fonts.gstatic.com/s/badeendisplay/v1/pxidypY2sdZSjFU4cPmNBzckaeeKaEk.ttf"
   },
   {
-    "family": "Noto Sans Sundanese",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext", "sundanese"],
-    "version": "v26",
-    "lastModified": "2024-05-02",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxbNNHCizv7fQES.ttf",
-      "600": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6cty3M9HCizv7fQES.ttf",
-      "700": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctyOM9HCizv7fQES.ttf",
-      "regular": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNNHCizv7fQES.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNOHDgT8.ttf"
-  },
-  {
     "family": "Rubik Broken Fax",
     "variants": ["regular"],
     "subsets": [
@@ -31461,6 +31445,22 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikbrokenfax/v1/NGSvv4rXG042O-GzH9sg1cUgl8w8UW6ccg.ttf"
+  },
+  {
+    "family": "Noto Sans Sundanese",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext", "sundanese"],
+    "version": "v26",
+    "lastModified": "2024-05-02",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxbNNHCizv7fQES.ttf",
+      "600": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6cty3M9HCizv7fQES.ttf",
+      "700": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctyOM9HCizv7fQES.ttf",
+      "regular": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNNHCizv7fQES.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssundanese/v26/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNOHDgT8.ttf"
   },
   {
     "family": "Playwrite CL",
@@ -31875,19 +31875,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteid/v10/Cn-kJt2YWhlY2oC4KxifKQJmrtrRm-sKkQqUl0-RN_NREg.ttf"
   },
   {
-    "family": "Noto Sans Psalter Pahlavi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "psalter-pahlavi"],
-    "version": "v17",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspsalterpahlavi/v17/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w1G3KsUQBct4.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspsalterpahlavi/v17/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w5GzAtQ.ttf"
-  },
-  {
     "family": "Noto Sans Chakma",
     "variants": ["regular"],
     "subsets": ["chakma", "latin", "latin-ext"],
@@ -31899,6 +31886,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf"
+  },
+  {
+    "family": "Noto Sans Psalter Pahlavi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "psalter-pahlavi"],
+    "version": "v17",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspsalterpahlavi/v17/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w1G3KsUQBct4.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspsalterpahlavi/v17/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w5GzAtQ.ttf"
   },
   {
     "family": "Noto Sans Pahawh Hmong",
