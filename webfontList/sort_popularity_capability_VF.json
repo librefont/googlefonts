@@ -20195,19 +20195,6 @@
     "menu": "https://fonts.gstatic.com/s/londrinaoutline/v27/C8c44dM8vmb14dfsZxhetg3pDH-STus7qQ.ttf"
   },
   {
-    "family": "Nova Slim",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v25",
-    "lastModified": "2024-11-20",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/novaslim/v25/Z9XUDmZNQAuem8jyZcn-yMOInrib9Q.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/novaslim/v25/Z9XUDmZNQAuem8jyZcnOycmM.ttf"
-  },
-  {
     "family": "Pavanam",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tamil"],
@@ -20219,6 +20206,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/pavanam/v12/BXRrvF_aiezLh0xPPOpa8Q.ttf"
+  },
+  {
+    "family": "Nova Slim",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v25",
+    "lastModified": "2024-11-20",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/novaslim/v25/Z9XUDmZNQAuem8jyZcn-yMOInrib9Q.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/novaslim/v25/Z9XUDmZNQAuem8jyZcnOycmM.ttf"
   },
   {
     "family": "Gulzar",
@@ -24414,6 +24414,19 @@
     "menu": "https://fonts.gstatic.com/s/bonbon/v30/0FlVVPeVlFec4eePcTsE.ttf"
   },
   {
+    "family": "Neonderthaw",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v6",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/neonderthaw/v6/Iure6Yx5-oWVZI0r-17AeZZJprVA4XQ0.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/neonderthaw/v6/Iure6Yx5-oWVZI0r-17AeaZIrLE.ttf"
+  },
+  {
     "family": "Noto Serif Khmer",
     "variants": ["regular"],
     "subsets": ["khmer", "latin", "latin-ext"],
@@ -24437,19 +24450,6 @@
         "end": 900
       }
     ]
-  },
-  {
-    "family": "Neonderthaw",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v6",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/neonderthaw/v6/Iure6Yx5-oWVZI0r-17AeZZJprVA4XQ0.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/neonderthaw/v6/Iure6Yx5-oWVZI0r-17AeaZIrLE.ttf"
   },
   {
     "family": "Rubik Distressed",
@@ -30769,19 +30769,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_FzvkXQ.ttf"
   },
   {
-    "family": "Playwrite ZA Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk2HDoCLfQmgE.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk6HHiDA.ttf"
-  },
-  {
     "family": "Playwrite CU Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30806,6 +30793,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf"
+  },
+  {
+    "family": "Playwrite ZA Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk2HDoCLfQmgE.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk6HHiDA.ttf"
   },
   {
     "family": "Playwrite GB S Guides",
