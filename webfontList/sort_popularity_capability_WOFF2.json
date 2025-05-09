@@ -26979,6 +26979,19 @@
     "menu": "https://fonts.gstatic.com/s/bonbon/v30/0FlVVPeVlFec4eePcTsB.woff2"
   },
   {
+    "family": "Neonderthaw",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v6",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/neonderthaw/v6/Iure6Yx5-oWVZI0r-17AeZZMprVA4XQ0.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/neonderthaw/v6/Iure6Yx5-oWVZI0r-17AeaZIrLQ.woff2"
+  },
+  {
     "family": "Noto Serif Khmer",
     "variants": [
       "100",
@@ -27008,19 +27021,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifkhmer/v28/-F6UfidqLzI2JPCkXAO2hmogq0146FxtbwKEr951z5s6lI40sDRH_AVhUKdN6B8AXUxL.woff2"
-  },
-  {
-    "family": "Neonderthaw",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v6",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/neonderthaw/v6/Iure6Yx5-oWVZI0r-17AeZZMprVA4XQ0.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/neonderthaw/v6/Iure6Yx5-oWVZI0r-17AeaZIrLQ.woff2"
   },
   {
     "family": "Rubik Distressed",
@@ -33268,17 +33268,17 @@
     "menu": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_FzvkWA.woff2"
   },
   {
-    "family": "Noto Sans Siddham",
+    "family": "Playwrite ZA Guides",
     "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "siddham"],
-    "version": "v20",
-    "lastModified": "2023-09-27",
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGqnYk3Ic92ZH.woff2"
+      "regular": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk2HXoCLfQmgE.woff2"
     },
-    "category": "sans-serif",
+    "category": "handwriting",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXM.woff2"
+    "menu": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk6HHiCQ.woff2"
   },
   {
     "family": "Playwrite CU Guides",
@@ -33294,17 +33294,17 @@
     "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCDA.woff2"
   },
   {
-    "family": "Playwrite ZA Guides",
+    "family": "Noto Sans Siddham",
     "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
+    "subsets": ["latin", "latin-ext", "siddham"],
+    "version": "v20",
+    "lastModified": "2023-09-27",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk2HXoCLfQmgE.woff2"
+      "regular": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGqnYk3Ic92ZH.woff2"
     },
-    "category": "handwriting",
+    "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk6HHiCQ.woff2"
+    "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXM.woff2"
   },
   {
     "family": "Playwrite GB S Guides",
