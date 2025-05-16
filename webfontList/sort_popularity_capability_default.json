@@ -32429,6 +32429,19 @@
     "menu": "https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9SLjovX.ttf"
   },
   {
+    "family": "Noto Sans Ugaritic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "ugaritic"],
+    "version": "v16",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXkMhoIkiazfg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAM.ttf"
+  },
+  {
     "family": "Playwrite ID",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -32443,19 +32456,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteid/v10/Cn-kJt2YWhlY2oC4KxifKQJmrtrRm-sKkQqUl0-RN_NREg.ttf"
-  },
-  {
-    "family": "Noto Sans Ugaritic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "ugaritic"],
-    "version": "v16",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXkMhoIkiazfg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAM.ttf"
   },
   {
     "family": "Micro 5 Charted",
@@ -32672,19 +32672,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteauvicguides/v1/ll8sK3mEVy6nEMXMskXIZv8owEdZpVIWaQEnuA6E0z4.ttf"
   },
   {
-    "family": "Noto Sans Rejang",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "rejang"],
-    "version": "v21",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwN4O3WYZB_sU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9XQ.ttf"
-  },
-  {
     "family": "Noto Sans Manichaean",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "manichaean"],
@@ -32711,6 +32698,32 @@
     "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlc.ttf"
   },
   {
+    "family": "Noto Sans Rejang",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "rejang"],
+    "version": "v21",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwN4O3WYZB_sU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9XQ.ttf"
+  },
+  {
+    "family": "Noto Sans Cypriot",
+    "variants": ["regular"],
+    "subsets": ["cypriot", "latin", "latin-ext"],
+    "version": "v19",
+    "lastModified": "2023-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cxIsK5MPpahF.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZc.ttf"
+  },
+  {
     "family": "Noto Sans New Tai Lue",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "new-tai-lue"],
@@ -32725,19 +32738,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAUUfqgA.ttf"
-  },
-  {
-    "family": "Noto Sans Cypriot",
-    "variants": ["regular"],
-    "subsets": ["cypriot", "latin", "latin-ext"],
-    "version": "v19",
-    "lastModified": "2023-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cxIsK5MPpahF.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZc.ttf"
   },
   {
     "family": "Noto Sans Mro",
