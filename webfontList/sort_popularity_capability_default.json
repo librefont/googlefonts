@@ -19554,6 +19554,19 @@
     "menu": "https://fonts.gstatic.com/s/baloobhai2/v28/sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNighAXaIpw.ttf"
   },
   {
+    "family": "Mochiy Pop P One",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin"],
+    "version": "v11",
+    "lastModified": "2025-01-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/mochiypoppone/v11/Ktk2AKuPeY_td1-h9LayHYWCjAqyN4O3WYZB_sU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/mochiypoppone/v11/Ktk2AKuPeY_td1-h9LayHYWCjAqyB4K9XQ.ttf"
+  },
+  {
     "family": "Kaisei Tokumin",
     "variants": ["regular", "500", "700", "800"],
     "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
@@ -19568,19 +19581,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/kaiseitokumin/v10/Gg8sN5wdZg7xCwuMsylww2ZiQnJe3Fk.ttf"
-  },
-  {
-    "family": "Mochiy Pop P One",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin"],
-    "version": "v11",
-    "lastModified": "2025-01-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/mochiypoppone/v11/Ktk2AKuPeY_td1-h9LayHYWCjAqyN4O3WYZB_sU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/mochiypoppone/v11/Ktk2AKuPeY_td1-h9LayHYWCjAqyB4K9XQ.ttf"
   },
   {
     "family": "Lacquer",
@@ -30161,19 +30161,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansadlamunjoined/v26/P5sszY2MYsLRsB5_ildkzPPDsLQXcOEmaFOqOGcaYrzFTIjsPam_Ye35DMAU_A.ttf"
   },
   {
-    "family": "Pochaevsk",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "latin"],
-    "version": "v5",
-    "lastModified": "2025-03-03",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/pochaevsk/v5/55xuey9_OdX_Om7ReYgloJd4-bnQKg.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/pochaevsk/v5/55xuey9_OdX_Om7ReYgVoZ18.ttf"
-  },
-  {
     "family": "Kanchenjunga",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["kirat-rai", "latin"],
@@ -30188,6 +30175,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/kanchenjunga/v2/RWmPoKKd5fUmrILiWsjCI6TSqIEC.ttf"
+  },
+  {
+    "family": "Pochaevsk",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "latin"],
+    "version": "v5",
+    "lastModified": "2025-03-03",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/pochaevsk/v5/55xuey9_OdX_Om7ReYgloJd4-bnQKg.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/pochaevsk/v5/55xuey9_OdX_Om7ReYgVoZ18.ttf"
   },
   {
     "family": "Noto Sans Tifinagh",
@@ -32413,19 +32413,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf"
   },
   {
-    "family": "Noto Sans Tamil Supplement",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tamil-supplement"],
-    "version": "v21",
-    "lastModified": "2023-06-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax_vsAeMkeq1x.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-c.ttf"
-  },
-  {
     "family": "Noto Sans New Tai Lue",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "new-tai-lue"],
@@ -32440,6 +32427,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansnewtailue/v22/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAUUfqgA.ttf"
+  },
+  {
+    "family": "Noto Sans Tamil Supplement",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tamil-supplement"],
+    "version": "v21",
+    "lastModified": "2023-06-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax_vsAeMkeq1x.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-c.ttf"
   },
   {
     "family": "Noto Sans Ogham",
@@ -33445,19 +33445,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritedelaguides/v2/1q2XY42fB0V64O4aSe1OjKs_yAXBOfDI5wE52gyG7w.ttf"
   },
   {
-    "family": "Playwrite CL Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hrNpVuw5_BAM.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf"
-  },
-  {
     "family": "Playwrite GB J Guides",
     "variants": ["regular", "italic"],
     "subsets": ["latin"],
@@ -33470,6 +33457,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRh4yJOn-mMWCgLPl16K6UKAvM5yY1Bdhm4KhAs.ttf"
+  },
+  {
+    "family": "Playwrite CL Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hrNpVuw5_BAM.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf"
   },
   {
     "family": "Playwrite VN Guides",
@@ -33760,19 +33760,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritearguides/v5/iJWYBWqKZTrYS9uv-Ry6kDf-q_0Xq67mQGQQXw.ttf"
   },
   {
-    "family": "Yarndings 12 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "math", "symbols"],
-    "version": "v3",
-    "lastModified": "2025-01-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/yarndings12charted/v3/eLGDP_DlKhO-DUfeqM4I_vDdJgmIh7hAvvbJ0t-dHaJH.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/yarndings12charted/v3/eLGDP_DlKhO-DUfeqM4I_vDdJgmIh7hAvsbI2Ns.ttf"
-  },
-  {
     "family": "Yarndings 20 Charted",
     "variants": ["regular"],
     "subsets": ["latin", "math", "symbols"],
@@ -33784,5 +33771,18 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/yarndings20charted/v3/QldRNSdbpg0G8vh0W2qxe0l-hcUPtY2VaIQn60A.ttf"
+  },
+  {
+    "family": "Yarndings 12 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "math", "symbols"],
+    "version": "v3",
+    "lastModified": "2025-01-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/yarndings12charted/v3/eLGDP_DlKhO-DUfeqM4I_vDdJgmIh7hAvvbJ0t-dHaJH.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/yarndings12charted/v3/eLGDP_DlKhO-DUfeqM4I_vDdJgmIh7hAvsbI2Ns.ttf"
   }
 ]
