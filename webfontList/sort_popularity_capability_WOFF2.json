@@ -30979,19 +30979,6 @@
     "menu": "https://fonts.gstatic.com/s/notoserifolduyghur/v4/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Of.woff2"
   },
   {
-    "family": "Noto Serif Ottoman Siyaq",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "ottoman-siyaq-numbers"],
-    "version": "v2",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoHLI7gA00kAdA.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoH7J7IB.woff2"
-  },
-  {
     "family": "Playwrite GB J",
     "variants": [
       "100",
@@ -31019,6 +31006,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritegbj/v10/k3kEo8wSPe9dzQ1UGbvobAPhY5iG-fsubxedDheGdc93adTW.woff2"
+  },
+  {
+    "family": "Noto Serif Ottoman Siyaq",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "ottoman-siyaq-numbers"],
+    "version": "v2",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoHLI7gA00kAdA.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoH7J7IB.woff2"
   },
   {
     "family": "Playwrite SK",
@@ -31622,19 +31622,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritecl/v5/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JajLu9Dg.woff2"
   },
   {
-    "family": "Maname",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "sinhala", "vietnamese"],
-    "version": "v2",
-    "lastModified": "2025-02-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9my43VkGGI6q_Q.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9myI2VMH.woff2"
-  },
-  {
     "family": "Playwrite ES Deco",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31649,6 +31636,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteesdeco/v10/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrdBOAVo.woff2"
+  },
+  {
+    "family": "Maname",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "sinhala", "vietnamese"],
+    "version": "v2",
+    "lastModified": "2025-02-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9my43VkGGI6q_Q.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9myI2VMH.woff2"
   },
   {
     "family": "Noto Sans Newa",
@@ -32694,19 +32694,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPzo.woff2"
   },
   {
-    "family": "Noto Sans Cuneiform",
-    "variants": ["regular"],
-    "subsets": ["cuneiform", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWgbpJlRQueeQ.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DlA.woff2"
-  },
-  {
     "family": "Noto Sans Mro",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mro"],
@@ -32718,6 +32705,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3btw.woff2"
+  },
+  {
+    "family": "Noto Sans Cuneiform",
+    "variants": ["regular"],
+    "subsets": ["cuneiform", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWgbpJlRQueeQ.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DlA.woff2"
   },
   {
     "family": "Playwrite AU VIC Guides",

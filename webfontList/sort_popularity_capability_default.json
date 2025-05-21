@@ -31622,6 +31622,19 @@
     "menu": "https://fonts.gstatic.com/s/playwritecl/v5/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JajLu9Cw.ttf"
   },
   {
+    "family": "Maname",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "sinhala", "vietnamese"],
+    "version": "v2",
+    "lastModified": "2025-02-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9my42FkGGI6q_Q.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9myI2VMC.ttf"
+  },
+  {
     "family": "Playwrite ES Deco",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31636,19 +31649,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteesdeco/v10/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrdBOAVt.ttf"
-  },
-  {
-    "family": "Maname",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "sinhala", "vietnamese"],
-    "version": "v2",
-    "lastModified": "2025-02-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9my42FkGGI6q_Q.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9myI2VMC.ttf"
   },
   {
     "family": "Noto Sans Newa",
@@ -32694,19 +32694,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPz8.ttf"
   },
   {
-    "family": "Noto Sans Mro",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mro"],
-    "version": "v18",
-    "lastModified": "2022-12-08",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39WDzRtjkho4M.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3bsg.ttf"
-  },
-  {
     "family": "Noto Sans Cuneiform",
     "variants": ["regular"],
     "subsets": ["cuneiform", "latin", "latin-ext"],
@@ -32718,6 +32705,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DkQ.ttf"
+  },
+  {
+    "family": "Noto Sans Mro",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mro"],
+    "version": "v18",
+    "lastModified": "2022-12-08",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39WDzRtjkho4M.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3bsg.ttf"
   },
   {
     "family": "Playwrite AU VIC Guides",
