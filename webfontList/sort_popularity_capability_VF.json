@@ -26705,20 +26705,6 @@
     "menu": "https://fonts.gstatic.com/s/daibannasil/v2/lW-4wj0AJWmpwGyJ2uEoA4I7vS-KLg.ttf"
   },
   {
-    "family": "Zen Loop",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v9",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEK9zqwzX5vOG.ttf",
-      "italic": "https://fonts.gstatic.com/s/zenloop/v9/h0GtssK16UsnJwHsEJ9xoQj14-OGJ0w.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEJ9yoQg.ttf"
-  },
-  {
     "family": "Noto Sans Tangsa",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tangsa"],
@@ -26737,6 +26723,20 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Zen Loop",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v9",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEK9zqwzX5vOG.ttf",
+      "italic": "https://fonts.gstatic.com/s/zenloop/v9/h0GtssK16UsnJwHsEJ9xoQj14-OGJ0w.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEJ9yoQg.ttf"
   },
   {
     "family": "Moulpali",
@@ -29991,19 +29991,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteptguides/v2/sJoY3K5JjdGLJV3vyatrMkupgg-kWTx5J5g31Q.ttf"
   },
   {
-    "family": "Noto Sans Hatran",
-    "variants": ["regular"],
-    "subsets": ["hatran", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_mM83r1nwzDs.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf"
-  },
-  {
     "family": "Jersey 25 Charted",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -30015,6 +30002,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/jersey25charted/v2/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGs2vWmA.ttf"
+  },
+  {
+    "family": "Noto Sans Hatran",
+    "variants": ["regular"],
+    "subsets": ["hatran", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_mM83r1nwzDs.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf"
   },
   {
     "family": "Noto Sans SignWriting",
@@ -30155,19 +30155,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3gA.ttf"
   },
   {
-    "family": "Noto Sans Buginese",
-    "variants": ["regular"],
-    "subsets": ["buginese", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_gtfuEXLmNtw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_QtPGA.ttf"
-  },
-  {
     "family": "Noto Serif Todhri",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "todhri"],
@@ -30179,6 +30166,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N0BzVa0.ttf"
+  },
+  {
+    "family": "Noto Sans Buginese",
+    "variants": ["regular"],
+    "subsets": ["buginese", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_gtfuEXLmNtw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_QtPGA.ttf"
   },
   {
     "family": "Noto Sans Mro",
@@ -30689,19 +30689,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwaYUaH.ttf"
   },
   {
-    "family": "Playwrite CU Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOFooIDQtJbok.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCCQ.ttf"
-  },
-  {
     "family": "Playwrite ES Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30713,6 +30700,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mtDHMeQ.ttf"
+  },
+  {
+    "family": "Playwrite CU Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOFooIDQtJbok.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCCQ.ttf"
   },
   {
     "family": "Playwrite CZ Guides",
