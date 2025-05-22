@@ -26705,6 +26705,20 @@
     "menu": "https://fonts.gstatic.com/s/daibannasil/v2/lW-4wj0AJWmpwGyJ2uEoA4I7vS-KLg.ttf"
   },
   {
+    "family": "Zen Loop",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v9",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEK9zqwzX5vOG.ttf",
+      "italic": "https://fonts.gstatic.com/s/zenloop/v9/h0GtssK16UsnJwHsEJ9xoQj14-OGJ0w.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEJ9yoQg.ttf"
+  },
+  {
     "family": "Noto Sans Tangsa",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tangsa"],
@@ -26723,20 +26737,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Zen Loop",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v9",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEK9zqwzX5vOG.ttf",
-      "italic": "https://fonts.gstatic.com/s/zenloop/v9/h0GtssK16UsnJwHsEJ9xoQj14-OGJ0w.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/zenloop/v9/h0GrssK16UsnJwHsEJ9yoQg.ttf"
   },
   {
     "family": "Moulpali",
@@ -29794,19 +29794,6 @@
     ]
   },
   {
-    "family": "Noto Sans Zanabazar Square",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "zanabazar-square"],
-    "version": "v19",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQtJxOCEgN0Gc.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf"
-  },
-  {
     "family": "Playwrite DE VA",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -29825,6 +29812,19 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Noto Sans Zanabazar Square",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "zanabazar-square"],
+    "version": "v19",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQtJxOCEgN0Gc.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v19/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf"
   },
   {
     "family": "Noto Sans Rejang",
@@ -30689,19 +30689,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwaYUaH.ttf"
   },
   {
-    "family": "Playwrite ES Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mhDDGfdnzXeU.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mtDHMeQ.ttf"
-  },
-  {
     "family": "Playwrite CU Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30713,6 +30700,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCCQ.ttf"
+  },
+  {
+    "family": "Playwrite ES Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mhDDGfdnzXeU.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mtDHMeQ.ttf"
   },
   {
     "family": "Playwrite CZ Guides",
