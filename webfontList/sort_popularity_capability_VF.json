@@ -27603,19 +27603,6 @@
     ]
   },
   {
-    "family": "Noto Sans Old Hungarian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-hungarian"],
-    "version": "v18",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldhungarian/v18/E213_cD6hP3GwCJPEUssHEM0KqLaHJXg2PiIgRfjbg5nCYXt.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldhungarian/v18/E213_cD6hP3GwCJPEUssHEM0KqLaHJXg2PiIgSfiZAo.ttf"
-  },
-  {
     "family": "Noto Sans Tifinagh",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tifinagh"],
@@ -27627,6 +27614,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstifinagh/v20/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PA.ttf"
+  },
+  {
+    "family": "Noto Sans Old Hungarian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-hungarian"],
+    "version": "v18",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldhungarian/v18/E213_cD6hP3GwCJPEUssHEM0KqLaHJXg2PiIgRfjbg5nCYXt.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldhungarian/v18/E213_cD6hP3GwCJPEUssHEM0KqLaHJXg2PiIgSfiZAo.ttf"
   },
   {
     "family": "Jacquarda Bastarda 9",
@@ -28938,19 +28938,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansoldnortharabian/v16/esDF30BdNv-KYGGJpKGk2tNiMt7Jar6olZDyNdr81zBgmEA7.ttf"
   },
   {
-    "family": "Badeen Display",
-    "variants": ["regular"],
-    "subsets": ["arabic", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/badeendisplay/v1/pxidypY2sdZSjFU4cPmNBzckadeLYk1Mq3ap.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/badeendisplay/v1/pxidypY2sdZSjFU4cPmNBzckaeeKaEk.ttf"
-  },
-  {
     "family": "Rubik Storm",
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
@@ -28962,6 +28949,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaotL8RWE.ttf"
+  },
+  {
+    "family": "Badeen Display",
+    "variants": ["regular"],
+    "subsets": ["arabic", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/badeendisplay/v1/pxidypY2sdZSjFU4cPmNBzckadeLYk1Mq3ap.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/badeendisplay/v1/pxidypY2sdZSjFU4cPmNBzckaeeKaEk.ttf"
   },
   {
     "family": "Noto Sans Elbasan",
