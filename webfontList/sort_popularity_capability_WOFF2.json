@@ -27131,26 +27131,6 @@
     "menu": "https://fonts.gstatic.com/s/moderustic/v1/2-c39J9s3o6eLFNHFdXYaOX1UUnf3GLnYjALsQNf7Zc.woff2"
   },
   {
-    "family": "Noto Sans Glagolitic",
-    "variants": ["regular"],
-    "subsets": [
-      "cyrillic-ext",
-      "glagolitic",
-      "latin",
-      "latin-ext",
-      "math",
-      "symbols"
-    ],
-    "version": "v18",
-    "lastModified": "2024-01-26",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansglagolitic/v18/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4ERP4Amu7nM1.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansglagolitic/v18/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRL6gg.woff2"
-  },
-  {
     "family": "Noto Serif Kannada",
     "variants": [
       "100",
@@ -27180,6 +27160,26 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifkannada/v27/v6-8GZHLJFKIhClqUYqXDiWqpxQxWSPoW6bz-l4hGHiNgcYDQeVD7g.woff2"
+  },
+  {
+    "family": "Noto Sans Glagolitic",
+    "variants": ["regular"],
+    "subsets": [
+      "cyrillic-ext",
+      "glagolitic",
+      "latin",
+      "latin-ext",
+      "math",
+      "symbols"
+    ],
+    "version": "v18",
+    "lastModified": "2024-01-26",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansglagolitic/v18/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4ERP4Amu7nM1.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansglagolitic/v18/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRL6gg.woff2"
   },
   {
     "family": "Purple Purse",
@@ -33454,19 +33454,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteisguides/v1/5aUp9-GkphaVExwxdX6SwWF-uigk3Cglnm5jtg.woff2"
   },
   {
-    "family": "Playwrite FR Moderne Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP22HmYzLvrG2fw.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP223nYbK.woff2"
-  },
-  {
     "family": "Playwrite AU TAS Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -33478,6 +33465,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteautasguides/v1/cY9Vfi6cVk5RvjGtQrLqjozy3ekUDtDMDX-NNgbLJYQ.woff2"
+  },
+  {
+    "family": "Playwrite FR Moderne Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP22HmYzLvrG2fw.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP223nYbK.woff2"
   },
   {
     "family": "Playwrite AU QLD Guides",

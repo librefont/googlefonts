@@ -24577,26 +24577,6 @@
     ]
   },
   {
-    "family": "Noto Sans Glagolitic",
-    "variants": ["regular"],
-    "subsets": [
-      "cyrillic-ext",
-      "glagolitic",
-      "latin",
-      "latin-ext",
-      "math",
-      "symbols"
-    ],
-    "version": "v18",
-    "lastModified": "2024-01-26",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansglagolitic/v18/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4ERK4Amu7nM1.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansglagolitic/v18/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRL6g0.ttf"
-  },
-  {
     "family": "Noto Serif Kannada",
     "variants": ["regular"],
     "subsets": ["kannada", "latin", "latin-ext"],
@@ -24615,6 +24595,26 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Noto Sans Glagolitic",
+    "variants": ["regular"],
+    "subsets": [
+      "cyrillic-ext",
+      "glagolitic",
+      "latin",
+      "latin-ext",
+      "math",
+      "symbols"
+    ],
+    "version": "v18",
+    "lastModified": "2024-01-26",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansglagolitic/v18/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4ERK4Amu7nM1.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansglagolitic/v18/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRL6g0.ttf"
   },
   {
     "family": "Purple Purse",
@@ -29912,19 +29912,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansbrahmi/v19/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf"
   },
   {
-    "family": "Noto Sans Limbu",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "limbu"],
-    "version": "v24",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslimbu/v24/3JnlSDv90Gmq2mrzckOBBRRoNJVj0MF3OHRDnA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslimbu/v24/3JnlSDv90Gmq2mrzckOBBRRoNJVT0ctz.ttf"
-  },
-  {
     "family": "Noto Sans Mahajani",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mahajani"],
@@ -29936,6 +29923,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoV.ttf"
+  },
+  {
+    "family": "Noto Sans Limbu",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "limbu"],
+    "version": "v24",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslimbu/v24/3JnlSDv90Gmq2mrzckOBBRRoNJVj0MF3OHRDnA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslimbu/v24/3JnlSDv90Gmq2mrzckOBBRRoNJVT0ctz.ttf"
   },
   {
     "family": "Noto Sans Nabataean",
@@ -30449,19 +30449,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmendekikakui/v28/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjY.ttf"
   },
   {
-    "family": "Noto Sans Manichaean",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "manichaean"],
-    "version": "v18",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfekqCNTtFCtdX.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPz8.ttf"
-  },
-  {
     "family": "Noto Sans Soyombo",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "soyombo"],
@@ -30473,6 +30460,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlc.ttf"
+  },
+  {
+    "family": "Noto Sans Manichaean",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "manichaean"],
+    "version": "v18",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfekqCNTtFCtdX.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPz8.ttf"
   },
   {
     "family": "Noto Sans Modi",
@@ -30905,19 +30905,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteisguides/v1/5aUp9-GkphaVExwxdX6SwWF-uigk3Cglnm5jsw.ttf"
   },
   {
-    "family": "Playwrite FR Moderne Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP22HnIzLvrG2fw.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP223nYbP.ttf"
-  },
-  {
     "family": "Playwrite AU TAS Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30929,6 +30916,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteautasguides/v1/cY9Vfi6cVk5RvjGtQrLqjozy3ekUDtDMDX-NNgbLJYE.ttf"
+  },
+  {
+    "family": "Playwrite FR Moderne Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP22HnIzLvrG2fw.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP223nYbP.ttf"
   },
   {
     "family": "Playwrite AU QLD Guides",
