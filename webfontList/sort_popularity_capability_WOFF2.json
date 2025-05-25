@@ -29623,22 +29623,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritees/v10/kJEhBuMK4Q07lDHc2Xp9uokIp-6D3QEGCpthmFOPJsbpAQ.woff2"
   },
   {
-    "family": "Noto Sans Tangsa",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext", "tangsa"],
-    "version": "v6",
-    "lastModified": "2023-10-25",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/notosanstangsa/v6/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1qkyoUYdplyJDA.woff2",
-      "600": "https://fonts.gstatic.com/s/notosanstangsa/v6/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp2GlCoUYdplyJDA.woff2",
-      "700": "https://fonts.gstatic.com/s/notosanstangsa/v6/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp2_lCoUYdplyJDA.woff2",
-      "regular": "https://fonts.gstatic.com/s/notosanstangsa/v6/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1YkyoUYdplyJDA.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstangsa/v6/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1YkxoQa9s.woff2"
-  },
-  {
     "family": "Winky Rough",
     "variants": [
       "300",
@@ -29678,6 +29662,22 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/winkyrough/v2/t5tzIRwIMoSXA0WSPBjQxJzjxc0_NyCBbx8bZyVeNrhA.woff2"
+  },
+  {
+    "family": "Noto Sans Tangsa",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext", "tangsa"],
+    "version": "v6",
+    "lastModified": "2023-10-25",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/notosanstangsa/v6/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1qkyoUYdplyJDA.woff2",
+      "600": "https://fonts.gstatic.com/s/notosanstangsa/v6/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp2GlCoUYdplyJDA.woff2",
+      "700": "https://fonts.gstatic.com/s/notosanstangsa/v6/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp2_lCoUYdplyJDA.woff2",
+      "regular": "https://fonts.gstatic.com/s/notosanstangsa/v6/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1YkyoUYdplyJDA.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstangsa/v6/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1YkxoQa9s.woff2"
   },
   {
     "family": "Iansui",
@@ -33520,17 +33520,17 @@
     "menu": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhAaqUpo.woff2"
   },
   {
-    "family": "Playwrite IT Trad Guides",
+    "family": "Playwrite FR Trad Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v2",
+    "version": "v1",
     "lastModified": "2024-12-10",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRUBoV-e6yHgQ.woff2"
+      "regular": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWLFe7iXYf2ZXw.woff2"
     },
     "category": "handwriting",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRkAo9_.woff2"
+    "menu": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWL1f7KW.woff2"
   },
   {
     "family": "Playwrite NO Guides",
@@ -33546,17 +33546,17 @@
     "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T2w.woff2"
   },
   {
-    "family": "Playwrite FR Trad Guides",
+    "family": "Playwrite IT Trad Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v1",
+    "version": "v2",
     "lastModified": "2024-12-10",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWLFe7iXYf2ZXw.woff2"
+      "regular": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRUBoV-e6yHgQ.woff2"
     },
     "category": "handwriting",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWL1f7KW.woff2"
+    "menu": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRkAo9_.woff2"
   },
   {
     "family": "Playwrite AT Guides",
