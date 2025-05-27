@@ -30861,22 +30861,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansimperialaramaic/v17/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXc.woff2"
   },
   {
-    "family": "Noto Sans NKo Unjoined",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext", "nko"],
-    "version": "v2",
-    "lastModified": "2023-09-27",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/notosansnkounjoined/v2/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rv32gEKxf5wbh3T.woff2",
-      "600": "https://fonts.gstatic.com/s/notosansnkounjoined/v2/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rsb3QEKxf5wbh3T.woff2",
-      "700": "https://fonts.gstatic.com/s/notosansnkounjoined/v2/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rsi3QEKxf5wbh3T.woff2",
-      "regular": "https://fonts.gstatic.com/s/notosansnkounjoined/v2/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rvF2gEKxf5wbh3T.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnkounjoined/v2/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rvF2jEOz_8.woff2"
-  },
-  {
     "family": "Playwrite CO",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -30891,6 +30875,22 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteco/v12/0FlGVP2Hl1iH-fv2BH4kJkgb8vH-rbJPTDqqx7ZIk-ZEEw.woff2"
+  },
+  {
+    "family": "Noto Sans NKo Unjoined",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext", "nko"],
+    "version": "v2",
+    "lastModified": "2023-09-27",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/notosansnkounjoined/v2/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rv32gEKxf5wbh3T.woff2",
+      "600": "https://fonts.gstatic.com/s/notosansnkounjoined/v2/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rsb3QEKxf5wbh3T.woff2",
+      "700": "https://fonts.gstatic.com/s/notosansnkounjoined/v2/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rsi3QEKxf5wbh3T.woff2",
+      "regular": "https://fonts.gstatic.com/s/notosansnkounjoined/v2/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rvF2gEKxf5wbh3T.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnkounjoined/v2/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rvF2jEOz_8.woff2"
   },
   {
     "family": "Noto Sans Old Italic",
@@ -32587,19 +32587,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYa1WVoN.woff2"
   },
   {
-    "family": "Noto Sans Rejang",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "rejang"],
-    "version": "v21",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwN4a3WYZB_sU.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9WA.woff2"
-  },
-  {
     "family": "Playwrite IT Trad",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -32614,6 +32601,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteittrad/v10/SlG5mR6Yo5oYZX5BFVcEySBSPE50BjHDpZxuvgxzFq96u-6PgUlM.woff2"
+  },
+  {
+    "family": "Noto Sans Rejang",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "rejang"],
+    "version": "v21",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwN4a3WYZB_sU.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9WA.woff2"
   },
   {
     "family": "Noto Sans Brahmi",
@@ -32983,19 +32983,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritepeguides/v1/AMONz5uBsGadFuvf9j8ZyqI0FA3br70w8y2Klw.woff2"
   },
   {
-    "family": "Noto Sans Caucasian Albanian",
-    "variants": ["regular"],
-    "subsets": ["caucasian-albanian", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXrYXmoVmRSZo.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHsoA.woff2"
-  },
-  {
     "family": "Noto Sans Kharoshthi",
     "variants": ["regular"],
     "subsets": ["kharoshthi", "latin", "latin-ext"],
@@ -33007,6 +32994,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanskharoshthi/v16/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5pl0.woff2"
+  },
+  {
+    "family": "Noto Sans Caucasian Albanian",
+    "variants": ["regular"],
+    "subsets": ["caucasian-albanian", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXrYXmoVmRSZo.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v18/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHsoA.woff2"
   },
   {
     "family": "Noto Sans Tamil Supplement",
@@ -33481,6 +33481,19 @@
     "menu": "https://fonts.gstatic.com/s/playwritedegrundguides/v1/OD5RuNCQ02KrAHnha1L36CWcQ83dtK5BLxqexndub94ZJw.woff2"
   },
   {
+    "family": "Playwrite DE LA Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritedelaguides/v2/1q2XY42fB0V64O4aSe1OjKs_yAXBOfDI5wE56giM62M1AXs.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedelaguides/v2/1q2XY42fB0V64O4aSe1OjKs_yAXBOfDI5wE52gyG6g.woff2"
+  },
+  {
     "family": "Playwrite AT Guides",
     "variants": ["regular", "italic"],
     "subsets": ["latin"],
@@ -33493,19 +33506,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBdbkDdw.woff2"
-  },
-  {
-    "family": "Playwrite DE LA Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritedelaguides/v2/1q2XY42fB0V64O4aSe1OjKs_yAXBOfDI5wE56giM62M1AXs.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedelaguides/v2/1q2XY42fB0V64O4aSe1OjKs_yAXBOfDI5wE52gyG6g.woff2"
   },
   {
     "family": "Playwrite IT Trad Guides",
