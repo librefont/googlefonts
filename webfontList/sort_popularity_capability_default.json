@@ -23258,6 +23258,21 @@
     "menu": "https://fonts.gstatic.com/s/jomolhari/v19/EvONzA1M1Iw_CBd2hsQyFlgd.ttf"
   },
   {
+    "family": "Karantina",
+    "variants": ["300", "regular", "700"],
+    "subsets": ["hebrew", "latin", "latin-ext"],
+    "version": "v12",
+    "lastModified": "2025-04-23",
+    "files": {
+      "300": "https://fonts.gstatic.com/s/karantina/v12/buExpo24ccnh31GVMABxXCgf-P5Oaiw4cw.ttf",
+      "700": "https://fonts.gstatic.com/s/karantina/v12/buExpo24ccnh31GVMABxTC8f-P5Oaiw4cw.ttf",
+      "regular": "https://fonts.gstatic.com/s/karantina/v12/buE0po24ccnh31GVMABJ8AA78NVSYw.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/karantina/v12/buE0po24ccnh31GVMAB58Qo_.ttf"
+  },
+  {
     "family": "Noto Sans Lao",
     "variants": [
       "100",
@@ -23287,21 +23302,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslao/v30/bx6lNx2Ol_ixgdYWLm9BwxM3NW6BOkuf763Clj73CiQ_J1Djx9pidOt4ccbtfpkO.ttf"
-  },
-  {
-    "family": "Karantina",
-    "variants": ["300", "regular", "700"],
-    "subsets": ["hebrew", "latin", "latin-ext"],
-    "version": "v12",
-    "lastModified": "2025-04-23",
-    "files": {
-      "300": "https://fonts.gstatic.com/s/karantina/v12/buExpo24ccnh31GVMABxXCgf-P5Oaiw4cw.ttf",
-      "700": "https://fonts.gstatic.com/s/karantina/v12/buExpo24ccnh31GVMABxTC8f-P5Oaiw4cw.ttf",
-      "regular": "https://fonts.gstatic.com/s/karantina/v12/buE0po24ccnh31GVMABJ8AA78NVSYw.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/karantina/v12/buE0po24ccnh31GVMAB58Qo_.ttf"
   },
   {
     "family": "Keania One",
@@ -32039,19 +32039,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteie/v10/fC1zPYtWYWnH0hvndYd6GCGWXCAxfsUebXFMyzioNpMk2w.ttf"
   },
   {
-    "family": "Noto Sans Vai",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vai"],
-    "version": "v17",
-    "lastModified": "2022-09-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrURMTsDIRSfr0.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrUdMXmCA.ttf"
-  },
-  {
     "family": "Noto Sans Runic",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "runic"],
@@ -32063,6 +32050,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansrunic/v17/H4c_BXWPl9DZ0Xe_nHUaus7W68WmahBr.ttf"
+  },
+  {
+    "family": "Noto Sans Vai",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vai"],
+    "version": "v17",
+    "lastModified": "2022-09-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrURMTsDIRSfr0.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrUdMXmCA.ttf"
   },
   {
     "family": "Noto Sans Lydian",
@@ -32891,19 +32891,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPz8.ttf"
   },
   {
-    "family": "Noto Sans Old Sogdian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-sogdian"],
-    "version": "v17",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURt7neIqM-9uyg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgu.ttf"
-  },
-  {
     "family": "Noto Sans Saurashtra",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "saurashtra"],
@@ -32915,6 +32902,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBc.ttf"
+  },
+  {
+    "family": "Noto Sans Old Sogdian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-sogdian"],
+    "version": "v17",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURt7neIqM-9uyg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldsogdian/v17/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgu.ttf"
   },
   {
     "family": "Noto Sans Mro",
