@@ -15427,19 +15427,6 @@
     "menu": "https://fonts.gstatic.com/s/leaguescript/v28/CSR54zpSlumSWj9CGVsoBZdeWNJevA.ttf"
   },
   {
-    "family": "Zen Antique Soft",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "greek", "japanese", "latin", "latin-ext"],
-    "version": "v13",
-    "lastModified": "2024-08-07",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/zenantiquesoft/v13/DtV4JwqzSL1q_KwnEWMc_3xfgW6ihwBmkui5HNg.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/zenantiquesoft/v13/DtV4JwqzSL1q_KwnEWMc_3xfgW6itwFslg.ttf"
-  },
-  {
     "family": "Bellota",
     "variants": ["300", "300italic", "regular", "italic", "700", "700italic"],
     "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
@@ -15456,6 +15443,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/bellota/v16/MwQ2bhXl3_qEpiwAKJNbsA.ttf"
+  },
+  {
+    "family": "Zen Antique Soft",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "greek", "japanese", "latin", "latin-ext"],
+    "version": "v13",
+    "lastModified": "2024-08-07",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/zenantiquesoft/v13/DtV4JwqzSL1q_KwnEWMc_3xfgW6ihwBmkui5HNg.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/zenantiquesoft/v13/DtV4JwqzSL1q_KwnEWMc_3xfgW6itwFslg.ttf"
   },
   {
     "family": "Fondamento",
@@ -20826,21 +20826,6 @@
     "menu": "https://fonts.gstatic.com/s/jomolhari/v19/EvONzA1M1Iw_CBd2hsQyFlgd.ttf"
   },
   {
-    "family": "Karantina",
-    "variants": ["300", "regular", "700"],
-    "subsets": ["hebrew", "latin", "latin-ext"],
-    "version": "v12",
-    "lastModified": "2025-04-23",
-    "files": {
-      "300": "https://fonts.gstatic.com/s/karantina/v12/buExpo24ccnh31GVMABxXCgf-P5Oaiw4cw.ttf",
-      "700": "https://fonts.gstatic.com/s/karantina/v12/buExpo24ccnh31GVMABxTC8f-P5Oaiw4cw.ttf",
-      "regular": "https://fonts.gstatic.com/s/karantina/v12/buE0po24ccnh31GVMABJ8AA78NVSYw.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/karantina/v12/buE0po24ccnh31GVMAB58Qo_.ttf"
-  },
-  {
     "family": "Noto Sans Lao",
     "variants": ["regular"],
     "subsets": ["lao", "latin", "latin-ext"],
@@ -20864,6 +20849,21 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Karantina",
+    "variants": ["300", "regular", "700"],
+    "subsets": ["hebrew", "latin", "latin-ext"],
+    "version": "v12",
+    "lastModified": "2025-04-23",
+    "files": {
+      "300": "https://fonts.gstatic.com/s/karantina/v12/buExpo24ccnh31GVMABxXCgf-P5Oaiw4cw.ttf",
+      "700": "https://fonts.gstatic.com/s/karantina/v12/buExpo24ccnh31GVMABxTC8f-P5Oaiw4cw.ttf",
+      "regular": "https://fonts.gstatic.com/s/karantina/v12/buE0po24ccnh31GVMABJ8AA78NVSYw.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/karantina/v12/buE0po24ccnh31GVMAB58Qo_.ttf"
   },
   {
     "family": "Keania One",
