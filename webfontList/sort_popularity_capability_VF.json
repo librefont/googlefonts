@@ -28150,19 +28150,6 @@
     "menu": "https://fonts.gstatic.com/s/notoserifdogra/v23/MQpP-XquKMC7ROPP3QOOlm7xPu3fKy-9JQ.ttf"
   },
   {
-    "family": "Chokokutai",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
-    "version": "v10",
-    "lastModified": "2024-08-07",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fws9y7ypu1Kr7I.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fwsxy_4og.ttf"
-  },
-  {
     "family": "Noto Sans Old Italic",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "old-italic"],
@@ -28174,6 +28161,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansolditalic/v17/TuGOUUFzXI5FBtUq5a8bh68BJxxEVam7tVlQfxw.ttf"
+  },
+  {
+    "family": "Chokokutai",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
+    "version": "v10",
+    "lastModified": "2024-08-07",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fws9y7ypu1Kr7I.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/chokokutai/v10/kmK4Zqw4HwvCeHGM8Fwsxy_4og.ttf"
   },
   {
     "family": "Noto Sans Medefaidrin",
@@ -30266,19 +30266,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansinscriptionalparthian/v17/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2ykmBI0Dc.ttf"
   },
   {
-    "family": "Noto Sans Elymaic",
-    "variants": ["regular"],
-    "subsets": ["elymaic", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD4AjWOT0zi2V.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuA.ttf"
-  },
-  {
     "family": "Noto Sans Nabataean",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "nabataean"],
@@ -30290,6 +30277,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3gA.ttf"
+  },
+  {
+    "family": "Noto Sans Elymaic",
+    "variants": ["regular"],
+    "subsets": ["elymaic", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD4AjWOT0zi2V.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanselymaic/v17/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuA.ttf"
   },
   {
     "family": "Noto Sans Phoenician",
