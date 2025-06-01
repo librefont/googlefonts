@@ -20469,19 +20469,6 @@
     "menu": "https://fonts.gstatic.com/s/convergence/v15/rax5HiePvdgXPmmMHcIPYShbu0o.ttf"
   },
   {
-    "family": "Delicious Handrawn",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v8",
-    "lastModified": "2024-09-04",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/delicioushandrawn/v8/wlpsgx_NAUNkpmKQifcxkQchDFo3fJ113JpDd6u3AQ.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/delicioushandrawn/v8/wlpsgx_NAUNkpmKQifcxkQchDFo3fJ1F3ZBH.ttf"
-  },
-  {
     "family": "Mirza",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["arabic", "latin", "latin-ext"],
@@ -20496,6 +20483,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/mirza/v18/co3ImWlikiN5EtrcIsM.ttf"
+  },
+  {
+    "family": "Delicious Handrawn",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v8",
+    "lastModified": "2024-09-04",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/delicioushandrawn/v8/wlpsgx_NAUNkpmKQifcxkQchDFo3fJ113JpDd6u3AQ.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/delicioushandrawn/v8/wlpsgx_NAUNkpmKQifcxkQchDFo3fJ1F3ZBH.ttf"
   },
   {
     "family": "Song Myung",
@@ -32746,6 +32746,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS36ANmsg.ttf"
   },
   {
+    "family": "Noto Sans Pau Cin Hau",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "pau-cin-hau"],
+    "version": "v20",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehIdjEWqKMxsKw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-u.ttf"
+  },
+  {
     "family": "Playwrite ID",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -32760,19 +32773,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteid/v10/Cn-kJt2YWhlY2oC4KxifKQJmrtrRm-sKkQqUl0-RN_NREg.ttf"
-  },
-  {
-    "family": "Noto Sans Pau Cin Hau",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "pau-cin-hau"],
-    "version": "v20",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehIdjEWqKMxsKw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-u.ttf"
   },
   {
     "family": "Noto Sans Phoenician",
@@ -33514,19 +33514,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteinguides/v1/GFD2WBRug3mQSvrAT9AL4vx4d3lQNQV4ftxgcA.ttf"
   },
   {
-    "family": "Playwrite DE Grund Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritedegrundguides/v1/OD5RuNCQ02KrAHnha1L36CWcQ83dtK5BLxqexnduX98TJlnjHAA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedegrundguides/v1/OD5RuNCQ02KrAHnha1L36CWcQ83dtK5BLxqexndub94ZIg.ttf"
-  },
-  {
     "family": "Playwrite CU Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -33538,6 +33525,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCCQ.ttf"
+  },
+  {
+    "family": "Playwrite DE Grund Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritedegrundguides/v1/OD5RuNCQ02KrAHnha1L36CWcQ83dtK5BLxqexnduX98TJlnjHAA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedegrundguides/v1/OD5RuNCQ02KrAHnha1L36CWcQ83dtK5BLxqexndub94ZIg.ttf"
   },
   {
     "family": "Playwrite DE LA Guides",
@@ -33579,19 +33579,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhAaqUp8.ttf"
   },
   {
-    "family": "Playwrite BE VLG Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1u9GK3nNgEoc.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1t9HIX0.ttf"
-  },
-  {
     "family": "Playwrite CL Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -33603,6 +33590,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf"
+  },
+  {
+    "family": "Playwrite BE VLG Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1u9GK3nNgEoc.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1t9HIX0.ttf"
   },
   {
     "family": "Playwrite DK Uloopet Guides",
@@ -33670,19 +33670,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteidguides/v1/MjQamj1kuP_soQ3o-rysMdWi_8oJlIUUEnYr2Q.ttf"
   },
   {
-    "family": "Playwrite FR Trad Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2024-12-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWLFfriXYf2ZXw.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWL1f7KT.ttf"
-  },
-  {
     "family": "Playwrite ZA Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -33694,6 +33681,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk6HHiDA.ttf"
+  },
+  {
+    "family": "Playwrite FR Trad Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2024-12-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWLFfriXYf2ZXw.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWL1f7KT.ttf"
   },
   {
     "family": "Playwrite VN Guides",
