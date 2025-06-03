@@ -29124,6 +29124,19 @@
     "menu": "https://fonts.gstatic.com/s/phetsarath/v2/N0bQ2SpTP-plK0uWayAYMd_3mQ.ttf"
   },
   {
+    "family": "Noto Sans Egyptian Hieroglyphs",
+    "variants": ["regular"],
+    "subsets": ["egyptian-hieroglyphs", "latin", "latin-ext"],
+    "version": "v29",
+    "lastModified": "2024-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYindSVK8xRg7iw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYintSFi4.ttf"
+  },
+  {
     "family": "Playwrite NG Modern",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -29142,19 +29155,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Noto Sans Egyptian Hieroglyphs",
-    "variants": ["regular"],
-    "subsets": ["egyptian-hieroglyphs", "latin", "latin-ext"],
-    "version": "v29",
-    "lastModified": "2024-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYindSVK8xRg7iw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYintSFi4.ttf"
   },
   {
     "family": "Rubik Storm",
@@ -30154,6 +30154,19 @@
     "menu": "https://fonts.gstatic.com/s/jersey15charted/v3/nuFjD-rCQIjoVp1Sva2ToCTudGbLeSv5pWk.ttf"
   },
   {
+    "family": "Jersey 10 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey10charted/v3/oY1E8fPFr6XiNWqEp90XSbwUGfF8SnedKmeBvEYs.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey10charted/v3/oY1E8fPFr6XiNWqEp90XSbwUGfF8SkecIGM.ttf"
+  },
+  {
     "family": "Playwrite ID",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30172,19 +30185,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Jersey 10 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey10charted/v3/oY1E8fPFr6XiNWqEp90XSbwUGfF8SnedKmeBvEYs.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey10charted/v3/oY1E8fPFr6XiNWqEp90XSbwUGfF8SkecIGM.ttf"
   },
   {
     "family": "Noto Sans Pahawh Hmong",
@@ -31224,19 +31224,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LAxkKTY.ttf"
   },
   {
-    "family": "Playwrite IT Trad Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRUA4V-e6yHgQ.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRkAo96.ttf"
-  },
-  {
     "family": "Playwrite CU Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -31248,6 +31235,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCCQ.ttf"
+  },
+  {
+    "family": "Playwrite IT Trad Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRUA4V-e6yHgQ.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRkAo96.ttf"
   },
   {
     "family": "Playwrite ID Guides",
