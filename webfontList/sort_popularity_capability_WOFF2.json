@@ -31094,22 +31094,6 @@
     "colorCapabilities": ["COLRv0"]
   },
   {
-    "family": "Playwrite PT",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v9",
-    "lastModified": "2025-05-30",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritept/v9/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDjTfdtvlo3Qaw.woff2",
-      "200": "https://fonts.gstatic.com/s/playwritept/v9/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9iDiTfdtvlo3Qaw.woff2",
-      "300": "https://fonts.gstatic.com/s/playwritept/v9/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9v7iTfdtvlo3Qaw.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwritept/v9/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDiTfdtvlo3Qaw.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritept/v9/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDiffNnvw.woff2"
-  },
-  {
     "family": "Playwrite GB J",
     "variants": [
       "100",
@@ -31137,6 +31121,22 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritegbj/v10/k3kEo8wSPe9dzQ1UGbvobAPhY5iG-fsubxedDheGdc93adTW.woff2"
+  },
+  {
+    "family": "Playwrite PT",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v9",
+    "lastModified": "2025-05-30",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritept/v9/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDjTfdtvlo3Qaw.woff2",
+      "200": "https://fonts.gstatic.com/s/playwritept/v9/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9iDiTfdtvlo3Qaw.woff2",
+      "300": "https://fonts.gstatic.com/s/playwritept/v9/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9v7iTfdtvlo3Qaw.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwritept/v9/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDiTfdtvlo3Qaw.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritept/v9/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDiffNnvw.woff2"
   },
   {
     "family": "Blaka Hollow",
@@ -32727,19 +32727,6 @@
     "menu": "https://fonts.gstatic.com/s/jersey15charted/v3/nuFjD-rCQIjoVp1Sva2ToCTudGbLeSv5pWw.woff2"
   },
   {
-    "family": "Jersey 10 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey10charted/v3/oY1E8fPFr6XiNWqEp90XSbwUGfF8SneYKmeBvEYs.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey10charted/v3/oY1E8fPFr6XiNWqEp90XSbwUGfF8SkecIGY.woff2"
-  },
-  {
     "family": "Playwrite ID",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -32754,6 +32741,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteid/v10/Cn-kJt2YWhlY2oC4KxifKQJmrtrRm-sKkQqUl0-RN_NRFw.woff2"
+  },
+  {
+    "family": "Jersey 10 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey10charted/v3/oY1E8fPFr6XiNWqEp90XSbwUGfF8SneYKmeBvEYs.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey10charted/v3/oY1E8fPFr6XiNWqEp90XSbwUGfF8SkecIGY.woff2"
   },
   {
     "family": "Noto Sans Pahawh Hmong",
@@ -33781,19 +33781,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LAxkKTM.woff2"
   },
   {
-    "family": "Playwrite CU Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOFo8IDQtJbok.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCDA.woff2"
-  },
-  {
     "family": "Playwrite IT Trad Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -33805,6 +33792,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRkAo9_.woff2"
+  },
+  {
+    "family": "Playwrite CU Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOFo8IDQtJbok.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCDA.woff2"
   },
   {
     "family": "Playwrite ID Guides",
