@@ -30872,6 +30872,22 @@
     "colorCapabilities": ["COLRv0"]
   },
   {
+    "family": "Playwrite ZA",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v10",
+    "lastModified": "2025-05-30",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwriteza/v10/Noag6Uzhw5CTOhXKt5-vwvhrNyaNQo1LaBq0EbLGbYUsn9T5dt0.ttf",
+      "200": "https://fonts.gstatic.com/s/playwriteza/v10/Noag6Uzhw5CTOhXKt5-vwvhrNyaNQo1LaBq0ETLHbYUsn9T5dt0.ttf",
+      "300": "https://fonts.gstatic.com/s/playwriteza/v10/Noag6Uzhw5CTOhXKt5-vwvhrNyaNQo1LaBq0EezHbYUsn9T5dt0.ttf",
+      "regular": "https://fonts.gstatic.com/s/playwriteza/v10/Noag6Uzhw5CTOhXKt5-vwvhrNyaNQo1LaBq0EbLHbYUsn9T5dt0.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteza/v10/Noag6Uzhw5CTOhXKt5-vwvhrNyaNQo1LaBq0EbLHXYQmmw.ttf"
+  },
+  {
     "family": "Noto Sans Thaana",
     "variants": [
       "100",
@@ -30901,22 +30917,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansthaana/v25/C8c14dM-vnz-s-3jaEsxlxHkBH-WZOETXfoQrfQ9Y4XrbiLglOo.ttf"
-  },
-  {
-    "family": "Playwrite ZA",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v10",
-    "lastModified": "2025-05-30",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwriteza/v10/Noag6Uzhw5CTOhXKt5-vwvhrNyaNQo1LaBq0EbLGbYUsn9T5dt0.ttf",
-      "200": "https://fonts.gstatic.com/s/playwriteza/v10/Noag6Uzhw5CTOhXKt5-vwvhrNyaNQo1LaBq0ETLHbYUsn9T5dt0.ttf",
-      "300": "https://fonts.gstatic.com/s/playwriteza/v10/Noag6Uzhw5CTOhXKt5-vwvhrNyaNQo1LaBq0EezHbYUsn9T5dt0.ttf",
-      "regular": "https://fonts.gstatic.com/s/playwriteza/v10/Noag6Uzhw5CTOhXKt5-vwvhrNyaNQo1LaBq0EbLHbYUsn9T5dt0.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteza/v10/Noag6Uzhw5CTOhXKt5-vwvhrNyaNQo1LaBq0EbLHXYQmmw.ttf"
   },
   {
     "family": "Jacquarda Bastarda 9",
@@ -31537,6 +31537,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrUdMXmCA.ttf"
   },
   {
+    "family": "Noto Sans Tai Le",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tai-le"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR58tK1W77HtMo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Xw.ttf"
+  },
+  {
     "family": "Playwrite DK Uloopet",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31551,19 +31564,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritedkuloopet/v5/bWtS7e3Ufwn0Hf1zjprKPYlcDAoHknvYFjqIh8PF6jwcP5K06lUbKOPk.ttf"
-  },
-  {
-    "family": "Noto Sans Tai Le",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tai-le"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR58tK1W77HtMo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Xw.ttf"
   },
   {
     "family": "Noto Serif Yezidi",
@@ -33696,19 +33696,6 @@
     "menu": "https://fonts.gstatic.com/s/yarndings20/v3/TuGWUVlkUohEQu8l7K8b-vN1BnUw.ttf"
   },
   {
-    "family": "Playwrite BE WAL Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUzHlVJabaOSA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUwHkXpI.ttf"
-  },
-  {
     "family": "Playwrite FR Moderne Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -33720,6 +33707,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP223nYbP.ttf"
+  },
+  {
+    "family": "Playwrite BE WAL Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUzHlVJabaOSA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUwHkXpI.ttf"
   },
   {
     "family": "Yarndings 12",
