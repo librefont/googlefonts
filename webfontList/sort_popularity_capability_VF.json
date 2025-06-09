@@ -21539,32 +21539,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansbuhid/v22/Dxxy8jiXMW75w3OmoDXVWJD7YwzweqFk.ttf"
   },
   {
-    "family": "Noto Serif Tamil",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext", "tamil"],
-    "version": "v30",
-    "lastModified": "2025-03-11",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoseriftamil/v30/LYjZdHr-klIgTfc40komjQ5OObazeJSY8z6Np1k.ttf",
-      "italic": "https://fonts.gstatic.com/s/notoseriftamil/v30/LYjfdHr-klIgTfc40komjQ5OObazSJaS9xyIt1mcXg.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoseriftamil/v30/LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecattN-h8fbz.ttf",
-    "axes": [
-      {
-        "tag": "wdth",
-        "start": 62.5,
-        "end": 100
-      },
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
     "family": "Hubot Sans",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -21586,6 +21560,32 @@
       {
         "tag": "wght",
         "start": 200,
+        "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Noto Serif Tamil",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext", "tamil"],
+    "version": "v30",
+    "lastModified": "2025-03-11",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoseriftamil/v30/LYjZdHr-klIgTfc40komjQ5OObazeJSY8z6Np1k.ttf",
+      "italic": "https://fonts.gstatic.com/s/notoseriftamil/v30/LYjfdHr-klIgTfc40komjQ5OObazSJaS9xyIt1mcXg.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoseriftamil/v30/LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecattN-h8fbz.ttf",
+    "axes": [
+      {
+        "tag": "wdth",
+        "start": 62.5,
+        "end": 100
+      },
+      {
+        "tag": "wght",
+        "start": 100,
         "end": 900
       }
     ]
@@ -30522,19 +30522,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmodi/v24/pe03MIySN5pO62Z5YkFyT7jeas5rU1Q.ttf"
   },
   {
-    "family": "Playwrite TZ Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_YQy93JQ2XEg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_UQ232A.ttf"
-  },
-  {
     "family": "Noto Sans Old Permic",
     "variants": ["regular"],
     "subsets": ["cyrillic-ext", "latin", "latin-ext", "old-permic"],
@@ -30546,6 +30533,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansoldpermic/v17/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf"
+  },
+  {
+    "family": "Playwrite TZ Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_YQy93JQ2XEg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_UQ232A.ttf"
   },
   {
     "family": "Noto Sans Pau Cin Hau",
