@@ -21174,19 +21174,6 @@
     ]
   },
   {
-    "family": "Fenix",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v20",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/fenix/v20/XoHo2YL_S7-g5ostKzAFvs8o.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/fenix/v20/XoHo2YL_S7-g5rssITQ.ttf"
-  },
-  {
     "family": "Sree Krushnadevaraya",
     "variants": ["regular"],
     "subsets": ["latin", "telugu"],
@@ -21198,6 +21185,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v22/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWa0lw.ttf"
+  },
+  {
+    "family": "Fenix",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v20",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/fenix/v20/XoHo2YL_S7-g5ostKzAFvs8o.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/fenix/v20/XoHo2YL_S7-g5rssITQ.ttf"
   },
   {
     "family": "Mynerve",
@@ -21539,32 +21539,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansbuhid/v22/Dxxy8jiXMW75w3OmoDXVWJD7YwzweqFk.ttf"
   },
   {
-    "family": "Hubot Sans",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v4",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/hubotsans/v4/pe0rMIiULYxOvxVLbVwhIteQB9Zra1U.ttf",
-      "italic": "https://fonts.gstatic.com/s/hubotsans/v4/pe0pMIiULYxOvxVLbVwhEtWaA_Rue1UwVg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZtgbrR.ttf",
-    "axes": [
-      {
-        "tag": "wdth",
-        "start": 75,
-        "end": 125
-      },
-      {
-        "tag": "wght",
-        "start": 200,
-        "end": 900
-      }
-    ]
-  },
-  {
     "family": "Noto Serif Tamil",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext", "tamil"],
@@ -21586,6 +21560,32 @@
       {
         "tag": "wght",
         "start": 100,
+        "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Hubot Sans",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v4",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/hubotsans/v4/pe0rMIiULYxOvxVLbVwhIteQB9Zra1U.ttf",
+      "italic": "https://fonts.gstatic.com/s/hubotsans/v4/pe0pMIiULYxOvxVLbVwhEtWaA_Rue1UwVg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZtgbrR.ttf",
+    "axes": [
+      {
+        "tag": "wdth",
+        "start": 75,
+        "end": 125
+      },
+      {
+        "tag": "wght",
+        "start": 200,
         "end": 900
       }
     ]
