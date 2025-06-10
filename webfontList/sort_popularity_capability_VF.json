@@ -24344,6 +24344,19 @@
     ]
   },
   {
+    "family": "Passero One",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v27",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/passeroone/v27/JTUTjIko8DOq5FeaeEAjgE5B5Arr-s50.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/passeroone/v27/JTUTjIko8DOq5FeaeEAjgH5A7g4.ttf"
+  },
+  {
     "family": "Asta Sans",
     "variants": ["regular"],
     "subsets": ["korean", "latin"],
@@ -24362,19 +24375,6 @@
         "end": 800
       }
     ]
-  },
-  {
-    "family": "Passero One",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v27",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/passeroone/v27/JTUTjIko8DOq5FeaeEAjgE5B5Arr-s50.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/passeroone/v27/JTUTjIko8DOq5FeaeEAjgH5A7g4.ttf"
   },
   {
     "family": "Moderustic",
@@ -26964,19 +26964,6 @@
     "menu": "https://fonts.gstatic.com/s/ingriddarling/v6/LDIrapaJNxUtSuFdw-9yf4rCPvLPs7o.ttf"
   },
   {
-    "family": "Rubik Burned",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqniHQuaCY5ZSg.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqnSHAGe.ttf"
-  },
-  {
     "family": "Moulpali",
     "variants": ["regular"],
     "subsets": ["khmer", "latin"],
@@ -26988,6 +26975,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/moulpali/v32/H4ckBXKMl9HagUWymxY7yLs.ttf"
+  },
+  {
+    "family": "Rubik Burned",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqniHQuaCY5ZSg.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqnSHAGe.ttf"
   },
   {
     "family": "Shizuru",
@@ -28570,6 +28570,19 @@
     ]
   },
   {
+    "family": "Noto Sans Elbasan",
+    "variants": ["regular"],
+    "subsets": ["elbasan", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvHdlre4dFcFh.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvEdkp-o.ttf"
+  },
+  {
     "family": "Blaka Ink",
     "variants": ["regular"],
     "subsets": ["arabic", "latin", "latin-ext"],
@@ -28582,19 +28595,6 @@
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/blakaink/v10/AlZy_zVVtpj22Znag2cRdH38.ttf",
     "colorCapabilities": ["COLRv1", "SVG"]
-  },
-  {
-    "family": "Noto Sans Elbasan",
-    "variants": ["regular"],
-    "subsets": ["elbasan", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvHdlre4dFcFh.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanselbasan/v16/-F6rfiZqLzI2JPCgQBnw400qp1trvEdkp-o.ttf"
   },
   {
     "family": "Jacquard 12 Charted",
@@ -28636,19 +28636,6 @@
     "menu": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoH7J7IE.ttf"
   },
   {
-    "family": "Noto Sans Egyptian Hieroglyphs",
-    "variants": ["regular"],
-    "subsets": ["egyptian-hieroglyphs", "latin", "latin-ext"],
-    "version": "v29",
-    "lastModified": "2024-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYindSVK8xRg7iw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYintSFi4.ttf"
-  },
-  {
     "family": "Noto Sans PhagsPa",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "phags-pa", "symbols"],
@@ -28660,6 +28647,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansphagspa/v23/XLY8IYr5bJNDGYxPGjyYbaEjwQR-LGltasI.ttf"
+  },
+  {
+    "family": "Noto Sans Egyptian Hieroglyphs",
+    "variants": ["regular"],
+    "subsets": ["egyptian-hieroglyphs", "latin", "latin-ext"],
+    "version": "v29",
+    "lastModified": "2024-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYindSVK8xRg7iw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYintSFi4.ttf"
   },
   {
     "family": "Noto Sans Old North Arabian",
@@ -29054,6 +29054,19 @@
     "menu": "https://fonts.gstatic.com/s/rubikbrokenfax/v1/NGSvv4rXG042O-GzH9sg1cUgl8w8UW6ccg.ttf"
   },
   {
+    "family": "Noto Sans Osage",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "osage"],
+    "version": "v18",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtXRlaSxkrMCQ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtnR1yW.ttf"
+  },
+  {
     "family": "Noto Serif Oriya",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "oriya"],
@@ -29072,19 +29085,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Noto Sans Osage",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "osage"],
-    "version": "v18",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtXRlaSxkrMCQ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansosage/v18/oPWX_kB6kP4jCuhpgEGmw4mtAVtnR1yW.ttf"
   },
   {
     "family": "Playwrite PL",
