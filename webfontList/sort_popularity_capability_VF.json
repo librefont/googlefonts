@@ -27721,19 +27721,6 @@
     ]
   },
   {
-    "family": "Noto Sans Old Persian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-persian"],
-    "version": "v16",
-    "lastModified": "2023-07-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldpersian/v16/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_tqOlQfx9CjA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldpersian/v16/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_dqeNU.ttf"
-  },
-  {
     "family": "Playpen Sans Deva",
     "variants": ["regular"],
     "subsets": ["devanagari", "emoji", "latin", "latin-ext"],
@@ -27752,6 +27739,19 @@
         "end": 800
       }
     ]
+  },
+  {
+    "family": "Noto Sans Old Persian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-persian"],
+    "version": "v16",
+    "lastModified": "2023-07-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldpersian/v16/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_tqOlQfx9CjA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldpersian/v16/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_dqeNU.ttf"
   },
   {
     "family": "Gajraj One",
@@ -29448,26 +29448,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansoldnortharabian/v16/esDF30BdNv-KYGGJpKGk2tNiMt7Jar6olZDyNdr81zBgmEA7.ttf"
   },
   {
-    "family": "Noto Sans Vithkuqi",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vithkuqi"],
-    "version": "v2",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansvithkuqi/v2/jVyX7m77CXvQswd6WjYu9E1wN6cih2TIeTf0SZST2g.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansvithkuqi/v2/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SsKIxug.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 400,
-        "end": 700
-      }
-    ]
-  },
-  {
     "family": "Playwrite BE WAL",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -29484,6 +29464,26 @@
         "tag": "wght",
         "start": 100,
         "end": 400
+      }
+    ]
+  },
+  {
+    "family": "Noto Sans Vithkuqi",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vithkuqi"],
+    "version": "v2",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansvithkuqi/v2/jVyX7m77CXvQswd6WjYu9E1wN6cih2TIeTf0SZST2g.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansvithkuqi/v2/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SsKIxug.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 400,
+        "end": 700
       }
     ]
   },
@@ -30462,19 +30462,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZc.ttf"
   },
   {
-    "family": "Playwrite PE Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritepeguides/v1/AMONz5uBsGadFuvf9j8ZyqI0FA3br70wwyyAlqETME8.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritepeguides/v1/AMONz5uBsGadFuvf9j8ZyqI0FA3br70w8y2Kkg.ttf"
-  },
-  {
     "family": "Noto Sans Mahajani",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mahajani"],
@@ -30486,6 +30473,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmahajani/v19/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoV.ttf"
+  },
+  {
+    "family": "Playwrite PE Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritepeguides/v1/AMONz5uBsGadFuvf9j8ZyqI0FA3br70wwyyAlqETME8.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritepeguides/v1/AMONz5uBsGadFuvf9j8ZyqI0FA3br70w8y2Kkg.ttf"
   },
   {
     "family": "Noto Sans Lepcha",
