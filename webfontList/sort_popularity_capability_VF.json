@@ -25552,20 +25552,6 @@
     ]
   },
   {
-    "family": "Alumni Sans Inline One",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v6",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/alumnisansinlineone/v6/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpD3AZcr7xbYw.ttf",
-      "italic": "https://fonts.gstatic.com/s/alumnisansinlineone/v6/RrQDbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ITdpz0fYxcrQ.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/alumnisansinlineone/v6/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ETdg.ttf"
-  },
-  {
     "family": "Alumni Sans Collegiate One",
     "variants": ["regular", "italic"],
     "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
@@ -25578,6 +25564,20 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/alumnisanscollegiateone/v6/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdbwjw.ttf"
+  },
+  {
+    "family": "Alumni Sans Inline One",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v6",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/alumnisansinlineone/v6/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpD3AZcr7xbYw.ttf",
+      "italic": "https://fonts.gstatic.com/s/alumnisansinlineone/v6/RrQDbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ITdpz0fYxcrQ.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/alumnisansinlineone/v6/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ETdg.ttf"
   },
   {
     "family": "Kapakana",
@@ -27960,26 +27960,6 @@
     ]
   },
   {
-    "family": "Playpen Sans Hebrew",
-    "variants": ["regular"],
-    "subsets": ["emoji", "hebrew", "latin", "latin-ext", "math"],
-    "version": "v7",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJwb-okuj29wT-AN6RvLx8QqjkKhL7eAlInffHZXQf0.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnnp56C711U.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 800
-      }
-    ]
-  },
-  {
     "family": "Tuffy",
     "variants": ["regular", "italic", "700", "700italic"],
     "subsets": [
@@ -28002,6 +27982,26 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tuffy/v1/1q2IY56bHkJl7oxyHYg.ttf"
+  },
+  {
+    "family": "Playpen Sans Hebrew",
+    "variants": ["regular"],
+    "subsets": ["emoji", "hebrew", "latin", "latin-ext", "math"],
+    "version": "v7",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJwb-okuj29wT-AN6RvLx8QqjkKhL7eAlInffHZXQf0.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnnp56C711U.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 800
+      }
+    ]
   },
   {
     "family": "Playpen Sans Deva",
@@ -28997,19 +28997,6 @@
     ]
   },
   {
-    "family": "Padyakke Expanded One",
-    "variants": ["regular"],
-    "subsets": ["kannada", "latin", "latin-ext"],
-    "version": "v7",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYOKRkpDjeoQ.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoOa5g.ttf"
-  },
-  {
     "family": "Phetsarath",
     "variants": ["regular", "700"],
     "subsets": ["lao"],
@@ -29022,6 +29009,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/phetsarath/v2/N0bQ2SpTP-plK0uWayAYMd_3mQ.ttf"
+  },
+  {
+    "family": "Padyakke Expanded One",
+    "variants": ["regular"],
+    "subsets": ["kannada", "latin", "latin-ext"],
+    "version": "v7",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYOKRkpDjeoQ.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoOa5g.ttf"
   },
   {
     "family": "Noto Sans Egyptian Hieroglyphs",
@@ -29976,19 +29976,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstakri/v24/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXS.ttf"
   },
   {
-    "family": "Jersey 10 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey10charted/v3/oY1E8fPFr6XiNWqEp90XSbwUGfF8SnedKmeBvEYs.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey10charted/v3/oY1E8fPFr6XiNWqEp90XSbwUGfF8SkecIGM.ttf"
-  },
-  {
     "family": "Noto Sans Runic",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "runic"],
@@ -30000,6 +29987,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansrunic/v17/H4c_BXWPl9DZ0Xe_nHUaus7W68WmahBr.ttf"
+  },
+  {
+    "family": "Jersey 10 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey10charted/v3/oY1E8fPFr6XiNWqEp90XSbwUGfF8SnedKmeBvEYs.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey10charted/v3/oY1E8fPFr6XiNWqEp90XSbwUGfF8SkecIGM.ttf"
   },
   {
     "family": "Playwrite SK",
