@@ -28191,20 +28191,6 @@
     "menu": "https://fonts.gstatic.com/s/eduauvicwantdots/v3/S6uQw5FFVDKI3kwwDUbsPHCpzZNhzrA3or3_B4dZ6MmTX8QNLvtYItiZ3Q.ttf"
   },
   {
-    "family": "Alumni Sans Inline One",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v6",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/alumnisansinlineone/v6/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpD3AZcr7xbYw.ttf",
-      "italic": "https://fonts.gstatic.com/s/alumnisansinlineone/v6/RrQDbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ITdpz0fYxcrQ.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/alumnisansinlineone/v6/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ETdg.ttf"
-  },
-  {
     "family": "Alumni Sans Collegiate One",
     "variants": ["regular", "italic"],
     "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
@@ -28217,6 +28203,20 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/alumnisanscollegiateone/v6/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdbwjw.ttf"
+  },
+  {
+    "family": "Alumni Sans Inline One",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v6",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/alumnisansinlineone/v6/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpD3AZcr7xbYw.ttf",
+      "italic": "https://fonts.gstatic.com/s/alumnisansinlineone/v6/RrQDbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ITdpz0fYxcrQ.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/alumnisansinlineone/v6/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ETdg.ttf"
   },
   {
     "family": "Kapakana",
@@ -30686,6 +30686,26 @@
     "menu": "https://fonts.gstatic.com/s/playwritenl/v9/k3kCo84SPe9dzQ1UGbvoZQ37Iqp5IZJF9bmaG9_FrY1HaA.ttf"
   },
   {
+    "family": "Playpen Sans Hebrew",
+    "variants": ["100", "200", "300", "regular", "500", "600", "700", "800"],
+    "subsets": ["emoji", "hebrew", "latin", "latin-ext", "math"],
+    "version": "v7",
+    "lastModified": "2025-06-02",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnnp5pC63VFfsRss.ttf",
+      "200": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnlp55C63VFfsRss.ttf",
+      "300": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnm355C63VFfsRss.ttf",
+      "500": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnnb55C63VFfsRss.ttf",
+      "600": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnk34JC63VFfsRss.ttf",
+      "700": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnkO4JC63VFfsRss.ttf",
+      "800": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnlp4JC63VFfsRss.ttf",
+      "regular": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnnp55C63VFfsRss.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnnp56C711U.ttf"
+  },
+  {
     "family": "Tuffy",
     "variants": ["regular", "italic", "700", "700italic"],
     "subsets": [
@@ -30708,26 +30728,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tuffy/v1/1q2IY56bHkJl7oxyHYg.ttf"
-  },
-  {
-    "family": "Playpen Sans Hebrew",
-    "variants": ["100", "200", "300", "regular", "500", "600", "700", "800"],
-    "subsets": ["emoji", "hebrew", "latin", "latin-ext", "math"],
-    "version": "v7",
-    "lastModified": "2025-06-02",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnnp5pC63VFfsRss.ttf",
-      "200": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnlp55C63VFfsRss.ttf",
-      "300": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnm355C63VFfsRss.ttf",
-      "500": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnnb55C63VFfsRss.ttf",
-      "600": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnk34JC63VFfsRss.ttf",
-      "700": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnkO4JC63VFfsRss.ttf",
-      "800": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnlp4JC63VFfsRss.ttf",
-      "regular": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnnp55C63VFfsRss.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playpensanshebrew/v7/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnnp56C711U.ttf"
   },
   {
     "family": "Playpen Sans Deva",
@@ -31700,6 +31700,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansmedefaidrin/v28/WwkzxOq6Dk-wranENynkfeVsNbRZtbOIdLb1exeM4ZeuabBfmErWpTz_9Q.ttf"
   },
   {
+    "family": "Padyakke Expanded One",
+    "variants": ["regular"],
+    "subsets": ["kannada", "latin", "latin-ext"],
+    "version": "v7",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYOKRkpDjeoQ.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoOa5g.ttf"
+  },
+  {
     "family": "Phetsarath",
     "variants": ["regular", "700"],
     "subsets": ["lao"],
@@ -31712,19 +31725,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/phetsarath/v2/N0bQ2SpTP-plK0uWayAYMd_3mQ.ttf"
-  },
-  {
-    "family": "Padyakke Expanded One",
-    "variants": ["regular"],
-    "subsets": ["kannada", "latin", "latin-ext"],
-    "version": "v7",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYOKRkpDjeoQ.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoOa5g.ttf"
   },
   {
     "family": "Noto Sans Egyptian Hieroglyphs",
@@ -33843,19 +33843,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_FzvkXQ.ttf"
   },
   {
-    "family": "Playwrite FR Trad Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWLFfriXYf2ZXw.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWL1f7KT.ttf"
-  },
-  {
     "family": "Playwrite FR Moderne Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -33867,6 +33854,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP223nYbP.ttf"
+  },
+  {
+    "family": "Playwrite FR Trad Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWLFfriXYf2ZXw.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWL1f7KT.ttf"
   },
   {
     "family": "Playwrite VN Guides",
