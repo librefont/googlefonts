@@ -15354,19 +15354,6 @@
     ]
   },
   {
-    "family": "Amethysta",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v16",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/amethysta/v16/rP2Fp2K15kgb_F3ibfWIGDWCBl0O8Q.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/amethysta/v16/rP2Fp2K15kgb_F3ibfW4GT-G.ttf"
-  },
-  {
     "family": "Vibur",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -15378,6 +15365,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/vibur/v23/DPEiYwmEzw0QRgToJD4.ttf"
+  },
+  {
+    "family": "Amethysta",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v16",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/amethysta/v16/rP2Fp2K15kgb_F3ibfWIGDWCBl0O8Q.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/amethysta/v16/rP2Fp2K15kgb_F3ibfW4GT-G.ttf"
   },
   {
     "family": "Esteban",
@@ -30813,19 +30813,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmodi/v24/pe03MIySN5pO62Z5YkFyT7jeas5rU1Q.ttf"
   },
   {
-    "family": "Playwrite NL Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritenlguides/v1/FwZH7_8mxlw-50y5PJughoCL4jbXkMqwsWKGP6kvdPA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritenlguides/v1/FwZH7_8mxlw-50y5PJughoCL4jbXkMqwgWOMOw.ttf"
-  },
-  {
     "family": "Noto Sans Kayah Li",
     "variants": ["regular"],
     "subsets": ["kayah-li", "latin", "latin-ext"],
@@ -30844,6 +30831,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Playwrite NL Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritenlguides/v1/FwZH7_8mxlw-50y5PJughoCL4jbXkMqwsWKGP6kvdPA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritenlguides/v1/FwZH7_8mxlw-50y5PJughoCL4jbXkMqwgWOMOw.ttf"
   },
   {
     "family": "Noto Sans Elymaic",
