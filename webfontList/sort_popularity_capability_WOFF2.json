@@ -13289,19 +13289,6 @@
     "menu": "https://fonts.gstatic.com/s/tomorrow/v18/WBLmrETNbFtZCeGqgRXUe2A.woff2"
   },
   {
-    "family": "Telex",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/telex/v17/ieVw2Y1fKWmIO9fWB1piKFIf.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/telex/v17/ieVw2Y1fKWmIO-fSDVs.woff2"
-  },
-  {
     "family": "Koulen",
     "variants": ["regular"],
     "subsets": ["khmer", "latin"],
@@ -13313,6 +13300,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/koulen/v29/AMOQz46as3KIBPemg3o8.woff2"
+  },
+  {
+    "family": "Telex",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/telex/v17/ieVw2Y1fKWmIO9fWB1piKFIf.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/telex/v17/ieVw2Y1fKWmIO-fSDVs.woff2"
   },
   {
     "family": "Knewave",
@@ -32816,19 +32816,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanslimbu/v24/3JnlSDv90Gmq2mrzckOBBRRoNJVT0ct2.woff2"
   },
   {
-    "family": "Noto Sans Grantha",
-    "variants": ["regular"],
-    "subsets": ["grantha", "latin", "latin-ext"],
-    "version": "v19",
-    "lastModified": "2024-06-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansgrantha/v19/3y976akwcCjmsU8NDyrKo3IQfQ4o-r8ZFeulHc6N.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansgrantha/v19/3y976akwcCjmsU8NDyrKo3IQfQ4o-o8dH-o.woff2"
-  },
-  {
     "family": "Noto Sans Nabataean",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "nabataean"],
@@ -32840,6 +32827,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3hQ.woff2"
+  },
+  {
+    "family": "Noto Sans Grantha",
+    "variants": ["regular"],
+    "subsets": ["grantha", "latin", "latin-ext"],
+    "version": "v19",
+    "lastModified": "2024-06-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansgrantha/v19/3y976akwcCjmsU8NDyrKo3IQfQ4o-r8ZFeulHc6N.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansgrantha/v19/3y976akwcCjmsU8NDyrKo3IQfQ4o-o8dH-o.woff2"
   },
   {
     "family": "Noto Sans Mro",

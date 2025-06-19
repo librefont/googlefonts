@@ -13289,19 +13289,6 @@
     "menu": "https://fonts.gstatic.com/s/tomorrow/v18/WBLmrETNbFtZCeGqgRXUe2U.ttf"
   },
   {
-    "family": "Koulen",
-    "variants": ["regular"],
-    "subsets": ["khmer", "latin"],
-    "version": "v29",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/koulen/v29/AMOQz46as3KIBPeWgnA9kuYMUg.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/koulen/v29/AMOQz46as3KIBPemg3o5.ttf"
-  },
-  {
     "family": "Telex",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -13313,6 +13300,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/telex/v17/ieVw2Y1fKWmIO-fSDV4.ttf"
+  },
+  {
+    "family": "Koulen",
+    "variants": ["regular"],
+    "subsets": ["khmer", "latin"],
+    "version": "v29",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/koulen/v29/AMOQz46as3KIBPeWgnA9kuYMUg.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/koulen/v29/AMOQz46as3KIBPemg3o5.ttf"
   },
   {
     "family": "Knewave",
@@ -32914,19 +32914,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteno/v9/nuFrD_fYSZviRJYb-P2TrQO1DRpazaZDgnw-49wgLKat_g.ttf"
   },
   {
-    "family": "Jersey 25 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey25charted/v2/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGv2uUGQW93Cg.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey25charted/v2/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGs2vWmA.ttf"
-  },
-  {
     "family": "Playwrite PL Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32938,6 +32925,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteplguides/v1/jVyW7m_lCm7G5CZyQCAu8mgkGLk-kmibaRzQQQ.ttf"
+  },
+  {
+    "family": "Jersey 25 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey25charted/v2/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGv2uUGQW93Cg.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey25charted/v2/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGs2vWmA.ttf"
   },
   {
     "family": "Noto Sans New Tai Lue",
@@ -33474,19 +33474,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritefrtrad/v12/sJot3KxJjdGLJV3vyatrJE2pkQisWWMBP23HSIVI5tvAogv9d9Wb.ttf"
   },
   {
-    "family": "Noto Sans Soyombo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "soyombo"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY0FrIFOcK25W.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlc.ttf"
-  },
-  {
     "family": "Jacquarda Bastarda 9 Charted",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
@@ -33500,17 +33487,17 @@
     "menu": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v3/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0YFbA.ttf"
   },
   {
-    "family": "Playwrite CZ Guides",
+    "family": "Noto Sans Soyombo",
     "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
+    "subsets": ["latin", "latin-ext", "soyombo"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteczguides/v1/6qLcKY0NtxD-qVlIPUIPeH4lUQa6B3ZZQkseuneh7xc.ttf"
+      "regular": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY0FrIFOcK25W.ttf"
     },
-    "category": "handwriting",
+    "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteczguides/v1/6qLcKY0NtxD-qVlIPUIPeH4lUQa6B3ZZckoUvg.ttf"
+    "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlc.ttf"
   },
   {
     "family": "Noto Sans Tirhuta",
@@ -33524,6 +33511,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstirhuta/v16/t5t6IQYRNJ6TWjahPR6X-M-apUyby4uHWh8.ttf"
+  },
+  {
+    "family": "Playwrite CZ Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteczguides/v1/6qLcKY0NtxD-qVlIPUIPeH4lUQa6B3ZZQkseuneh7xc.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteczguides/v1/6qLcKY0NtxD-qVlIPUIPeH4lUQa6B3ZZckoUvg.ttf"
   },
   {
     "family": "Noto Sans Kayah Li",
