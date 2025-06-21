@@ -24049,20 +24049,6 @@
     "menu": "https://fonts.gstatic.com/s/rubikiso/v2/x3dickHUfr-S4VAI4sAxffoG.ttf"
   },
   {
-    "family": "Amiri Quran",
-    "variants": ["regular"],
-    "subsets": ["arabic", "latin"],
-    "version": "v17",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/amiriquran/v17/_Xmo-Hk0rD6DbUL4_vH8Zq5t7Cycsu-2.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/amiriquran/v17/_Xmo-Hk0rD6DbUL4_vH8Zp5s5ig.ttf",
-    "colorCapabilities": ["COLRv0", "SVG"]
-  },
-  {
     "family": "Victor Mono",
     "variants": ["regular", "italic"],
     "subsets": [
@@ -24089,6 +24075,20 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Amiri Quran",
+    "variants": ["regular"],
+    "subsets": ["arabic", "latin"],
+    "version": "v17",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/amiriquran/v17/_Xmo-Hk0rD6DbUL4_vH8Zq5t7Cycsu-2.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/amiriquran/v17/_Xmo-Hk0rD6DbUL4_vH8Zp5s5ig.ttf",
+    "colorCapabilities": ["COLRv0", "SVG"]
   },
   {
     "family": "Edu AU VIC WA NT Hand",
@@ -28706,6 +28706,19 @@
     "menu": "https://fonts.gstatic.com/s/blakahollow/v7/MCoUzAL91sjRE2FsKsxUtezoBtAB.ttf"
   },
   {
+    "family": "Noto Sans Wancho",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "wancho"],
+    "version": "v17",
+    "lastModified": "2022-09-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBqAPopiRfKp8.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALiog.ttf"
+  },
+  {
     "family": "Noto Sans Syriac Eastern",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "syriac"],
@@ -28724,19 +28737,6 @@
         "end": 900
       }
     ]
-  },
-  {
-    "family": "Noto Sans Wancho",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "wancho"],
-    "version": "v17",
-    "lastModified": "2022-09-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBqAPopiRfKp8.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALiog.ttf"
   },
   {
     "family": "Playwrite NZ",
