@@ -29035,6 +29035,19 @@
     ]
   },
   {
+    "family": "Noto Sans Tai Le",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tai-le"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR58tK1W77HtMo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Xw.ttf"
+  },
+  {
     "family": "Noto Sans Syriac Eastern",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "syriac"],
@@ -29053,19 +29066,6 @@
         "end": 900
       }
     ]
-  },
-  {
-    "family": "Noto Sans Tai Le",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tai-le"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR58tK1W77HtMo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Xw.ttf"
   },
   {
     "family": "Jacquard 12 Charted",
@@ -30291,19 +30291,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAM.ttf"
   },
   {
-    "family": "Playwrite TZ Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_YQy93JQ2XEg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_UQ232A.ttf"
-  },
-  {
     "family": "Playwrite AU VIC Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30315,6 +30302,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteauvicguides/v1/ll8sK3mEVy6nEMXMskXIZv8owEdZpVIWaQEnuA6E0z4.ttf"
+  },
+  {
+    "family": "Playwrite TZ Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_YQy93JQ2XEg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_UQ232A.ttf"
   },
   {
     "family": "Playwrite PT Guides",
@@ -31023,19 +31023,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssiddham/v20/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf"
   },
   {
-    "family": "Playwrite IE Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteieguides/v1/LhW5MULFNP8PI-1UADw_Kbp9daTx5ovUaNojN9_8IVQ.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteieguides/v1/LhW5MULFNP8PI-1UADw_Kbp9daTx5ovUWNspMw.ttf"
-  },
-  {
     "family": "Noto Sans Bhaiksuki",
     "variants": ["regular"],
     "subsets": ["bhaiksuki", "latin", "latin-ext"],
@@ -31047,6 +31034,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhjwrPecQ.ttf"
+  },
+  {
+    "family": "Playwrite IE Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteieguides/v1/LhW5MULFNP8PI-1UADw_Kbp9daTx5ovUaNojN9_8IVQ.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteieguides/v1/LhW5MULFNP8PI-1UADw_Kbp9daTx5ovUWNspMw.ttf"
   },
   {
     "family": "Noto Sans Kharoshthi",

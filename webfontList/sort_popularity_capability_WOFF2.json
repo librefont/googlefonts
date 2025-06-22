@@ -29103,19 +29103,6 @@
     "menu": "https://fonts.gstatic.com/s/tapestry/v5/SlGTmQecrosEYXhaGCIloHE.woff2"
   },
   {
-    "family": "Geostar",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v27",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/geostar/v27/sykz-yx4n701VLOftS-9-trEvlQ.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/geostar/v27/sykz-yx4n701VLOfhSu3-w.woff2"
-  },
-  {
     "family": "Noto Sans Javanese",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["javanese", "latin", "latin-ext"],
@@ -29130,6 +29117,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansjavanese/v24/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxJnkJFhoZA.woff2"
+  },
+  {
+    "family": "Geostar",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v27",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/geostar/v27/sykz-yx4n701VLOftS-9-trEvlQ.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/geostar/v27/sykz-yx4n701VLOfhSu3-w.woff2"
   },
   {
     "family": "Kapakana",
@@ -31726,6 +31726,19 @@
     "menu": "https://fonts.gstatic.com/s/playwriteauvic/v10/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTaYK1AhM.woff2"
   },
   {
+    "family": "Noto Sans Tai Le",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tai-le"],
+    "version": "v17",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR58te1W77HtMo.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Wg.woff2"
+  },
+  {
     "family": "Noto Sans Syriac Eastern",
     "variants": [
       "100",
@@ -31755,19 +31768,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssyriaceastern/v2/Noac6Vj_wIWFbTTCrYmvy8AjVU8aslWRHHvRYxS-Ro3yS0FDacnHPi-fgzGB5A.woff2"
-  },
-  {
-    "family": "Noto Sans Tai Le",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tai-le"],
-    "version": "v17",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR58te1W77HtMo.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Wg.woff2"
   },
   {
     "family": "Jacquard 12 Charted",
@@ -32943,19 +32943,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAJ.woff2"
   },
   {
-    "family": "Playwrite TZ Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_YQm93JQ2XEg.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_UQ233Q.woff2"
-  },
-  {
     "family": "Playwrite AU VIC Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32967,6 +32954,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteauvicguides/v1/ll8sK3mEVy6nEMXMskXIZv8owEdZpVIWaQEnuA6E0zs.woff2"
+  },
+  {
+    "family": "Playwrite TZ Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_YQm93JQ2XEg.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_UQ233Q.woff2"
   },
   {
     "family": "Playwrite PT Guides",
@@ -33777,19 +33777,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUwHkXpc.woff2"
   },
   {
-    "family": "Playwrite DE LA Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritedelaguides/v2/1q2XY42fB0V64O4aSe1OjKs_yAXBOfDI5wE56giM62M1AXs.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedelaguides/v2/1q2XY42fB0V64O4aSe1OjKs_yAXBOfDI5wE52gyG6g.woff2"
-  },
-  {
     "family": "Playwrite ES Deco Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -33801,6 +33788,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwaYUaC.woff2"
+  },
+  {
+    "family": "Playwrite DE LA Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritedelaguides/v2/1q2XY42fB0V64O4aSe1OjKs_yAXBOfDI5wE56giM62M1AXs.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedelaguides/v2/1q2XY42fB0V64O4aSe1OjKs_yAXBOfDI5wE52gyG6g.woff2"
   },
   {
     "family": "Playwrite US Modern Guides",
