@@ -24743,21 +24743,6 @@
     "colorCapabilities": ["COLRv1"]
   },
   {
-    "family": "Aref Ruqaa Ink",
-    "variants": ["regular", "700"],
-    "subsets": ["arabic", "latin", "latin-ext"],
-    "version": "v11",
-    "lastModified": "2025-05-30",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2cY5WOGUFlt84GTOkP6Kdx71xde6WhqWBCyxWn.ttf",
-      "regular": "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2fY5WOGUFlt84GTOkP6Kdx72ThVIGpgnxL.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2fY5WOGUFlt84GTOkP6Kdx71TgXoU.ttf",
-    "colorCapabilities": ["COLRv1", "SVG"]
-  },
-  {
     "family": "Trochut",
     "variants": ["regular", "italic", "700"],
     "subsets": ["latin"],
@@ -24771,6 +24756,21 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/trochut/v23/CHyjV-fDDlP9bDIw1nWCeQ.ttf"
+  },
+  {
+    "family": "Aref Ruqaa Ink",
+    "variants": ["regular", "700"],
+    "subsets": ["arabic", "latin", "latin-ext"],
+    "version": "v11",
+    "lastModified": "2025-05-30",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2cY5WOGUFlt84GTOkP6Kdx71xde6WhqWBCyxWn.ttf",
+      "regular": "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2fY5WOGUFlt84GTOkP6Kdx72ThVIGpgnxL.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2fY5WOGUFlt84GTOkP6Kdx71TgXoU.ttf",
+    "colorCapabilities": ["COLRv1", "SVG"]
   },
   {
     "family": "Neonderthaw",
