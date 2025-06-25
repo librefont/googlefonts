@@ -28549,20 +28549,6 @@
     "menu": "https://fonts.gstatic.com/s/diphylleia/v2/DtVmJxCtRKMixK4_HXsIil0s6w.woff2"
   },
   {
-    "family": "Sixtyfour Convergence",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols"],
-    "version": "v4",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/sixtyfourconvergence/v4/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102ho5kk3grz3g.woff2"
-    },
-    "category": "monospace",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/sixtyfourconvergence/v4/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102topukg.woff2",
-    "colorCapabilities": ["COLRv1"]
-  },
-  {
     "family": "Noto Serif Tibetan",
     "variants": [
       "100",
@@ -28592,6 +28578,20 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoseriftibetan/v23/gokGH7nwAEdtF9N45n0Vaz7O-pk0wsvxHeDXMfqguoCmIrYcDS_hdA.woff2"
+  },
+  {
+    "family": "Sixtyfour Convergence",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "version": "v4",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/sixtyfourconvergence/v4/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102ho5kk3grz3g.woff2"
+    },
+    "category": "monospace",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/sixtyfourconvergence/v4/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102topukg.woff2",
+    "colorCapabilities": ["COLRv1"]
   },
   {
     "family": "Noto Rashi Hebrew",
@@ -31063,6 +31063,19 @@
     "menu": "https://fonts.gstatic.com/s/notoseriftoto/v6/Ktk6ALSMeZjqPnXk1rCkHYHNtwvtHItpjRP74dHhCy3Ip-ep5g.woff2"
   },
   {
+    "family": "Noto Sans NKo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nko"],
+    "version": "v6",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpMpWMHMLBrdA.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpApGGHQ.woff2"
+  },
+  {
     "family": "Wavefont",
     "variants": [
       "100",
@@ -31094,19 +31107,6 @@
     "menu": "https://fonts.gstatic.com/s/wavefont/v17/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V04DGVqo.woff2"
   },
   {
-    "family": "Noto Sans NKo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nko"],
-    "version": "v6",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpMpWMHMLBrdA.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpApGGHQ.woff2"
-  },
-  {
     "family": "Playwrite AU TAS",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31121,20 +31121,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteautas/v10/GftT7u9QuxsdI_QuuctXue3ElxxmcBb3ih0opvWiLLUEH5K7FF4.woff2"
-  },
-  {
-    "family": "Noto Znamenny Musical Notation",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols", "znamenny"],
-    "version": "v7",
-    "lastModified": "2025-06-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v7/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jvs5qqdoWa7g.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v7/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jft5Cr.woff2",
-    "colorCapabilities": ["COLRv0"]
   },
   {
     "family": "Noto Sans Syriac Eastern",
@@ -31166,6 +31152,20 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssyriaceastern/v2/Noac6Vj_wIWFbTTCrYmvy8AjVU8aslWRHHvRYxS-Ro3yS0FDacnHPi-fgzGB5A.woff2"
+  },
+  {
+    "family": "Noto Znamenny Musical Notation",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols", "znamenny"],
+    "version": "v7",
+    "lastModified": "2025-06-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v7/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jvs5qqdoWa7g.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v7/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jft5Cr.woff2",
+    "colorCapabilities": ["COLRv0"]
   },
   {
     "family": "Noto Serif Dogra",

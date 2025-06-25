@@ -25911,6 +25911,26 @@
     "menu": "https://fonts.gstatic.com/s/diphylleia/v2/DtVmJxCtRKMixK4_HXsIil0s7g.ttf"
   },
   {
+    "family": "Noto Serif Tibetan",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tibetan"],
+    "version": "v23",
+    "lastModified": "2025-05-29",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoseriftibetan/v23/gokzH7nwAEdtF9N45n0Vaz7O-pk0wsvrFsIn6WYDvA.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoseriftibetan/v23/gokGH7nwAEdtF9N45n0Vaz7O-pk0wsvxHeDXMfqguoCmIrYcDS_hcQ.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ]
+  },
+  {
     "family": "Sixtyfour Convergence",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
@@ -25945,26 +25965,6 @@
       }
     ],
     "colorCapabilities": ["COLRv1"]
-  },
-  {
-    "family": "Noto Serif Tibetan",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tibetan"],
-    "version": "v23",
-    "lastModified": "2025-05-29",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoseriftibetan/v23/gokzH7nwAEdtF9N45n0Vaz7O-pk0wsvrFsIn6WYDvA.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoseriftibetan/v23/gokGH7nwAEdtF9N45n0Vaz7O-pk0wsvxHeDXMfqguoCmIrYcDS_hcQ.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
   },
   {
     "family": "Noto Rashi Hebrew",
@@ -28314,6 +28314,19 @@
     ]
   },
   {
+    "family": "Noto Sans NKo",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nko"],
+    "version": "v6",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpMpCMHMLBrdA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpApGGGA.ttf"
+  },
+  {
     "family": "Wavefont",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -28344,19 +28357,6 @@
     ]
   },
   {
-    "family": "Noto Sans NKo",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nko"],
-    "version": "v6",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpMpCMHMLBrdA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnko/v6/esDX31ZdNv-KYGGJpKGk2_RpApGGGA.ttf"
-  },
-  {
     "family": "Playwrite AU TAS",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -28377,20 +28377,6 @@
     ]
   },
   {
-    "family": "Noto Znamenny Musical Notation",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols", "znamenny"],
-    "version": "v7",
-    "lastModified": "2025-06-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v7/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jvtpqqdoWa7g.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v7/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jft5Cu.ttf",
-    "colorCapabilities": ["COLRv0"]
-  },
-  {
     "family": "Noto Sans Syriac Eastern",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "syriac"],
@@ -28409,6 +28395,20 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Noto Znamenny Musical Notation",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols", "znamenny"],
+    "version": "v7",
+    "lastModified": "2025-06-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v7/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jvtpqqdoWa7g.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v7/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jft5Cu.ttf",
+    "colorCapabilities": ["COLRv0"]
   },
   {
     "family": "Noto Serif Dogra",
