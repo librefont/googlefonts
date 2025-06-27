@@ -16254,6 +16254,31 @@
     "menu": "https://fonts.gstatic.com/s/meowscript/v5/0FlQVPqanlaJrtr8AnJ0ERcg2fk.ttf"
   },
   {
+    "family": "Noto Serif Thai",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "thai"],
+    "version": "v27",
+    "lastModified": "2025-05-29",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifthai/v27/k3kIo80MPvpLmixYH7euCxWpSMut8SX6-q2CGg.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifthai/v27/k3kyo80MPvpLmixYH7euCxWpSMu3-gcWGj0hHAKGvUQlUv_bCKDUSzB5L0oiF9RQAG8.ttf",
+    "axes": [
+      {
+        "tag": "wdth",
+        "start": 62.5,
+        "end": 100
+      },
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ]
+  },
+  {
     "family": "Ysabeau Office",
     "variants": ["regular", "italic"],
     "subsets": [
@@ -16280,31 +16305,6 @@
         "tag": "wght",
         "start": 1,
         "end": 1000
-      }
-    ]
-  },
-  {
-    "family": "Noto Serif Thai",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "thai"],
-    "version": "v27",
-    "lastModified": "2025-05-29",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifthai/v27/k3kIo80MPvpLmixYH7euCxWpSMut8SX6-q2CGg.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifthai/v27/k3kyo80MPvpLmixYH7euCxWpSMu3-gcWGj0hHAKGvUQlUv_bCKDUSzB5L0oiF9RQAG8.ttf",
-    "axes": [
-      {
-        "tag": "wdth",
-        "start": 62.5,
-        "end": 100
-      },
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
       }
     ]
   },
