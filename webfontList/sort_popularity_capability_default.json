@@ -26761,19 +26761,6 @@
     "menu": "https://fonts.gstatic.com/s/bahiana/v24/uU9PCBUV4YenPWJU3xLR2g.ttf"
   },
   {
-    "family": "Bagel Fat One",
-    "variants": ["regular"],
-    "subsets": ["korean", "latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bagelfatone/v2/hYkPPucsQOr5dy02WmQr5Zkd0B5mvv0dSbM.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bagelfatone/v2/hYkPPucsQOr5dy02WmQr5Zkd4B9sug.ttf"
-  },
-  {
     "family": "Edu AU VIC WA NT Pre",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext"],
@@ -26788,6 +26775,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/eduauvicwantpre/v2/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIyJmkArqkl.ttf"
+  },
+  {
+    "family": "Bagel Fat One",
+    "variants": ["regular"],
+    "subsets": ["korean", "latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bagelfatone/v2/hYkPPucsQOr5dy02WmQr5Zkd0B5mvv0dSbM.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bagelfatone/v2/hYkPPucsQOr5dy02WmQr5Zkd4B9sug.ttf"
   },
   {
     "family": "Mr Bedfort",
@@ -32347,22 +32347,6 @@
     "menu": "https://fonts.gstatic.com/s/rubikmaze/v2/xMQRuF9ZVa2ftiJEavXSMX_omQ.ttf"
   },
   {
-    "family": "Noto Sans Vithkuqi",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext", "vithkuqi"],
-    "version": "v2",
-    "lastModified": "2025-06-02",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/notosansvithkuqi/v2/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvZxSgKM7vmn0BLE.ttf",
-      "600": "https://fonts.gstatic.com/s/notosansvithkuqi/v2/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvXBVgKM7vmn0BLE.ttf",
-      "700": "https://fonts.gstatic.com/s/notosansvithkuqi/v2/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvUlVgKM7vmn0BLE.ttf",
-      "regular": "https://fonts.gstatic.com/s/notosansvithkuqi/v2/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SgKM7vmn0BLE.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansvithkuqi/v2/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SsKIxug.ttf"
-  },
-  {
     "family": "Playwrite PL",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -32377,6 +32361,22 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritepl/v9/0QIyMXVf_4C2VH-yUr5uz72U-LQiKJ_9tb1WmRfbxZ2RTw.ttf"
+  },
+  {
+    "family": "Noto Sans Vithkuqi",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext", "vithkuqi"],
+    "version": "v2",
+    "lastModified": "2025-06-02",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/notosansvithkuqi/v2/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvZxSgKM7vmn0BLE.ttf",
+      "600": "https://fonts.gstatic.com/s/notosansvithkuqi/v2/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvXBVgKM7vmn0BLE.ttf",
+      "700": "https://fonts.gstatic.com/s/notosansvithkuqi/v2/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvUlVgKM7vmn0BLE.ttf",
+      "regular": "https://fonts.gstatic.com/s/notosansvithkuqi/v2/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SgKM7vmn0BLE.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansvithkuqi/v2/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SsKIxug.ttf"
   },
   {
     "family": "Playwrite CL",

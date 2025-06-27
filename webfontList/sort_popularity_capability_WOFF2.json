@@ -33556,19 +33556,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS36ANmtw.woff2"
   },
   {
-    "family": "Noto Sans Ogham",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "ogham"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hrsplaQxcoCA.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNb.woff2"
-  },
-  {
     "family": "Noto Sans Kayah Li",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["kayah-li", "latin", "latin-ext"],
@@ -33583,6 +33570,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanskayahli/v25/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3OZDyEA.woff2"
+  },
+  {
+    "family": "Noto Sans Ogham",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "ogham"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hrsplaQxcoCA.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNb.woff2"
   },
   {
     "family": "Noto Sans Manichaean",
