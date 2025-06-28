@@ -31093,22 +31093,6 @@
     "menu": "https://fonts.gstatic.com/s/yujihentaiganaakari/v13/cY9bfiyVT0VB6QuhWKOrpr6z58lnb_zYFnL4RDbK.ttf"
   },
   {
-    "family": "Edu AU VIC WA NT Arrows",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2025-06-02",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tM8vhTTk90n91Vw.ttf",
-      "600": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5t38zhTTk90n91Vw.ttf",
-      "700": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5t5szhTTk90n91Vw.ttf",
-      "regular": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvhTTk90n91Vw.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvRTDM5.ttf"
-  },
-  {
     "family": "Playwrite NL",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31123,6 +31107,22 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritenl/v9/k3kCo84SPe9dzQ1UGbvoZQ37Iqp5IZJF9bmaG9_FrY1HaA.ttf"
+  },
+  {
+    "family": "Edu AU VIC WA NT Arrows",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2025-06-02",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tM8vhTTk90n91Vw.ttf",
+      "600": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5t38zhTTk90n91Vw.ttf",
+      "700": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5t5szhTTk90n91Vw.ttf",
+      "regular": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvhTTk90n91Vw.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvRTDM5.ttf"
   },
   {
     "family": "Noto Sans Yi",
@@ -33051,19 +33051,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteid/v10/Cn-kJt2YWhlY2oC4KxifKQJmrtrRm-sKkQqUl0-RN_NREg.ttf"
   },
   {
-    "family": "Noto Sans Ugaritic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "ugaritic"],
-    "version": "v16",
-    "lastModified": "2023-05-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXkMhoIkiazfg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAM.ttf"
-  },
-  {
     "family": "Noto Sans Lydian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "lydian"],
@@ -33075,6 +33062,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslydian/v18/c4m71mVzGN7s8FmIukZJ1v4ZlcPRSULdNg.ttf"
+  },
+  {
+    "family": "Noto Sans Ugaritic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "ugaritic"],
+    "version": "v16",
+    "lastModified": "2023-05-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXkMhoIkiazfg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansugaritic/v16/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAM.ttf"
   },
   {
     "family": "Jersey 25 Charted",

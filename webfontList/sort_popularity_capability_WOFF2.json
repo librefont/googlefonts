@@ -23774,6 +23774,20 @@
     "menu": "https://fonts.gstatic.com/s/mynerve/v7/P5sCzZKPdNjb4jt79CVkiA.woff2"
   },
   {
+    "family": "Gorditas",
+    "variants": ["regular", "700"],
+    "subsets": ["latin"],
+    "version": "v23",
+    "lastModified": "2025-06-02",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/gorditas/v23/ll84K2aTVD26DsPEtThUIooNvAoShA1i.woff2",
+      "regular": "https://fonts.gstatic.com/s/gorditas/v23/ll8_K2aTVD26DsPEtQDtDa4AlxYb.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/gorditas/v23/ll8_K2aTVD26DsPEtTDpB68.woff2"
+  },
+  {
     "family": "Suwannaphum",
     "variants": ["100", "300", "regular", "700", "900"],
     "subsets": ["khmer", "latin"],
@@ -23789,20 +23803,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/suwannaphum/v32/jAnCgHV7GtDvc8jbe8hXXLWk9cE.woff2"
-  },
-  {
-    "family": "Gorditas",
-    "variants": ["regular", "700"],
-    "subsets": ["latin"],
-    "version": "v23",
-    "lastModified": "2025-06-02",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/gorditas/v23/ll84K2aTVD26DsPEtThUIooNvAoShA1i.woff2",
-      "regular": "https://fonts.gstatic.com/s/gorditas/v23/ll8_K2aTVD26DsPEtQDtDa4AlxYb.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gorditas/v23/ll8_K2aTVD26DsPEtTDpB68.woff2"
   },
   {
     "family": "Zen Tokyo Zoo",
@@ -32980,19 +32980,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteca/v10/z7NGdR_4cT0NOrEAIElil93uR_VhfhYaYOijHiqvUpyw1Q.woff2"
   },
   {
-    "family": "Noto Sans Cuneiform",
-    "variants": ["regular"],
-    "subsets": ["cuneiform", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWgbpJlRQueeQ.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DlA.woff2"
-  },
-  {
     "family": "Noto Sans Nabataean",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "nabataean"],
@@ -33004,6 +32991,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansnabataean/v16/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3hQ.woff2"
+  },
+  {
+    "family": "Noto Sans Cuneiform",
+    "variants": ["regular"],
+    "subsets": ["cuneiform", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWgbpJlRQueeQ.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DlA.woff2"
   },
   {
     "family": "Noto Sans New Tai Lue",
@@ -33465,19 +33465,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansnushu/v19/rnCw-xRQ3B7652emAbAe_Ai1IYa1WVoN.woff2"
   },
   {
-    "family": "Playwrite TZ Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_YQm93JQ2XEg.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_UQ233Q.woff2"
-  },
-  {
     "family": "Noto Sans Ogham",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "ogham"],
@@ -33489,6 +33476,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNb.woff2"
+  },
+  {
+    "family": "Playwrite TZ Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_YQm93JQ2XEg.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_UQ233Q.woff2"
   },
   {
     "family": "Noto Sans Elymaic",
