@@ -30968,19 +30968,6 @@
     "menu": "https://fonts.gstatic.com/s/wdxllubrifonttc/v4/nKKN-H4mPq1yJurnWXfJE8svQHonWf__GKg.ttf"
   },
   {
-    "family": "Noto Sans Wancho",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "wancho"],
-    "version": "v17",
-    "lastModified": "2022-09-28",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBqAPopiRfKp8.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALiog.ttf"
-  },
-  {
     "family": "Noto Sans Sogdian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "sogdian"],
@@ -30992,6 +30979,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
+  },
+  {
+    "family": "Noto Sans Wancho",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "wancho"],
+    "version": "v17",
+    "lastModified": "2022-09-28",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBqAPopiRfKp8.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanswancho/v17/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALiog.ttf"
   },
   {
     "family": "Playwrite AU NSW",
@@ -33604,19 +33604,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf"
   },
   {
-    "family": "Noto Sans Lycian",
-    "variants": ["regular"],
-    "subsets": ["lycian"],
-    "version": "v15",
-    "lastModified": "2022-05-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA5_naCJwn00E.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQDA.ttf"
-  },
-  {
     "family": "Noto Sans Pahawh Hmong",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "pahawh-hmong"],
@@ -33628,6 +33615,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanspahawhhmong/v18/bWtp7e_KfBziStx7lIzKKaMUOBEA3UPQDW7knzY1dw.ttf"
+  },
+  {
+    "family": "Noto Sans Lycian",
+    "variants": ["regular"],
+    "subsets": ["lycian"],
+    "version": "v15",
+    "lastModified": "2022-05-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA5_naCJwn00E.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslycian/v15/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQDA.ttf"
   },
   {
     "family": "Jacquarda Bastarda 9 Charted",
@@ -33932,6 +33932,19 @@
     "menu": "https://fonts.gstatic.com/s/playwritecaguides/v1/MjQamj1kuP_soQ3o-rysO9Ci_8oJlIUUEnYr2Q.ttf"
   },
   {
+    "family": "Playwrite AU QLD Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LDxlIzIU5RwD.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LAxkKTY.ttf"
+  },
+  {
     "family": "Playwrite GB S Guides",
     "variants": ["regular", "italic"],
     "subsets": ["latin"],
@@ -33944,19 +33957,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlKVOSHl1iH-fv2BH4kIkUBqtlNCEaQLly6xl4L.ttf"
-  },
-  {
-    "family": "Playwrite AU QLD Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LDxlIzIU5RwD.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LAxkKTY.ttf"
   },
   {
     "family": "Playwrite HU Guides",
