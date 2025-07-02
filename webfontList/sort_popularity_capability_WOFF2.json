@@ -29339,19 +29339,6 @@
     "colorCapabilities": ["COLRv1", "SVG"]
   },
   {
-    "family": "Sassy Frass",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v8",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/sassyfrass/v8/LhWhMVrGOe0FLb97BjhsE99YGNWQg_am.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/sassyfrass/v8/LhWhMVrGOe0FLb97BjhsE-9cEtQ.woff2"
-  },
-  {
     "family": "WDXL Lubrifont SC",
     "variants": ["regular"],
     "subsets": [
@@ -29369,6 +29356,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/wdxllubrifontsc/v1/gNMeW2VmY6acu0XtugFrduDciOOyfky4kj4.woff2"
+  },
+  {
+    "family": "Sassy Frass",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v8",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/sassyfrass/v8/LhWhMVrGOe0FLb97BjhsE99YGNWQg_am.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/sassyfrass/v8/LhWhMVrGOe0FLb97BjhsE-9cEtQ.woff2"
   },
   {
     "family": "Ubuntu Sans Mono",
@@ -32957,6 +32957,19 @@
     "menu": "https://fonts.gstatic.com/s/jacquard24charted/v4/mtGm4-dNK6HaudrE9VVKhENTsEXEYish4iVhMA.woff2"
   },
   {
+    "family": "Noto Sans Grantha",
+    "variants": ["regular"],
+    "subsets": ["grantha", "latin", "latin-ext"],
+    "version": "v19",
+    "lastModified": "2024-06-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansgrantha/v19/3y976akwcCjmsU8NDyrKo3IQfQ4o-r8ZFeulHc6N.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansgrantha/v19/3y976akwcCjmsU8NDyrKo3IQfQ4o-o8dH-o.woff2"
+  },
+  {
     "family": "Playwrite ID",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -32971,19 +32984,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteid/v10/Cn-kJt2YWhlY2oC4KxifKQJmrtrRm-sKkQqUl0-RN_NRFw.woff2"
-  },
-  {
-    "family": "Noto Sans Grantha",
-    "variants": ["regular"],
-    "subsets": ["grantha", "latin", "latin-ext"],
-    "version": "v19",
-    "lastModified": "2024-06-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansgrantha/v19/3y976akwcCjmsU8NDyrKo3IQfQ4o-r8ZFeulHc6N.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansgrantha/v19/3y976akwcCjmsU8NDyrKo3IQfQ4o-o8dH-o.woff2"
   },
   {
     "family": "Playwrite BR Guides",
