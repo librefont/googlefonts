@@ -24720,6 +24720,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanscarian/v16/LDIpaoiONgYwA9Yc6f0gUILeMIOgg7sR8w.ttf"
   },
   {
+    "family": "Babylonica",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v6",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/babylonica/v6/5aUw9_i2qxWVCAE2aHjTqDJ0-VVMoEw.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/babylonica/v6/5aUw9_i2qxWVCAE2aHjTmDN-_Q.ttf"
+  },
+  {
     "family": "Hubot Sans",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -24744,19 +24757,6 @@
         "end": 900
       }
     ]
-  },
-  {
-    "family": "Babylonica",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v6",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/babylonica/v6/5aUw9_i2qxWVCAE2aHjTqDJ0-VVMoEw.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/babylonica/v6/5aUw9_i2qxWVCAE2aHjTmDN-_Q.ttf"
   },
   {
     "family": "Stalinist One",
@@ -30960,19 +30960,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-c.ttf"
   },
   {
-    "family": "Triodion",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "latin"],
-    "version": "v3",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5mr5u-W10l_X.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5lr4seE.ttf"
-  },
-  {
     "family": "Noto Serif Todhri",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "todhri"],
@@ -30984,6 +30971,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N0BzVa0.ttf"
+  },
+  {
+    "family": "Triodion",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "latin"],
+    "version": "v3",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5mr5u-W10l_X.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5lr4seE.ttf"
   },
   {
     "family": "Playwrite DE VA Guides",

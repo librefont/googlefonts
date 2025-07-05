@@ -27306,6 +27306,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanscarian/v16/LDIpaoiONgYwA9Yc6f0gUILeMIOgg7sR9g.woff2"
   },
   {
+    "family": "Babylonica",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v6",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/babylonica/v6/5aUw9_i2qxWVCAE2aHjTqDd0-VVMoEw.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/babylonica/v6/5aUw9_i2qxWVCAE2aHjTmDN--A.woff2"
+  },
+  {
     "family": "Hubot Sans",
     "variants": [
       "200",
@@ -27349,19 +27362,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZtgbrU.woff2"
-  },
-  {
-    "family": "Babylonica",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v6",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/babylonica/v6/5aUw9_i2qxWVCAE2aHjTqDd0-VVMoEw.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/babylonica/v6/5aUw9_i2qxWVCAE2aHjTmDN--A.woff2"
   },
   {
     "family": "Stalinist One",
@@ -33598,19 +33598,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-I.woff2"
   },
   {
-    "family": "Triodion",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "latin"],
-    "version": "v3",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5mr8u-W10l_X.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5lr4seQ.woff2"
-  },
-  {
     "family": "Noto Serif Todhri",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "todhri"],
@@ -33622,6 +33609,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N0BzVag.woff2"
+  },
+  {
+    "family": "Triodion",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "latin"],
+    "version": "v3",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5mr8u-W10l_X.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5lr4seQ.woff2"
   },
   {
     "family": "Playwrite DE VA Guides",
@@ -34351,19 +34351,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritearguides/v5/iJWYBWqKZTrYS9uv-Ry6kDf-q_0Xq67mQGQQWg.woff2"
   },
   {
-    "family": "Playwrite SK Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_Jz_uWQshcbU.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_FzvkWA.woff2"
-  },
-  {
     "family": "Playwrite ID Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -34375,6 +34362,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteidguides/v1/MjQamj1kuP_soQ3o-rysMdWi_8oJlIUUEnYr3A.woff2"
+  },
+  {
+    "family": "Playwrite SK Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_Jz_uWQshcbU.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_FzvkWA.woff2"
   },
   {
     "family": "Playwrite HU Guides",

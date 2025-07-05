@@ -31587,19 +31587,6 @@
     "menu": "https://fonts.gstatic.com/s/phetsarath/v2/N0bQ2SpTP-plK0uWayAYMd_3mQ.ttf"
   },
   {
-    "family": "Noto Sans Imperial Aramaic",
-    "variants": ["regular"],
-    "subsets": ["imperial-aramaic", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2024-07-01",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansimperialaramaic/v17/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrtdml3YfPNno.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansimperialaramaic/v17/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXI.ttf"
-  },
-  {
     "family": "Noto Serif Hentaigana",
     "variants": ["200", "300", "regular", "500", "600", "700", "800", "900"],
     "subsets": ["kana-extended", "latin", "latin-ext"],
@@ -31618,6 +31605,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifhentaigana/v16/uk-OEHi3o6EruUbj3pGaDj3siVARn-kqgu1eOHk7wYK23O0hzowGmxATXA.ttf"
+  },
+  {
+    "family": "Noto Sans Imperial Aramaic",
+    "variants": ["regular"],
+    "subsets": ["imperial-aramaic", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2024-07-01",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansimperialaramaic/v17/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrtdml3YfPNno.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansimperialaramaic/v17/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXI.ttf"
   },
   {
     "family": "Edu AU VIC WA NT Guides",
@@ -34351,19 +34351,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritearguides/v5/iJWYBWqKZTrYS9uv-Ry6kDf-q_0Xq67mQGQQXw.ttf"
   },
   {
-    "family": "Playwrite SK Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_JzruWQshcbU.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_FzvkXQ.ttf"
-  },
-  {
     "family": "Playwrite ID Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -34375,6 +34362,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteidguides/v1/MjQamj1kuP_soQ3o-rysMdWi_8oJlIUUEnYr2Q.ttf"
+  },
+  {
+    "family": "Playwrite SK Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_JzruWQshcbU.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_FzvkXQ.ttf"
   },
   {
     "family": "Playwrite HU Guides",
