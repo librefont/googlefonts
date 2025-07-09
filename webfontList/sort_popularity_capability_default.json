@@ -30537,6 +30537,19 @@
     "menu": "https://fonts.gstatic.com/s/playwriteusmodern/v10/H4cMBWmRlMXPhla3hmMaveiYz8nSDkIFLNIYl2TXUwK62YohNj2CYUY.ttf"
   },
   {
+    "family": "Are You Serious",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v13",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/areyouserious/v13/ll8kK2GVSSr-PtjQ5nONVcNn4306hT9nCGRayg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/areyouserious/v13/ll8kK2GVSSr-PtjQ5nONVcNn430KhDVj.ttf"
+  },
+  {
     "family": "Playwrite HR Lijeva",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -30551,19 +30564,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritehrlijeva/v5/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d4zBvaVwYs.ttf"
-  },
-  {
-    "family": "Are You Serious",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v13",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/areyouserious/v13/ll8kK2GVSSr-PtjQ5nONVcNn4306hT9nCGRayg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/areyouserious/v13/ll8kK2GVSSr-PtjQ5nONVcNn430KhDVj.ttf"
   },
   {
     "family": "Syne Tactile",
@@ -30613,22 +30613,6 @@
     "menu": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XkBN3gA.ttf"
   },
   {
-    "family": "Edu AU VIC WA NT Arrows",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2025-06-02",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tM8vhTTk90n91Vw.ttf",
-      "600": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5t38zhTTk90n91Vw.ttf",
-      "700": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5t5szhTTk90n91Vw.ttf",
-      "regular": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvhTTk90n91Vw.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvRTDM5.ttf"
-  },
-  {
     "family": "WDXL Lubrifont TC",
     "variants": ["regular"],
     "subsets": [
@@ -30646,6 +30630,22 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/wdxllubrifonttc/v4/nKKN-H4mPq1yJurnWXfJE8svQHonWf__GKg.ttf"
+  },
+  {
+    "family": "Edu AU VIC WA NT Arrows",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2025-06-02",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tM8vhTTk90n91Vw.ttf",
+      "600": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5t38zhTTk90n91Vw.ttf",
+      "700": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5t5szhTTk90n91Vw.ttf",
+      "regular": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvhTTk90n91Vw.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvRTDM5.ttf"
   },
   {
     "family": "Iansui",
@@ -33708,19 +33708,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanshanifirohingya/v29/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4g6ut88.ttf"
   },
   {
-    "family": "Noto Sans Phoenician",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "phoenician"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5X7Jot-p5561.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqNs.ttf"
-  },
-  {
     "family": "Noto Sans Kayah Li",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["kayah-li", "latin", "latin-ext"],
@@ -33735,6 +33722,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanskayahli/v25/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3OZDyFQ.ttf"
+  },
+  {
+    "family": "Noto Sans Phoenician",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "phoenician"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5X7Jot-p5561.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansphoenician/v17/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqNs.ttf"
   },
   {
     "family": "Noto Sans Modi",

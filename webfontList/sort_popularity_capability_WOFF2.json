@@ -30537,6 +30537,19 @@
     "menu": "https://fonts.gstatic.com/s/playwriteusmodern/v10/H4cMBWmRlMXPhla3hmMaveiYz8nSDkIFLNIYl2TXUwK62YohNj2CYUM.woff2"
   },
   {
+    "family": "Are You Serious",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v13",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/areyouserious/v13/ll8kK2GVSSr-PtjQ5nONVcNn4306gD9nCGRayg.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/areyouserious/v13/ll8kK2GVSSr-PtjQ5nONVcNn430KhDVm.woff2"
+  },
+  {
     "family": "Playwrite HR Lijeva",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -30551,19 +30564,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritehrlijeva/v5/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d4zBvaVwY4.woff2"
-  },
-  {
-    "family": "Are You Serious",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v13",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/areyouserious/v13/ll8kK2GVSSr-PtjQ5nONVcNn4306gD9nCGRayg.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/areyouserious/v13/ll8kK2GVSSr-PtjQ5nONVcNn430KhDVm.woff2"
   },
   {
     "family": "Syne Tactile",
@@ -30613,22 +30613,6 @@
     "menu": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XkBN3hQ.woff2"
   },
   {
-    "family": "Edu AU VIC WA NT Arrows",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2025-06-02",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tM8vhSDk90n91Vw.woff2",
-      "600": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5t38zhSDk90n91Vw.woff2",
-      "700": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5t5szhSDk90n91Vw.woff2",
-      "regular": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvhSDk90n91Vw.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvRTDM8.woff2"
-  },
-  {
     "family": "WDXL Lubrifont TC",
     "variants": ["regular"],
     "subsets": [
@@ -30646,6 +30630,22 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/wdxllubrifonttc/v4/nKKN-H4mPq1yJurnWXfJE8svQHonWf__GK0.woff2"
+  },
+  {
+    "family": "Edu AU VIC WA NT Arrows",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2025-06-02",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tM8vhSDk90n91Vw.woff2",
+      "600": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5t38zhSDk90n91Vw.woff2",
+      "700": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5t5szhSDk90n91Vw.woff2",
+      "regular": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvhSDk90n91Vw.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/eduauvicwantarrows/v3/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvRTDM8.woff2"
   },
   {
     "family": "Iansui",
