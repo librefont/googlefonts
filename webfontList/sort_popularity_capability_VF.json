@@ -23696,6 +23696,27 @@
     "menu": "https://fonts.gstatic.com/s/sedansc/v2/yMJRMIlvYZ3Jn1Y30Aq9dyg.ttf"
   },
   {
+    "family": "Winky Sans",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/winkysans/v2/ll85K2SDUiG1Hpf2p06bB6oikgYbnRQ.ttf",
+      "italic": "https://fonts.gstatic.com/s/winkysans/v2/ll87K2SDUiG1Hpf2p06bN6goliQejRR7AQ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/winkysans/v2/ll8sK2SDUiG1Hpf2p06bHaEAYt6HPhJ2AGWKiA6E0z4.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 300,
+        "end": 900
+      }
+    ]
+  },
+  {
     "family": "Anek Gurmukhi",
     "variants": ["regular"],
     "subsets": ["gurmukhi", "latin", "latin-ext"],
@@ -23717,27 +23738,6 @@
         "tag": "wght",
         "start": 100,
         "end": 800
-      }
-    ]
-  },
-  {
-    "family": "Winky Sans",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/winkysans/v2/ll85K2SDUiG1Hpf2p06bB6oikgYbnRQ.ttf",
-      "italic": "https://fonts.gstatic.com/s/winkysans/v2/ll87K2SDUiG1Hpf2p06bN6goliQejRR7AQ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/winkysans/v2/ll8sK2SDUiG1Hpf2p06bHaEAYt6HPhJ2AGWKiA6E0z4.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 300,
-        "end": 900
       }
     ]
   },
@@ -31545,19 +31545,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhAaqUp8.ttf"
   },
   {
-    "family": "Playwrite DK Uloopet Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritedkuloopetguides/v1/WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHk1bo9bkIONtA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedkuloopetguides/v1/WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHkFb4Vf.ttf"
-  },
-  {
     "family": "Playwrite ZA Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -31569,6 +31556,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk6HHiDA.ttf"
+  },
+  {
+    "family": "Playwrite DK Uloopet Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritedkuloopetguides/v1/WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHk1bo9bkIONtA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedkuloopetguides/v1/WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHkFb4Vf.ttf"
   },
   {
     "family": "Playwrite GB S Guides",
