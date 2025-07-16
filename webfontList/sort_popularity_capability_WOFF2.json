@@ -18181,19 +18181,6 @@
     "menu": "https://fonts.gstatic.com/s/angkor/v34/H4cmBXyAlsPdnlbO8yY_.woff2"
   },
   {
-    "family": "Euphoria Script",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/euphoriascript/v21/mFTpWb0X2bLb_cx6To2B8GpKoD5alvZT1D8x7Q.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/euphoriascript/v21/mFTpWb0X2bLb_cx6To2B8GpKoD5qkvxS.woff2"
-  },
-  {
     "family": "Noto Sans Gujarati",
     "variants": [
       "100",
@@ -18223,6 +18210,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansgujarati/v26/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ypFzPN9uY.woff2"
+  },
+  {
+    "family": "Euphoria Script",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/euphoriascript/v21/mFTpWb0X2bLb_cx6To2B8GpKoD5alvZT1D8x7Q.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/euphoriascript/v21/mFTpWb0X2bLb_cx6To2B8GpKoD5qkvxS.woff2"
   },
   {
     "family": "Slackey",
@@ -27944,6 +27944,19 @@
     "menu": "https://fonts.gstatic.com/s/taiheritagepro/v8/sZlfdQid-zgaNiNIYcUzJMU3IYyNkH1YEQ.woff2"
   },
   {
+    "family": "Noto Sans Nandinagari",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nandinagari"],
+    "version": "v4",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jVbpRXzC1KOw.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jlap5W.woff2"
+  },
+  {
     "family": "Moderustic",
     "variants": ["300", "regular", "500", "600", "700", "800"],
     "subsets": ["cyrillic", "cyrillic-ext", "greek", "latin", "latin-ext"],
@@ -27960,19 +27973,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/moderustic/v2/2-c39J9s3o6eLFNHFdXYaOX1UUnf3GLnYjALsQNf7Zc.woff2"
-  },
-  {
-    "family": "Noto Sans Nandinagari",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nandinagari"],
-    "version": "v4",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jVbpRXzC1KOw.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jlap5W.woff2"
   },
   {
     "family": "Noto Sans Avestan",
@@ -32105,19 +32105,6 @@
     "menu": "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaotL8RWQ.woff2"
   },
   {
-    "family": "Padyakke Expanded One",
-    "variants": ["regular"],
-    "subsets": ["kannada", "latin", "latin-ext"],
-    "version": "v7",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYPaRkpDjeoQ.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoOa5l.woff2"
-  },
-  {
     "family": "Rubik Lines",
     "variants": ["regular"],
     "subsets": [
@@ -32137,6 +32124,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubiklines/v1/_gP81R3vsjYzVW2Y6xFF-FSwavs.woff2"
+  },
+  {
+    "family": "Padyakke Expanded One",
+    "variants": ["regular"],
+    "subsets": ["kannada", "latin", "latin-ext"],
+    "version": "v7",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYPaRkpDjeoQ.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoOa5l.woff2"
   },
   {
     "family": "Playwrite DK Uloopet",
@@ -32288,19 +32288,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssundanese/v27/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNOHDgTo.woff2"
   },
   {
-    "family": "Noto Sans Newa",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "newa"],
-    "version": "v16",
-    "lastModified": "2022-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg8n6qN4R5lNU.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-ot8.woff2"
-  },
-  {
     "family": "Badeen Display",
     "variants": ["regular"],
     "subsets": ["arabic", "latin", "latin-ext"],
@@ -32312,6 +32299,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/badeendisplay/v1/pxidypY2sdZSjFU4cPmNBzckaeeKaEw.woff2"
+  },
+  {
+    "family": "Noto Sans Newa",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "newa"],
+    "version": "v16",
+    "lastModified": "2022-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg8n6qN4R5lNU.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnewa/v16/7r3fqXp6utEsO9pI4f8ok8sWg_n-ot8.woff2"
   },
   {
     "family": "Playwrite NO",
