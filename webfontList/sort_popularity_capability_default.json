@@ -18181,6 +18181,19 @@
     "menu": "https://fonts.gstatic.com/s/angkor/v34/H4cmBXyAlsPdnlbO8yY6.ttf"
   },
   {
+    "family": "Euphoria Script",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/euphoriascript/v21/mFTpWb0X2bLb_cx6To2B8GpKoD5ak_ZT1D8x7Q.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/euphoriascript/v21/mFTpWb0X2bLb_cx6To2B8GpKoD5qkvxX.ttf"
+  },
+  {
     "family": "Noto Sans Gujarati",
     "variants": [
       "100",
@@ -18210,19 +18223,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansgujarati/v26/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ypFzPN9uM.ttf"
-  },
-  {
-    "family": "Euphoria Script",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/euphoriascript/v21/mFTpWb0X2bLb_cx6To2B8GpKoD5ak_ZT1D8x7Q.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/euphoriascript/v21/mFTpWb0X2bLb_cx6To2B8GpKoD5qkvxX.ttf"
   },
   {
     "family": "Slackey",
@@ -27944,6 +27944,19 @@
     "menu": "https://fonts.gstatic.com/s/taiheritagepro/v8/sZlfdQid-zgaNiNIYcUzJMU3IYyNkH1YFA.ttf"
   },
   {
+    "family": "Noto Sans Nandinagari",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "nandinagari"],
+    "version": "v4",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jVa5RXzC1KOw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jlap5T.ttf"
+  },
+  {
     "family": "Moderustic",
     "variants": ["300", "regular", "500", "600", "700", "800"],
     "subsets": ["cyrillic", "cyrillic-ext", "greek", "latin", "latin-ext"],
@@ -27960,19 +27973,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/moderustic/v2/2-c39J9s3o6eLFNHFdXYaOX1UUnf3GLnYjALsQNf7ZI.ttf"
-  },
-  {
-    "family": "Noto Sans Nandinagari",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "nandinagari"],
-    "version": "v4",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jVa5RXzC1KOw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jlap5T.ttf"
   },
   {
     "family": "Noto Sans Avestan",
@@ -30621,6 +30621,19 @@
     "menu": "https://fonts.gstatic.com/s/notoserifnphmong/v4/pONN1gItFMO79E4L1GPUi-2sixKHZyFj9Jy6_KhXPwzdvbjPhGLo1Ok.ttf"
   },
   {
+    "family": "Syne Tactile",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v15",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/synetactile/v15/11hGGpna2UTQKjMCVzjAPMKh3ysdjvKU8Q.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/synetactile/v15/11hGGpna2UTQKjMCVzjAPMKR3iEZ.ttf"
+  },
+  {
     "family": "Noto Sans Gunjala Gondi",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["gunjala-gondi", "latin", "latin-ext"],
@@ -30635,19 +30648,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansgunjalagondi/v20/bWtX7e7KfBziStx7lIzKPrcSMwcEnCv6DW7n5g0ef3PLtymzNxYL4YD04ZQr.ttf"
-  },
-  {
-    "family": "Syne Tactile",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v15",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/synetactile/v15/11hGGpna2UTQKjMCVzjAPMKh3ysdjvKU8Q.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/synetactile/v15/11hGGpna2UTQKjMCVzjAPMKR3iEZ.ttf"
   },
   {
     "family": "Rubik Marker Hatch",
@@ -31567,6 +31567,19 @@
     "menu": "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5lr4seE.ttf"
   },
   {
+    "family": "Noto Sans Mandaic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mandaic"],
+    "version": "v17",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI5_A_gMk0izH.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
+  },
+  {
     "family": "Playwrite ES Deco",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -31581,19 +31594,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteesdeco/v10/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrdBOAVt.ttf"
-  },
-  {
-    "family": "Noto Sans Mandaic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mandaic"],
-    "version": "v17",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI5_A_gMk0izH.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
   },
   {
     "family": "Noto Sans Old Italic",

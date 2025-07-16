@@ -27818,6 +27818,19 @@
     ]
   },
   {
+    "family": "Syne Tactile",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v15",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/synetactile/v15/11hGGpna2UTQKjMCVzjAPMKh3ysdjvKU8Q.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/synetactile/v15/11hGGpna2UTQKjMCVzjAPMKR3iEZ.ttf"
+  },
+  {
     "family": "Noto Sans Gunjala Gondi",
     "variants": ["regular"],
     "subsets": ["gunjala-gondi", "latin", "latin-ext"],
@@ -27836,19 +27849,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Syne Tactile",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v15",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/synetactile/v15/11hGGpna2UTQKjMCVzjAPMKh3ysdjvKU8Q.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/synetactile/v15/11hGGpna2UTQKjMCVzjAPMKR3iEZ.ttf"
   },
   {
     "family": "Rubik Marker Hatch",
@@ -29420,19 +29420,6 @@
     "menu": "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaotL8RWE.ttf"
   },
   {
-    "family": "Padyakke Expanded One",
-    "variants": ["regular"],
-    "subsets": ["kannada", "latin", "latin-ext"],
-    "version": "v7",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYOKRkpDjeoQ.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoOa5g.ttf"
-  },
-  {
     "family": "Rubik Lines",
     "variants": ["regular"],
     "subsets": [
@@ -29452,6 +29439,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubiklines/v1/_gP81R3vsjYzVW2Y6xFF-FSwav4.ttf"
+  },
+  {
+    "family": "Padyakke Expanded One",
+    "variants": ["regular"],
+    "subsets": ["kannada", "latin", "latin-ext"],
+    "version": "v7",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYOKRkpDjeoQ.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoOa5g.ttf"
   },
   {
     "family": "Playwrite DK Uloopet",
@@ -30888,25 +30888,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanschorasmian/v3/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S6vzqno.ttf"
   },
   {
-    "family": "Noto Sans Meroitic",
-    "variants": ["regular"],
-    "subsets": [
-      "latin",
-      "latin-ext",
-      "meroitic",
-      "meroitic-cursive",
-      "meroitic-hieroglyphs"
-    ],
-    "version": "v18",
-    "lastModified": "2023-11-09",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UDgDhTiKY9KQ.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzgTJX.ttf"
-  },
-  {
     "family": "Playwrite FR Trad",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30925,6 +30906,25 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Noto Sans Meroitic",
+    "variants": ["regular"],
+    "subsets": [
+      "latin",
+      "latin-ext",
+      "meroitic",
+      "meroitic-cursive",
+      "meroitic-hieroglyphs"
+    ],
+    "version": "v18",
+    "lastModified": "2023-11-09",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UDgDhTiKY9KQ.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzgTJX.ttf"
   },
   {
     "family": "Noto Sans Ugaritic",
