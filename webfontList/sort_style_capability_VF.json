@@ -4710,6 +4710,27 @@
     ]
   },
   {
+    "family": "Intel One Mono",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext", "symbols2", "vietnamese"],
+    "version": "v2",
+    "lastModified": "2025-07-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/intelonemono/v2/P5sbzZuLY8Lb_G1RikFkwPjBvvk3D4tEBiLF.ttf",
+      "italic": "https://fonts.gstatic.com/s/intelonemono/v2/P5sZzZuLY8Lb_G1RikFkwPjBvsk1BY9mAzLFRQI.ttf"
+    },
+    "category": "monospace",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgofchnTVX.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 300,
+        "end": 700
+      }
+    ]
+  },
+  {
     "family": "Kulim Park",
     "variants": [
       "200",
@@ -5198,6 +5219,46 @@
     ]
   },
   {
+    "family": "Bitcount",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2025-07-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bitcount/v1/ijwWs53kQsE1Y5J-lJd7m2dJXYP7.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bitcount/v1/ijxXs53kQsE1Y5J-lI1wubXnlQH-1-E1LhaU1dJRZZaHU0slfybi9GQwiTv06bjtugLjdPqK3d9XKDqRc2jrJlC4ZRsgxqxP-aVoJVvq46N4YA.ttf",
+    "axes": [
+      {
+        "tag": "CRSV",
+        "start": 0,
+        "end": 1
+      },
+      {
+        "tag": "ELSH",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "ELXP",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "slnt",
+        "start": -8,
+        "end": 0
+      },
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ]
+  },
+  {
     "family": "Bitcount Grid Double",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -5209,6 +5270,166 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/bitcountgriddouble/v1/WBK7rFjbakJVFOargiWSKQysDITG_S0VtG0x3HD2FYHVdlZI-rLlahmEAPp8wjYMvkPq48MVQo5RQf2svjnxa5Anx8-Y-pHdkVb0ByRHaxzbXaLbA9wfZDxkSZAdjw.ttf",
+    "axes": [
+      {
+        "tag": "CRSV",
+        "start": 0,
+        "end": 1
+      },
+      {
+        "tag": "ELSH",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "ELXP",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "slnt",
+        "start": -8,
+        "end": 0
+      },
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Bitcount Grid Single",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2025-07-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bitcountgridsingle/v1/cY9afi2OU1tLpjaqQveNvbC2qfsuQPDVATvobxLCBJkS.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bitcountgridsingle/v1/cY8bfi2OU1tLpjaqQveNvbC2qfsuQPDVASHjTcBszBsXfC5C9kAKu8QoqnfqMiS4gVij5yxO41San7UnNMBH-Y9u33JUGFdHpUYahAAdbgvnnHmmgUGanohrVUMHqg.ttf",
+    "axes": [
+      {
+        "tag": "CRSV",
+        "start": 0,
+        "end": 1
+      },
+      {
+        "tag": "ELSH",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "ELXP",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "slnt",
+        "start": -8,
+        "end": 0
+      },
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Bitcount Prop Double",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2025-07-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bitcountpropdouble/v1/K2FufY5Wn-tBSVxaDL6DUOXQJ26dEAnh68U4EoporSHH.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bitcountpropdouble/v1/K2EvfY5Wn-tBSVxaDL6DUOXQJ26dEAnh698zMFjGZaPCtbJHl1TFmDKfGe4_bKUh3sC1Q7DxZ5-3PQRHsSZEX9ctiFN1ZosZvKyl3LzeFmQvK5hIm0nBWck4Gx5_nw.ttf",
+    "axes": [
+      {
+        "tag": "CRSV",
+        "start": 0,
+        "end": 1
+      },
+      {
+        "tag": "ELSH",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "ELXP",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "slnt",
+        "start": -8,
+        "end": 0
+      },
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Bitcount Prop Single",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2025-07-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bitcountpropsingle/v1/-W_hXIv9SyXT0xz0E9pIHCxbW8ZMGEVdhyQegDsC0Np2.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bitcountpropsingle/v1/-W-gXIv9SyXT0xz0E9pIHCxbW8ZMGEVdhz4VoumsGFhzYseFqK9f_KOwYjYsHSocfu1DlxztzQH877SgJ2SUzQ4SJdODLz0JoLU3vXFrqXQooCdbs921GXZlHGQShw.ttf",
+    "axes": [
+      {
+        "tag": "CRSV",
+        "start": 0,
+        "end": 1
+      },
+      {
+        "tag": "ELSH",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "ELXP",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "slnt",
+        "start": -8,
+        "end": 0
+      },
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Bitcount Single",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2025-07-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bitcountsingle/v1/or36Q6T72-iP2RY6OLSkb95a817GhmARZeDtag.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bitcountsingle/v1/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8jKCrtZx3w.ttf",
     "axes": [
       {
         "tag": "CRSV",
@@ -9900,14 +10121,14 @@
     "family": "Material Symbols Outlined",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v257",
-    "lastModified": "2025-07-03",
+    "version": "v266",
+    "lastModified": "2025-07-16",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v257/kJEhBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oFsfjAOVZBgs.ttf"
+      "regular": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v266/kJEhBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oFsfjAOVZBgs.ttf"
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v257/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHNenZ9o.ttf",
+    "menu": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v266/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHNenZ9o.ttf",
     "axes": [
       {
         "tag": "FILL",
@@ -9935,14 +10156,14 @@
     "family": "Material Symbols Rounded",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v258",
-    "lastModified": "2025-07-03",
+    "version": "v267",
+    "lastModified": "2025-07-16",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/materialsymbolsrounded/v258/sykg-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190Fjzb6kLCeA_PQ.ttf"
+      "regular": "https://fonts.gstatic.com/s/materialsymbolsrounded/v267/sykg-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190Fjzb6kLCeA_PQ.ttf"
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/materialsymbolsrounded/v258/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelbxODLA.ttf",
+    "menu": "https://fonts.gstatic.com/s/materialsymbolsrounded/v267/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelbxODLA.ttf",
     "axes": [
       {
         "tag": "FILL",
@@ -9970,14 +10191,14 @@
     "family": "Material Symbols Sharp",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v254",
-    "lastModified": "2025-07-03",
+    "version": "v263",
+    "lastModified": "2025-07-16",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/materialsymbolssharp/v254/gNMVW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4aWTSTGlMyd8.ttf"
+      "regular": "https://fonts.gstatic.com/s/materialsymbolssharp/v263/gNMVW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4aWTSTGlMyd8.ttf"
     },
     "category": "monospace",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/materialsymbolssharp/v254/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLogCPLVU.ttf",
+    "menu": "https://fonts.gstatic.com/s/materialsymbolssharp/v263/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLogCPLVU.ttf",
     "axes": [
       {
         "tag": "FILL",
@@ -19784,14 +20005,14 @@
       "latin-ext",
       "vietnamese"
     ],
-    "version": "v12",
-    "lastModified": "2025-06-25",
+    "version": "v13",
+    "lastModified": "2025-07-16",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/cactusclassicalserif/v12/sZlVdQ6K-zJOCzUaS90zMNN-Ep-OoC8dZr0JFuBIFX-pv-E.ttf"
+      "regular": "https://fonts.gstatic.com/s/cactusclassicalserif/v13/sZlVdQ6K-zJOCzUaS90zMNN-Ep-OoC8dZr0JFuBIFX-pv-E.ttf"
     },
     "category": "serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/cactusclassicalserif/v12/sZlVdQ6K-zJOCzUaS90zMNN-Ep-OoC8dZr0JJuFCEQ.ttf"
+    "menu": "https://fonts.gstatic.com/s/cactusclassicalserif/v13/sZlVdQ6K-zJOCzUaS90zMNN-Ep-OoC8dZr0JJuFCEQ.ttf"
   },
   {
     "family": "Caesar Dressing",
