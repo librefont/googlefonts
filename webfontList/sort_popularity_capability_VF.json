@@ -26948,6 +26948,19 @@
     "menu": "https://fonts.gstatic.com/s/uoqmunthenkhung/v1/Y4GTYa1nVTQLt-D5LoLChg5aJjITwbj5.ttf"
   },
   {
+    "family": "Slackside One",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin", "latin-ext"],
+    "version": "v13",
+    "lastModified": "2025-06-11",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/slacksideone/v13/EJRQQgMrXdcGsiBuvnRxodTwVy7VocNB6Iw.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/slacksideone/v13/EJRQQgMrXdcGsiBuvnRxodTwZy_fpQ.ttf"
+  },
+  {
     "family": "Huninn",
     "variants": ["regular"],
     "subsets": [
@@ -26965,19 +26978,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/huninn/v2/OpNNnoINg9bQ4xkZjyvU.ttf"
-  },
-  {
-    "family": "Slackside One",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin", "latin-ext"],
-    "version": "v13",
-    "lastModified": "2025-06-11",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/slacksideone/v13/EJRQQgMrXdcGsiBuvnRxodTwVy7VocNB6Iw.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/slacksideone/v13/EJRQQgMrXdcGsiBuvnRxodTwZy_fpQ.ttf"
   },
   {
     "family": "Rubik Burned",
@@ -29279,26 +29279,6 @@
     ]
   },
   {
-    "family": "Playwrite CO",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v12",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteco/v12/0FlTVP2Hl1iH-fv2BH4kJkgB-dMOdS7sSg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteco/v12/0FlGVP2Hl1iH-fv2BH4kJkgb8vH-rbJPTDqqx7ZIk-ZEFg.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 400
-      }
-    ]
-  },
-  {
     "family": "Noto Serif Hentaigana",
     "variants": ["regular"],
     "subsets": ["kana-extended", "latin", "latin-ext"],
@@ -29315,6 +29295,26 @@
         "tag": "wght",
         "start": 200,
         "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Playwrite CO",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v12",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteco/v12/0FlTVP2Hl1iH-fv2BH4kJkgB-dMOdS7sSg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteco/v12/0FlGVP2Hl1iH-fv2BH4kJkgb8vH-rbJPTDqqx7ZIk-ZEFg.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 400
       }
     ]
   },
@@ -30489,26 +30489,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskhudawadi/v22/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHEjVtUQ.ttf"
   },
   {
-    "family": "Playwrite DE VA",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v10",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritedeva/v10/VuJpdNPb2p7tvoFGLMPdeMxGN1p9v2HRrDH0eA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedeva/v10/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySj28pHw.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 400
-      }
-    ]
-  },
-  {
     "family": "Noto Sans Syriac",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "syriac"],
@@ -30525,6 +30505,26 @@
         "tag": "wght",
         "start": 100,
         "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Playwrite DE VA",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v10",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritedeva/v10/VuJpdNPb2p7tvoFGLMPdeMxGN1p9v2HRrDH0eA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedeva/v10/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySj28pHw.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 400
       }
     ]
   },
@@ -31923,17 +31923,17 @@
     ]
   },
   {
-    "family": "Bitcount Single",
+    "family": "Bitcount Prop Double",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
     "version": "v1",
     "lastModified": "2025-07-16",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/bitcountsingle/v1/or36Q6T72-iP2RY6OLSkb95a817GhmARZeDtag.ttf"
+      "regular": "https://fonts.gstatic.com/s/bitcountpropdouble/v1/K2FufY5Wn-tBSVxaDL6DUOXQJ26dEAnh68U4EoporSHH.ttf"
     },
     "category": "display",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bitcountsingle/v1/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8jKCrtZx3w.ttf",
+    "menu": "https://fonts.gstatic.com/s/bitcountpropdouble/v1/K2EvfY5Wn-tBSVxaDL6DUOXQJ26dEAnh698zMFjGZaPCtbJHl1TFmDKfGe4_bKUh3sC1Q7DxZ5-3PQRHsSZEX9ctiFN1ZosZvKyl3LzeFmQvK5hIm0nBWck4Gx5_nw.ttf",
     "axes": [
       {
         "tag": "CRSV",
@@ -31963,17 +31963,17 @@
     ]
   },
   {
-    "family": "Bitcount Prop Double",
+    "family": "Bitcount Single",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
     "version": "v1",
     "lastModified": "2025-07-16",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/bitcountpropdouble/v1/K2FufY5Wn-tBSVxaDL6DUOXQJ26dEAnh68U4EoporSHH.ttf"
+      "regular": "https://fonts.gstatic.com/s/bitcountsingle/v1/or36Q6T72-iP2RY6OLSkb95a817GhmARZeDtag.ttf"
     },
     "category": "display",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bitcountpropdouble/v1/K2EvfY5Wn-tBSVxaDL6DUOXQJ26dEAnh698zMFjGZaPCtbJHl1TFmDKfGe4_bKUh3sC1Q7DxZ5-3PQRHsSZEX9ctiFN1ZosZvKyl3LzeFmQvK5hIm0nBWck4Gx5_nw.ttf",
+    "menu": "https://fonts.gstatic.com/s/bitcountsingle/v1/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8jKCrtZx3w.ttf",
     "axes": [
       {
         "tag": "CRSV",

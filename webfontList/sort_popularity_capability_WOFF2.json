@@ -29644,19 +29644,6 @@
     "menu": "https://fonts.gstatic.com/s/uoqmunthenkhung/v1/Y4GTYa1nVTQLt-D5LoLChg5aJjITwbj8.woff2"
   },
   {
-    "family": "Slackside One",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin", "latin-ext"],
-    "version": "v13",
-    "lastModified": "2025-06-11",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/slacksideone/v13/EJRQQgMrXdcGsiBuvnRxodTwVyvVocNB6Iw.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/slacksideone/v13/EJRQQgMrXdcGsiBuvnRxodTwZy_foA.woff2"
-  },
-  {
     "family": "Huninn",
     "variants": ["regular"],
     "subsets": [
@@ -29674,6 +29661,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/huninn/v2/OpNNnoINg9bQ4xkZjyvR.woff2"
+  },
+  {
+    "family": "Slackside One",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin", "latin-ext"],
+    "version": "v13",
+    "lastModified": "2025-06-11",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/slacksideone/v13/EJRQQgMrXdcGsiBuvnRxodTwVyvVocNB6Iw.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/slacksideone/v13/EJRQQgMrXdcGsiBuvnRxodTwZy_foA.woff2"
   },
   {
     "family": "Rubik Burned",
@@ -33136,22 +33136,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskhudawadi/v22/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHEjVtVA.woff2"
   },
   {
-    "family": "Playwrite DE VA",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v10",
-    "lastModified": "2025-05-30",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritedeva/v10/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSyTv2sjGyvutu4.woff2",
-      "200": "https://fonts.gstatic.com/s/playwritedeva/v10/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRaySv2sjGyvutu4.woff2",
-      "300": "https://fonts.gstatic.com/s/playwritedeva/v10/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRXKSv2sjGyvutu4.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwritedeva/v10/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySv2sjGyvutu4.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedeva/v10/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySj28pGg.woff2"
-  },
-  {
     "family": "Noto Sans Syriac",
     "variants": [
       "100",
@@ -33181,6 +33165,22 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssyriac/v17/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5Y.woff2"
+  },
+  {
+    "family": "Playwrite DE VA",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v10",
+    "lastModified": "2025-05-30",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritedeva/v10/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSyTv2sjGyvutu4.woff2",
+      "200": "https://fonts.gstatic.com/s/playwritedeva/v10/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRaySv2sjGyvutu4.woff2",
+      "300": "https://fonts.gstatic.com/s/playwritedeva/v10/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRXKSv2sjGyvutu4.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwritedeva/v10/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySv2sjGyvutu4.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedeva/v10/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySj28pGg.woff2"
   },
   {
     "family": "Noto Sans Mahajani",
