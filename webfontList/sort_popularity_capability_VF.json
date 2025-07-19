@@ -21816,6 +21816,19 @@
     "menu": "https://fonts.gstatic.com/s/farsan/v23/VEMwRoJ0vY_zsyzK26Wt.ttf"
   },
   {
+    "family": "Underdog",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/underdog/v23/CHygV-jCElj7diMroVSiU14GN2Il.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/underdog/v23/CHygV-jCElj7diMroWSjWVo.ttf"
+  },
+  {
     "family": "Kablammo",
     "variants": ["regular"],
     "subsets": [
@@ -21841,19 +21854,6 @@
         "end": 60
       }
     ]
-  },
-  {
-    "family": "Underdog",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/underdog/v23/CHygV-jCElj7diMroVSiU14GN2Il.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/underdog/v23/CHygV-jCElj7diMroWSjWVo.ttf"
   },
   {
     "family": "Smooch",
@@ -22793,19 +22793,6 @@
     ]
   },
   {
-    "family": "Metal",
-    "variants": ["regular"],
-    "subsets": ["khmer", "latin"],
-    "version": "v31",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/metal/v31/lW-wwjUJIXTo7i3nnoQAUdN2.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/metal/v31/lW-wwjUJIXTo7h3mlIA.ttf"
-  },
-  {
     "family": "Baskervville SC",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -22824,6 +22811,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Metal",
+    "variants": ["regular"],
+    "subsets": ["khmer", "latin"],
+    "version": "v31",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/metal/v31/lW-wwjUJIXTo7i3nnoQAUdN2.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/metal/v31/lW-wwjUJIXTo7h3mlIA.ttf"
   },
   {
     "family": "Gwendolyn",
