@@ -22793,6 +22793,19 @@
     ]
   },
   {
+    "family": "Metal",
+    "variants": ["regular"],
+    "subsets": ["khmer", "latin"],
+    "version": "v31",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/metal/v31/lW-wwjUJIXTo7i3nnoQAUdN2.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/metal/v31/lW-wwjUJIXTo7h3mlIA.ttf"
+  },
+  {
     "family": "Baskervville SC",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -22811,19 +22824,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Metal",
-    "variants": ["regular"],
-    "subsets": ["khmer", "latin"],
-    "version": "v31",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/metal/v31/lW-wwjUJIXTo7i3nnoQAUdN2.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/metal/v31/lW-wwjUJIXTo7h3mlIA.ttf"
   },
   {
     "family": "Gwendolyn",
