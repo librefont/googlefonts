@@ -9725,6 +9725,39 @@
     ]
   },
   {
+    "family": "Google Sans Code",
+    "variants": ["regular", "italic"],
+    "subsets": [
+      "adlam",
+      "canadian-aboriginal",
+      "cherokee",
+      "latin",
+      "latin-ext",
+      "math",
+      "old-permic",
+      "symbols",
+      "symbols2",
+      "syriac",
+      "vietnamese"
+    ],
+    "version": "v11",
+    "lastModified": "2025-07-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/googlesanscode/v11/pxifyogzv91QhV44Z_GQBHsGf5PuaElurmapvvM.ttf",
+      "italic": "https://fonts.gstatic.com/s/googlesanscode/v11/pxiZyogzv91QhV44Z_GQBHsGf5PuWEtkqkSsrvNXiA.ttf"
+    },
+    "category": "monospace",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/googlesanscode/v11/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXFhgjF_8LE.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 300,
+        "end": 800
+      }
+    ]
+  },
+  {
     "family": "Gorditas",
     "variants": ["regular", "700"],
     "subsets": ["latin"],
