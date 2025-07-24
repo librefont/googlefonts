@@ -31913,19 +31913,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssogdian/v16/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf"
   },
   {
-    "family": "Noto Serif Old Uyghur",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-uyghur"],
-    "version": "v4",
-    "lastModified": "2024-09-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifolduyghur/v4/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwnKumeF2yVgA.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifolduyghur/v4/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Oa.ttf"
-  },
-  {
     "family": "Phetsarath",
     "variants": ["regular", "700"],
     "subsets": ["lao"],
@@ -31938,6 +31925,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/phetsarath/v2/N0bQ2SpTP-plK0uWayAYMd_3mQ.ttf"
+  },
+  {
+    "family": "Noto Serif Old Uyghur",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-uyghur"],
+    "version": "v4",
+    "lastModified": "2024-09-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifolduyghur/v4/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwnKumeF2yVgA.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifolduyghur/v4/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Oa.ttf"
   },
   {
     "family": "Playwrite CO",
@@ -34496,19 +34496,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlKVOSHl1iH-fv2BH4kIkUBqtlNCEaQLly6xl4L.ttf"
   },
   {
-    "family": "Playwrite SK Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_JzruWQshcbU.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_FzvkXQ.ttf"
-  },
-  {
     "family": "Yarndings 20 Charted",
     "variants": ["regular"],
     "subsets": ["latin", "math", "symbols"],
@@ -34520,6 +34507,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/yarndings20charted/v3/QldRNSdbpg0G8vh0W2qxe0l-hcUPtY2VaIQn60A.ttf"
+  },
+  {
+    "family": "Playwrite SK Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_JzruWQshcbU.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_FzvkXQ.ttf"
   },
   {
     "family": "Playwrite AU NSW Guides",
