@@ -31223,6 +31223,19 @@
     "menu": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blL8vMCNOCg.ttf"
   },
   {
+    "family": "Jacquard 12 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "version": "v3",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jacquard12charted/v3/i7dWIE97bzCOB9Q_Up6PQmYfKDPIb2HwT3StZ9jetKY.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jacquard12charted/v3/i7dWIE97bzCOB9Q_Up6PQmYfKDPIb2Hwf3WnYw.ttf"
+  },
+  {
     "family": "Edu NSW ACT Hand Pre",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext"],
@@ -31237,19 +31250,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/edunswacthandpre/v2/kmKXZrI-ExGJWUmupHwGgw6Qw4svl-MsLiw7ATFEXwCkLE0ywWBat8La.ttf"
-  },
-  {
-    "family": "Jacquard 12 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols"],
-    "version": "v3",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jacquard12charted/v3/i7dWIE97bzCOB9Q_Up6PQmYfKDPIb2HwT3StZ9jetKY.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jacquard12charted/v3/i7dWIE97bzCOB9Q_Up6PQmYfKDPIb2Hwf3WnYw.ttf"
   },
   {
     "family": "Noto Serif Toto",
@@ -34627,19 +34627,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteidguides/v1/MjQamj1kuP_soQ3o-rysMdWi_8oJlIUUEnYr2Q.ttf"
   },
   {
-    "family": "Playwrite DE SAS Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi15BEdtBgPI1G.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi16BFfNQ.ttf"
-  },
-  {
     "family": "Playwrite HR Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -34651,5 +34638,18 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritehrguides/v1/6NUK8EedKwOcfRjj8ukv_L4kjqAoGrjdamE-9g.ttf"
+  },
+  {
+    "family": "Playwrite DE SAS Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi15BEdtBgPI1G.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi16BFfNQ.ttf"
   }
 ]

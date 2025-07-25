@@ -29183,6 +29183,20 @@
     "menu": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
   },
   {
+    "family": "Karla Tamil Upright",
+    "variants": ["regular", "700"],
+    "subsets": ["tamil"],
+    "version": "v2",
+    "lastModified": "2024-10-29",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS1HfVMk95HnY0u6SeQ_cHoozW_3U5XmK5SoKcPLKclE4o.ttf",
+      "regular": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XoBJ9hK8kMK4.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XkBN3gA.ttf"
+  },
+  {
     "family": "Playwrite DK Uloopet",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -29201,20 +29215,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Karla Tamil Upright",
-    "variants": ["regular", "700"],
-    "subsets": ["tamil"],
-    "version": "v2",
-    "lastModified": "2024-10-29",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS1HfVMk95HnY0u6SeQ_cHoozW_3U5XmK5SoKcPLKclE4o.ttf",
-      "regular": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XoBJ9hK8kMK4.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XkBN3gA.ttf"
   },
   {
     "family": "Noto Serif Old Uyghur",
@@ -30612,6 +30612,19 @@
     ]
   },
   {
+    "family": "Jersey 15 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey15charted/v3/nuFjD-rCQIjoVp1Sva2ToCTudGbLeRv4r2024gxi.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey15charted/v3/nuFjD-rCQIjoVp1Sva2ToCTudGbLeSv5pWk.ttf"
+  },
+  {
     "family": "Playwrite IT Trad",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30630,19 +30643,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Jersey 15 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey15charted/v3/nuFjD-rCQIjoVp1Sva2ToCTudGbLeRv4r2024gxi.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey15charted/v3/nuFjD-rCQIjoVp1Sva2ToCTudGbLeSv5pWk.ttf"
   },
   {
     "family": "Noto Sans New Tai Lue",
@@ -32010,19 +32010,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteidguides/v1/MjQamj1kuP_soQ3o-rysMdWi_8oJlIUUEnYr2Q.ttf"
   },
   {
-    "family": "Playwrite DE SAS Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi15BEdtBgPI1G.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi16BFfNQ.ttf"
-  },
-  {
     "family": "Playwrite HR Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32034,5 +32021,18 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritehrguides/v1/6NUK8EedKwOcfRjj8ukv_L4kjqAoGrjdamE-9g.ttf"
+  },
+  {
+    "family": "Playwrite DE SAS Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi15BEdtBgPI1G.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi16BFfNQ.ttf"
   }
 ]
