@@ -29618,6 +29618,48 @@
     "menu": "https://fonts.gstatic.com/s/tienne/v20/AYCKpX7pe9YCRP07kUnD.ttf"
   },
   {
+    "family": "TikTok Sans",
+    "variants": ["regular"],
+    "subsets": [
+      "cyrillic",
+      "cyrillic-ext",
+      "greek",
+      "latin",
+      "latin-ext",
+      "vietnamese"
+    ],
+    "version": "v4",
+    "lastModified": "2025-07-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/tiktoksans/v4/70lXu7g-Lm8OXGnh_Ow1sV3OEJeJRVdC.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/tiktoksans/v4/70kbu7g-Lm8OXGnh_Ow1sUfFMmlnhbRF425wxXH-UGeud7XItbaHtxhggMrrmAvSNAHtMV6x5PpBL2J5Rgbj-Bo7COHFpVDs.ttf",
+    "axes": [
+      {
+        "tag": "opsz",
+        "start": 12,
+        "end": 36
+      },
+      {
+        "tag": "slnt",
+        "start": -6,
+        "end": 0
+      },
+      {
+        "tag": "wdth",
+        "start": 75,
+        "end": 150
+      },
+      {
+        "tag": "wght",
+        "start": 300,
+        "end": 900
+      }
+    ]
+  },
+  {
     "family": "Tillana",
     "variants": ["regular", "500", "600", "700", "800"],
     "subsets": ["devanagari", "latin", "latin-ext"],
