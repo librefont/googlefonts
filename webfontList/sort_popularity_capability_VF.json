@@ -30161,19 +30161,6 @@
     ]
   },
   {
-    "family": "Rubik Maze",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikmaze/v2/xMQRuF9ZVa2ftiJEavXSAX7inS-bxV4.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikmaze/v2/xMQRuF9ZVa2ftiJEavXSMX_omQ.ttf"
-  },
-  {
     "family": "Playwrite SK",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30192,6 +30179,19 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Rubik Maze",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikmaze/v2/xMQRuF9ZVa2ftiJEavXSAX7inS-bxV4.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikmaze/v2/xMQRuF9ZVa2ftiJEavXSMX_omQ.ttf"
   },
   {
     "family": "Rubik Storm",
@@ -31243,6 +31243,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhjwrPecQ.ttf"
   },
   {
+    "family": "Noto Sans Pau Cin Hau",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "pau-cin-hau"],
+    "version": "v20",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehIdjEWqKMxsKw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-u.ttf"
+  },
+  {
     "family": "Noto Sans Meroitic",
     "variants": ["regular"],
     "subsets": [
@@ -31260,19 +31273,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmeroitic/v18/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzgTJX.ttf"
-  },
-  {
-    "family": "Noto Sans Pau Cin Hau",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "pau-cin-hau"],
-    "version": "v20",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehIdjEWqKMxsKw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspaucinhau/v20/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-u.ttf"
   },
   {
     "family": "Noto Sans Chorasmian",
@@ -31725,19 +31725,6 @@
     "menu": "https://fonts.gstatic.com/s/yarndings20charted/v3/QldRNSdbpg0G8vh0W2qxe0l-hcUPtY2VaIQn60A.ttf"
   },
   {
-    "family": "Playwrite NG Modern Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhDarWJtyZyGU.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhAaqUp8.ttf"
-  },
-  {
     "family": "Playwrite AT Guides",
     "variants": ["regular", "italic"],
     "subsets": ["latin"],
@@ -31750,6 +31737,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBdbkDcg.ttf"
+  },
+  {
+    "family": "Playwrite NG Modern Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhDarWJtyZyGU.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhAaqUp8.ttf"
   },
   {
     "family": "Playwrite CU Guides",
