@@ -24057,31 +24057,6 @@
     "menu": "https://fonts.gstatic.com/s/felipa/v26/FwZa7-owz1Eu4F_ASd6A.ttf"
   },
   {
-    "family": "Workbench",
-    "variants": ["regular"],
-    "subsets": ["latin", "math", "symbols"],
-    "version": "v2",
-    "lastModified": "2025-05-29",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/workbench/v2/FeVSS05Gp6Et7FcfbPFQ3Z5nm29Gww.ttf"
-    },
-    "category": "monospace",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/workbench/v2/FeV8S05Gp6Et7FcfbPFK1rynGd_MxtkvNFmoUDFhgF2VKTGQk6vapeOK2mY.ttf",
-    "axes": [
-      {
-        "tag": "BLED",
-        "start": 0,
-        "end": 100
-      },
-      {
-        "tag": "SCAN",
-        "start": -53,
-        "end": 100
-      }
-    ]
-  },
-  {
     "family": "Noto Serif Lao",
     "variants": ["regular"],
     "subsets": ["lao", "latin", "latin-ext"],
@@ -24103,6 +24078,31 @@
         "tag": "wght",
         "start": 100,
         "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Workbench",
+    "variants": ["regular"],
+    "subsets": ["latin", "math", "symbols"],
+    "version": "v2",
+    "lastModified": "2025-05-29",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/workbench/v2/FeVSS05Gp6Et7FcfbPFQ3Z5nm29Gww.ttf"
+    },
+    "category": "monospace",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/workbench/v2/FeV8S05Gp6Et7FcfbPFK1rynGd_MxtkvNFmoUDFhgF2VKTGQk6vapeOK2mY.ttf",
+    "axes": [
+      {
+        "tag": "BLED",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "SCAN",
+        "start": -53,
+        "end": 100
       }
     ]
   },
@@ -31106,19 +31106,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBc.ttf"
   },
   {
-    "family": "Noto Sans Lepcha",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "lepcha"],
-    "version": "v19",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS32AJstqBXgd4.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS36ANmsg.ttf"
-  },
-  {
     "family": "Noto Sans Buginese",
     "variants": ["regular"],
     "subsets": ["buginese", "latin", "latin-ext"],
@@ -31130,6 +31117,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_QtPGA.ttf"
+  },
+  {
+    "family": "Noto Sans Lepcha",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "lepcha"],
+    "version": "v19",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS32AJstqBXgd4.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS36ANmsg.ttf"
   },
   {
     "family": "Playwrite PE Guides",
@@ -31829,20 +31829,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71ah47rw.ttf"
   },
   {
-    "family": "Playwrite GB S Guides",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlKVOSHl1iH-fv2BH4kIkUBqtlNCEaQLlyKx1QPi-Z8Fw.ttf",
-      "italic": "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlEVOSHl1iH-fv2BH4kIkUBqtlNCEaQLly6xV4LqeNsFwxX.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlKVOSHl1iH-fv2BH4kIkUBqtlNCEaQLly6xl4L.ttf"
-  },
-  {
     "family": "Playwrite SK Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -31856,17 +31842,18 @@
     "menu": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_FzvkXQ.ttf"
   },
   {
-    "family": "Playwrite HR Guides",
-    "variants": ["regular"],
+    "family": "Playwrite GB S Guides",
+    "variants": ["regular", "italic"],
     "subsets": ["latin"],
     "version": "v1",
     "lastModified": "2025-05-30",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritehrguides/v1/6NUK8EedKwOcfRjj8ukv_L4kjqAoGrjdWmA08mCgdfM.ttf"
+      "regular": "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlKVOSHl1iH-fv2BH4kIkUBqtlNCEaQLlyKx1QPi-Z8Fw.ttf",
+      "italic": "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlEVOSHl1iH-fv2BH4kIkUBqtlNCEaQLly6xV4LqeNsFwxX.ttf"
     },
     "category": "handwriting",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritehrguides/v1/6NUK8EedKwOcfRjj8ukv_L4kjqAoGrjdamE-9g.ttf"
+    "menu": "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlKVOSHl1iH-fv2BH4kIkUBqtlNCEaQLly6xl4L.ttf"
   },
   {
     "family": "Playwrite DK Loopet Guides",
@@ -31882,17 +31869,17 @@
     "menu": "https://fonts.gstatic.com/s/playwritedkloopetguides/v1/4iC46LlmYsRPlQ1zDEvT8weoW-sI8-h9xxN83W-Cb6tnGFw.ttf"
   },
   {
-    "family": "Playwrite BE VLG Guides",
+    "family": "Playwrite HR Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
-    "version": "v2",
+    "version": "v1",
     "lastModified": "2025-05-30",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1u9GK3nNgEoc.ttf"
+      "regular": "https://fonts.gstatic.com/s/playwritehrguides/v1/6NUK8EedKwOcfRjj8ukv_L4kjqAoGrjdWmA08mCgdfM.ttf"
     },
     "category": "handwriting",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1t9HIX0.ttf"
+    "menu": "https://fonts.gstatic.com/s/playwritehrguides/v1/6NUK8EedKwOcfRjj8ukv_L4kjqAoGrjdamE-9g.ttf"
   },
   {
     "family": "Playwrite DK Uloopet Guides",
@@ -31906,6 +31893,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritedkuloopetguides/v1/WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHkFb4Vf.ttf"
+  },
+  {
+    "family": "Playwrite BE VLG Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1u9GK3nNgEoc.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1t9HIX0.ttf"
   },
   {
     "family": "Playwrite NO Guides",
