@@ -30082,22 +30082,6 @@
     "menu": "https://fonts.gstatic.com/s/tapestry/v5/SlGTmQecrosEYXhaGCIloHE.woff2"
   },
   {
-    "family": "Parastoo",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v1",
-    "lastModified": "2025-06-25",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/parastoo/v1/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlfak1EfNkx5rq1w.woff2",
-      "600": "https://fonts.gstatic.com/s/parastoo/v1/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlka41EfNkx5rq1w.woff2",
-      "700": "https://fonts.gstatic.com/s/parastoo/v1/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlqK41EfNkx5rq1w.woff2",
-      "regular": "https://fonts.gstatic.com/s/parastoo/v1/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlT6k1EfNkx5rq1w.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/parastoo/v1/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlT6kFFfll.woff2"
-  },
-  {
     "family": "Ruwudu",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["arabic", "latin", "latin-ext"],
@@ -30112,6 +30096,22 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/ruwudu/v4/syky-y1tj6UzRKf9lAqS.woff2"
+  },
+  {
+    "family": "Parastoo",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v1",
+    "lastModified": "2025-06-25",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/parastoo/v1/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlfak1EfNkx5rq1w.woff2",
+      "600": "https://fonts.gstatic.com/s/parastoo/v1/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlka41EfNkx5rq1w.woff2",
+      "700": "https://fonts.gstatic.com/s/parastoo/v1/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlqK41EfNkx5rq1w.woff2",
+      "regular": "https://fonts.gstatic.com/s/parastoo/v1/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlT6k1EfNkx5rq1w.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/parastoo/v1/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlT6kFFfll.woff2"
   },
   {
     "family": "Shizuru",
@@ -32878,6 +32878,19 @@
     "menu": "https://fonts.gstatic.com/s/kanchenjunga/v2/RWmPoKKd5fUmrILiWsjCI6TSqIEH.woff2"
   },
   {
+    "family": "Jersey 20 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jersey20charted/v3/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn_Zwji-rqnQ_.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jersey20charted/v3/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn8Z0hC4.woff2"
+  },
+  {
     "family": "Noto Sans Cham",
     "variants": [
       "100",
@@ -32907,19 +32920,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanscham/v32/pe06MIySN5pO62Z5YkFyQb_bbuRhe6D4yip43qfcERwsvruz.woff2"
-  },
-  {
-    "family": "Jersey 20 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jersey20charted/v3/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn_Zwji-rqnQ_.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jersey20charted/v3/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn8Z0hC4.woff2"
   },
   {
     "family": "Noto Sans Old South Arabian",
@@ -33845,19 +33845,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssoyombo/v17/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlI.woff2"
   },
   {
-    "family": "Noto Sans Manichaean",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "manichaean"],
-    "version": "v18",
-    "lastModified": "2023-10-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfekqHNTtFCtdX.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPzo.woff2"
-  },
-  {
     "family": "Jacquarda Bastarda 9 Charted",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
@@ -33869,6 +33856,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v3/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0YFaQ.woff2"
+  },
+  {
+    "family": "Noto Sans Manichaean",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "manichaean"],
+    "version": "v18",
+    "lastModified": "2023-10-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfekqHNTtFCtdX.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmanichaean/v18/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPzo.woff2"
   },
   {
     "family": "Playwrite FR Trad",
@@ -34588,19 +34588,6 @@
     "menu": "https://fonts.gstatic.com/s/yarndings12charted/v3/eLGDP_DlKhO-DUfeqM4I_vDdJgmIh7hAvsbI2N4.woff2"
   },
   {
-    "family": "Playwrite NO Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2qZ2vnLeAs.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T2w.woff2"
-  },
-  {
     "family": "Playwrite AR Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -34612,6 +34599,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritearguides/v5/iJWYBWqKZTrYS9uv-Ry6kDf-q_0Xq67mQGQQWg.woff2"
+  },
+  {
+    "family": "Playwrite NO Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2qZ2vnLeAs.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T2w.woff2"
   },
   {
     "family": "Playwrite AU SA Guides",
