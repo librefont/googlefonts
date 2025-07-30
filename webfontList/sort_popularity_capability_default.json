@@ -29333,19 +29333,6 @@
     "menu": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-dOTgz4.ttf"
   },
   {
-    "family": "Black And White Picture",
-    "variants": ["regular"],
-    "subsets": ["korean", "latin"],
-    "version": "v29",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/blackandwhitepicture/v29/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqI5HbcMi-yWY.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/blackandwhitepicture/v29/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5GZ8c.ttf"
-  },
-  {
     "family": "Kapakana",
     "variants": ["300", "regular"],
     "subsets": ["japanese", "latin", "latin-ext"],
@@ -29358,6 +29345,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtAJtBzT.ttf"
+  },
+  {
+    "family": "Black And White Picture",
+    "variants": ["regular"],
+    "subsets": ["korean", "latin"],
+    "version": "v29",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/blackandwhitepicture/v29/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqI5HbcMi-yWY.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/blackandwhitepicture/v29/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5GZ8c.ttf"
   },
   {
     "family": "Playwrite GB S",
@@ -33556,19 +33556,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanspsalterpahlavi/v17/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w5GzAtQ.ttf"
   },
   {
-    "family": "Noto Sans Lepcha",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "lepcha"],
-    "version": "v19",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS32AJstqBXgd4.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS36ANmsg.ttf"
-  },
-  {
     "family": "Noto Sans Pahawh Hmong",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "pahawh-hmong"],
@@ -33580,6 +33567,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanspahawhhmong/v18/bWtp7e_KfBziStx7lIzKKaMUOBEA3UPQDW7knzY1dw.ttf"
+  },
+  {
+    "family": "Noto Sans Lepcha",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "lepcha"],
+    "version": "v19",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS32AJstqBXgd4.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS36ANmsg.ttf"
   },
   {
     "family": "Noto Sans Phoenician",
