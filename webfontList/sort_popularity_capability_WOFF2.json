@@ -21266,19 +21266,6 @@
     "menu": "https://fonts.gstatic.com/s/sofadione/v21/JIA2UVBxdnVBuElZaMFGQDKCEA.woff2"
   },
   {
-    "family": "Orienta",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v15",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/orienta/v15/PlI9FlK4Jrl5Y9zNeyKo9HRFhcU.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/orienta/v15/PlI9FlK4Jrl5Y9zNSyai9Q.woff2"
-  },
-  {
     "family": "Ledger",
     "variants": ["regular"],
     "subsets": ["cyrillic", "latin", "latin-ext"],
@@ -21290,6 +21277,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/ledger/v16/j8_q6-HK1L3if_sBmsrx.woff2"
+  },
+  {
+    "family": "Orienta",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v15",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/orienta/v15/PlI9FlK4Jrl5Y9zNeyKo9HRFhcU.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/orienta/v15/PlI9FlK4Jrl5Y9zNSyai9Q.woff2"
   },
   {
     "family": "East Sea Dokdo",
@@ -24028,6 +24028,19 @@
     "menu": "https://fonts.gstatic.com/s/habibi/v21/CSR-4zFWkuqcTTNySxhf.woff2"
   },
   {
+    "family": "Rubik Glitch",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikglitch/v2/qkBSXv8b_srFRYQVYrDKh9ZvnS7HONiSFQ.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikglitch/v2/qkBSXv8b_srFRYQVYrDKh9ZfmSTG.woff2"
+  },
+  {
     "family": "Playwrite AU QLD",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -24042,19 +24055,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteauqld/v10/SlGGmR-Yo5oYZX5BFVcEwSFSOXBRWADAWbgjmLBhA6-yML2eoGw.woff2"
-  },
-  {
-    "family": "Rubik Glitch",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikglitch/v2/qkBSXv8b_srFRYQVYrDKh9ZvnS7HONiSFQ.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikglitch/v2/qkBSXv8b_srFRYQVYrDKh9ZfmSTG.woff2"
   },
   {
     "family": "Farsan",
@@ -32415,22 +32415,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstaile/v17/vEFK2-VODB8RrNDvZSUmVxEATwR5wtO_Wg.woff2"
   },
   {
-    "family": "Playwrite AU VIC",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v10",
-    "lastModified": "2025-05-30",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwriteauvic/v10/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTaLKxCBIDKNvl.woff2",
-      "200": "https://fonts.gstatic.com/s/playwriteauvic/v10/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4dTabKxCBIDKNvl.woff2",
-      "300": "https://fonts.gstatic.com/s/playwriteauvic/v10/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4eNabKxCBIDKNvl.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwriteauvic/v10/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTabKxCBIDKNvl.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteauvic/v10/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTaYK1AhM.woff2"
-  },
-  {
     "family": "Playwrite CL",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -32445,6 +32429,22 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritecl/v5/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JajLu9Dg.woff2"
+  },
+  {
+    "family": "Playwrite AU VIC",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v10",
+    "lastModified": "2025-05-30",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwriteauvic/v10/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTaLKxCBIDKNvl.woff2",
+      "200": "https://fonts.gstatic.com/s/playwriteauvic/v10/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4dTabKxCBIDKNvl.woff2",
+      "300": "https://fonts.gstatic.com/s/playwriteauvic/v10/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4eNabKxCBIDKNvl.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwriteauvic/v10/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTabKxCBIDKNvl.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteauvic/v10/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTaYK1AhM.woff2"
   },
   {
     "family": "Noto Sans Mro",
@@ -33622,19 +33622,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanslinearb/v17/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RME.woff2"
   },
   {
-    "family": "Noto Serif Todhri",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "todhri"],
-    "version": "v3",
-    "lastModified": "2025-01-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N3B3X6n0fnNk.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N0BzVag.woff2"
-  },
-  {
     "family": "Noto Sans Hatran",
     "variants": ["regular"],
     "subsets": ["hatran", "latin", "latin-ext"],
@@ -33646,6 +33633,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanshatran/v16/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49rg.woff2"
+  },
+  {
+    "family": "Noto Serif Todhri",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "todhri"],
+    "version": "v3",
+    "lastModified": "2025-01-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N3B3X6n0fnNk.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N0BzVag.woff2"
   },
   {
     "family": "Playwrite DE SAS",
@@ -34393,19 +34393,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LAxkKTM.woff2"
   },
   {
-    "family": "Playwrite ES Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mhDXGfdnzXeU.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mtDHMfA.woff2"
-  },
-  {
     "family": "Playwrite IN Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -34417,6 +34404,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteinguides/v1/GFD2WBRug3mQSvrAT9AL4vx4d3lQNQV4ftxgdQ.woff2"
+  },
+  {
+    "family": "Playwrite ES Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mhDXGfdnzXeU.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mtDHMfA.woff2"
   },
   {
     "family": "Playwrite ES Deco Guides",
