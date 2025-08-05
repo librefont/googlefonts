@@ -30958,6 +30958,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZc.ttf"
   },
   {
+    "family": "Micro 5 Charted",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/micro5charted/v2/hESp6XxmPDtTtADZhn7oD_yrmxEGRUsJQAlbUA.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/micro5charted/v2/hESp6XxmPDtTtADZhn7oD_yrmxE2REEN.ttf"
+  },
+  {
     "family": "Noto Sans Hanifi Rohingya",
     "variants": ["regular"],
     "subsets": ["hanifi-rohingya", "latin", "latin-ext"],
@@ -30976,19 +30989,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Micro 5 Charted",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/micro5charted/v2/hESp6XxmPDtTtADZhn7oD_yrmxEGRUsJQAlbUA.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/micro5charted/v2/hESp6XxmPDtTtADZhn7oD_yrmxE2REEN.ttf"
   },
   {
     "family": "Playwrite PL Guides",
@@ -31904,19 +31904,6 @@
     "menu": "https://fonts.gstatic.com/s/yarndings20/v3/TuGWUVlkUohEQu8l7K8b-vN1BnUw.ttf"
   },
   {
-    "family": "Playwrite DE SAS Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi15BEdtBgPI1G.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi16BFfNQ.ttf"
-  },
-  {
     "family": "Playwrite HR Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -31928,6 +31915,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritehrguides/v1/6NUK8EedKwOcfRjj8ukv_L4kjqAoGrjdamE-9g.ttf"
+  },
+  {
+    "family": "Playwrite DE SAS Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi15BEdtBgPI1G.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi16BFfNQ.ttf"
   },
   {
     "family": "Playwrite DE LA Guides",
