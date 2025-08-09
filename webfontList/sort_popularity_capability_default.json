@@ -32168,6 +32168,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansolchiki/v30/N0b92TJNOPt-eHmFZCdQbrL32r-4CvhzDzRwlxOQYuVALWk227MwhQ.ttf"
   },
   {
+    "family": "Blaka Hollow",
+    "variants": ["regular"],
+    "subsets": ["arabic", "latin", "latin-ext"],
+    "version": "v7",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/blakahollow/v7/MCoUzAL91sjRE2FsKsxUtezYB9oFyW_-oA.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/blakahollow/v7/MCoUzAL91sjRE2FsKsxUtezoBtAB.ttf"
+  },
+  {
     "family": "Noto Serif Hentaigana",
     "variants": ["200", "300", "regular", "500", "600", "700", "800", "900"],
     "subsets": ["kana-extended", "latin", "latin-ext"],
@@ -32186,19 +32199,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifhentaigana/v16/uk-OEHi3o6EruUbj3pGaDj3siVARn-kqgu1eOHk7wYK23O0hzowGmxATXA.ttf"
-  },
-  {
-    "family": "Blaka Hollow",
-    "variants": ["regular"],
-    "subsets": ["arabic", "latin", "latin-ext"],
-    "version": "v7",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/blakahollow/v7/MCoUzAL91sjRE2FsKsxUtezYB9oFyW_-oA.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/blakahollow/v7/MCoUzAL91sjRE2FsKsxUtezoBtAB.ttf"
   },
   {
     "family": "Noto Sans Deseret",
@@ -33202,19 +33202,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmarchen/v20/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMEhOmao.ttf"
   },
   {
-    "family": "Noto Sans Rejang",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "rejang"],
-    "version": "v21",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwN4O3WYZB_sU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9XQ.ttf"
-  },
-  {
     "family": "Noto Sans Cypriot",
     "variants": ["regular"],
     "subsets": ["cypriot", "latin", "latin-ext"],
@@ -33226,6 +33213,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanscypriot/v19/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZc.ttf"
+  },
+  {
+    "family": "Noto Sans Rejang",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "rejang"],
+    "version": "v21",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwN4O3WYZB_sU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansrejang/v21/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9XQ.ttf"
   },
   {
     "family": "Playwrite TZ",
@@ -34420,19 +34420,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk6HHiDA.ttf"
   },
   {
-    "family": "Playwrite CL Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hrNpVuw5_BAM.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf"
-  },
-  {
     "family": "Playwrite DE SAS Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -34444,6 +34431,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi16BFfNQ.ttf"
+  },
+  {
+    "family": "Playwrite CL Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hrNpVuw5_BAM.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf"
   },
   {
     "family": "Playwrite HU Guides",
@@ -34537,19 +34537,6 @@
     "menu": "https://fonts.gstatic.com/s/yarndings12charted/v3/eLGDP_DlKhO-DUfeqM4I_vDdJgmIh7hAvsbI2Ns.ttf"
   },
   {
-    "family": "Playwrite HR Lijeva Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritehrlijevaguides/v1/uU9aCAgH7I63K35cu3bRkqamzjr8EW133LJaXDO-QObhgDgMKYJO.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritehrlijevaguides/v1/uU9aCAgH7I63K35cu3bRkqamzjr8EW133LJaXDO-QNbgijw.ttf"
-  },
-  {
     "family": "Playwrite SK Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -34561,6 +34548,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_FzvkXQ.ttf"
+  },
+  {
+    "family": "Playwrite HR Lijeva Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritehrlijevaguides/v1/uU9aCAgH7I63K35cu3bRkqamzjr8EW133LJaXDO-QObhgDgMKYJO.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritehrlijevaguides/v1/uU9aCAgH7I63K35cu3bRkqamzjr8EW133LJaXDO-QNbgijw.ttf"
   },
   {
     "family": "Playwrite HR Guides",
