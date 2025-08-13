@@ -31548,6 +31548,22 @@
     "menu": "https://fonts.gstatic.com/s/exile/v1/pxiKyp0xqNtbjCsZFJA.ttf"
   },
   {
+    "family": "Edu QLD Hand",
+    "variants": ["regular", "500", "600", "700"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v2",
+    "lastModified": "2025-06-02",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/eduqldhand/v2/d6lakaOkTtjy2QhuzWtup1rW3NCQVvjKPjPjnjIUeRt5gGCzkrs.ttf",
+      "600": "https://fonts.gstatic.com/s/eduqldhand/v2/d6lakaOkTtjy2QhuzWtup1rW3NCQVvjKPjPjnt4TeRt5gGCzkrs.ttf",
+      "700": "https://fonts.gstatic.com/s/eduqldhand/v2/d6lakaOkTtjy2QhuzWtup1rW3NCQVvjKPjPjnucTeRt5gGCzkrs.ttf",
+      "regular": "https://fonts.gstatic.com/s/eduqldhand/v2/d6lakaOkTtjy2QhuzWtup1rW3NCQVvjKPjPjngAUeRt5gGCzkrs.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/eduqldhand/v2/d6lakaOkTtjy2QhuzWtup1rW3NCQVvjKPjPjngAUSRpzhA.ttf"
+  },
+  {
     "family": "Savate",
     "variants": [
       "200",
@@ -31591,22 +31607,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/savate/v4/QdVKSTgjKAqpnvJNP5oQaZzblHkwJbdxdbkDcg.ttf"
-  },
-  {
-    "family": "Edu QLD Hand",
-    "variants": ["regular", "500", "600", "700"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v2",
-    "lastModified": "2025-06-02",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/eduqldhand/v2/d6lakaOkTtjy2QhuzWtup1rW3NCQVvjKPjPjnjIUeRt5gGCzkrs.ttf",
-      "600": "https://fonts.gstatic.com/s/eduqldhand/v2/d6lakaOkTtjy2QhuzWtup1rW3NCQVvjKPjPjnt4TeRt5gGCzkrs.ttf",
-      "700": "https://fonts.gstatic.com/s/eduqldhand/v2/d6lakaOkTtjy2QhuzWtup1rW3NCQVvjKPjPjnucTeRt5gGCzkrs.ttf",
-      "regular": "https://fonts.gstatic.com/s/eduqldhand/v2/d6lakaOkTtjy2QhuzWtup1rW3NCQVvjKPjPjngAUeRt5gGCzkrs.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/eduqldhand/v2/d6lakaOkTtjy2QhuzWtup1rW3NCQVvjKPjPjngAUSRpzhA.ttf"
   },
   {
     "family": "Edu AU VIC WA NT Guides",
@@ -34419,19 +34419,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf"
   },
   {
-    "family": "Playwrite AU SA Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAovcgEP-Z3054.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAojckOOw.ttf"
-  },
-  {
     "family": "Playwrite GB J Guides",
     "variants": ["regular", "italic"],
     "subsets": ["latin"],
@@ -34444,6 +34431,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRh4yJOn-mMWCgLPl16K6UKAvM5yY1Bdhm4KhAs.ttf"
+  },
+  {
+    "family": "Playwrite AU SA Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAovcgEP-Z3054.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAojckOOw.ttf"
   },
   {
     "family": "Playwrite NG Modern Guides",
@@ -34681,19 +34681,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mtDHMeQ.ttf"
   },
   {
-    "family": "Playwrite AU QLD Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LDxlIzIU5RwD.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LAxkKTY.ttf"
-  },
-  {
     "family": "Playwrite AU TAS Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -34705,6 +34692,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteautasguides/v1/cY9Vfi6cVk5RvjGtQrLqjozy3ekUDtDMDX-NNgbLJYE.ttf"
+  },
+  {
+    "family": "Playwrite AU QLD Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LDxlIzIU5RwD.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LAxkKTY.ttf"
   },
   {
     "family": "Yarndings 12 Charted",
