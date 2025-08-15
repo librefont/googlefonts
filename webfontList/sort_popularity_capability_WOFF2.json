@@ -31771,20 +31771,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanssyriaceastern/v2/Noac6Vj_wIWFbTTCrYmvy8AjVU8aslWRHHvRYxS-Ro3yS0FDacnHPi-fgzGB5A.woff2"
   },
   {
-    "family": "Coral Pixels",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2025-04-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/coralpixels/v1/qWctB66zpZ3zAtrlR8Mb1LyyfRb_ujA4ug.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/coralpixels/v1/qWctB66zpZ3zAtrlR8Mb1LyCeRz-.woff2",
-    "colorCapabilities": ["COLRv0"]
-  },
-  {
     "family": "Tuffy",
     "variants": ["regular", "italic", "700", "700italic"],
     "subsets": [
@@ -31807,6 +31793,20 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tuffy/v1/1q2IY56bHkJl7oxyHY0.woff2"
+  },
+  {
+    "family": "Coral Pixels",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2025-04-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/coralpixels/v1/qWctB66zpZ3zAtrlR8Mb1LyyfRb_ujA4ug.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/coralpixels/v1/qWctB66zpZ3zAtrlR8Mb1LyCeRz-.woff2",
+    "colorCapabilities": ["COLRv0"]
   },
   {
     "family": "Maname",
@@ -33212,6 +33212,19 @@
     "menu": "https://fonts.gstatic.com/s/notosansvai/v17/NaPecZTSBuhTirw6IaFn_UrUdMXmDQ.woff2"
   },
   {
+    "family": "Noto Sans Buginese",
+    "variants": ["regular"],
+    "subsets": ["buginese", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2023-05-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_gsPuEXLmNtw.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_QtPGF.woff2"
+  },
+  {
     "family": "Playwrite NO",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -33226,19 +33239,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteno/v9/nuFrD_fYSZviRJYb-P2TrQO1DRpazaZDgnw-49wgLKat-w.woff2"
-  },
-  {
-    "family": "Noto Sans Buginese",
-    "variants": ["regular"],
-    "subsets": ["buginese", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2023-05-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_gsPuEXLmNtw.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_QtPGF.woff2"
   },
   {
     "family": "Noto Sans Runic",
