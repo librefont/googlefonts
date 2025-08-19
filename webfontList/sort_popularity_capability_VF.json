@@ -30715,19 +30715,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmro/v18/qWcsB6--pZv9TqnUQMhe9b39aD3bsg.ttf"
   },
   {
-    "family": "Noto Sans Kaithi",
-    "variants": ["regular"],
-    "subsets": ["kaithi", "latin", "latin-ext"],
-    "version": "v22",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanskaithi/v22/buEtppS9f8_vkXadMBJJu0tWjLwjQi0KdoZIKlo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanskaithi/v22/buEtppS9f8_vkXadMBJJu0tWjLwjciwAcg.ttf"
-  },
-  {
     "family": "Playwrite DE SAS",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30746,6 +30733,19 @@
         "end": 400
       }
     ]
+  },
+  {
+    "family": "Noto Sans Kaithi",
+    "variants": ["regular"],
+    "subsets": ["kaithi", "latin", "latin-ext"],
+    "version": "v22",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanskaithi/v22/buEtppS9f8_vkXadMBJJu0tWjLwjQi0KdoZIKlo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanskaithi/v22/buEtppS9f8_vkXadMBJJu0tWjLwjciwAcg.ttf"
   },
   {
     "family": "Noto Sans Osage",
@@ -31931,19 +31931,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteidguides/v1/MjQamj1kuP_soQ3o-rysMdWi_8oJlIUUEnYr2Q.ttf"
   },
   {
-    "family": "Playwrite IN Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteinguides/v1/GFD2WBRug3mQSvrAT9AL4vx4d3lQNQV4Tt1qdGqgdlM.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteinguides/v1/GFD2WBRug3mQSvrAT9AL4vx4d3lQNQV4ftxgcA.ttf"
-  },
-  {
     "family": "Playwrite DE LA Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -31955,6 +31942,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritedelaguides/v2/1q2XY42fB0V64O4aSe1OjKs_yAXBOfDI5wE52gyG7w.ttf"
+  },
+  {
+    "family": "Playwrite IN Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteinguides/v1/GFD2WBRug3mQSvrAT9AL4vx4d3lQNQV4Tt1qdGqgdlM.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteinguides/v1/GFD2WBRug3mQSvrAT9AL4vx4d3lQNQV4ftxgcA.ttf"
   },
   {
     "family": "Playwrite AU SA Guides",
