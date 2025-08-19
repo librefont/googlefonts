@@ -28149,6 +28149,26 @@
     "menu": "https://fonts.gstatic.com/s/wdxllubrifontsc/v1/gNMeW2VmY6acu0XtugFrduDciOOyfky4kjs.ttf"
   },
   {
+    "family": "Playwrite BE VLG",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v5",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFDxWBdug3mQSvrAT9AL6fd4ZkB-cWAhatVBaGM.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blL8vMCNOCg.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 400
+      }
+    ]
+  },
+  {
     "family": "Bitcount Prop Single",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -28185,26 +28205,6 @@
         "tag": "wght",
         "start": 100,
         "end": 900
-      }
-    ]
-  },
-  {
-    "family": "Playwrite BE VLG",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v5",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFDxWBdug3mQSvrAT9AL6fd4ZkB-cWAhatVBaGM.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blL8vMCNOCg.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 400
       }
     ]
   },
