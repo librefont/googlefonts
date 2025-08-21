@@ -32097,19 +32097,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmedefaidrin/v28/WwkzxOq6Dk-wranENynkfeVsNbRZtbOIdLb1exeM4ZeuabBfmErWpTz_8A.woff2"
   },
   {
-    "family": "Noto Sans Mandaic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mandaic"],
-    "version": "v17",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI5_F_gMk0izH.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9AI.woff2"
-  },
-  {
     "family": "Noto Sans Egyptian Hieroglyphs",
     "variants": ["regular"],
     "subsets": ["egyptian-hieroglyphs", "latin", "latin-ext"],
@@ -32121,6 +32108,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYintSFi9.woff2"
+  },
+  {
+    "family": "Noto Sans Mandaic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mandaic"],
+    "version": "v17",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI5_F_gMk0izH.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9AI.woff2"
   },
   {
     "family": "Noto Serif Grantha",
@@ -32689,6 +32689,23 @@
     "menu": "https://fonts.gstatic.com/s/playwriteauvic/v10/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTaYK1AhM.woff2"
   },
   {
+    "family": "Narnoor",
+    "variants": ["regular", "500", "600", "700", "800"],
+    "subsets": ["gunjala-gondi", "latin", "latin-ext", "math", "symbols"],
+    "version": "v10",
+    "lastModified": "2025-06-25",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_N2CRGQsnIJkWL4.woff2",
+      "600": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_PGFRGQsnIJkWL4.woff2",
+      "700": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_JWERGQsnIJkWL4.woff2",
+      "800": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_ImHRGQsnIJkWL4.woff2",
+      "regular": "https://fonts.gstatic.com/s/narnoor/v10/cIf9MaFWuVo-UTyPxCyrYGkHgIs.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/narnoor/v10/cIf9MaFWuVo-UTyP9CihYQ.woff2"
+  },
+  {
     "family": "Rubik Lines",
     "variants": ["regular"],
     "subsets": [
@@ -32708,23 +32725,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubiklines/v1/_gP81R3vsjYzVW2Y6xFF-FSwavs.woff2"
-  },
-  {
-    "family": "Narnoor",
-    "variants": ["regular", "500", "600", "700", "800"],
-    "subsets": ["gunjala-gondi", "latin", "latin-ext", "math", "symbols"],
-    "version": "v10",
-    "lastModified": "2025-06-25",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_N2CRGQsnIJkWL4.woff2",
-      "600": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_PGFRGQsnIJkWL4.woff2",
-      "700": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_JWERGQsnIJkWL4.woff2",
-      "800": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_ImHRGQsnIJkWL4.woff2",
-      "regular": "https://fonts.gstatic.com/s/narnoor/v10/cIf9MaFWuVo-UTyPxCyrYGkHgIs.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/narnoor/v10/cIf9MaFWuVo-UTyP9CihYQ.woff2"
   },
   {
     "family": "Jacquard 12 Charted",
@@ -34394,19 +34394,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritedegrundguides/v1/OD5RuNCQ02KrAHnha1L36CWcQ83dtK5BLxqexndub94ZJw.woff2"
   },
   {
-    "family": "Playwrite NZ Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71Whoxq25PL5k.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71ah47qg.woff2"
-  },
-  {
     "family": "Playwrite BR Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -34418,6 +34405,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritebrguides/v1/tssxAohQaiQS-wrnJz-F5CqW4dOezRwpy9YIOg.woff2"
+  },
+  {
+    "family": "Playwrite NZ Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71Whoxq25PL5k.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71ah47qg.woff2"
   },
   {
     "family": "Playwrite ZA Guides",
