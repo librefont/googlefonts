@@ -19401,19 +19401,6 @@
     "menu": "https://fonts.gstatic.com/s/deliusswashcaps/v24/oY1E8fPLr7v4JWCExZpWebxVKORpXUecIGM.ttf"
   },
   {
-    "family": "Passions Conflict",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v8",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/passionsconflict/v8/kmKnZrcrFhfafnWX9x0GuEC-zowow5NeYRI4CN2V.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/passionsconflict/v8/kmKnZrcrFhfafnWX9x0GuEC-zowow6NfaxY.ttf"
-  },
-  {
     "family": "Stick",
     "variants": ["regular"],
     "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
@@ -19425,6 +19412,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/stick/v19/Qw3TZQpMCyTtJRvetvE.ttf"
+  },
+  {
+    "family": "Passions Conflict",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v8",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/passionsconflict/v8/kmKnZrcrFhfafnWX9x0GuEC-zowow5NeYRI4CN2V.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/passionsconflict/v8/kmKnZrcrFhfafnWX9x0GuEC-zowow6NfaxY.ttf"
   },
   {
     "family": "Mynerve",
@@ -29409,19 +29409,6 @@
     ]
   },
   {
-    "family": "Noto Sans Mandaic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "mandaic"],
-    "version": "v17",
-    "lastModified": "2024-07-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI5_A_gMk0izH.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
-  },
-  {
     "family": "Noto Sans Egyptian Hieroglyphs",
     "variants": ["regular"],
     "subsets": ["egyptian-hieroglyphs", "latin", "latin-ext"],
@@ -29433,6 +29420,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v29/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYintSFi4.ttf"
+  },
+  {
+    "family": "Noto Sans Mandaic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "mandaic"],
+    "version": "v17",
+    "lastModified": "2024-07-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI5_A_gMk0izH.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansmandaic/v17/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf"
   },
   {
     "family": "Noto Serif Grantha",
@@ -30049,6 +30049,23 @@
     ]
   },
   {
+    "family": "Narnoor",
+    "variants": ["regular", "500", "600", "700", "800"],
+    "subsets": ["gunjala-gondi", "latin", "latin-ext", "math", "symbols"],
+    "version": "v10",
+    "lastModified": "2025-06-25",
+    "files": {
+      "500": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_N2CRGEsnIJkWL4.ttf",
+      "600": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_PGFRGEsnIJkWL4.ttf",
+      "700": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_JWERGEsnIJkWL4.ttf",
+      "800": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_ImHRGEsnIJkWL4.ttf",
+      "regular": "https://fonts.gstatic.com/s/narnoor/v10/cIf9MaFWuVo-UTyPxCmrYGkHgIs.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/narnoor/v10/cIf9MaFWuVo-UTyP9CihZA.ttf"
+  },
+  {
     "family": "Rubik Lines",
     "variants": ["regular"],
     "subsets": [
@@ -30068,23 +30085,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/rubiklines/v1/_gP81R3vsjYzVW2Y6xFF-FSwav4.ttf"
-  },
-  {
-    "family": "Narnoor",
-    "variants": ["regular", "500", "600", "700", "800"],
-    "subsets": ["gunjala-gondi", "latin", "latin-ext", "math", "symbols"],
-    "version": "v10",
-    "lastModified": "2025-06-25",
-    "files": {
-      "500": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_N2CRGEsnIJkWL4.ttf",
-      "600": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_PGFRGEsnIJkWL4.ttf",
-      "700": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_JWERGEsnIJkWL4.ttf",
-      "800": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_ImHRGEsnIJkWL4.ttf",
-      "regular": "https://fonts.gstatic.com/s/narnoor/v10/cIf9MaFWuVo-UTyPxCmrYGkHgIs.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/narnoor/v10/cIf9MaFWuVo-UTyP9CihZA.ttf"
   },
   {
     "family": "Jacquard 12 Charted",
