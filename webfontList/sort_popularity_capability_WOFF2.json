@@ -31735,19 +31735,6 @@
     "colorCapabilities": ["COLRv0"]
   },
   {
-    "family": "UoqMunThenKhung",
-    "variants": ["regular"],
-    "subsets": ["chinese-traditional", "cyrillic", "latin", "symbols2"],
-    "version": "v1",
-    "lastModified": "2025-06-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/uoqmunthenkhung/v1/Y4GTYa1nVTQLt-D5LoLChg5aJjIjxbL9Th8YYA.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/uoqmunthenkhung/v1/Y4GTYa1nVTQLt-D5LoLChg5aJjITwbj8.woff2"
-  },
-  {
     "family": "Noto Sans Adlam Unjoined",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["adlam", "latin", "latin-ext"],
@@ -31762,6 +31749,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansadlamunjoined/v27/P5sszY2MYsLRsB5_ildkzPPDsLQXcOEmaFOqOGcaYrzFTIjsPam_Ye35DMAU-Q.woff2"
+  },
+  {
+    "family": "UoqMunThenKhung",
+    "variants": ["regular"],
+    "subsets": ["chinese-traditional", "cyrillic", "latin", "symbols2"],
+    "version": "v1",
+    "lastModified": "2025-06-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/uoqmunthenkhung/v1/Y4GTYa1nVTQLt-D5LoLChg5aJjIjxbL9Th8YYA.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/uoqmunthenkhung/v1/Y4GTYa1nVTQLt-D5LoLChg5aJjITwbj8.woff2"
   },
   {
     "family": "Playwrite DE LA",
