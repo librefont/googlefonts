@@ -31666,27 +31666,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritefrmoderne/v10/3y9L6awucz3w5m4FFTzKolJRXhUk_u1yWtWmFCJcqUBvK5aJuAKfA1T5.woff2"
   },
   {
-    "family": "Rubik Maps",
-    "variants": ["regular"],
-    "subsets": [
-      "cyrillic",
-      "cyrillic-ext",
-      "hebrew",
-      "latin",
-      "latin-ext",
-      "math",
-      "symbols"
-    ],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikmaps/v1/Gw6_wcjl80TZK9XxtbbejSMUChRqp9k.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikmaps/v1/Gw6_wcjl80TZK9XxtbbevSceCw.woff2"
-  },
-  {
     "family": "Chiron Sung HK",
     "variants": [
       "200",
@@ -31739,6 +31718,27 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/chironsunghk/v1/nuFtD_XLTZPpXIpS3-3dhGzHTSilFc8oGNI59hRj9OSd_0DV.woff2"
+  },
+  {
+    "family": "Rubik Maps",
+    "variants": ["regular"],
+    "subsets": [
+      "cyrillic",
+      "cyrillic-ext",
+      "hebrew",
+      "latin",
+      "latin-ext",
+      "math",
+      "symbols"
+    ],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikmaps/v1/Gw6_wcjl80TZK9XxtbbejSMUChRqp9k.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikmaps/v1/Gw6_wcjl80TZK9XxtbbevSceCw.woff2"
   },
   {
     "family": "Wavefont",
@@ -32719,19 +32719,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansmultani/v20/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_E.woff2"
   },
   {
-    "family": "Padyakke Expanded One",
-    "variants": ["regular"],
-    "subsets": ["kannada", "latin", "latin-ext"],
-    "version": "v7",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYPaRkpDjeoQ.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoOa5l.woff2"
-  },
-  {
     "family": "Playwrite ES Deco",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -32746,6 +32733,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteesdeco/v10/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrdBOAVo.woff2"
+  },
+  {
+    "family": "Padyakke Expanded One",
+    "variants": ["regular"],
+    "subsets": ["kannada", "latin", "latin-ext"],
+    "version": "v7",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYPaRkpDjeoQ.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/padyakkeexpandedone/v7/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoOa5l.woff2"
   },
   {
     "family": "Noto Sans Miao",
