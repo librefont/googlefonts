@@ -15247,6 +15247,23 @@
     "colorCapabilities": ["COLRv1"]
   },
   {
+    "family": "Halant",
+    "variants": ["300", "regular", "500", "600", "700"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2025-05-30",
+    "files": {
+      "300": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2Pbsvc_pCmwZqcwdRXg.ttf",
+      "500": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvK_tCmwZqcwdRXg.ttf",
+      "600": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvB_xCmwZqcwdRXg.ttf",
+      "700": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvY_1CmwZqcwdRXg.ttf",
+      "regular": "https://fonts.gstatic.com/s/halant/v16/u-4-0qaujRI2PbsX39Jmky12eg.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/halant/v16/u-4-0qaujRI2Pbsn3thi.ttf"
+  },
+  {
     "family": "Spectral SC",
     "variants": [
       "200",
@@ -15286,23 +15303,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/spectralsc/v14/KtkpALCRZonmalTgyPmRfsWj42Q.ttf"
-  },
-  {
-    "family": "Halant",
-    "variants": ["300", "regular", "500", "600", "700"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2025-05-30",
-    "files": {
-      "300": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2Pbsvc_pCmwZqcwdRXg.ttf",
-      "500": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvK_tCmwZqcwdRXg.ttf",
-      "600": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvB_xCmwZqcwdRXg.ttf",
-      "700": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvY_1CmwZqcwdRXg.ttf",
-      "regular": "https://fonts.gstatic.com/s/halant/v16/u-4-0qaujRI2PbsX39Jmky12eg.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/halant/v16/u-4-0qaujRI2Pbsn3thi.ttf"
   },
   {
     "family": "Croissant One",
@@ -28629,19 +28629,6 @@
     "menu": "https://fonts.gstatic.com/s/diphylleia/v2/DtVmJxCtRKMixK4_HXsIil0s7g.ttf"
   },
   {
-    "family": "Rubik Beastly",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v10",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikbeastly/v10/0QImMXRd5oOmSC2ZQ7o9653X07z8_ApHqqk.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikbeastly/v10/0QImMXRd5oOmSC2ZQ7o9653X4732-A.ttf"
-  },
-  {
     "family": "Playwrite IT Moderna",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -28656,6 +28643,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteitmoderna/v10/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5WihMuLzb.ttf"
+  },
+  {
+    "family": "Rubik Beastly",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v10",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikbeastly/v10/0QImMXRd5oOmSC2ZQ7o9653X07z8_ApHqqk.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikbeastly/v10/0QImMXRd5oOmSC2ZQ7o9653X4732-A.ttf"
   },
   {
     "family": "Redacted Script",
@@ -30674,6 +30674,22 @@
     "menu": "https://fonts.gstatic.com/s/notoserifethiopic/v31/V8mjoR7-XjwJ8_Au3Ti5tXj5Rd83frpWLK4d-taxqWw2HMWjDxBAg5S_0QsrggxCzSUTkKm5.ttf"
   },
   {
+    "family": "Playwrite BE VLG",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v5",
+    "lastModified": "2025-05-30",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blL8vfCMMiyBIkNg.ttf",
+      "200": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blJ8vPCMMiyBIkNg.ttf",
+      "300": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blKivPCMMiyBIkNg.ttf",
+      "regular": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blL8vPCMMiyBIkNg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blL8vMCNOCg.ttf"
+  },
+  {
     "family": "Linefont",
     "variants": [
       "100",
@@ -30703,22 +30719,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/linefont/v8/dg4I_pzpoqcLKUIzVfFMh1TF2rkhli25jn7CKTTWSumsFuSnY4UMXu_nnQ.ttf"
-  },
-  {
-    "family": "Playwrite BE VLG",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v5",
-    "lastModified": "2025-05-30",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blL8vfCMMiyBIkNg.ttf",
-      "200": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blJ8vPCMMiyBIkNg.ttf",
-      "300": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blKivPCMMiyBIkNg.ttf",
-      "regular": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blL8vPCMMiyBIkNg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritebevlg/v5/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blL8vMCNOCg.ttf"
   },
   {
     "family": "Parastoo",
