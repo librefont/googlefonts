@@ -13178,23 +13178,6 @@
     "colorCapabilities": ["COLRv1"]
   },
   {
-    "family": "Halant",
-    "variants": ["300", "regular", "500", "600", "700"],
-    "subsets": ["devanagari", "latin", "latin-ext"],
-    "version": "v16",
-    "lastModified": "2025-05-30",
-    "files": {
-      "300": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2Pbsvc_pCmwZqcwdRXg.ttf",
-      "500": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvK_tCmwZqcwdRXg.ttf",
-      "600": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvB_xCmwZqcwdRXg.ttf",
-      "700": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvY_1CmwZqcwdRXg.ttf",
-      "regular": "https://fonts.gstatic.com/s/halant/v16/u-4-0qaujRI2PbsX39Jmky12eg.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/halant/v16/u-4-0qaujRI2Pbsn3thi.ttf"
-  },
-  {
     "family": "Spectral SC",
     "variants": [
       "200",
@@ -13234,6 +13217,23 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/spectralsc/v14/KtkpALCRZonmalTgyPmRfsWj42Q.ttf"
+  },
+  {
+    "family": "Halant",
+    "variants": ["300", "regular", "500", "600", "700"],
+    "subsets": ["devanagari", "latin", "latin-ext"],
+    "version": "v16",
+    "lastModified": "2025-05-30",
+    "files": {
+      "300": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2Pbsvc_pCmwZqcwdRXg.ttf",
+      "500": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvK_tCmwZqcwdRXg.ttf",
+      "600": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvB_xCmwZqcwdRXg.ttf",
+      "700": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvY_1CmwZqcwdRXg.ttf",
+      "regular": "https://fonts.gstatic.com/s/halant/v16/u-4-0qaujRI2PbsX39Jmky12eg.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/halant/v16/u-4-0qaujRI2Pbsn3thi.ttf"
   },
   {
     "family": "Croissant One",
