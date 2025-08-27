@@ -16916,6 +16916,19 @@
     "menu": "https://fonts.gstatic.com/s/miriamlibre/v18/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjH9P3o9rMLg.woff2"
   },
   {
+    "family": "Mr De Haviland",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v14",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOj3H4ULVNTlB.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3D60M.woff2"
+  },
+  {
     "family": "Mukta Mahee",
     "variants": ["200", "300", "regular", "500", "600", "700", "800"],
     "subsets": ["gurmukhi", "latin", "latin-ext"],
@@ -16933,19 +16946,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/muktamahee/v18/XRXQ3IOIi0hcP8iVU67hA9vMUT8.woff2"
-  },
-  {
-    "family": "Mr De Haviland",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v14",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOj3H4ULVNTlB.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3D60M.woff2"
   },
   {
     "family": "AR One Sans",
@@ -29311,6 +29311,20 @@
     "menu": "https://fonts.gstatic.com/s/tirokannada/v6/CSR44ztKmvqaDxEDJFY7CIY6SfN7.woff2"
   },
   {
+    "family": "Kapakana",
+    "variants": ["300", "regular"],
+    "subsets": ["japanese", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2025-06-11",
+    "files": {
+      "300": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDixNA5sBbXZ4IXAA.woff2",
+      "regular": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtA5sBbXZ4IXAA.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtAJtBzW.woff2"
+  },
+  {
     "family": "Mozilla Text",
     "variants": ["200", "300", "regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext"],
@@ -29327,20 +29341,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB4UcDNFbVA.woff2"
-  },
-  {
-    "family": "Kapakana",
-    "variants": ["300", "regular"],
-    "subsets": ["japanese", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2025-06-11",
-    "files": {
-      "300": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDixNA5sBbXZ4IXAA.woff2",
-      "regular": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtA5sBbXZ4IXAA.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtAJtBzW.woff2"
   },
   {
     "family": "Splash",
@@ -30009,20 +30009,6 @@
     "menu": "https://fonts.gstatic.com/s/kolkerbrush/v7/iJWDBXWRZjfKWdvmzwvvog3O7ah7.woff2"
   },
   {
-    "family": "Nabla",
-    "variants": ["regular"],
-    "subsets": ["cyrillic-ext", "latin", "latin-ext", "math", "vietnamese"],
-    "version": "v16",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/nabla/v16/j8_D6-LI0Lvpe7Makz5UhJt9C3uqg_X_75gyGS4jAxsNIjrRNRVUFFR_198.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/nabla/v16/j8_D6-LI0Lvpe7Makz5UhJt9C3uqg_X_75gyGS4jAxsNIjrRBRFeFQ.woff2",
-    "colorCapabilities": ["COLRv1", "SVG"]
-  },
-  {
     "family": "Annapurna SIL",
     "variants": ["regular", "700"],
     "subsets": ["devanagari", "latin", "latin-ext", "math", "symbols"],
@@ -30035,6 +30021,20 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/annapurnasil/v2/yYLv0hDY0f2iu9tPmRWtllidwNJ3dA.woff2"
+  },
+  {
+    "family": "Nabla",
+    "variants": ["regular"],
+    "subsets": ["cyrillic-ext", "latin", "latin-ext", "math", "vietnamese"],
+    "version": "v16",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/nabla/v16/j8_D6-LI0Lvpe7Makz5UhJt9C3uqg_X_75gyGS4jAxsNIjrRNRVUFFR_198.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/nabla/v16/j8_D6-LI0Lvpe7Makz5UhJt9C3uqg_X_75gyGS4jAxsNIjrRBRFeFQ.woff2",
+    "colorCapabilities": ["COLRv1", "SVG"]
   },
   {
     "family": "Noto Sans Elbasan",
@@ -32498,22 +32498,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteautas/v10/GftT7u9QuxsdI_QuuctXue3ElxxmcBb3ih0opvWiLLUEH5K7FF4.woff2"
   },
   {
-    "family": "Playwrite NG Modern",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v10",
-    "lastModified": "2025-05-30",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritengmodern/v10/ijw-s4b2R9Qve5V5lNJb_yRhEfSep5NbFCKmKgoEeCA4V17tPQbn5GswWJNE.woff2",
-      "200": "https://fonts.gstatic.com/s/playwritengmodern/v10/ijw-s4b2R9Qve5V5lNJb_yRhEfSep5NbFCKmKgoEeCA4V15tPAbn5GswWJNE.woff2",
-      "300": "https://fonts.gstatic.com/s/playwritengmodern/v10/ijw-s4b2R9Qve5V5lNJb_yRhEfSep5NbFCKmKgoEeCA4V16zPAbn5GswWJNE.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwritengmodern/v10/ijw-s4b2R9Qve5V5lNJb_yRhEfSep5NbFCKmKgoEeCA4V17tPAbn5GswWJNE.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritengmodern/v10/ijw-s4b2R9Qve5V5lNJb_yRhEfSep5NbFCKmKgoEeCA4V17tPDbj7mo.woff2"
-  },
-  {
     "family": "Noto Sans Tai Tham",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext", "tai-tham"],
@@ -32528,6 +32512,22 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstaitham/v24/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBCUbDgukyA.woff2"
+  },
+  {
+    "family": "Playwrite NG Modern",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v10",
+    "lastModified": "2025-05-30",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritengmodern/v10/ijw-s4b2R9Qve5V5lNJb_yRhEfSep5NbFCKmKgoEeCA4V17tPQbn5GswWJNE.woff2",
+      "200": "https://fonts.gstatic.com/s/playwritengmodern/v10/ijw-s4b2R9Qve5V5lNJb_yRhEfSep5NbFCKmKgoEeCA4V15tPAbn5GswWJNE.woff2",
+      "300": "https://fonts.gstatic.com/s/playwritengmodern/v10/ijw-s4b2R9Qve5V5lNJb_yRhEfSep5NbFCKmKgoEeCA4V16zPAbn5GswWJNE.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwritengmodern/v10/ijw-s4b2R9Qve5V5lNJb_yRhEfSep5NbFCKmKgoEeCA4V17tPAbn5GswWJNE.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritengmodern/v10/ijw-s4b2R9Qve5V5lNJb_yRhEfSep5NbFCKmKgoEeCA4V17tPDbj7mo.woff2"
   },
   {
     "family": "Rubik Storm",
