@@ -14789,19 +14789,6 @@
     ]
   },
   {
-    "family": "Mr De Haviland",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v14",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOj3C4ULVNTlB.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3D60Y.ttf"
-  },
-  {
     "family": "Mukta Mahee",
     "variants": ["200", "300", "regular", "500", "600", "700", "800"],
     "subsets": ["gurmukhi", "latin", "latin-ext"],
@@ -14819,6 +14806,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/muktamahee/v18/XRXQ3IOIi0hcP8iVU67hA9vMUTo.ttf"
+  },
+  {
+    "family": "Mr De Haviland",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v14",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOj3C4ULVNTlB.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3D60Y.ttf"
   },
   {
     "family": "AR One Sans",
@@ -26639,26 +26639,6 @@
     "menu": "https://fonts.gstatic.com/s/tirokannada/v6/CSR44ztKmvqaDxEDJFY7CIY6SfN-.ttf"
   },
   {
-    "family": "Kapakana",
-    "variants": ["regular"],
-    "subsets": ["japanese", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2025-06-11",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/kapakana/v18/sykw-yN0m6InS7OD9AqX1NbNp02R.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtAJtBzT.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 300,
-        "end": 400
-      }
-    ]
-  },
-  {
     "family": "Mozilla Text",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -26675,6 +26655,26 @@
         "tag": "wght",
         "start": 200,
         "end": 700
+      }
+    ]
+  },
+  {
+    "family": "Kapakana",
+    "variants": ["regular"],
+    "subsets": ["japanese", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2025-06-11",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/kapakana/v18/sykw-yN0m6InS7OD9AqX1NbNp02R.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtAJtBzT.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 300,
+        "end": 400
       }
     ]
   },

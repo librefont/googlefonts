@@ -16916,6 +16916,19 @@
     "menu": "https://fonts.gstatic.com/s/miriamlibre/v18/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjH9P3o9rMKw.ttf"
   },
   {
+    "family": "Mr De Haviland",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v14",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOj3C4ULVNTlB.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3D60Y.ttf"
+  },
+  {
     "family": "Mukta Mahee",
     "variants": ["200", "300", "regular", "500", "600", "700", "800"],
     "subsets": ["gurmukhi", "latin", "latin-ext"],
@@ -16933,19 +16946,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/muktamahee/v18/XRXQ3IOIi0hcP8iVU67hA9vMUTo.ttf"
-  },
-  {
-    "family": "Mr De Haviland",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v14",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOj3C4ULVNTlB.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3D60Y.ttf"
   },
   {
     "family": "AR One Sans",
@@ -29311,20 +29311,6 @@
     "menu": "https://fonts.gstatic.com/s/tirokannada/v6/CSR44ztKmvqaDxEDJFY7CIY6SfN-.ttf"
   },
   {
-    "family": "Kapakana",
-    "variants": ["300", "regular"],
-    "subsets": ["japanese", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2025-06-11",
-    "files": {
-      "300": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDixNA5tRbXZ4IXAA.ttf",
-      "regular": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtA5tRbXZ4IXAA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtAJtBzT.ttf"
-  },
-  {
     "family": "Mozilla Text",
     "variants": ["200", "300", "regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext"],
@@ -29341,6 +29327,20 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB4UcDNFbUQ.ttf"
+  },
+  {
+    "family": "Kapakana",
+    "variants": ["300", "regular"],
+    "subsets": ["japanese", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2025-06-11",
+    "files": {
+      "300": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDixNA5tRbXZ4IXAA.ttf",
+      "regular": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtA5tRbXZ4IXAA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/kapakana/v18/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtAJtBzT.ttf"
   },
   {
     "family": "Splash",
