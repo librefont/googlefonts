@@ -25356,6 +25356,20 @@
     "menu": "https://fonts.gstatic.com/s/inika/v21/rnCm-x5X3QP-piTGT8M.ttf"
   },
   {
+    "family": "Linden Hill",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v26",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/lindenhill/v26/-F61fjxoKSg9Yc3hZgO8ygFI7CwC009k.ttf",
+      "italic": "https://fonts.gstatic.com/s/lindenhill/v26/-F63fjxoKSg9Yc3hZgO8yjFK5igg1l9kn-s.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/lindenhill/v26/-F61fjxoKSg9Yc3hZgO8yjFJ5ig.ttf"
+  },
+  {
     "family": "Noto Sans Gurmukhi",
     "variants": [
       "100",
@@ -25385,20 +25399,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansgurmukhi/v28/w8g9H3EvQP81sInb43inmyN9zZ7hb7ATbSWo4q8dJ74a3cVrYFQ_bogT0-gPeG1Oekbwbf8.ttf"
-  },
-  {
-    "family": "Linden Hill",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v26",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/lindenhill/v26/-F61fjxoKSg9Yc3hZgO8ygFI7CwC009k.ttf",
-      "italic": "https://fonts.gstatic.com/s/lindenhill/v26/-F63fjxoKSg9Yc3hZgO8yjFK5igg1l9kn-s.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/lindenhill/v26/-F61fjxoKSg9Yc3hZgO8yjFJ5ig.ttf"
   },
   {
     "family": "Simonetta",
@@ -35041,19 +35041,6 @@
     "menu": "https://fonts.gstatic.com/s/yarndings20charted/v3/QldRNSdbpg0G8vh0W2qxe0l-hcUPtY2VaIQn60A.ttf"
   },
   {
-    "family": "Playwrite IN Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteinguides/v1/GFD2WBRug3mQSvrAT9AL4vx4d3lQNQV4Tt1qdGqgdlM.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteinguides/v1/GFD2WBRug3mQSvrAT9AL4vx4d3lQNQV4ftxgcA.ttf"
-  },
-  {
     "family": "Playwrite ZA Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -35065,6 +35052,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk6HHiDA.ttf"
+  },
+  {
+    "family": "Playwrite IN Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteinguides/v1/GFD2WBRug3mQSvrAT9AL4vx4d3lQNQV4Tt1qdGqgdlM.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteinguides/v1/GFD2WBRug3mQSvrAT9AL4vx4d3lQNQV4ftxgcA.ttf"
   },
   {
     "family": "Playwrite AR Guides",
