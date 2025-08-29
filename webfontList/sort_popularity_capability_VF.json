@@ -30152,6 +30152,19 @@
     "menu": "https://fonts.gstatic.com/s/rubiklines/v1/_gP81R3vsjYzVW2Y6xFF-FSwav4.ttf"
   },
   {
+    "family": "Badeen Display",
+    "variants": ["regular"],
+    "subsets": ["arabic", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/badeendisplay/v1/pxidypY2sdZSjFU4cPmNBzckadeLYk1Mq3ap.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/badeendisplay/v1/pxidypY2sdZSjFU4cPmNBzckaeeKaEk.ttf"
+  },
+  {
     "family": "Playwrite NZ",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -30170,19 +30183,6 @@
         "end": 400
       }
     ]
-  },
-  {
-    "family": "Badeen Display",
-    "variants": ["regular"],
-    "subsets": ["arabic", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/badeendisplay/v1/pxidypY2sdZSjFU4cPmNBzckadeLYk1Mq3ap.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/badeendisplay/v1/pxidypY2sdZSjFU4cPmNBzckaeeKaEk.ttf"
   },
   {
     "family": "Jaini Purva",
@@ -31728,19 +31728,6 @@
     "menu": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v3/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0YFbA.ttf"
   },
   {
-    "family": "Noto Sans Ogham",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "ogham"],
-    "version": "v17",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hrt5laQxcoCA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf"
-  },
-  {
     "family": "Ponnala",
     "variants": ["regular"],
     "subsets": ["latin", "telugu"],
@@ -31752,6 +31739,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/ponnala/v2/w8gaH2QxQOU08bbbnQqn3A.ttf"
+  },
+  {
+    "family": "Noto Sans Ogham",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "ogham"],
+    "version": "v17",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hrt5laQxcoCA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansogham/v17/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf"
   },
   {
     "family": "Playwrite AU VIC Guides",
@@ -32375,19 +32375,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAojckOOw.ttf"
   },
   {
-    "family": "Playwrite NO Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2-Z2vnLeAs.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
-  },
-  {
     "family": "Playwrite RO Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32399,6 +32386,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteroguides/v1/wlptgx7ZCE50snmWiOExiylvL10_b5YmzLFnfw.ttf"
+  },
+  {
+    "family": "Playwrite NO Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2-Z2vnLeAs.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
   },
   {
     "family": "Playwrite BE VLG Guides",
