@@ -29275,6 +29275,19 @@
     "menu": "https://fonts.gstatic.com/s/sassyfrass/v8/LhWhMVrGOe0FLb97BjhsE-9cEtE.ttf"
   },
   {
+    "family": "Moulpali",
+    "variants": ["regular"],
+    "subsets": ["khmer", "latin"],
+    "version": "v32",
+    "lastModified": "2025-06-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/moulpali/v32/H4ckBXKMl9HagUWymyY6wr-wg763.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/moulpali/v32/H4ckBXKMl9HagUWymxY7yLs.ttf"
+  },
+  {
     "family": "LXGW WenKai Mono TC",
     "variants": ["300", "regular", "700"],
     "subsets": [
@@ -29298,19 +29311,6 @@
     "category": "monospace",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v9/pxiYyos4iPVgyWx9WtufHnsIf5nkaB0Hum-Ipg.ttf"
-  },
-  {
-    "family": "Moulpali",
-    "variants": ["regular"],
-    "subsets": ["khmer", "latin"],
-    "version": "v32",
-    "lastModified": "2025-06-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/moulpali/v32/H4ckBXKMl9HagUWymyY6wr-wg763.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/moulpali/v32/H4ckBXKMl9HagUWymxY7yLs.ttf"
   },
   {
     "family": "Epunda Sans",
@@ -31978,6 +31978,19 @@
     "colorCapabilities": ["COLRv0"]
   },
   {
+    "family": "Noto Sans Linear A",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "linear-a"],
+    "version": "v18",
+    "lastModified": "2023-07-24",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslineara/v18/oPWS_l16kP4jCuhpgEGmwJOiA18FZj22zmHQAGQicw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslineara/v18/oPWS_l16kP4jCuhpgEGmwJOiA18FZj2Gz2vU.ttf"
+  },
+  {
     "family": "Bitcount Prop Single",
     "variants": [
       "100",
@@ -32007,19 +32020,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/bitcountpropsingle/v1/-W-gXIv9SyXT0xz0E9pIHCxbW8ZMGEVdhz4VoumsGFhzYseFqK9f_KOwYjYsHSocfu1DlxztzQH877SgJ2SUzQ4SJdODLz0JoLU3vXFrqXQooCdbs921GXZlHGQShw.ttf"
-  },
-  {
-    "family": "Noto Sans Linear A",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "linear-a"],
-    "version": "v18",
-    "lastModified": "2023-07-24",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslineara/v18/oPWS_l16kP4jCuhpgEGmwJOiA18FZj22zmHQAGQicw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslineara/v18/oPWS_l16kP4jCuhpgEGmwJOiA18FZj2Gz2vU.ttf"
   },
   {
     "family": "Noto Serif Yezidi",
@@ -34278,19 +34278,6 @@
     "menu": "https://fonts.gstatic.com/s/ponnala/v2/w8gaH2QxQOU08bbbnQqn3A.ttf"
   },
   {
-    "family": "Noto Sans Lepcha",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "lepcha"],
-    "version": "v19",
-    "lastModified": "2023-09-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS32AJstqBXgd4.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS36ANmsg.ttf"
-  },
-  {
     "family": "Noto Sans Tamil Supplement",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tamil-supplement"],
@@ -34302,6 +34289,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v21/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-c.ttf"
+  },
+  {
+    "family": "Noto Sans Lepcha",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "lepcha"],
+    "version": "v19",
+    "lastModified": "2023-09-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS32AJstqBXgd4.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslepcha/v19/0QI7MWlB_JWgA166SKhu05TekNS36ANmsg.ttf"
   },
   {
     "family": "Noto Sans Phoenician",
