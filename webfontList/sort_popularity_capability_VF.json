@@ -28251,20 +28251,6 @@
     ]
   },
   {
-    "family": "Noto Sans Duployan",
-    "variants": ["regular", "700"],
-    "subsets": ["duployan", "latin", "latin-ext"],
-    "version": "v18",
-    "lastModified": "2024-07-01",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/notosansduployan/v18/gokwH7nwAEdtF9N8-mdTDx_X9JM5wsvTqu0D4U0ftZS-Iw.ttf",
-      "regular": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvrFsIn6WYDvA.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gj.ttf"
-  },
-  {
     "family": "Noto Sans Cherokee",
     "variants": ["regular"],
     "subsets": ["cherokee", "latin", "latin-ext"],
@@ -28283,6 +28269,20 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Noto Sans Duployan",
+    "variants": ["regular", "700"],
+    "subsets": ["duployan", "latin", "latin-ext"],
+    "version": "v18",
+    "lastModified": "2024-07-01",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/notosansduployan/v18/gokwH7nwAEdtF9N8-mdTDx_X9JM5wsvTqu0D4U0ftZS-Iw.ttf",
+      "regular": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvrFsIn6WYDvA.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansduployan/v18/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gj.ttf"
   },
   {
     "family": "Playwrite US Modern",
@@ -32192,19 +32192,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi16BFfNQ.ttf"
   },
   {
-    "family": "Playwrite NO Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2-Z2vnLeAs.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
-  },
-  {
     "family": "Playwrite ID Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32216,6 +32203,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteidguides/v1/MjQamj1kuP_soQ3o-rysMdWi_8oJlIUUEnYr2Q.ttf"
+  },
+  {
+    "family": "Playwrite NO Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2-Z2vnLeAs.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
   },
   {
     "family": "Playwrite SK Guides",
@@ -32244,19 +32244,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteczguides/v1/6qLcKY0NtxD-qVlIPUIPeH4lUQa6B3ZZckoUvg.ttf"
   },
   {
-    "family": "Playwrite DK Loopet Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritedkloopetguides/v1/4iC46LlmYsRPlQ1zDEvT8weoW-sI8-h9xxN83W-Cb5tmElj-b0nB.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritedkloopetguides/v1/4iC46LlmYsRPlQ1zDEvT8weoW-sI8-h9xxN83W-Cb6tnGFw.ttf"
-  },
-  {
     "family": "Playwrite GB S Guides",
     "variants": ["regular", "italic"],
     "subsets": ["latin"],
@@ -32269,6 +32256,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlKVOSHl1iH-fv2BH4kIkUBqtlNCEaQLly6xl4L.ttf"
+  },
+  {
+    "family": "Playwrite DK Loopet Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritedkloopetguides/v1/4iC46LlmYsRPlQ1zDEvT8weoW-sI8-h9xxN83W-Cb5tmElj-b0nB.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritedkloopetguides/v1/4iC46LlmYsRPlQ1zDEvT8weoW-sI8-h9xxN83W-Cb6tnGFw.ttf"
   },
   {
     "family": "Playwrite RO Guides",
