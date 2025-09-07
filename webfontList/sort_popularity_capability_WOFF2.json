@@ -24301,19 +24301,6 @@
     "menu": "https://fonts.gstatic.com/s/islandmoments/v7/NaPBcZfVGvBdxIt7Ar0qzkXJF9THKIk.woff2"
   },
   {
-    "family": "Trykker",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v21",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/trykker/v21/KtktALyWZJXudUPzhNzoOd2j22U.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/trykker/v21/KtktALyWZJXudUPztNjiOA.woff2"
-  },
-  {
     "family": "Paprika",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -24325,6 +24312,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/paprika/v23/8QIJdijZitv49rDfiIkEqg.woff2"
+  },
+  {
+    "family": "Trykker",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v21",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/trykker/v21/KtktALyWZJXudUPzhNzoOd2j22U.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/trykker/v21/KtktALyWZJXudUPztNjiOA.woff2"
   },
   {
     "family": "Comme",
@@ -33215,19 +33215,6 @@
     "menu": "https://fonts.gstatic.com/s/rubikbrokenfax/v1/NGSvv4rXG042O-GzH9sg1cUgl8w8UW6cdw.woff2"
   },
   {
-    "family": "Pochaevsk",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "latin"],
-    "version": "v5",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/pochaevsk/v5/55xuey9_OdX_Om7ReYglpZd4-bnQKg.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/pochaevsk/v5/55xuey9_OdX_Om7ReYgVoZ15.woff2"
-  },
-  {
     "family": "Noto Sans Lydian",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "lydian"],
@@ -33239,6 +33226,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPRSULdMw.woff2"
+  },
+  {
+    "family": "Pochaevsk",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "latin"],
+    "version": "v5",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/pochaevsk/v5/55xuey9_OdX_Om7ReYglpZd4-bnQKg.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/pochaevsk/v5/55xuey9_OdX_Om7ReYgVoZ15.woff2"
   },
   {
     "family": "Noto Sans Brahmi",
@@ -34029,19 +34029,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteid/v11/Cn-kJt2YWhlY2oC4KxifKQJmrtrRm-sKkQqUl0-RN_NRFw.woff2"
   },
   {
-    "family": "Playwrite PT Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteptguides/v2/sJoY3K5JjdGLJV3vyatrMkupgg-kWTx5F5w90TZO69o.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteptguides/v2/sJoY3K5JjdGLJV3vyatrMkupgg-kWTx5J5g30A.woff2"
-  },
-  {
     "family": "Noto Sans Cuneiform",
     "variants": ["regular"],
     "subsets": ["cuneiform", "latin", "latin-ext"],
@@ -34053,6 +34040,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanscuneiform/v17/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DlA.woff2"
+  },
+  {
+    "family": "Playwrite PT Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteptguides/v2/sJoY3K5JjdGLJV3vyatrMkupgg-kWTx5F5w90TZO69o.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteptguides/v2/sJoY3K5JjdGLJV3vyatrMkupgg-kWTx5J5g30A.woff2"
   },
   {
     "family": "Playwrite PE Guides",
@@ -35015,19 +35015,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1t9HIXg.woff2"
   },
   {
-    "family": "Playwrite AU SA Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAovc0EP-Z3054.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAojckOPg.woff2"
-  },
-  {
     "family": "Playwrite AU TAS Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -35039,6 +35026,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteautasguides/v1/cY9Vfi6cVk5RvjGtQrLqjozy3ekUDtDMDX-NNgbLJYQ.woff2"
+  },
+  {
+    "family": "Playwrite AU SA Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAovc0EP-Z3054.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAojckOPg.woff2"
   },
   {
     "family": "Playwrite ES Guides",
