@@ -29306,19 +29306,6 @@
     "menu": "https://fonts.gstatic.com/s/ancizarsans/v7/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMyzioNpMk2w.ttf"
   },
   {
-    "family": "Jacquard 24",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v3",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/jacquard24/v3/jVyO7nf_B2zO5jVpUGU8lgQEdchf9xXp.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/jacquard24/v3/jVyO7nf_B2zO5jVpUGU8ljQFf8w.ttf"
-  },
-  {
     "family": "Redacted Script",
     "variants": ["300", "regular", "700"],
     "subsets": ["latin", "latin-ext"],
@@ -29332,6 +29319,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/redactedscript/v10/ypvBbXGRglhokR7dcC3d1-R6zmxisG71.ttf"
+  },
+  {
+    "family": "Jacquard 24",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v3",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/jacquard24/v3/jVyO7nf_B2zO5jVpUGU8lgQEdchf9xXp.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/jacquard24/v3/jVyO7nf_B2zO5jVpUGU8ljQFf8w.ttf"
   },
   {
     "family": "Libertinus Serif",
@@ -32161,6 +32161,19 @@
     "menu": "https://fonts.gstatic.com/s/playwritept/v9/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDiffNnug.ttf"
   },
   {
+    "family": "Exile",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2025-05-13",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/exile/v1/pxiKyp0xqNtbjBsYHpT2dkNE.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/exile/v1/pxiKyp0xqNtbjCsZFJA.ttf"
+  },
+  {
     "family": "Tuffy",
     "variants": ["regular", "italic", "700", "700italic"],
     "subsets": [
@@ -32183,19 +32196,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tuffy/v1/1q2IY56bHkJl7oxyHYg.ttf"
-  },
-  {
-    "family": "Exile",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2025-05-13",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/exile/v1/pxiKyp0xqNtbjBsYHpT2dkNE.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/exile/v1/pxiKyp0xqNtbjCsZFJA.ttf"
   },
   {
     "family": "Bytesized",
@@ -34275,6 +34275,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v23/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBc.ttf"
   },
   {
+    "family": "Noto Sans Bhaiksuki",
+    "variants": ["regular"],
+    "subsets": ["bhaiksuki", "latin", "latin-ext"],
+    "version": "v17",
+    "lastModified": "2023-09-27",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhj8rLUdU4wh9U.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhjwrPecQ.ttf"
+  },
+  {
     "family": "Noto Sans Kayah Li",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["kayah-li", "latin", "latin-ext"],
@@ -34289,19 +34302,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanskayahli/v25/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3OZDyFQ.ttf"
-  },
-  {
-    "family": "Noto Sans Bhaiksuki",
-    "variants": ["regular"],
-    "subsets": ["bhaiksuki", "latin", "latin-ext"],
-    "version": "v17",
-    "lastModified": "2023-09-27",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhj8rLUdU4wh9U.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhjwrPecQ.ttf"
   },
   {
     "family": "Yarndings 12",
@@ -34896,20 +34896,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi16BFfNQ.ttf"
   },
   {
-    "family": "Playwrite AT Guides",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBRbgJdhapcUU.ttf",
-      "italic": "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVISS0gJR2xneUeQPfE-FVA1BlZQRpBdboDcjSsYUVUjg.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBdbkDcg.ttf"
-  },
-  {
     "family": "Playwrite GB S Guides",
     "variants": ["regular", "italic"],
     "subsets": ["latin"],
@@ -34922,6 +34908,20 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlKVOSHl1iH-fv2BH4kIkUBqtlNCEaQLly6xl4L.ttf"
+  },
+  {
+    "family": "Playwrite AT Guides",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBRbgJdhapcUU.ttf",
+      "italic": "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVISS0gJR2xneUeQPfE-FVA1BlZQRpBdboDcjSsYUVUjg.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBdbkDcg.ttf"
   },
   {
     "family": "Playwrite CA Guides",
