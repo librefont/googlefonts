@@ -29483,6 +29483,19 @@
     "menu": "https://fonts.gstatic.com/s/notosanstifinagh/v21/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PA.ttf"
   },
   {
+    "family": "Noto Sans Khojki",
+    "variants": ["regular"],
+    "subsets": ["khojki", "latin", "latin-ext"],
+    "version": "v20",
+    "lastModified": "2025-09-08",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanskhojki/v20/-nFnOHM29Oofr2wohFbTuPPKVWpmK_d709jy92k.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanskhojki/v20/-nFnOHM29Oofr2wohFbTuPPKVWpmG_Zx1w.ttf"
+  },
+  {
     "family": "Edu NSW ACT Hand Pre",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -29501,19 +29514,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Noto Sans Khojki",
-    "variants": ["regular"],
-    "subsets": ["khojki", "latin", "latin-ext"],
-    "version": "v20",
-    "lastModified": "2025-09-08",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanskhojki/v20/-nFnOHM29Oofr2wohFbTuPPKVWpmK_d709jy92k.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanskhojki/v20/-nFnOHM29Oofr2wohFbTuPPKVWpmG_Zx1w.ttf"
   },
   {
     "family": "Noto Sans Sharada",
@@ -32034,19 +32034,6 @@
     "menu": "https://fonts.gstatic.com/s/yarndings12charted/v3/eLGDP_DlKhO-DUfeqM4I_vDdJgmIh7hAvsbI2Ns.ttf"
   },
   {
-    "family": "Playwrite IT Trad Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRUA4V-e6yHgQ.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRkAo96.ttf"
-  },
-  {
     "family": "Playwrite US Modern Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32058,6 +32045,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteusmodernguides/v1/0QI1MWNf_4C2VH-yUr5uyqKOvtOynXAoku8j8Lv9poywbw8.ttf"
+  },
+  {
+    "family": "Playwrite IT Trad Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRUA4V-e6yHgQ.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRkAo96.ttf"
   },
   {
     "family": "Playwrite FR Moderne Guides",
