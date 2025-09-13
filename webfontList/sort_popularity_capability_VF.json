@@ -29789,6 +29789,19 @@
     ]
   },
   {
+    "family": "Noto Serif Ottoman Siyaq",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "ottoman-siyaq-numbers"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoHLJrgA00kAdA.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoH7J7IE.ttf"
+  },
+  {
     "family": "Noto Sans Sundanese",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "sundanese"],
@@ -29807,19 +29820,6 @@
         "end": 700
       }
     ]
-  },
-  {
-    "family": "Noto Serif Ottoman Siyaq",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "ottoman-siyaq-numbers"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoHLJrgA00kAdA.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoH7J7IE.ttf"
   },
   {
     "family": "Playwrite CO Guides",
@@ -32283,19 +32283,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf"
   },
   {
-    "family": "Playwrite RO Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteroguides/v1/wlptgx7ZCE50snmWiOExiylvL10_b5Ym_LBte6KuGEo.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteroguides/v1/wlptgx7ZCE50snmWiOExiylvL10_b5YmzLFnfw.ttf"
-  },
-  {
     "family": "Playwrite NO Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32307,6 +32294,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
+  },
+  {
+    "family": "Playwrite RO Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteroguides/v1/wlptgx7ZCE50snmWiOExiylvL10_b5Ym_LBte6KuGEo.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteroguides/v1/wlptgx7ZCE50snmWiOExiylvL10_b5YmzLFnfw.ttf"
   },
   {
     "family": "Playwrite GB S Guides",
