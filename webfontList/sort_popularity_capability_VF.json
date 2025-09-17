@@ -28686,19 +28686,6 @@
     ]
   },
   {
-    "family": "Noto Sans Shavian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "shavian"],
-    "version": "v18",
-    "lastModified": "2025-09-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansshavian/v18/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4EFQSplv2Cwg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansshavian/v18/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4HFRQJ0.ttf"
-  },
-  {
     "family": "Chokokutai",
     "variants": ["regular"],
     "subsets": ["japanese", "latin", "latin-ext", "vietnamese"],
@@ -28710,6 +28697,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/chokokutai/v12/kmK4Zqw4HwvCeHGM8Fwsxy_4og.ttf"
+  },
+  {
+    "family": "Noto Sans Shavian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "shavian"],
+    "version": "v18",
+    "lastModified": "2025-09-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansshavian/v18/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4EFQSplv2Cwg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansshavian/v18/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4HFRQJ0.ttf"
   },
   {
     "family": "Noto Serif Dogra",
@@ -32453,148 +32453,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_FzvkXQ.ttf"
   },
   {
-    "family": "Bitcount Ink",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2025-09-16",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bitcountink/v2/CHykV-zVFUj9azIqslTrFzEuNlAghmBIYQ.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bitcountink/v2/CHw3XOqbPlXqZygxqACCMDRlDHEsWMeZ-ply2TQhrGdTTV70MvuSq-hd_83nDPWRtOLnAR0RGYwUI6_l53HbUsPlZt2f_nGD_DNHtMCB7B9hQwZ0b5o6F6iN-beb4rZZL0lJiDukrkTdyFcJaMYOfDmhx95p-j2BlGfR752-BOzpyNMOV-otpEi0LP8lkm2L_v1iV4b0vZlRFNojp-LpjyYyLnpa.ttf",
-    "axes": [
-      {
-        "tag": "CRSV",
-        "start": 0,
-        "end": 1
-      },
-      {
-        "tag": "ELSH",
-        "start": 0,
-        "end": 100
-      },
-      {
-        "tag": "ELXP",
-        "start": 0,
-        "end": 100
-      },
-      {
-        "tag": "SZP1",
-        "start": 0,
-        "end": 100
-      },
-      {
-        "tag": "SZP2",
-        "start": 0,
-        "end": 100
-      },
-      {
-        "tag": "XPN1",
-        "start": -100,
-        "end": 100
-      },
-      {
-        "tag": "XPN2",
-        "start": -100,
-        "end": 100
-      },
-      {
-        "tag": "YPN1",
-        "start": -100,
-        "end": 100
-      },
-      {
-        "tag": "YPN2",
-        "start": -100,
-        "end": 100
-      },
-      {
-        "tag": "slnt",
-        "start": -8,
-        "end": 0
-      },
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ],
-    "colorCapabilities": ["COLRv1"]
-  },
-  {
-    "family": "Bitcount Prop Double Ink",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2025-09-16",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4GYYbpwUzElrfvDMsf8vwlfaBFstfqVIz5JD-B-oNRyiOmDZQ.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4EraqgqeCwyoeHYKJOMnRRAOHVHr-2bKnsgKOU1mvV-Vk5S_hxGNApRqvOsLjMS7TL7U6J7vsT0x86f1E_MhJ7Fc8CNp0DtWIOPIdLKGVtyw2WU1OmnzDEO5QVqngZewgsX32-qkruHpLpXeSB4hOOrFaY6I-9oLQWBuD4CtdBkkmqV6mdr8M41Shcr_DYnIqojkFlhekgcGiaIMOm7DY3-ibiJFY5uuJUAz56OCoBX.ttf",
-    "axes": [
-      {
-        "tag": "CRSV",
-        "start": 0,
-        "end": 1
-      },
-      {
-        "tag": "ELSH",
-        "start": 0,
-        "end": 100
-      },
-      {
-        "tag": "ELXP",
-        "start": 0,
-        "end": 100
-      },
-      {
-        "tag": "SZP1",
-        "start": 0,
-        "end": 100
-      },
-      {
-        "tag": "SZP2",
-        "start": 0,
-        "end": 100
-      },
-      {
-        "tag": "XPN1",
-        "start": -100,
-        "end": 100
-      },
-      {
-        "tag": "XPN2",
-        "start": -100,
-        "end": 100
-      },
-      {
-        "tag": "YPN1",
-        "start": -100,
-        "end": 100
-      },
-      {
-        "tag": "YPN2",
-        "start": -100,
-        "end": 100
-      },
-      {
-        "tag": "slnt",
-        "start": -8,
-        "end": 0
-      },
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ],
-    "colorCapabilities": ["COLRv1"]
-  },
-  {
     "family": "Bitcount Prop Single Ink",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -32606,77 +32464,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/bitcountpropsingleink/v4/wXILGHRJhY4pqVPamSvcVZZF7Vdg3La14u9PlzzO1nQEbZPzF-4gWjUKyDXV8KJN2EmG9tnR1UwPVIktRU7KfRvK49YKhcKoqpd0qENrktXGo3hmFUX9oJiQ_cI3D53uhksE9rntl1PkS1IjdhAg77zMwnnLO7zJ5bZKR5MO8LRFFwWr-XrNplyw2CuD3tEnNissrzK7ZCnsz5HReNrx9v6MX009gC5TFm4u37DzRWmN.ttf",
-    "axes": [
-      {
-        "tag": "CRSV",
-        "start": 0,
-        "end": 1
-      },
-      {
-        "tag": "ELSH",
-        "start": 0,
-        "end": 100
-      },
-      {
-        "tag": "ELXP",
-        "start": 0,
-        "end": 100
-      },
-      {
-        "tag": "SZP1",
-        "start": 0,
-        "end": 100
-      },
-      {
-        "tag": "SZP2",
-        "start": 0,
-        "end": 100
-      },
-      {
-        "tag": "XPN1",
-        "start": -100,
-        "end": 100
-      },
-      {
-        "tag": "XPN2",
-        "start": -100,
-        "end": 100
-      },
-      {
-        "tag": "YPN1",
-        "start": -100,
-        "end": 100
-      },
-      {
-        "tag": "YPN2",
-        "start": -100,
-        "end": 100
-      },
-      {
-        "tag": "slnt",
-        "start": -8,
-        "end": 0
-      },
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ],
-    "colorCapabilities": ["COLRv1"]
-  },
-  {
-    "family": "Bitcount Grid Single Ink",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2025-09-16",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/bitcountgridsingleink/v2/NaPLcYHeAOhfxZo1O_IA2ULZRJevZus_A5zQ3wkexdKKt36GpQ.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/bitcountgridsingleink/v2/NaN4epOEK_VIyYAuIaZn7FnUAOSVYeI0Ctm5-AxV__OGadlXPkpqc2W3G80KvDvfZJcTBZtOWSEifRuVdQ9MPZtUsYBBEK6cMpFmAx9Xgbn8m7Ha_CUon9Fm0PP1zM05Dnsuyw04ZGzhvlKxYNMYWI3t91IQXOwJRiUJVTErJ5YUW4O8LJCoXjD9tXQjarshNDUf3e0O5j3ZjrZCu23Qd4G0EACUTNK-QKavMlx2IIUZ.ttf",
     "axes": [
       {
         "tag": "CRSV",
@@ -32808,6 +32595,148 @@
     "colorCapabilities": ["COLRv1"]
   },
   {
+    "family": "Bitcount Prop Double Ink",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2025-09-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4GYYbpwUzElrfvDMsf8vwlfaBFstfqVIz5JD-B-oNRyiOmDZQ.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4EraqgqeCwyoeHYKJOMnRRAOHVHr-2bKnsgKOU1mvV-Vk5S_hxGNApRqvOsLjMS7TL7U6J7vsT0x86f1E_MhJ7Fc8CNp0DtWIOPIdLKGVtyw2WU1OmnzDEO5QVqngZewgsX32-qkruHpLpXeSB4hOOrFaY6I-9oLQWBuD4CtdBkkmqV6mdr8M41Shcr_DYnIqojkFlhekgcGiaIMOm7DY3-ibiJFY5uuJUAz56OCoBX.ttf",
+    "axes": [
+      {
+        "tag": "CRSV",
+        "start": 0,
+        "end": 1
+      },
+      {
+        "tag": "ELSH",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "ELXP",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "SZP1",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "SZP2",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "XPN1",
+        "start": -100,
+        "end": 100
+      },
+      {
+        "tag": "XPN2",
+        "start": -100,
+        "end": 100
+      },
+      {
+        "tag": "YPN1",
+        "start": -100,
+        "end": 100
+      },
+      {
+        "tag": "YPN2",
+        "start": -100,
+        "end": 100
+      },
+      {
+        "tag": "slnt",
+        "start": -8,
+        "end": 0
+      },
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ],
+    "colorCapabilities": ["COLRv1"]
+  },
+  {
+    "family": "Bitcount Ink",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2025-09-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bitcountink/v2/CHykV-zVFUj9azIqslTrFzEuNlAghmBIYQ.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bitcountink/v2/CHw3XOqbPlXqZygxqACCMDRlDHEsWMeZ-ply2TQhrGdTTV70MvuSq-hd_83nDPWRtOLnAR0RGYwUI6_l53HbUsPlZt2f_nGD_DNHtMCB7B9hQwZ0b5o6F6iN-beb4rZZL0lJiDukrkTdyFcJaMYOfDmhx95p-j2BlGfR752-BOzpyNMOV-otpEi0LP8lkm2L_v1iV4b0vZlRFNojp-LpjyYyLnpa.ttf",
+    "axes": [
+      {
+        "tag": "CRSV",
+        "start": 0,
+        "end": 1
+      },
+      {
+        "tag": "ELSH",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "ELXP",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "SZP1",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "SZP2",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "XPN1",
+        "start": -100,
+        "end": 100
+      },
+      {
+        "tag": "XPN2",
+        "start": -100,
+        "end": 100
+      },
+      {
+        "tag": "YPN1",
+        "start": -100,
+        "end": 100
+      },
+      {
+        "tag": "YPN2",
+        "start": -100,
+        "end": 100
+      },
+      {
+        "tag": "slnt",
+        "start": -8,
+        "end": 0
+      },
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ],
+    "colorCapabilities": ["COLRv1"]
+  },
+  {
     "family": "Bitcount Single Ink",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -32819,6 +32748,77 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/bitcountsingleink/v4/Fwb25OZl6FQz81GlJoqgm6XFwi_b1Oat-linM3eIpWvrZ9yhd874qjc72qi5T1IMgiBoydD3bDjJgnXIJ9Cr_oGr36FB5R5iKLRfpSXGN3dP9opQwU38v-r6dJk-vDaziAhRxAxKG59HJAjcNGNBlalyPEmoi939mIWU-GaeCu-JxR9Tn0k2TuKy0CJqQ-Jyh2beggR6Zmt0ewICe5TepUFVly3QN0T9ig3-qQ.ttf",
+    "axes": [
+      {
+        "tag": "CRSV",
+        "start": 0,
+        "end": 1
+      },
+      {
+        "tag": "ELSH",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "ELXP",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "SZP1",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "SZP2",
+        "start": 0,
+        "end": 100
+      },
+      {
+        "tag": "XPN1",
+        "start": -100,
+        "end": 100
+      },
+      {
+        "tag": "XPN2",
+        "start": -100,
+        "end": 100
+      },
+      {
+        "tag": "YPN1",
+        "start": -100,
+        "end": 100
+      },
+      {
+        "tag": "YPN2",
+        "start": -100,
+        "end": 100
+      },
+      {
+        "tag": "slnt",
+        "start": -8,
+        "end": 0
+      },
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ],
+    "colorCapabilities": ["COLRv1"]
+  },
+  {
+    "family": "Bitcount Grid Single Ink",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2025-09-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/bitcountgridsingleink/v2/NaPLcYHeAOhfxZo1O_IA2ULZRJevZus_A5zQ3wkexdKKt36GpQ.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/bitcountgridsingleink/v2/NaN4epOEK_VIyYAuIaZn7FnUAOSVYeI0Ctm5-AxV__OGadlXPkpqc2W3G80KvDvfZJcTBZtOWSEifRuVdQ9MPZtUsYBBEK6cMpFmAx9Xgbn8m7Ha_CUon9Fm0PP1zM05Dnsuyw04ZGzhvlKxYNMYWI3t91IQXOwJRiUJVTErJ5YUW4O8LJCoXjD9tXQjarshNDUf3e0O5j3ZjrZCu23Qd4G0EACUTNK-QKavMlx2IIUZ.ttf",
     "axes": [
       {
         "tag": "CRSV",
@@ -32905,27 +32905,6 @@
     ]
   },
   {
-    "family": "Zalando Sans Expanded",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2025-09-16",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/zalandosansexpanded/v2/JTUJjJci8Cy470GaeFwsix1hi3aTmrgRwU-Dq0Y6QX5Mog.ttf",
-      "italic": "https://fonts.gstatic.com/s/zalandosansexpanded/v2/JTUHjJci8Cy470GaeFwsix1hi3aTmrgRwU-zqUw-Y3tcoqK5.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/zalandosansexpanded/v2/JTU6jJci8Cy470GaeFwsix1hi3aTmrgRwU-ZoGTKmeLvpK-4OHGIp4xrdw.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 200,
-        "end": 900
-      }
-    ]
-  },
-  {
     "family": "Zalando Sans SemiExpanded",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -32938,6 +32917,27 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/zalandosanssemiexpanded/v2/6qLhKYcHuh3msE9OaXROVVclRRa-ClZSEipa2hrEzR2jhk_n3T6ACkDbEkP8HMo.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 200,
+        "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Zalando Sans Expanded",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2025-09-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/zalandosansexpanded/v2/JTUJjJci8Cy470GaeFwsix1hi3aTmrgRwU-Dq0Y6QX5Mog.ttf",
+      "italic": "https://fonts.gstatic.com/s/zalandosansexpanded/v2/JTUHjJci8Cy470GaeFwsix1hi3aTmrgRwU-zqUw-Y3tcoqK5.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/zalandosansexpanded/v2/JTU6jJci8Cy470GaeFwsix1hi3aTmrgRwU-ZoGTKmeLvpK-4OHGIp4xrdw.ttf",
     "axes": [
       {
         "tag": "wght",
