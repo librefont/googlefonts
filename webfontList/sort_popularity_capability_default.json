@@ -26493,19 +26493,6 @@
     "menu": "https://fonts.gstatic.com/s/lancelot/v28/J7acnppxBGtQEulG4KY5zps.ttf"
   },
   {
-    "family": "Buda",
-    "variants": ["300"],
-    "subsets": ["latin"],
-    "version": "v31",
-    "lastModified": "2025-09-08",
-    "files": {
-      "300": "https://fonts.gstatic.com/s/buda/v31/GFDqWAN8mnyIJSSrG7UBr7pZKA0.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/buda/v31/GFDqWAN8mnyIJSSrK7QLqw.ttf"
-  },
-  {
     "family": "Odor Mean Chey",
     "variants": ["regular"],
     "subsets": ["khmer", "latin"],
@@ -26517,6 +26504,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/odormeanchey/v31/raxkHiKDttkTe1aOGcJMR1A_4lrZ0T4.ttf"
+  },
+  {
+    "family": "Buda",
+    "variants": ["300"],
+    "subsets": ["latin"],
+    "version": "v31",
+    "lastModified": "2025-09-08",
+    "files": {
+      "300": "https://fonts.gstatic.com/s/buda/v31/GFDqWAN8mnyIJSSrG7UBr7pZKA0.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/buda/v31/GFDqWAN8mnyIJSSrK7QLqw.ttf"
   },
   {
     "family": "Playwrite CU",
@@ -33950,19 +33950,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAUUfqgA.ttf"
   },
   {
-    "family": "Noto Sans Lydian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "lydian"],
-    "version": "v19",
-    "lastModified": "2025-09-05",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPReUPXMoIjEQI.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPRSULdNg.ttf"
-  },
-  {
     "family": "Noto Sans Mro",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mro"],
@@ -33974,6 +33961,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmro/v19/qWcsB6--pZv9TqnUQMhe9b39aD3bsg.ttf"
+  },
+  {
+    "family": "Noto Sans Lydian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "lydian"],
+    "version": "v19",
+    "lastModified": "2025-09-05",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPReUPXMoIjEQI.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPRSULdNg.ttf"
   },
   {
     "family": "Noto Sans SignWriting",
@@ -34015,6 +34015,19 @@
     "menu": "https://fonts.gstatic.com/s/micro5charted/v2/hESp6XxmPDtTtADZhn7oD_yrmxE2REEN.ttf"
   },
   {
+    "family": "Noto Sans Khudawadi",
+    "variants": ["regular"],
+    "subsets": ["khudawadi", "latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2025-09-11",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanskhudawadi/v23/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHIjRnVVXz9MY.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanskhudawadi/v23/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHEjVtUQ.ttf"
+  },
+  {
     "family": "Playwrite NO",
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
@@ -34029,19 +34042,6 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteno/v10/nuFrD_fYSZviRJYb-P2TrQO1DRpazaZDgnw-49wgLKat_g.ttf"
-  },
-  {
-    "family": "Noto Sans Khudawadi",
-    "variants": ["regular"],
-    "subsets": ["khudawadi", "latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2025-09-11",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanskhudawadi/v23/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHIjRnVVXz9MY.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanskhudawadi/v23/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHEjVtUQ.ttf"
   },
   {
     "family": "Noto Serif Makasar",
@@ -34424,6 +34424,19 @@
     "menu": "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySj28pHw.ttf"
   },
   {
+    "family": "Noto Sans Tirhuta",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "tirhuta"],
+    "version": "v17",
+    "lastModified": "2025-09-05",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanstirhuta/v17/t5t6IQYRNJ6TWjahPR6X-M-apUyby7uGUBsTrn5P.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanstirhuta/v17/t5t6IQYRNJ6TWjahPR6X-M-apUyby4uHWh8.ttf"
+  },
+  {
     "family": "Noto Sans Hanifi Rohingya",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["hanifi-rohingya", "latin", "latin-ext"],
@@ -34438,19 +34451,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4g6ut88.ttf"
-  },
-  {
-    "family": "Noto Sans Tirhuta",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "tirhuta"],
-    "version": "v17",
-    "lastModified": "2025-09-05",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanstirhuta/v17/t5t6IQYRNJ6TWjahPR6X-M-apUyby7uGUBsTrn5P.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanstirhuta/v17/t5t6IQYRNJ6TWjahPR6X-M-apUyby4uHWh8.ttf"
   },
   {
     "family": "Ponnala",
@@ -34871,19 +34871,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritenlguides/v1/FwZH7_8mxlw-50y5PJughoCL4jbXkMqwgWOMOw.ttf"
   },
   {
-    "family": "Playwrite ES Deco Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwqYEyDBQWJ7Q.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwaYUaH.ttf"
-  },
-  {
     "family": "Playwrite IE Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -34895,6 +34882,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteieguides/v1/LhW5MULFNP8PI-1UADw_Kbp9daTx5ovUWNspMw.ttf"
+  },
+  {
+    "family": "Playwrite ES Deco Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwqYEyDBQWJ7Q.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwaYUaH.ttf"
   },
   {
     "family": "Yarndings 12 Charted",
