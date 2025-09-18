@@ -28194,6 +28194,23 @@
     "menu": "https://fonts.gstatic.com/s/purplepurse/v25/qWctB66gv53iAp-Vfs4My6qCeRz-.woff2"
   },
   {
+    "family": "Tsukimi Rounded",
+    "variants": ["300", "regular", "500", "600", "700"],
+    "subsets": ["japanese", "latin", "latin-ext"],
+    "version": "v14",
+    "lastModified": "2025-09-10",
+    "files": {
+      "300": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VkVsqMrMT3T9X8g.woff2",
+      "500": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VyVoqMrMT3T9X8g.woff2",
+      "600": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7V5V0qMrMT3T9X8g.woff2",
+      "700": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VgVwqMrMT3T9X8g.woff2",
+      "regular": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoc3LJNksWZO0LvnZwkF3HtoB7tOHMOP5gP1A.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoc3LJNksWZO0LvnZwkF3HtoB7dPHkP.woff2"
+  },
+  {
     "family": "Noto Serif Sinhala",
     "variants": [
       "100",
@@ -28223,23 +28240,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifsinhala/v30/DtVEJwinQqclnZE2CnsPug9lgGC3y2F2nehQ7Eg4EdBKWxPiDxMivFLgRXs_-pGxR2Mtz6M.woff2"
-  },
-  {
-    "family": "Tsukimi Rounded",
-    "variants": ["300", "regular", "500", "600", "700"],
-    "subsets": ["japanese", "latin", "latin-ext"],
-    "version": "v14",
-    "lastModified": "2025-09-10",
-    "files": {
-      "300": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VkVsqMrMT3T9X8g.woff2",
-      "500": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VyVoqMrMT3T9X8g.woff2",
-      "600": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7V5V0qMrMT3T9X8g.woff2",
-      "700": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VgVwqMrMT3T9X8g.woff2",
-      "regular": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoc3LJNksWZO0LvnZwkF3HtoB7tOHMOP5gP1A.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoc3LJNksWZO0LvnZwkF3HtoB7dPHkP.woff2"
   },
   {
     "family": "Noto Serif Lao",
@@ -29413,19 +29413,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5WihMuLze.woff2"
   },
   {
-    "family": "Rubik Beastly",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v11",
-    "lastModified": "2025-09-05",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikbeastly/v11/0QImMXRd5oOmSC2ZQ7o9653X07n8_ApHqqk.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikbeastly/v11/0QImMXRd5oOmSC2ZQ7o9653X4732_Q.woff2"
-  },
-  {
     "family": "Grandiflora One",
     "variants": ["regular"],
     "subsets": ["korean", "latin", "latin-ext"],
@@ -29437,6 +29424,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/grandifloraone/v3/0ybmGD0g27bCk_5MGWZcKWhxwnUk_Bfz.woff2"
+  },
+  {
+    "family": "Rubik Beastly",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v11",
+    "lastModified": "2025-09-05",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikbeastly/v11/0QImMXRd5oOmSC2ZQ7o9653X07n8_ApHqqk.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikbeastly/v11/0QImMXRd5oOmSC2ZQ7o9653X4732_Q.woff2"
   },
   {
     "family": "Nuosu SIL",
@@ -33950,19 +33950,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAUUfqhQ.woff2"
   },
   {
-    "family": "Noto Sans Lydian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "lydian"],
-    "version": "v19",
-    "lastModified": "2025-09-05",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPReUbXMoIjEQI.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPRSULdMw.woff2"
-  },
-  {
     "family": "Noto Sans Mro",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "mro"],
@@ -33974,6 +33961,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansmro/v19/qWcsB6--pZv9TqnUQMhe9b39aD3btw.woff2"
+  },
+  {
+    "family": "Noto Sans Lydian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "lydian"],
+    "version": "v19",
+    "lastModified": "2025-09-05",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPReUbXMoIjEQI.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPRSULdMw.woff2"
   },
   {
     "family": "Noto Sans SignWriting",
