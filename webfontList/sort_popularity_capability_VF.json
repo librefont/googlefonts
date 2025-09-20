@@ -21495,19 +21495,6 @@
     "menu": "https://fonts.gstatic.com/s/passionsconflict/v9/kmKnZrcrFhfafnWX9x0GuEC-zowow6NfaxY.ttf"
   },
   {
-    "family": "Fasthand",
-    "variants": ["regular"],
-    "subsets": ["khmer", "latin"],
-    "version": "v33",
-    "lastModified": "2025-09-08",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/fasthand/v33/0yb9GDohyKTYn_ZEESkuYkw2rQg1.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/fasthand/v33/0yb9GDohyKTYn_ZEERkvaEg.ttf"
-  },
-  {
     "family": "Noto Sans Oriya",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "oriya"],
@@ -21531,6 +21518,19 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Fasthand",
+    "variants": ["regular"],
+    "subsets": ["khmer", "latin"],
+    "version": "v33",
+    "lastModified": "2025-09-08",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/fasthand/v33/0yb9GDohyKTYn_ZEESkuYkw2rQg1.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/fasthand/v33/0yb9GDohyKTYn_ZEERkvaEg.ttf"
   },
   {
     "family": "Fenix",
@@ -32160,19 +32160,6 @@
     "menu": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v4/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0YFbA.ttf"
   },
   {
-    "family": "Noto Sans Lepcha",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "lepcha"],
-    "version": "v20",
-    "lastModified": "2025-09-08",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanslepcha/v20/0QI7MWlB_JWgA166SKhu05TekNS32AJstqBXgd4.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanslepcha/v20/0QI7MWlB_JWgA166SKhu05TekNS36ANmsg.ttf"
-  },
-  {
     "family": "Noto Sans Tamil Supplement",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tamil-supplement"],
@@ -32184,6 +32171,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v23/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-c.ttf"
+  },
+  {
+    "family": "Noto Sans Lepcha",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "lepcha"],
+    "version": "v20",
+    "lastModified": "2025-09-08",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanslepcha/v20/0QI7MWlB_JWgA166SKhu05TekNS32AJstqBXgd4.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanslepcha/v20/0QI7MWlB_JWgA166SKhu05TekNS36ANmsg.ttf"
   },
   {
     "family": "Yarndings 12",
