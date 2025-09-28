@@ -31080,26 +31080,6 @@
     ]
   },
   {
-    "family": "Noto Sans Cham",
-    "variants": ["regular"],
-    "subsets": ["cham", "latin", "latin-ext"],
-    "version": "v33",
-    "lastModified": "2025-09-16",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscham/v33/pe03MIySN5pO62Z5YkFyQb_bbv5qWVAgVol-.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscham/v33/pe06MIySN5pO62Z5YkFyQb_bbuRhe6D4yip43qfcERwsvru2.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
-  },
-  {
     "family": "Playwrite CZ",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -31116,6 +31096,26 @@
         "tag": "wght",
         "start": 100,
         "end": 400
+      }
+    ]
+  },
+  {
+    "family": "Noto Sans Cham",
+    "variants": ["regular"],
+    "subsets": ["cham", "latin", "latin-ext"],
+    "version": "v33",
+    "lastModified": "2025-09-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscham/v33/pe03MIySN5pO62Z5YkFyQb_bbv5qWVAgVol-.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscham/v33/pe06MIySN5pO62Z5YkFyQb_bbuRhe6D4yip43qfcERwsvru2.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
       }
     ]
   },
