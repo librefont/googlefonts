@@ -31080,26 +31080,6 @@
     ]
   },
   {
-    "family": "Playwrite CZ",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v6",
-    "lastModified": "2025-09-05",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritecz/v6/8vIP7wYp22pt_BUChSHeVxx_M9f08h-8bA.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4bfqX1Ug.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 400
-      }
-    ]
-  },
-  {
     "family": "Noto Sans Cham",
     "variants": ["regular"],
     "subsets": ["cham", "latin", "latin-ext"],
@@ -31116,6 +31096,26 @@
         "tag": "wght",
         "start": 100,
         "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Playwrite CZ",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v6",
+    "lastModified": "2025-09-05",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritecz/v6/8vIP7wYp22pt_BUChSHeVxx_M9f08h-8bA.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4bfqX1Ug.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 400
       }
     ]
   },
