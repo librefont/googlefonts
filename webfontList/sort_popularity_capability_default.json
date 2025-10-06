@@ -27214,6 +27214,19 @@
     "menu": "https://fonts.gstatic.com/s/felipa/v27/FwZa7-owz1Eu4F_ASd6A.ttf"
   },
   {
+    "family": "Love Light",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v8",
+    "lastModified": "2025-09-05",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/lovelight/v8/t5tlIR0TNJyZWimpNAXDjKbCyTHuspo.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/lovelight/v8/t5tlIR0TNJyZWimpNAXDvKfIzQ.ttf"
+  },
+  {
     "family": "Reem Kufi Fun",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["arabic", "latin", "latin-ext", "vietnamese"],
@@ -27229,19 +27242,6 @@
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChoYj3kChpP4.ttf",
     "colorCapabilities": ["COLRv0"]
-  },
-  {
-    "family": "Love Light",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v8",
-    "lastModified": "2025-09-05",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/lovelight/v8/t5tlIR0TNJyZWimpNAXDjKbCyTHuspo.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/lovelight/v8/t5tlIR0TNJyZWimpNAXDvKfIzQ.ttf"
   },
   {
     "family": "Jersey 20",
@@ -34445,19 +34445,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteieguides/v1/LhW5MULFNP8PI-1UADw_Kbp9daTx5ovUWNspMw.ttf"
   },
   {
-    "family": "Noto Serif Todhri",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "todhri"],
-    "version": "v3",
-    "lastModified": "2025-01-23",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N3ByX6n0fnNk.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N0BzVa0.ttf"
-  },
-  {
     "family": "Playwrite TZ Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -34469,6 +34456,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_UQ232A.ttf"
+  },
+  {
+    "family": "Noto Serif Todhri",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "todhri"],
+    "version": "v3",
+    "lastModified": "2025-01-23",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N3ByX6n0fnNk.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N0BzVa0.ttf"
   },
   {
     "family": "Yuji Hentaigana Akebono",
@@ -35174,19 +35174,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBdbkDcg.ttf"
   },
   {
-    "family": "Playwrite AU SA Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAovcgEP-Z3054.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAojckOOw.ttf"
-  },
-  {
     "family": "Playwrite NG Modern Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -35198,6 +35185,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhAaqUp8.ttf"
+  },
+  {
+    "family": "Playwrite AU SA Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAovcgEP-Z3054.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAojckOOw.ttf"
   },
   {
     "family": "Playwrite BR Guides",

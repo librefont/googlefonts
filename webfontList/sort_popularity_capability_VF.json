@@ -23673,20 +23673,6 @@
     "menu": "https://fonts.gstatic.com/s/sedansc/v2/yMJRMIlvYZ3Jn1Y30Aq9dyg.ttf"
   },
   {
-    "family": "Alumni Sans Collegiate One",
-    "variants": ["regular", "italic"],
-    "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
-    "version": "v7",
-    "lastModified": "2025-09-16",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhjdayDiPw2ta.ttf",
-      "italic": "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpD-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdYwjytxntaDFU.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdbwjw.ttf"
-  },
-  {
     "family": "Alumni Sans Pinstripe",
     "variants": ["regular", "italic"],
     "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"],
@@ -23699,6 +23685,20 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/alumnisanspinstripe/v8/ZgNNjOFFPq_AUJD1umyS30W-Xub8zD1ObheDY79M.ttf"
+  },
+  {
+    "family": "Alumni Sans Collegiate One",
+    "variants": ["regular", "italic"],
+    "subsets": ["cyrillic", "latin", "latin-ext", "vietnamese"],
+    "version": "v7",
+    "lastModified": "2025-09-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhjdayDiPw2ta.ttf",
+      "italic": "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpD-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdYwjytxntaDFU.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdbwjw.ttf"
   },
   {
     "family": "Joti One",
@@ -24613,6 +24613,19 @@
     "menu": "https://fonts.gstatic.com/s/felipa/v27/FwZa7-owz1Eu4F_ASd6A.ttf"
   },
   {
+    "family": "Love Light",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v8",
+    "lastModified": "2025-09-05",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/lovelight/v8/t5tlIR0TNJyZWimpNAXDjKbCyTHuspo.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/lovelight/v8/t5tlIR0TNJyZWimpNAXDvKfIzQ.ttf"
+  },
+  {
     "family": "Reem Kufi Fun",
     "variants": ["regular"],
     "subsets": ["arabic", "latin", "latin-ext", "vietnamese"],
@@ -24632,19 +24645,6 @@
       }
     ],
     "colorCapabilities": ["COLRv0"]
-  },
-  {
-    "family": "Love Light",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v8",
-    "lastModified": "2025-09-05",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/lovelight/v8/t5tlIR0TNJyZWimpNAXDjKbCyTHuspo.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/lovelight/v8/t5tlIR0TNJyZWimpNAXDvKfIzQ.ttf"
   },
   {
     "family": "Jersey 20",
@@ -32650,19 +32650,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBdbkDcg.ttf"
   },
   {
-    "family": "Playwrite AU SA Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAovcgEP-Z3054.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAojckOOw.ttf"
-  },
-  {
     "family": "Playwrite NG Modern Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32674,6 +32661,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhAaqUp8.ttf"
+  },
+  {
+    "family": "Playwrite AU SA Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAovcgEP-Z3054.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAojckOOw.ttf"
   },
   {
     "family": "Playwrite BR Guides",
