@@ -14377,6 +14377,19 @@
     "menu": "https://fonts.gstatic.com/s/inriasans/v15/ptRMTiqXYfZMCOiVj9kQ1O_4LQ.ttf"
   },
   {
+    "family": "Gurajada",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "telugu"],
+    "version": "v22",
+    "lastModified": "2025-06-25",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/gurajada/v22/FwZY7-Qx308m-l-0Kd6A4sijpFu_.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/gurajada/v22/FwZY7-Qx308m-l-0Ke6B6Mw.ttf"
+  },
+  {
     "family": "Mountains of Christmas",
     "variants": ["regular", "700"],
     "subsets": ["latin"],
@@ -14389,19 +14402,6 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/mountainsofchristmas/v24/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eDNesNA.ttf"
-  },
-  {
-    "family": "Gurajada",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "telugu"],
-    "version": "v22",
-    "lastModified": "2025-06-25",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/gurajada/v22/FwZY7-Qx308m-l-0Kd6A4sijpFu_.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/gurajada/v22/FwZY7-Qx308m-l-0Ke6B6Mw.ttf"
   },
   {
     "family": "Fragment Mono",
@@ -31127,19 +31127,6 @@
     ]
   },
   {
-    "family": "Noto Sans Old North Arabian",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "old-north-arabian"],
-    "version": "v17",
-    "lastModified": "2025-09-11",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansoldnortharabian/v17/esDF30BdNv-KYGGJpKGk2tNiMt7Jar6olZDyNdr81zBQmUo_xw4ABw.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansoldnortharabian/v17/esDF30BdNv-KYGGJpKGk2tNiMt7Jar6olZDyNdr81zBgmEA7.ttf"
-  },
-  {
     "family": "Kanchenjunga",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["kirat-rai", "latin"],
@@ -31154,6 +31141,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/kanchenjunga/v2/RWmPoKKd5fUmrILiWsjCI6TSqIEC.ttf"
+  },
+  {
+    "family": "Noto Sans Old North Arabian",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "old-north-arabian"],
+    "version": "v17",
+    "lastModified": "2025-09-11",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansoldnortharabian/v17/esDF30BdNv-KYGGJpKGk2tNiMt7Jar6olZDyNdr81zBQmUo_xw4ABw.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansoldnortharabian/v17/esDF30BdNv-KYGGJpKGk2tNiMt7Jar6olZDyNdr81zBgmEA7.ttf"
   },
   {
     "family": "Noto Sans Old Turkic",
@@ -32806,19 +32806,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteroguides/v1/wlptgx7ZCE50snmWiOExiylvL10_b5YmzLFnfw.ttf"
   },
   {
-    "family": "Playwrite NG Modern Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhDarWJtyZyGU.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhAaqUp8.ttf"
-  },
-  {
     "family": "Playwrite DK Uloopet Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32830,6 +32817,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritedkuloopetguides/v1/WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHkFb4Vf.ttf"
+  },
+  {
+    "family": "Playwrite NG Modern Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhDarWJtyZyGU.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhAaqUp8.ttf"
   },
   {
     "family": "Playwrite IS Guides",
@@ -32950,19 +32950,6 @@
     "menu": "https://fonts.gstatic.com/s/yarndings20charted/v4/QldRNSdbpg0G8vh0W2qxe0l-hcUPtY2VaIQn60A.ttf"
   },
   {
-    "family": "Playwrite BE VLG Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1u9GK3nNgEoc.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1t9HIX0.ttf"
-  },
-  {
     "family": "Playwrite NO Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32974,6 +32961,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf"
+  },
+  {
+    "family": "Playwrite BE VLG Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1u9GK3nNgEoc.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1t9HIX0.ttf"
   },
   {
     "family": "Playwrite AR Guides",
