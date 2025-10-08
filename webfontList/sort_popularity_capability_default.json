@@ -30183,6 +30183,20 @@
     "menu": "https://fonts.gstatic.com/s/rock3d/v13/yYLp0hrL0PCo651553WtxQ.ttf"
   },
   {
+    "family": "Annapurna SIL",
+    "variants": ["regular", "700"],
+    "subsets": ["devanagari", "latin", "latin-ext", "math", "symbols"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/annapurnasil/v2/yYLy0hDY0f2iu9tPmRWtllidyG9SUZzUIZJ008A.ttf",
+      "regular": "https://fonts.gstatic.com/s/annapurnasil/v2/yYLv0hDY0f2iu9tPmRWtllid8NN9dZT_PZs.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/annapurnasil/v2/yYLv0hDY0f2iu9tPmRWtllidwNJ3cQ.ttf"
+  },
+  {
     "family": "Huninn",
     "variants": ["regular"],
     "subsets": [
@@ -30200,20 +30214,6 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/huninn/v2/OpNNnoINg9bQ4xkZjyvU.ttf"
-  },
-  {
-    "family": "Annapurna SIL",
-    "variants": ["regular", "700"],
-    "subsets": ["devanagari", "latin", "latin-ext", "math", "symbols"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/annapurnasil/v2/yYLy0hDY0f2iu9tPmRWtllidyG9SUZzUIZJ008A.ttf",
-      "regular": "https://fonts.gstatic.com/s/annapurnasil/v2/yYLv0hDY0f2iu9tPmRWtllid8NN9dZT_PZs.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/annapurnasil/v2/yYLv0hDY0f2iu9tPmRWtllidwNJ3cQ.ttf"
   },
   {
     "family": "Rubik Burned",
@@ -34288,19 +34288,6 @@
     "menu": "https://fonts.gstatic.com/s/ponnala/v3/w8gaH2QxQOU08bbbnQqn3A.ttf"
   },
   {
-    "family": "Noto Sans Kaithi",
-    "variants": ["regular"],
-    "subsets": ["kaithi", "latin", "latin-ext"],
-    "version": "v23",
-    "lastModified": "2025-09-08",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanskaithi/v23/buEtppS9f8_vkXadMBJJu0tWjLwjQi0KdoZIKlo.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanskaithi/v23/buEtppS9f8_vkXadMBJJu0tWjLwjciwAcg.ttf"
-  },
-  {
     "family": "Noto Sans Sunuwar",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "sunuwar"],
@@ -34312,6 +34299,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanssunuwar/v1/FwZB7_04xUkosG2xJo2gm7nF0DTfhr_CsWI.ttf"
+  },
+  {
+    "family": "Noto Sans Kaithi",
+    "variants": ["regular"],
+    "subsets": ["kaithi", "latin", "latin-ext"],
+    "version": "v23",
+    "lastModified": "2025-09-08",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanskaithi/v23/buEtppS9f8_vkXadMBJJu0tWjLwjQi0KdoZIKlo.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanskaithi/v23/buEtppS9f8_vkXadMBJJu0tWjLwjciwAcg.ttf"
   },
   {
     "family": "Noto Sans Syriac",
@@ -35461,19 +35461,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteczguides/v1/6qLcKY0NtxD-qVlIPUIPeH4lUQa6B3ZZckoUvg.ttf"
   },
   {
-    "family": "Playwrite AU QLD Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LDxlIzIU5RwD.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LAxkKTY.ttf"
-  },
-  {
     "family": "Playwrite IN Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -35485,6 +35472,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteinguides/v1/GFD2WBRug3mQSvrAT9AL4vx4d3lQNQV4ftxgcA.ttf"
+  },
+  {
+    "family": "Playwrite AU QLD Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LDxlIzIU5RwD.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LAxkKTY.ttf"
   },
   {
     "family": "Playwrite AU NSW Guides",
@@ -35513,19 +35513,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteisguides/v1/5aUp9-GkphaVExwxdX6SwWF-uigk3Cglnm5jsw.ttf"
   },
   {
-    "family": "Playwrite RO Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteroguides/v1/wlptgx7ZCE50snmWiOExiylvL10_b5Ym_LBte6KuGEo.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteroguides/v1/wlptgx7ZCE50snmWiOExiylvL10_b5YmzLFnfw.ttf"
-  },
-  {
     "family": "Playwrite HR Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -35537,6 +35524,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritehrguides/v1/6NUK8EedKwOcfRjj8ukv_L4kjqAoGrjdamE-9g.ttf"
+  },
+  {
+    "family": "Playwrite RO Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteroguides/v1/wlptgx7ZCE50snmWiOExiylvL10_b5Ym_LBte6KuGEo.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteroguides/v1/wlptgx7ZCE50snmWiOExiylvL10_b5YmzLFnfw.ttf"
   },
   {
     "family": "Playwrite AR Guides",
