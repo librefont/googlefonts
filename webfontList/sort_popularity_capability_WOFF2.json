@@ -14354,19 +14354,6 @@
     "menu": "https://fonts.gstatic.com/s/mashanzheng/v14/NaPecZTRCLxvwo41b4gvzkXadMXmDQ.woff2"
   },
   {
-    "family": "Mouse Memoirs",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext"],
-    "version": "v19",
-    "lastModified": "2025-09-16",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/mousememoirs/v19/t5tmIRoSNJ-PH0WNNgDYxdSb7TzFrpOHYh4.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/mousememoirs/v19/t5tmIRoSNJ-PH0WNNgDYxdSb3TjPrw.woff2"
-  },
-  {
     "family": "UnifrakturMaguntia",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -14378,6 +14365,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/unifrakturmaguntia/v22/WWXPlieVYwiGNomYU-ciRLRvEmK7oaVenmZM.woff2"
+  },
+  {
+    "family": "Mouse Memoirs",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext"],
+    "version": "v19",
+    "lastModified": "2025-09-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/mousememoirs/v19/t5tmIRoSNJ-PH0WNNgDYxdSb7TzFrpOHYh4.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/mousememoirs/v19/t5tmIRoSNJ-PH0WNNgDYxdSb3TjPrw.woff2"
   },
   {
     "family": "Kristi",
@@ -30471,6 +30471,19 @@
     "menu": "https://fonts.gstatic.com/s/playwriteautas/v11/GftT7u9QuxsdI_QuuctXue3ElxxmcBb3ih0opvWiLLUEH5K7FF4.woff2"
   },
   {
+    "family": "Cherish",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v9",
+    "lastModified": "2025-09-11",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/cherish/v9/ll88K2mXUyqsDsTN5iXCI6IJjg8.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/cherish/v9/ll88K2mXUyqsDsTN1iHIIg.woff2"
+  },
+  {
     "family": "Tiro Gurmukhi",
     "variants": ["regular", "italic"],
     "subsets": ["gurmukhi", "latin", "latin-ext"],
@@ -30483,19 +30496,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3dmckXSYq-Uqjc048JUF7Jvpy_NAA.woff2"
-  },
-  {
-    "family": "Cherish",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2025-09-11",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/cherish/v9/ll88K2mXUyqsDsTN5iXCI6IJjg8.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/cherish/v9/ll88K2mXUyqsDsTN1iHIIg.woff2"
   },
   {
     "family": "Noto Sans NKo Unjoined",
@@ -32762,6 +32762,28 @@
     "menu": "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGMuhFR0.woff2"
   },
   {
+    "family": "LXGW Marker Gothic",
+    "variants": ["regular"],
+    "subsets": [
+      "chinese-traditional",
+      "cyrillic",
+      "cyrillic-ext",
+      "greek",
+      "latin",
+      "latin-ext",
+      "symbols2",
+      "vietnamese"
+    ],
+    "version": "v1",
+    "lastModified": "2025-06-12",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/lxgwmarkergothic/v1/Gg8oN4AaXyDVTi_NlS1-xCtMQxY3lToBi-w_cZe26Q.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/lxgwmarkergothic/v1/Gg8oN4AaXyDVTi_NlS1-xCtMQxY3lToxj-Y-.woff2"
+  },
+  {
     "family": "Noto Serif Gurmukhi",
     "variants": [
       "100",
@@ -32791,28 +32813,6 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifgurmukhi/v22/92z-tA9LNqsg7tCYlXdCV1VPnAEeDU0vLoYMbylXk0xTCr6-eSTMkKQ.woff2"
-  },
-  {
-    "family": "LXGW Marker Gothic",
-    "variants": ["regular"],
-    "subsets": [
-      "chinese-traditional",
-      "cyrillic",
-      "cyrillic-ext",
-      "greek",
-      "latin",
-      "latin-ext",
-      "symbols2",
-      "vietnamese"
-    ],
-    "version": "v1",
-    "lastModified": "2025-06-12",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/lxgwmarkergothic/v1/Gg8oN4AaXyDVTi_NlS1-xCtMQxY3lToBi-w_cZe26Q.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/lxgwmarkergothic/v1/Gg8oN4AaXyDVTi_NlS1-xCtMQxY3lToxj-Y-.woff2"
   },
   {
     "family": "Vend Sans",
@@ -34663,19 +34663,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanstirhuta/v17/t5t6IQYRNJ6TWjahPR6X-M-apUyby4uHWho.woff2"
   },
   {
-    "family": "Noto Sans Saurashtra",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "saurashtra"],
-    "version": "v24",
-    "lastModified": "2025-09-16",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanssaurashtra/v24/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9nYjhPTSIx9.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v24/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBI.woff2"
-  },
-  {
     "family": "Noto Sans Tamil Supplement",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "tamil-supplement"],
@@ -34687,6 +34674,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanstamilsupplement/v23/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-I.woff2"
+  },
+  {
+    "family": "Noto Sans Saurashtra",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "saurashtra"],
+    "version": "v24",
+    "lastModified": "2025-09-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanssaurashtra/v24/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9nYjhPTSIx9.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanssaurashtra/v24/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBI.woff2"
   },
   {
     "family": "Noto Sans Soyombo",
@@ -35225,19 +35225,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfug.woff2"
   },
   {
-    "family": "Playwrite CU Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOFo8IDQtJbok.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCDA.woff2"
-  },
-  {
     "family": "Playwrite HU Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -35249,6 +35236,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritehuguides/v1/AYCXpWvtftIVXepC5AzjCAdKgYPugOK0fq1ZJg.woff2"
+  },
+  {
+    "family": "Playwrite CU Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOFo8IDQtJbok.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCDA.woff2"
   },
   {
     "family": "Playwrite GB S Guides",
