@@ -29906,26 +29906,6 @@
     ]
   },
   {
-    "family": "Playwrite CL",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v6",
-    "lastModified": "2025-09-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritecl/v6/-zki91m7wssz_XLkGgu8hy33oZX-Xup87g.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritecl/v6/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JajLu9Cw.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 400
-      }
-    ]
-  },
-  {
     "family": "Bitcount Grid Single Ink",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
@@ -29995,6 +29975,26 @@
       }
     ],
     "colorCapabilities": ["COLRv1"]
+  },
+  {
+    "family": "Playwrite CL",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v6",
+    "lastModified": "2025-09-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritecl/v6/-zki91m7wssz_XLkGgu8hy33oZX-Xup87g.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritecl/v6/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JajLu9Cw.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 400
+      }
+    ]
   },
   {
     "family": "Bitcount Grid Double Ink",
