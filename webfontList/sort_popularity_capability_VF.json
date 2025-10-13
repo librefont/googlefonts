@@ -29062,26 +29062,6 @@
     ]
   },
   {
-    "family": "Playpen Sans Thai",
-    "variants": ["regular"],
-    "subsets": ["emoji", "latin", "latin-ext", "math", "thai"],
-    "version": "v8",
-    "lastModified": "2025-09-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playpensansthai/v8/VdGEAYIdG5kSgHwmKT9wYu2rs0cBsvWGzr8C7vav.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playpensansthai/v8/VdG3AYIdG5kSgHwmKT9wYu2rs0cBsu-N7E_aclWp2hxLghC_ohZE.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 800
-      }
-    ]
-  },
-  {
     "family": "Savate",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -29099,6 +29079,26 @@
         "tag": "wght",
         "start": 200,
         "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Playpen Sans Thai",
+    "variants": ["regular"],
+    "subsets": ["emoji", "latin", "latin-ext", "math", "thai"],
+    "version": "v8",
+    "lastModified": "2025-09-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playpensansthai/v8/VdGEAYIdG5kSgHwmKT9wYu2rs0cBsvWGzr8C7vav.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playpensansthai/v8/VdG3AYIdG5kSgHwmKT9wYu2rs0cBsu-N7E_aclWp2hxLghC_ohZE.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 800
       }
     ]
   },
@@ -31602,19 +31602,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansrunic/v18/H4c_BXWPl9DZ0Xe_nHUaus7W68WmahBr.ttf"
   },
   {
-    "family": "Noto Sans Pahawh Hmong",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "pahawh-hmong"],
-    "version": "v19",
-    "lastModified": "2025-09-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanspahawhhmong/v19/bWtp7e_KfBziStx7lIzKKaMUOBEA3UPQDW7krzc_c48aMpM.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanspahawhhmong/v19/bWtp7e_KfBziStx7lIzKKaMUOBEA3UPQDW7knzY1dw.ttf"
-  },
-  {
     "family": "Noto Serif Makasar",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "makasar"],
@@ -31626,6 +31613,19 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9SLjovX.ttf"
+  },
+  {
+    "family": "Noto Sans Pahawh Hmong",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "pahawh-hmong"],
+    "version": "v19",
+    "lastModified": "2025-09-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanspahawhhmong/v19/bWtp7e_KfBziStx7lIzKKaMUOBEA3UPQDW7krzc_c48aMpM.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanspahawhhmong/v19/bWtp7e_KfBziStx7lIzKKaMUOBEA3UPQDW7knzY1dw.ttf"
   },
   {
     "family": "Playwrite TZ",
