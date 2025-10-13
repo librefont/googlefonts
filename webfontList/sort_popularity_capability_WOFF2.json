@@ -32641,6 +32641,22 @@
     "menu": "https://fonts.gstatic.com/s/eduauvicwantarrows/v4/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvRTDM8.woff2"
   },
   {
+    "family": "Playwrite CL",
+    "variants": ["100", "200", "300", "regular"],
+    "subsets": ["latin"],
+    "version": "v6",
+    "lastModified": "2025-09-02",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/playwritecl/v6/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JbvL-3DyPNbus.woff2",
+      "200": "https://fonts.gstatic.com/s/playwritecl/v6/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU0JavL-3DyPNbus.woff2",
+      "300": "https://fonts.gstatic.com/s/playwritecl/v6/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU5xavL-3DyPNbus.woff2",
+      "regular": "https://fonts.gstatic.com/s/playwritecl/v6/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JavL-3DyPNbus.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritecl/v6/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JajLu9Dg.woff2"
+  },
+  {
     "family": "Bitcount Grid Single Ink",
     "variants": [
       "100",
@@ -32671,22 +32687,6 @@
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/bitcountgridsingleink/v2/NaN4epOEK_VIyYAuIaZn7FnUAOSVYeI0Ctm5-AxV__OGadlXPkpqc2W3G80KvDvfZJcTBZtOWSEifRuVdQ9MPZtUsYBBEK6cMpFmAx9Xgbn8m7Ha_CUon9Fm0PP1zM05Dnsuyw04ZGzhvlKxYNMYWI3t91IQXOwJRiUJVTErJ5YUW4O8LJCoXjD9tXQjarshNDUf3e0O5j3ZjrZCu23Qd4G0EACUTNK-QKavMlx2IIUc.woff2",
     "colorCapabilities": ["COLRv1"]
-  },
-  {
-    "family": "Playwrite CL",
-    "variants": ["100", "200", "300", "regular"],
-    "subsets": ["latin"],
-    "version": "v6",
-    "lastModified": "2025-09-02",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/playwritecl/v6/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JbvL-3DyPNbus.woff2",
-      "200": "https://fonts.gstatic.com/s/playwritecl/v6/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU0JavL-3DyPNbus.woff2",
-      "300": "https://fonts.gstatic.com/s/playwritecl/v6/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU5xavL-3DyPNbus.woff2",
-      "regular": "https://fonts.gstatic.com/s/playwritecl/v6/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JavL-3DyPNbus.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritecl/v6/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JajLu9Dg.woff2"
   },
   {
     "family": "Bitcount Grid Double Ink",
@@ -34139,19 +34139,6 @@
     "menu": "https://fonts.gstatic.com/s/ponnala/v3/w8gaH2QxQOU08bbbnQqn2Q.woff2"
   },
   {
-    "family": "Noto Sans Osage",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "osage"],
-    "version": "v19",
-    "lastModified": "2025-09-11",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansosage/v19/oPWX_kB6kP4jCuhpgEGmw4mtAVtXQ1aSxkrMCQ.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansosage/v19/oPWX_kB6kP4jCuhpgEGmw4mtAVtnR1yT.woff2"
-  },
-  {
     "family": "Noto Sans Runic",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "runic"],
@@ -34165,17 +34152,17 @@
     "menu": "https://fonts.gstatic.com/s/notosansrunic/v18/H4c_BXWPl9DZ0Xe_nHUaus7W68WmahBu.woff2"
   },
   {
-    "family": "Noto Serif Makasar",
+    "family": "Noto Sans Osage",
     "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "makasar"],
-    "version": "v1",
-    "lastModified": "2023-06-30",
+    "subsets": ["latin", "latin-ext", "osage"],
+    "version": "v19",
+    "lastModified": "2025-09-11",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9S7ioHTVSmevw.woff2"
+      "regular": "https://fonts.gstatic.com/s/notosansosage/v19/oPWX_kB6kP4jCuhpgEGmw4mtAVtXQ1aSxkrMCQ.woff2"
     },
-    "category": "serif",
+    "category": "sans-serif",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9SLjovS.woff2"
+    "menu": "https://fonts.gstatic.com/s/notosansosage/v19/oPWX_kB6kP4jCuhpgEGmw4mtAVtnR1yT.woff2"
   },
   {
     "family": "Noto Sans Pahawh Hmong",
@@ -34189,6 +34176,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanspahawhhmong/v19/bWtp7e_KfBziStx7lIzKKaMUOBEA3UPQDW7knzY1cg.woff2"
+  },
+  {
+    "family": "Noto Serif Makasar",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "makasar"],
+    "version": "v1",
+    "lastModified": "2023-06-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9S7ioHTVSmevw.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9SLjovS.woff2"
   },
   {
     "family": "Playwrite TZ",
