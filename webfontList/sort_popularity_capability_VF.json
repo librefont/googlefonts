@@ -26450,27 +26450,6 @@
     "menu": "https://fonts.gstatic.com/s/lunasima/v1/wEO-EBvPh9RSOj7JFDwkcdo.ttf"
   },
   {
-    "family": "Ancizar Serif",
-    "variants": ["regular", "italic"],
-    "subsets": ["greek", "latin", "latin-ext"],
-    "version": "v8",
-    "lastModified": "2025-09-16",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/ancizarserif/v8/PN_2RfmxrmD9dEi_Qbtf91W13vjxynMix4Y.ttf",
-      "italic": "https://fonts.gstatic.com/s/ancizarserif/v8/PN_oRfmxrmD9dEi_Qbtf91W17vr7zlEn14YEUQ.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/ancizarserif/v8/PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN3Z_cARv4M.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 300,
-        "end": 900
-      }
-    ]
-  },
-  {
     "family": "Foldit",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "vietnamese"],
@@ -26490,6 +26469,27 @@
       }
     ],
     "colorCapabilities": ["COLRv1"]
+  },
+  {
+    "family": "Ancizar Serif",
+    "variants": ["regular", "italic"],
+    "subsets": ["greek", "latin", "latin-ext"],
+    "version": "v8",
+    "lastModified": "2025-09-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/ancizarserif/v8/PN_2RfmxrmD9dEi_Qbtf91W13vjxynMix4Y.ttf",
+      "italic": "https://fonts.gstatic.com/s/ancizarserif/v8/PN_oRfmxrmD9dEi_Qbtf91W17vr7zlEn14YEUQ.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/ancizarserif/v8/PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN3Z_cARv4M.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 300,
+        "end": 900
+      }
+    ]
   },
   {
     "family": "Butterfly Kids",
@@ -32675,17 +32675,17 @@
     "menu": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi16BFfNQ.ttf"
   },
   {
-    "family": "Playwrite FR Trad Guides",
+    "family": "Playwrite CU Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
     "version": "v1",
     "lastModified": "2025-05-30",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWLFfriXYf2ZXw.ttf"
+      "regular": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOFooIDQtJbok.ttf"
     },
     "category": "handwriting",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWL1f7KT.ttf"
+    "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCCQ.ttf"
   },
   {
     "family": "Playwrite NG Modern Guides",
@@ -32701,17 +32701,17 @@
     "menu": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhAaqUp8.ttf"
   },
   {
-    "family": "Playwrite CU Guides",
+    "family": "Playwrite FR Trad Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
     "version": "v1",
     "lastModified": "2025-05-30",
     "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOFooIDQtJbok.ttf"
+      "regular": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWLFfriXYf2ZXw.ttf"
     },
     "category": "handwriting",
     "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCCQ.ttf"
+    "menu": "https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWL1f7KT.ttf"
   },
   {
     "family": "Playwrite HU Guides",
@@ -32727,19 +32727,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritehuguides/v1/AYCXpWvtftIVXepC5AzjCAdKgYPugOK0fq1ZIw.ttf"
   },
   {
-    "family": "Playwrite ID Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteidguides/v1/MjQamj1kuP_soQ3o-rysMdWi_8oJlIUUInch3bTfcxs.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteidguides/v1/MjQamj1kuP_soQ3o-rysMdWi_8oJlIUUEnYr2Q.ttf"
-  },
-  {
     "family": "Playwrite DE LA Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32751,6 +32738,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritedelaguides/v2/1q2XY42fB0V64O4aSe1OjKs_yAXBOfDI5wE52gyG7w.ttf"
+  },
+  {
+    "family": "Playwrite ID Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteidguides/v1/MjQamj1kuP_soQ3o-rysMdWi_8oJlIUUInch3bTfcxs.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteidguides/v1/MjQamj1kuP_soQ3o-rysMdWi_8oJlIUUEnYr2Q.ttf"
   },
   {
     "family": "Playwrite US Trad Guides",
