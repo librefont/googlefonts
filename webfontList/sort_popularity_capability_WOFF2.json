@@ -24827,19 +24827,6 @@
     "menu": "https://fonts.gstatic.com/s/ribeyemarrow/v26/GFDsWApshnqMRO2JdtRZ2d0vIA0ZVA.woff2"
   },
   {
-    "family": "Smooch",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v9",
-    "lastModified": "2025-09-16",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/smooch/v9/o-0LIps4xW8U1xUBi6p_6hVdYg.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/smooch/v9/o-0LIps4xW8U1xUxj6B-.woff2"
-  },
-  {
     "family": "Gorditas",
     "variants": ["regular", "700"],
     "subsets": ["latin"],
@@ -24852,6 +24839,19 @@
     "category": "display",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/gorditas/v24/ll8_K2aTVD26DsPEtTDpB68.woff2"
+  },
+  {
+    "family": "Smooch",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v9",
+    "lastModified": "2025-09-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/smooch/v9/o-0LIps4xW8U1xUBi6p_6hVdYg.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/smooch/v9/o-0LIps4xW8U1xUxj6B-.woff2"
   },
   {
     "family": "Engagement",
@@ -31631,37 +31631,6 @@
     "menu": "https://fonts.gstatic.com/s/gajrajone/v7/1cX2aUDCDpXsuWVb1jIjn1CghA.woff2"
   },
   {
-    "family": "Noto Serif Myanmar",
-    "variants": [
-      "100",
-      "200",
-      "300",
-      "regular",
-      "500",
-      "600",
-      "700",
-      "800",
-      "900"
-    ],
-    "subsets": ["myanmar"],
-    "version": "v14",
-    "lastModified": "2025-09-11",
-    "files": {
-      "100": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJudM7F2Yv76aBKKs-bHMQfAHUw3jnNwBDpU9X6RPzQ.woff2",
-      "200": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJvdM7F2Yv76aBKKs-bHMQfAHUw3jnNbDHMfPv2TeXJng.woff2",
-      "300": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJvdM7F2Yv76aBKKs-bHMQfAHUw3jnNCDLMfPv2TeXJng.woff2",
-      "500": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJvdM7F2Yv76aBKKs-bHMQfAHUw3jnNUDPMfPv2TeXJng.woff2",
-      "600": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJvdM7F2Yv76aBKKs-bHMQfAHUw3jnNfDTMfPv2TeXJng.woff2",
-      "700": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJvdM7F2Yv76aBKKs-bHMQfAHUw3jnNGDXMfPv2TeXJng.woff2",
-      "800": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJvdM7F2Yv76aBKKs-bHMQfAHUw3jnNBDbMfPv2TeXJng.woff2",
-      "900": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJvdM7F2Yv76aBKKs-bHMQfAHUw3jnNIDfMfPv2TeXJng.woff2",
-      "regular": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJsdM7F2Yv76aBKKs-bHMQfAHUw3jn1oRrocdDqRA.woff2"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJsdM7F2Yv76aBKKs-bHMQfAHUw3jnFpRDp.woff2"
-  },
-  {
     "family": "Noto Sans Thaana",
     "variants": [
       "100",
@@ -31691,6 +31660,37 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosansthaana/v26/C8c14dM-vnz-s-3jaEsxlxHkBH-WZOETXfoQrfQ9Y4XrbiLglO8.woff2"
+  },
+  {
+    "family": "Noto Serif Myanmar",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ],
+    "subsets": ["myanmar"],
+    "version": "v14",
+    "lastModified": "2025-09-11",
+    "files": {
+      "100": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJudM7F2Yv76aBKKs-bHMQfAHUw3jnNwBDpU9X6RPzQ.woff2",
+      "200": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJvdM7F2Yv76aBKKs-bHMQfAHUw3jnNbDHMfPv2TeXJng.woff2",
+      "300": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJvdM7F2Yv76aBKKs-bHMQfAHUw3jnNCDLMfPv2TeXJng.woff2",
+      "500": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJvdM7F2Yv76aBKKs-bHMQfAHUw3jnNUDPMfPv2TeXJng.woff2",
+      "600": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJvdM7F2Yv76aBKKs-bHMQfAHUw3jnNfDTMfPv2TeXJng.woff2",
+      "700": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJvdM7F2Yv76aBKKs-bHMQfAHUw3jnNGDXMfPv2TeXJng.woff2",
+      "800": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJvdM7F2Yv76aBKKs-bHMQfAHUw3jnNBDbMfPv2TeXJng.woff2",
+      "900": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJvdM7F2Yv76aBKKs-bHMQfAHUw3jnNIDfMfPv2TeXJng.woff2",
+      "regular": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJsdM7F2Yv76aBKKs-bHMQfAHUw3jn1oRrocdDqRA.woff2"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJsdM7F2Yv76aBKKs-bHMQfAHUw3jnFpRDp.woff2"
   },
   {
     "family": "Playwrite MX",
@@ -32163,19 +32163,6 @@
     "menu": "https://fonts.gstatic.com/s/notosansbamum/v35/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPEddOy_kByw.woff2"
   },
   {
-    "family": "Blaka Hollow",
-    "variants": ["regular"],
-    "subsets": ["arabic", "latin", "latin-ext"],
-    "version": "v8",
-    "lastModified": "2025-09-11",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/blakahollow/v8/MCoUzAL91sjRE2FsKsxUtezYAtoFyW_-oA.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/blakahollow/v8/MCoUzAL91sjRE2FsKsxUtezoBtAE.woff2"
-  },
-  {
     "family": "Playpen Sans Thai",
     "variants": ["100", "200", "300", "regular", "500", "600", "700", "800"],
     "subsets": ["emoji", "latin", "latin-ext", "math", "thai"],
@@ -32194,6 +32181,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playpensansthai/v8/VdG3AYIdG5kSgHwmKT9wYu2rs0cBsu-N7E_aclWp2hxLghC_ohZB.woff2"
+  },
+  {
+    "family": "Blaka Hollow",
+    "variants": ["regular"],
+    "subsets": ["arabic", "latin", "latin-ext"],
+    "version": "v8",
+    "lastModified": "2025-09-11",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/blakahollow/v8/MCoUzAL91sjRE2FsKsxUtezYAtoFyW_-oA.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/blakahollow/v8/MCoUzAL91sjRE2FsKsxUtezoBtAE.woff2"
   },
   {
     "family": "Noto Serif Khitan Small Script",
@@ -35383,32 +35383,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteskguides/v1/P5sezYaSYdfH5z93kEFk3tyPlqxeQeo_FzvkWA.woff2"
   },
   {
-    "family": "Playwrite NG Modern Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhDauWJtyZyGU.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhAaqUpo.woff2"
-  },
-  {
-    "family": "Playwrite AU SA Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAovc0EP-Z3054.woff2"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAojckOPg.woff2"
-  },
-  {
     "family": "Playwrite DK Loopet Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -35433,6 +35407,32 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteinguides/v1/GFD2WBRug3mQSvrAT9AL4vx4d3lQNQV4ftxgdQ.woff2"
+  },
+  {
+    "family": "Playwrite AU SA Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAovc0EP-Z3054.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAojckOPg.woff2"
+  },
+  {
+    "family": "Playwrite NG Modern Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhDauWJtyZyGU.woff2"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhAaqUpo.woff2"
   },
   {
     "family": "Playwrite HU Guides",
