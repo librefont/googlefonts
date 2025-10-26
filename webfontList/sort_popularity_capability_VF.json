@@ -27702,6 +27702,27 @@
     ]
   },
   {
+    "family": "Labrada",
+    "variants": ["regular", "italic"],
+    "subsets": ["latin", "latin-ext", "vietnamese"],
+    "version": "v4",
+    "lastModified": "2025-09-02",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/labrada/v4/ieV-2Y9HLWefIpOyDV5ALUIfEcs.ttf",
+      "italic": "https://fonts.gstatic.com/s/labrada/v4/ieV82Y9HLWefIpOyPVxKKWAaActCxg.ttf"
+    },
+    "category": "serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/labrada/v4/ieVh2Y9HLWefIpOyF1Vi3ZqDss1Px9VTSzM5SvM.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 900
+      }
+    ]
+  },
+  {
     "family": "Sixtyfour Convergence",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "math", "symbols"],
@@ -27736,27 +27757,6 @@
       }
     ],
     "colorCapabilities": ["COLRv1"]
-  },
-  {
-    "family": "Labrada",
-    "variants": ["regular", "italic"],
-    "subsets": ["latin", "latin-ext", "vietnamese"],
-    "version": "v4",
-    "lastModified": "2025-09-02",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/labrada/v4/ieV-2Y9HLWefIpOyDV5ALUIfEcs.ttf",
-      "italic": "https://fonts.gstatic.com/s/labrada/v4/ieV82Y9HLWefIpOyPVxKKWAaActCxg.ttf"
-    },
-    "category": "serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/labrada/v4/ieVh2Y9HLWefIpOyF1Vi3ZqDss1Px9VTSzM5SvM.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 900
-      }
-    ]
   },
   {
     "family": "Moulpali",
@@ -32675,19 +32675,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritedkuloopetguides/v1/WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHkFb4Vf.ttf"
   },
   {
-    "family": "Playwrite NZ Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71Wh8xq25PL5k.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71ah47rw.ttf"
-  },
-  {
     "family": "Playwrite CU Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32699,6 +32686,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCCQ.ttf"
+  },
+  {
+    "family": "Playwrite NZ Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71Wh8xq25PL5k.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71ah47rw.ttf"
   },
   {
     "family": "Playwrite AU NSW Guides",

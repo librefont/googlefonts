@@ -30596,20 +30596,6 @@
     "menu": "https://fonts.gstatic.com/s/alumnisanssc/v3/Y4GfYaxzVjArrOeNFYbCvkZ8C28IyGwp26UHdIteaL1mgcib.ttf"
   },
   {
-    "family": "Sixtyfour Convergence",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "math", "symbols"],
-    "version": "v5",
-    "lastModified": "2025-09-08",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/sixtyfourconvergence/v5/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102hotkk3grz3g.ttf"
-    },
-    "category": "monospace",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/sixtyfourconvergence/v5/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102topulw.ttf",
-    "colorCapabilities": ["COLRv1"]
-  },
-  {
     "family": "Labrada",
     "variants": [
       "100",
@@ -30657,6 +30643,20 @@
     "category": "serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/labrada/v4/ieVh2Y9HLWefIpOyF1Vi3ZqDss1Px9VTSzM5SvM.ttf"
+  },
+  {
+    "family": "Sixtyfour Convergence",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "math", "symbols"],
+    "version": "v5",
+    "lastModified": "2025-09-08",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/sixtyfourconvergence/v5/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102hotkk3grz3g.ttf"
+    },
+    "category": "monospace",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/sixtyfourconvergence/v5/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102topulw.ttf",
+    "colorCapabilities": ["COLRv1"]
   },
   {
     "family": "Moulpali",
@@ -35199,19 +35199,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritedkuloopetguides/v1/WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHkFb4Vf.ttf"
   },
   {
-    "family": "Playwrite CU Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOFooIDQtJbok.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCCQ.ttf"
-  },
-  {
     "family": "Playwrite NZ Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -35223,6 +35210,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritenzguides/v1/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71ah47rw.ttf"
+  },
+  {
+    "family": "Playwrite CU Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOFooIDQtJbok.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCCQ.ttf"
   },
   {
     "family": "Playwrite AU NSW Guides",
