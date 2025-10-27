@@ -31701,20 +31701,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGMuhFRg.ttf"
   },
   {
-    "family": "Karla Tamil Upright",
-    "variants": ["regular", "700"],
-    "subsets": ["tamil"],
-    "version": "v2",
-    "lastModified": "2024-10-29",
-    "files": {
-      "700": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS1HfVMk95HnY0u6SeQ_cHoozW_3U5XmK5SoKcPLKclE4o.ttf",
-      "regular": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XoBJ9hK8kMK4.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XkBN3gA.ttf"
-  },
-  {
     "family": "Savate",
     "variants": [
       "200",
@@ -31758,6 +31744,20 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/savate/v5/QdVKSTgjKAqpnvJNP5oQaZzblHkwJbdxdbkDcg.ttf"
+  },
+  {
+    "family": "Karla Tamil Upright",
+    "variants": ["regular", "700"],
+    "subsets": ["tamil"],
+    "version": "v2",
+    "lastModified": "2024-10-29",
+    "files": {
+      "700": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS1HfVMk95HnY0u6SeQ_cHoozW_3U5XmK5SoKcPLKclE4o.ttf",
+      "regular": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XoBJ9hK8kMK4.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XkBN3gA.ttf"
   },
   {
     "family": "Gajraj One",
@@ -35317,19 +35317,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritedkloopetguides/v1/4iC46LlmYsRPlQ1zDEvT8weoW-sI8-h9xxN83W-Cb6tnGFw.ttf"
   },
   {
-    "family": "Playwrite CL Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hrNpVuw5_BAM.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf"
-  },
-  {
     "family": "Playwrite HR Lijeva Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -35341,6 +35328,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwritehrlijevaguides/v1/uU9aCAgH7I63K35cu3bRkqamzjr8EW133LJaXDO-QNbgijw.ttf"
+  },
+  {
+    "family": "Playwrite CL Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hrNpVuw5_BAM.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf"
   },
   {
     "family": "Playwrite ID Guides",
