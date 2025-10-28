@@ -26253,23 +26253,6 @@
     "menu": "https://fonts.gstatic.com/s/alumnisansinlineone/v7/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ETdg.ttf"
   },
   {
-    "family": "Hind Mysuru",
-    "variants": ["300", "regular", "500", "600", "700"],
-    "subsets": ["kannada", "latin", "latin-ext"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "300": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8pppHWQBVTqU4sY.ttf",
-      "500": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8oxpXWQBVTqU4sY.ttf",
-      "600": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8odonWQBVTqU4sY.ttf",
-      "700": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8p5o3WQBVTqU4sY.ttf",
-      "regular": "https://fonts.gstatic.com/s/hindmysuru/v1/syk3-yB3k7wiAJ-U5l_li_LFjFGYLkjj.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/hindmysuru/v1/syk3-yB3k7wiAJ-U5l_li8LEhlU.ttf"
-  },
-  {
     "family": "Noto Serif Khmer",
     "variants": ["regular"],
     "subsets": ["khmer", "latin", "latin-ext"],
@@ -26293,6 +26276,23 @@
         "end": 900
       }
     ]
+  },
+  {
+    "family": "Hind Mysuru",
+    "variants": ["300", "regular", "500", "600", "700"],
+    "subsets": ["kannada", "latin", "latin-ext"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "300": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8pppHWQBVTqU4sY.ttf",
+      "500": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8oxpXWQBVTqU4sY.ttf",
+      "600": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8odonWQBVTqU4sY.ttf",
+      "700": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8p5o3WQBVTqU4sY.ttf",
+      "regular": "https://fonts.gstatic.com/s/hindmysuru/v1/syk3-yB3k7wiAJ-U5l_li_LFjFGYLkjj.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/hindmysuru/v1/syk3-yB3k7wiAJ-U5l_li8LEhlU.ttf"
   },
   {
     "family": "Tai Heritage Pro",
@@ -31625,19 +31625,6 @@
     "menu": "https://fonts.gstatic.com/s/notosanskaithi/v23/buEtppS9f8_vkXadMBJJu0tWjLwjciwAcg.ttf"
   },
   {
-    "family": "Noto Sans Runic",
-    "variants": ["regular"],
-    "subsets": ["latin", "latin-ext", "runic"],
-    "version": "v18",
-    "lastModified": "2025-09-11",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosansrunic/v18/H4c_BXWPl9DZ0Xe_nHUaus7W68WWaxpvHtgIYg.ttf"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosansrunic/v18/H4c_BXWPl9DZ0Xe_nHUaus7W68WmahBr.ttf"
-  },
-  {
     "family": "Noto Sans Cypriot",
     "variants": ["regular"],
     "subsets": ["cypriot", "latin", "latin-ext"],
@@ -31649,6 +31636,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanscypriot/v20/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZc.ttf"
+  },
+  {
+    "family": "Noto Sans Runic",
+    "variants": ["regular"],
+    "subsets": ["latin", "latin-ext", "runic"],
+    "version": "v18",
+    "lastModified": "2025-09-11",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosansrunic/v18/H4c_BXWPl9DZ0Xe_nHUaus7W68WWaxpvHtgIYg.ttf"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosansrunic/v18/H4c_BXWPl9DZ0Xe_nHUaus7W68WmahBr.ttf"
   },
   {
     "family": "Noto Sans Psalter Pahlavi",
