@@ -27298,19 +27298,6 @@
     ]
   },
   {
-    "family": "Rubik Microbe",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/rubikmicrobe/v2/UqyWK8oPP3hjw6ANS9rM3PsZcs8aaKgiauE.ttf"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/rubikmicrobe/v2/UqyWK8oPP3hjw6ANS9rM3PsZQs4QbA.ttf"
-  },
-  {
     "family": "Noto Sans NKo Unjoined",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext", "nko"],
@@ -27329,6 +27316,19 @@
         "end": 700
       }
     ]
+  },
+  {
+    "family": "Rubik Microbe",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "cyrillic-ext", "hebrew", "latin", "latin-ext"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/rubikmicrobe/v2/UqyWK8oPP3hjw6ANS9rM3PsZcs8aaKgiauE.ttf"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/rubikmicrobe/v2/UqyWK8oPP3hjw6ANS9rM3PsZQs4QbA.ttf"
   },
   {
     "family": "Noto Serif Vithkuqi",
@@ -29187,26 +29187,6 @@
     "colorCapabilities": ["COLRv1"]
   },
   {
-    "family": "Playpen Sans Thai",
-    "variants": ["regular"],
-    "subsets": ["emoji", "latin", "latin-ext", "math", "thai"],
-    "version": "v8",
-    "lastModified": "2025-09-10",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playpensansthai/v8/VdGEAYIdG5kSgHwmKT9wYu2rs0cBsvWGzr8C7vav.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playpensansthai/v8/VdG3AYIdG5kSgHwmKT9wYu2rs0cBsu-N7E_aclWp2hxLghC_ohZE.ttf",
-    "axes": [
-      {
-        "tag": "wght",
-        "start": 100,
-        "end": 800
-      }
-    ]
-  },
-  {
     "family": "Savate",
     "variants": ["regular", "italic"],
     "subsets": ["latin", "latin-ext"],
@@ -29224,6 +29204,26 @@
         "tag": "wght",
         "start": 200,
         "end": 900
+      }
+    ]
+  },
+  {
+    "family": "Playpen Sans Thai",
+    "variants": ["regular"],
+    "subsets": ["emoji", "latin", "latin-ext", "math", "thai"],
+    "version": "v8",
+    "lastModified": "2025-09-10",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playpensansthai/v8/VdGEAYIdG5kSgHwmKT9wYu2rs0cBsvWGzr8C7vav.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playpensansthai/v8/VdG3AYIdG5kSgHwmKT9wYu2rs0cBsu-N7E_aclWp2hxLghC_ohZE.ttf",
+    "axes": [
+      {
+        "tag": "wght",
+        "start": 100,
+        "end": 800
       }
     ]
   },
@@ -32558,19 +32558,6 @@
     "menu": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwaYUaH.ttf"
   },
   {
-    "family": "Playwrite FR Moderne Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v2",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP22HnIzLvrG2fw.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP223nYbP.ttf"
-  },
-  {
     "family": "Playwrite IT Moderna Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32582,6 +32569,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteitmodernaguides/v1/2sDKZHBJg5rCj6fz_QgDJhGcTtJ5AVu-1w5jRQjRv9q_pe9p.ttf"
+  },
+  {
+    "family": "Playwrite FR Moderne Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v2",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP22HnIzLvrG2fw.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP223nYbP.ttf"
   },
   {
     "family": "Playwrite IT Trad Guides",
@@ -32845,19 +32845,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritehrguides/v1/6NUK8EedKwOcfRjj8ukv_L4kjqAoGrjdamE-9g.ttf"
   },
   {
-    "family": "Playwrite ZA Guides",
-    "variants": ["regular"],
-    "subsets": ["latin"],
-    "version": "v1",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk2HDoCLfQmgE.ttf"
-    },
-    "category": "handwriting",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk6HHiDA.ttf"
-  },
-  {
     "family": "Playwrite AU SA Guides",
     "variants": ["regular"],
     "subsets": ["latin"],
@@ -32869,6 +32856,19 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAojckOOw.ttf"
+  },
+  {
+    "family": "Playwrite ZA Guides",
+    "variants": ["regular"],
+    "subsets": ["latin"],
+    "version": "v1",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk2HDoCLfQmgE.ttf"
+    },
+    "category": "handwriting",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk6HHiDA.ttf"
   },
   {
     "family": "Playwrite AT Guides",
