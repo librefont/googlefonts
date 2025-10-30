@@ -32561,20 +32561,6 @@
     "menu": "https://fonts.gstatic.com/s/playwritept/v10/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDiffNnvw.woff2"
   },
   {
-    "family": "Blaka Ink",
-    "variants": ["regular"],
-    "subsets": ["arabic", "latin", "latin-ext"],
-    "version": "v10",
-    "lastModified": "2025-05-30",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/blakaink/v10/AlZy_zVVtpj22Znag2chcHf4XB0Tow.woff2"
-    },
-    "category": "display",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/blakaink/v10/AlZy_zVVtpj22Znag2cRdH35.woff2",
-    "colorCapabilities": ["COLRv1", "SVG"]
-  },
-  {
     "family": "Edu AU VIC WA NT Arrows",
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext"],
@@ -32589,6 +32575,20 @@
     "category": "handwriting",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/eduauvicwantarrows/v4/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvRTDM8.woff2"
+  },
+  {
+    "family": "Blaka Ink",
+    "variants": ["regular"],
+    "subsets": ["arabic", "latin", "latin-ext"],
+    "version": "v10",
+    "lastModified": "2025-05-30",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/blakaink/v10/AlZy_zVVtpj22Znag2chcHf4XB0Tow.woff2"
+    },
+    "category": "display",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/blakaink/v10/AlZy_zVVtpj22Znag2cRdH35.woff2",
+    "colorCapabilities": ["COLRv1", "SVG"]
   },
   {
     "family": "Noto Sans Medefaidrin",
@@ -34462,19 +34462,6 @@
     "menu": "https://fonts.gstatic.com/s/yujihentaiganaakebono/v15/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wTy8PqQ.woff2"
   },
   {
-    "family": "Noto Sans Caucasian Albanian",
-    "variants": ["regular"],
-    "subsets": ["caucasian-albanian", "latin", "latin-ext"],
-    "version": "v19",
-    "lastModified": "2025-09-16",
-    "files": {
-      "regular": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v19/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXrYXmoVmRSZo.woff2"
-    },
-    "category": "sans-serif",
-    "kind": "webfonts#webfont",
-    "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v19/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHsoA.woff2"
-  },
-  {
     "family": "Noto Sans Hatran",
     "variants": ["regular"],
     "subsets": ["hatran", "latin", "latin-ext"],
@@ -34486,6 +34473,19 @@
     "category": "sans-serif",
     "kind": "webfonts#webfont",
     "menu": "https://fonts.gstatic.com/s/notosanshatran/v17/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49rg.woff2"
+  },
+  {
+    "family": "Noto Sans Caucasian Albanian",
+    "variants": ["regular"],
+    "subsets": ["caucasian-albanian", "latin", "latin-ext"],
+    "version": "v19",
+    "lastModified": "2025-09-16",
+    "files": {
+      "regular": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v19/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXrYXmoVmRSZo.woff2"
+    },
+    "category": "sans-serif",
+    "kind": "webfonts#webfont",
+    "menu": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v19/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHsoA.woff2"
   },
   {
     "family": "Playwrite DE VA",
