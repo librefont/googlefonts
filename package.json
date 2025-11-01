@@ -28,13 +28,13 @@
   },
   "homepage": "https://github.com/librefont/googlefonts#readme",
   "devDependencies": {
-    "@biomejs/biome": "1.8.1",
+    "@biomejs/biome": "1.9.4",
     "@funish/githooks": "edge",
     "@funish/githooks-config": "edge",
     "@funish/lint": "edge",
-    "@types/node": "20.14.5",
-    "prettier": "3.3.2",
+    "@types/node": "20.19.24",
+    "prettier": "3.6.2",
     "unbuild": "2.0.0"
   },
-  "packageManager": "pnpm@9.4.0"
+  "packageManager": "pnpm@9.15.9"
 }
